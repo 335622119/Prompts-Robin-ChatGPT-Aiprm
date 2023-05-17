@@ -2,7 +2,7 @@
 # 提示词罗宾 Prompts Robin - 3000+ Prompts for ChatGPT   🤖 
 
 
-[English](./README.md) / 🇭🇰🇹🇼🇲🇴 繁体中文 / 🇨🇳 [简体中文](./README_CN.md)
+[English](./README.md) / 🇭🇰🇹🇼🇲🇴 [繁体中文](./README_TW.md) / 🇨🇳 简体中文
 
 欢迎来到“Prompts Robin - 3000+ Prompts for ChatGPT”！
 
