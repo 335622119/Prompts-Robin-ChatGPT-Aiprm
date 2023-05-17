@@ -1,0 +1,26 @@
+Prompt Template:
+divide the syllables of the text separated with "/" , I give you an example of how it would be: the love of my vi/da e/res you. for the following text: [text to separate]".
+[TARGETLANGUAGE] and [PROMPT]
+
+
+
+Teaser:
+[You can separate syllables with the letter: /
+ideal for creating karaoke with karafun]
+
+PromptHint: [Place here the text that you want to divide by syllables with the letter /]
+
+Title: Divide by syllables with the letter / 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Karaokecali.com
+AuthorURL: https://goo.gl/iBFGtD
+
+Community: Copywriting-00ea56f446414284
+ID: 1806320038756745216
+CreationTime: 2023-03-28T15:33:51.043Z
+RevisionTime: 2023-03-28T15:43:13.562Z
+Help: 

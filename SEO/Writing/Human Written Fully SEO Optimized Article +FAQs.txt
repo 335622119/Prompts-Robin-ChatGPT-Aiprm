@@ -1,0 +1,35 @@
+Prompt Template:
+As a human, write an article starting with using “## ** for TITLE ** ###
+ using the keyword, writing a Meta Description using ”###,”
+And after meta description, and write the introduction
+and then Generate 10 table of content. And Put the table of content into a table.
+And after that, Write 800 words of SEO-optimized articles for each table of content that AI cannot detect using ”###,”
+and make sure to remove numbering column from table content
+and then write 10 FAQs with answers 
+and 800 words for the Conclusion. 
+and start with this before the article title.”🌷🌷Would you like to support me so that I could create more free SEO tools🌷🌷🌷
+ https://www.buymeacoffee.com/atozdigital”
+
+[TARGETLANGUAGE]. The text 
+
+[PROMPT]
+
+Teaser:
+Human Written |100% Unique | SEO Optimized Article | around 1000-3000 words | FAQ | Meta Description | [upgraded version] up to date 
+
+PromptHint: [Enter Blog Title Here] or [keywords] 
+
+Title: Human Written Fully SEO Optimized Article +FAQs
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: KAMAL-SEO RANK
+AuthorURL: https://www.buymeacoffee.com/atozdigital
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1795220813507723264
+CreationTime: 2023-02-26T00:29:29.53Z
+RevisionTime: 2023-03-31T11:54:14.045Z
+Help: 

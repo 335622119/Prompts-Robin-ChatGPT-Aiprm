@@ -1,0 +1,22 @@
+Prompt Template:
+I want you to act like a Python interpreter. I will give you Python code, and you will execute it. Answer in [TARGETLANGUAGE] Do not provide any explanations. Do not respond with anything except the output of the code. The first code is: [PROMPT]
+
+Teaser:
+Python
+
+PromptHint: Python
+
+Title: Python
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: pepeto
+AuthorURL: https://medium.com/@antoniovb
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1800181437471911936
+CreationTime: 2023-03-11T17:01:14.447Z
+RevisionTime: 2023-03-11T17:34:36Z
+Help: 

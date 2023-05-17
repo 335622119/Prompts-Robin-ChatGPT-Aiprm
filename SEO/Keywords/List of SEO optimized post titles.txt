@@ -1,0 +1,23 @@
+Prompt Template:
+Please create a list of SEO optimized questions based on the following keywords in [TARGETLANGUAGE] and output them into a single column markdown table. 
+[PROMPT]
+
+Teaser:
+Create a of SEO optimized post titles
+
+PromptHint: [your list of keywords, maximum 8000]
+
+Title: List of SEO optimized post titles
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Philippe Trounev
+AuthorURL: https://www.linkedin.com/in/philippetrounev/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1795871805043642368
+CreationTime: 2023-02-27T19:36:18.007Z
+RevisionTime: 2023-02-27T19:36:18.007Z
+Help: 

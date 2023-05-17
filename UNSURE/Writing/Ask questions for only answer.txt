@@ -1,0 +1,23 @@
+Prompt Template:
+I am gonna ask you some questions and answers Just tell me only what the answer for that questions do not tell me more than then answer
+[TARGETLANGUAGE] and [PROMPT]
+
+Teaser:
+Ask questions for only answer
+
+PromptHint: Ask questions for only answer
+
+Title: Ask questions for only answer
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: caesar
+AuthorURL: https://example.com/
+
+Community: Unsure-f69c57b424376b23
+ID: 1818345088242413568
+CreationTime: 2023-04-30T19:57:06.255Z
+RevisionTime: 2023-04-30T19:57:06.255Z
+Help: 

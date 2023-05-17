@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE]. I want you  [PROMPT] to expand on a specific topic/context, explain in more depth, use these keywords
+
+Teaser:
+Expand on and explain [specific topic/context] in more depth including keywords [keywords].
+
+PromptHint: [specific topic/context] [keywords]
+
+Title: Expand on and explain a specific topic/context
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Nick Karvounis
+AuthorURL: https://www.agilebusinessplanning.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1794810907025735680
+CreationTime: 2023-02-24T21:20:40.209Z
+RevisionTime: 2023-02-24T21:37:06Z
+Help: 

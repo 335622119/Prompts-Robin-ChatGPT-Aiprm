@@ -1,0 +1,22 @@
+Prompt Template:
+I want you to act as an essay writer. You will need to research a given topic, formulate a thesis statement, and create a persuasive piece of work that is both informative and engaging. My first suggestion request is [Type of Essay] [PROMPT].[TARGETLANGUAGE].
+
+Teaser:
+This prompt allows you to write a unique and plagrism free essay by entering one word.
+
+PromptHint: [Type] [Essay Topic] [Language]
+
+Title: Essay Writing
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Abuzar Ghaffari
+AuthorURL: https://www.facebook.com/IAbuzarGhaffari/
+
+Community: Copywriting-00ea56f446414284
+ID: 1800449436246335488
+CreationTime: 2023-03-12T10:46:10.334Z
+RevisionTime: 2023-03-13T16:25:00Z
+Help: 

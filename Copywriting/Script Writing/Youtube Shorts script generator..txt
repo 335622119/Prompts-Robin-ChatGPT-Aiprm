@@ -1,0 +1,22 @@
+Prompt Template:
+Crie um roteiro em de vídeo ironico com ideias de imagens engraçadas para o YouTube Shorts a partir da seguinte descrição: [PROMPT]. Crie esse roteiro em [TARGETLANGUAGE].
+
+Teaser:
+Create Youtube Shorts scripts for your Humor Channel.
+
+PromptHint: [keyword]
+
+Title: Youtube Shorts script generator. 
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: Luckw0
+AuthorURL: https://youtube.com/@luckw0
+
+Community: Copywriting-00ea56f446414284
+ID: 1802020885356605440
+CreationTime: 2023-03-16T18:50:32.998Z
+RevisionTime: 2023-03-16T18:56:11Z
+Help: 

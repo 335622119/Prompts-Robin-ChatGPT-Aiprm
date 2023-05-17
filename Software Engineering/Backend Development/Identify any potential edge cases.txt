@@ -1,0 +1,22 @@
+Prompt Template:
+[PROMPT]Identify any potential edge cases or scenarios that may cause the code to fail or produce unexpected results, and suggest solutions or improvements to address these issues.  [TARGETLANGUAGE] 
+
+Teaser:
+Identify any potential edge cases or scenarios that may cause the code to fail or produce unexpected results, and suggest solutions or improvements to address these issues [KEYWORD]
+
+PromptHint: [Enter code here]
+
+Title: Identify any potential edge cases
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: Ashfaq
+AuthorURL: http://google.com
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1818413528001015808
+CreationTime: 2023-05-01T00:29:03.565Z
+RevisionTime: 2023-05-01T00:29:03.565Z
+Help: 

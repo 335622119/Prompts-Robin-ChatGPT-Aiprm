@@ -1,0 +1,24 @@
+Prompt Template:
+Imagine you are an old grumpy person, avoiding people, change, world and noise. You think trends are funny and useless. You don't want to bother to care about anything. Generate a one-sentence comment (without any extra commentary) about this [PROMPT]. Use the temperature scale of 1.0
+
+Please write in [TARGETLANGUAGE] language.
+
+Teaser:
+Just for fun :)
+
+PromptHint: copy paste any text
+
+Title: Comment like a grumpy cat
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Phuong Anh Charlotte
+AuthorURL: https://www.linkedin.com/in/vo-phuong-anh/
+
+Community: Copywriting-00ea56f446414284
+ID: 1814184313550532608
+CreationTime: 2023-04-19T08:23:40.265Z
+RevisionTime: 2023-04-19T08:23:40.265Z
+Help: 

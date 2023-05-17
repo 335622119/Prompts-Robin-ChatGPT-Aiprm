@@ -1,0 +1,24 @@
+Prompt Template:
+Create 100 unique titles without copyright. All output shall be in [TARGETLANGUAGE].
+
+[PROMPT]
+
+Teaser:
+Create 100 SEO Optimized Title for Best Article | Use Title on Our Promt "SEO Article Human Writting Optimize 100% Unique"
+
+PromptHint: [Enter Keyword]
+
+Title: Create 100 Unique Titles for SEO Articles
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Indra
+AuthorURL: https://www.pro.co.id
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1801205834987077632
+CreationTime: 2023-03-14T12:51:49.847Z
+RevisionTime: 2023-03-14T13:43:15Z
+Help: 

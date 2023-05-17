@@ -1,0 +1,23 @@
+Prompt Template:
+Your task is to give the country or state if the code or area code given. Or if the country is given write the  country or area code for that. And always add a plus or + for a code [TARGETLANGUAGE]. 
+[PROMPT]
+
+Teaser:
+Know which country is for that code. Or Know the area or country code of that country.
+
+PromptHint: [Enter the country Or area Code with a +]
+
+Title: See Country or State Or area Code
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Ismail Crat
+AuthorURL: https://www.cratslist.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1814033180270006272
+CreationTime: 2023-04-18T22:23:07.283Z
+RevisionTime: 2023-04-18T22:40:48.988Z
+Help: 

@@ -1,0 +1,25 @@
+Prompt Template:
+Proofread this in a compassionate way like a friendly customer service representative, improving clarity and flow: "[PROMPT]". Write in [TARGETLANGUAGE]
+
+
+
+
+Teaser:
+Proofread your content in a compassionate way like a friendly customer service representative, also improve clarity and flow.
+
+PromptHint: Input your content here
+
+Title: Proofread and rewrite like a friendly customer support
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: TheYoloGeek
+AuthorURL: https://twitter.com/TheYoloGeek
+
+Community: Copywriting-00ea56f446414284
+ID: 1791944822618320896
+CreationTime: 2023-02-16T23:31:52.437Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

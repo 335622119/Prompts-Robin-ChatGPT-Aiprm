@@ -1,0 +1,26 @@
+Prompt Template:
+you will recognize question and answer level
+[TARGETLANGUAGE] is help you understand age and education level think 
+[PROMPT] 
+
+Teaser:
+write [] like level of elementary school, middle school, high school,  undergraduate school , graduate Schools
+
+
+
+PromptHint: [write what you want]
+
+Title: level
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Si
+AuthorURL: https://chat.openai.com/chat#
+
+Community: Copywriting-00ea56f446414284
+ID: 1795059675025367040
+CreationTime: 2023-02-25T13:49:11.122Z
+RevisionTime: 2023-02-25T13:52:32Z
+Help: 

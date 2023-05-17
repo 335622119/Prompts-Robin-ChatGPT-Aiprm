@@ -1,0 +1,26 @@
+Prompt Template:
+write ranking Seo friendly  [TARGETLANGUAGE]  Amazon product review 1000 words article for affiliate Marketing, Add all tags:
+
+ [PROMPT]
+
+
+
+Teaser:
+SEO friendly Amazon Product Review Article
+
+PromptHint: Product Name 
+
+Title: Amazon Review Article For Affiliate Marketing 
+
+Topic: Copywriting
+
+Activity: Products
+
+AuthorName: VO
+AuthorURL: http://bit.ly/3KcTPXa
+
+Community: Copywriting-00ea56f446414284
+ID: 1793082059028430848
+CreationTime: 2023-02-20T02:50:50.726Z
+RevisionTime: 2023-02-20T02:56:19Z
+Help: 

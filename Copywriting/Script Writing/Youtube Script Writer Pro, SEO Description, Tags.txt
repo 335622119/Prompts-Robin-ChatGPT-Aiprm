@@ -1,0 +1,26 @@
+Prompt Template:
+Act as a creative script writer and Create an astonishing, compelling and engaging video script, and for a YouTube video script with an appropriate and attention-grabbing clickbait intro, then a main body with explanation and answer the keyword  and then an outro using the given "[PROMPT]" in [TARGETLANGUAGE]. Please also provide 5 creative ideas for an appropriate clickbait YouTube title. Please also write description for this video keeping SEO factors in mind.
+ Please also provide high-converting tags for the video according to the "[PROMPT]" and description.
+Write 4 hashtags related to "[PROMPT]" and description 
+
+
+
+Teaser:
+Write Your Keyword To Get an Amazing Youtube Video Script with Intro & Outro, Title & Tags, SEO Description
+
+PromptHint: [Keyword or Title]
+
+Title: Youtube Script Writer Pro, SEO Description, Tags 
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: Umar Marketer 
+AuthorURL: https://www.linkedin.com/in/umar-marketer
+
+Community: Copywriting-00ea56f446414284
+ID: 1805857640241426432
+CreationTime: 2023-03-27T08:56:26.646Z
+RevisionTime: 2023-03-29T18:27:38.336Z
+Help: 

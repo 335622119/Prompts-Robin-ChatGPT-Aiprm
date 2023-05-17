@@ -1,0 +1,22 @@
+Prompt Template:
+Write unique authority content for LinkedIn posts in [TARGETLANGUAGE] for [PROMPT]
+
+Teaser:
+Create Authority Content for LinkedIn Post
+
+PromptHint: [Topic you want the post to be about]
+
+Title: LinkedIn Authority Content
+
+Topic: UNSURE
+
+Activity: Design
+
+AuthorName: Ayoade Oketona
+AuthorURL: https://ayoade.webflow.io
+
+Community: Unsure-f69c57b424376b23
+ID: 1799744300406534144
+CreationTime: 2023-03-10T12:04:12.849Z
+RevisionTime: 2023-03-18T11:44:46Z
+Help: 

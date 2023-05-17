@@ -1,0 +1,22 @@
+Prompt Template:
+Your task is to provide a list of at least 10 blog topics that would encourage the reader to buy [PROMPT]. All output shall be in [TARGETLANGUAGE].
+
+Teaser:
+Generate blog topics with intent to sell
+
+PromptHint: [Keyword]
+
+Title: Generate Commercial Blog Topics
+
+Topic: Marketing
+
+Activity: Research
+
+AuthorName: Ben Lohrding
+AuthorURL: https://www.rocket55.com/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1806049179756392448
+CreationTime: 2023-03-27T21:37:33.225Z
+RevisionTime: 2023-03-27T21:43:17.525Z
+Help: 

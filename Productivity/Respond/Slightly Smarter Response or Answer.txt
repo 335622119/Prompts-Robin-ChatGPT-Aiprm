@@ -1,0 +1,23 @@
+Prompt Template:
+[PROMPT]
+Let's work this out in a step by step way to be sure we have the right answer. Respond in [TARGETLANGUAGE]
+
+Teaser:
+Give better answer. Improve chatgpt reasoning accuracy by going step by step
+
+PromptHint: [just prompt like you always do]
+
+Title: Slightly Smarter Response / Answer
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: Anshler
+AuthorURL: https://www.facebook.com/anshler
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1821116450795151360
+CreationTime: 2023-05-08T11:29:30.577Z
+RevisionTime: 2023-05-08T11:59:53.993Z
+Help: 

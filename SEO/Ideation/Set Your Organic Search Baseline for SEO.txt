@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to generate keywords, I give you 20 words or a maximum of 130 characters. All output shall be in [TARGETLANGUAGE]. The text keyword ranking is this:
+
+[PROMPT]
+
+Teaser:
+Set Your Organic Search Baseline. SEO is all about improving your website's search engine ranking.
+
+PromptHint: [Set Your Organic Search Baseline]
+
+Title: Set Your Organic Search Baseline for SEO
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Nextprotrader
+AuthorURL: https://nextprotrader.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1794414287238991872
+CreationTime: 2023-02-23T19:04:38.683Z
+RevisionTime: 2023-02-23T19:04:38.683Z
+Help: 

@@ -1,0 +1,23 @@
+Prompt Template:
+Think of yourself as Haruki Murakami, the Japanese author. I want you to write an article on this keyword/topic: [PROMPT]
+Do not reply with a thank you or an excuse. Reply in [TARGETLANGUAGE] language only. Write in the style of Haruki Murakami. Weave the topic/keyword into stories together.
+
+Teaser:
+Get anything written in the style of world's best author, Haruki Murakami
+
+PromptHint: Type in a keyword or a topic
+
+Title: Get anything written by Haruki Murakami
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Apoorv
+AuthorURL: http://apoorvshrm.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1796606012258770944
+CreationTime: 2023-03-01T20:13:46.648Z
+RevisionTime: 2023-03-01T20:13:46.648Z
+Help: 

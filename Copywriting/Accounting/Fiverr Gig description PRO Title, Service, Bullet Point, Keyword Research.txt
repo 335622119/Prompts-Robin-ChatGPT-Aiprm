@@ -1,0 +1,25 @@
+Prompt Template:
+You write a Fiverr Gig description 850 Word and Bold attraction Word. include Gig Title, 5 SEO Keyword For Gig, Attraction description, Short feature bullet point, Why is my service good?, My SEO services include:, Short Attractive description, contact me before Order 
+[TARGETLANGUAGE]. The sentence to summarize is this.
+
+[PROMPT]
+
+Teaser:
+PRO Fiverr Gig description Writer:  Just a Click Write Professional Fiverr Gig description and 5 Keyword!
+
+PromptHint: [ONLY KEYWORD]
+
+Title: Fiverr Gig description PRO: Title, Service, Bullet Point, Keyword Research
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Saddam Sir
+AuthorURL: https://www.freelancingit.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1786486706451771392
+CreationTime: 2023-02-01T22:03:16.136Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

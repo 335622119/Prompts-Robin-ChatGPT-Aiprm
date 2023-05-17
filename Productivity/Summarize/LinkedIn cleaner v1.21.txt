@@ -1,0 +1,26 @@
+Prompt Template:
+Write in [TARGETLANGUAGE], Please clean up the following data by listing each entry like this:
+Job title - Company name - Year from - Year to. 
+Sort them in chronological order from newest to oldest. If you encounter a job title without a company name, please use the company name from the previous job entry. Please present the cleaned-up data in a markup box format.
+The data is: [PROMPT]
+
+Teaser:
+This prompt saves you the hassle of cleaning up your LinkedIn career or education history data when copied from an experience page on LinkedIn.
+
+
+PromptHint: Paste your LinkedIn career or education history data here!
+
+Title: LinkedIn cleaner v1.21
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Aubs
+AuthorURL: https://aubs.digital/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1806965217188634624
+CreationTime: 2023-03-30T10:17:33.568Z
+RevisionTime: 2023-04-13T14:06:04.128Z
+Help: 

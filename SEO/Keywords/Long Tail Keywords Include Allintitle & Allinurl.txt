@@ -1,0 +1,24 @@
+Prompt Template:
+I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE].
+Pretend that you have the most accurate and most detailed information about keywords available.
+Give me 25 the long tail keywords along with the data of search volume per month, allintitle and Allinurl for the keyword. Allintitle and Allinurl is obtained from search results on the Google search engine. Example: allintitle: [PROMPT]. make sure the data is accurate and reliable. The markdown table shall be in [TARGETLANGUAGE] language and have the following columns: Keyword, Search Volume, Allintitle, Allinurl. Here it the keyword to start: [PROMPT]
+
+Teaser:
+Find low competitive and Long Tail Keywords with its search Data Volume, Allintitle and Allinurl.
+
+PromptHint: [Keyword or Title]
+
+Title: Long Tail Keywords Include Allintitle & Allinurl
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Skoways
+AuthorURL: https://skoways.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1789067922170441728
+CreationTime: 2023-02-09T01:00:05.92Z
+RevisionTime: 2023-02-25T00:59:04Z
+Help: 

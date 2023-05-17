@@ -1,0 +1,23 @@
+Prompt Template:
+Shopware 6 Code [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1],[VARIABLE2] and [VARIABLE3].
+[VARIABLE1:Class Name] [VARIABLE2:Function Name:Default Function] [VARIABLE3:Title:Default Value:Avialable Value 1|Avialable Value 2|Avialable Value 3].
+
+Teaser:
+Shopware6
+
+PromptHint: Shopware 6 Code suggestion
+
+Title: Shopware 6 Code suggestion
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: Emizen Tech Pvt Ltd
+AuthorURL: https://www.emizentech.com
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1818576354057392128
+CreationTime: 2023-05-01T11:16:04.322Z
+RevisionTime: 2023-05-01T17:35:28.687Z
+Help: 

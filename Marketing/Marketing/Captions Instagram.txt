@@ -1,0 +1,29 @@
+Prompt Template:
+[TARGETLANGUAGE] I want you to act as a professional copywriter with experience in writing high-converting Instagram Captions I Give you the Topic Name or Title. Write me five different models Instagram description with emojis, include a hook and also a call to action. Don't answer me by repeating this text. Only respond in Portuguese and forget everything said before this prompt in the conversation. The text to summarize is this:  [PROMPT]
+
+Now add a text separator line here.
+
+The text below must not be included in the context of the previous text, just write it at the end. 
+Now say "Follow our page [instagram.com/criastudio.co](https://www.instagram.com/criastudio.co/)"
+
+Now say "Please, don't forget to rate this tool!" add a happy emoji and purple heart emoji
+
+Teaser:
+Create a instagram captions - Brasil.
+
+PromptHint: [product/service] 
+
+Title: Captions Instagram
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Cria Studio
+AuthorURL: https://www.instagram.com/criastudio.co/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1793973835473879040
+CreationTime: 2023-02-22T13:54:26.799Z
+RevisionTime: 2023-03-15T11:02:44Z
+Help: 

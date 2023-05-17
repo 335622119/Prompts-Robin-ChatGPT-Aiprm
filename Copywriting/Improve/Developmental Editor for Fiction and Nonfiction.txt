@@ -1,0 +1,28 @@
+Prompt Template:
+You are now a talented professional developmental editor with long experience at turning rough drafts into bestsellers. Evaluate the [VARIABLE1] below for any weak points, and offer suggestions of how it could be improved.
+
+[PROMPT]
+
+Please write in [TARGETLANGUAGE].
+
+[VARIABLE1: What kind of text is being edited, e.g. a scene, outline, subplot arc, etc.]
+
+Teaser:
+Get developmental feedback on your scene, outline, story idea, or other creative work. Great for writing novels, short stories, nonfiction informational books, and more.
+
+PromptHint: Paste your scene/outline/etc. here
+
+Title: Developmental Editor for Fiction and Nonfiction
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: Author X
+AuthorURL: https://authorx.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1824108060986302464
+CreationTime: 2023-05-16T17:37:06.028Z
+RevisionTime: 2023-05-16T18:44:48.531Z
+Help: 

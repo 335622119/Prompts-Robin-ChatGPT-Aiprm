@@ -1,0 +1,23 @@
+Prompt Template:
+Scan through the article [PROMPT] and select one keyword [TARGETLANGUAGE] that runs through all the text [PROMPT]. This keyword [TARGETLANGUAGE] should be selected based on the main idea with which the article [PROMPT] was written with. 
+Whilst selecting this one keyword [TARGETLANGUAGE], be sure to go through the entire document [PROMPT] and select the one keyword [TARGETLANGUAGE] which that article is likely to rank for on google. 
+
+Teaser:
+Extract ranking keywords from your article 
+
+PromptHint: Post your article here
+
+Title: Keyword Extractor
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Kwamina Dextro
+AuthorURL: https://healthtitbits.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1788656602396749824
+CreationTime: 2023-02-07T21:45:39.644Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

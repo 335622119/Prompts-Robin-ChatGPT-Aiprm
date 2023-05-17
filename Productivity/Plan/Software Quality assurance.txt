@@ -1,0 +1,22 @@
+Prompt Template:
+ [TARGETLANGUAGE],[PROMPT],[Spanish], [Software Quality assurance]
+
+Teaser:
+[Software Quality assurance]
+
+PromptHint: Write
+
+Title: Software Quality assurance
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Isis Alejos
+AuthorURL: https://ai-qa.com/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1814004369365135360
+CreationTime: 2023-04-18T20:28:38.228Z
+RevisionTime: 2023-04-18T20:35:06.938Z
+Help: 

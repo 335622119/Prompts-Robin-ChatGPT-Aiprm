@@ -1,0 +1,31 @@
+Prompt Template:
+I want you to act as an expert amazon copywriter with 20 years of SEO experience and speaks and writes fluent [TARGETLANGUAGE]. 
+
+Create 3 headline, 3 sub headlines and a 500 characters description about the given subject. They need to be a good fit for an amazon listing product. 
+
+The results must be 100% human writing style and fix grammar errors like Grammarly.com
+
+Please make sure you respect this information very strictly and the description does not exceed 500 characters.
+
+You will take your information from here:
+[PROMPT]
+
+Teaser:
+Create A+ Content Copywriting for a Module
+
+PromptHint: Subject
+
+Title: Amazon Copywriting | A+ Content Copywriting
+
+Topic: Copywriting
+
+Activity: Product Description
+
+AuthorName: RazvanDita-LinkedIn
+AuthorURL: https://www.linkedin.com/in/dita-razvan/
+
+Community: Copywriting-00ea56f446414284
+ID: 1813847868201766912
+CreationTime: 2023-04-18T10:06:45.443Z
+RevisionTime: 2023-04-18T10:15:19.495Z
+Help: 

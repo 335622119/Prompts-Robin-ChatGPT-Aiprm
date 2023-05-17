@@ -1,0 +1,23 @@
+Prompt Template:
+Please translate the following English content [PROMPT] into [TARGETLANGUAGE]. You must ensure accuracy and fluency in the translation, while understanding the meaning and context of the original text. If encountering professional terminology or fixed phrases, please find the correct [TARGETLANGUAGE] counterpart to fully retain the information of the original text.The English content to translate is this:
+[PROMPT] 
+
+Teaser:
+This is a template for requesting accurate translation of English content into [TARGET LANGUAGE]. The template provides relevant requirements, including ensuring the accuracy and fluency of the translation, and understanding the meaning and context of the original text. If encountering professional terminology or fixed phrases, the correct [TARGETLANGUAGE] counterpart must be found to fully retain the information of the original text.
+
+PromptHint: [English content]
+
+Title: Translation of Terminology
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: 大高千
+AuthorURL: https://www.bio.ncku.edu.tw/
+
+Community: Copywriting-00ea56f446414284
+ID: 1821864011596296192
+CreationTime: 2023-05-10T13:00:02.961Z
+RevisionTime: 2023-05-10T13:00:02.961Z
+Help: 

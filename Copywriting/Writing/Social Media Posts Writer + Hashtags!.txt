@@ -1,0 +1,24 @@
+Prompt Template:
+Create 5 social media posts and 4 hashtags in [TARGETLANGUAGE] for each of the keywords in the list here:
+[PROMPT]
+
+Teaser:
+Create 5  ready to go Premium social media posts and 4 hashtags for each of the topics of your keyword list. 
+Enjoy Your Social Media Campaign ..! 
+
+PromptHint: [your list of keywords]
+
+Title: Social Media Posts Writer + Hashtags! 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Daniele Pais
+AuthorURL: https://danielepais.com/journal
+
+Community: Copywriting-00ea56f446414284
+ID: 1802247078706147328
+CreationTime: 2023-03-17T09:49:21.695Z
+RevisionTime: 2023-04-04T02:34:57.66Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Write an SEO article Not less than 1000 words on [PROMPT] with a Hook, introduction and bold the H1, H2 and H3, with the Conclusion . All output shall be in [TARGETLANGUAGE] For more information about us, visit our site at --> https://playgames-id.blogspot.com"
+
+Teaser:
+Write an SEO article Not less than 1000 words
+
+PromptHint: Article Title
+
+Title: Write an SEO article Not less than 1000 words V.2
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Jim Harper
+AuthorURL: https://playgames-id.blogspot.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1791611888677945344
+CreationTime: 2023-02-16T01:28:54.8Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

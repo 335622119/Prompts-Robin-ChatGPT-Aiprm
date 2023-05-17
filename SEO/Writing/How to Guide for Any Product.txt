@@ -1,0 +1,22 @@
+Prompt Template:
+[PROMPT]Write a detailed how-to guide for a product called [Product Name] Include step-by-step instructions and any necessary images or videos. Make sure to highlight the unique features and benefits of the product.[TARGETLANGUAGE]
+
+Teaser:
+Write a detailed how-to guide for a product
+
+PromptHint: How to Guide
+
+Title: How to Guide for Any Product
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Bharat Garachh
+AuthorURL: https://garachh.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1786979254903500800
+CreationTime: 2023-02-03T06:40:28.838Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

@@ -1,0 +1,25 @@
+Prompt Template:
+Your task is to rewrite and summarize the given article within 300 words. All output shall be in 
+[TARGETLANGUAGE]. The text to rewrite and summarize is this:
+
+[PROMPT]
+
+Teaser:
+Rewrite and Summarize the article
+
+PromptHint: Text that you want to summarize and rewrite
+
+Title: Rewrite and Summarize the article
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Jubaer
+AuthorURL: https://jbrhyper.com/?utm_campaign
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1793910765997264896
+CreationTime: 2023-02-22T09:43:49.864Z
+RevisionTime: 2023-02-27T13:19:15Z
+Help: 

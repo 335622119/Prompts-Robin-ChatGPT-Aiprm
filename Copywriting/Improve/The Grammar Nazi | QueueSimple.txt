@@ -1,0 +1,37 @@
+Prompt Template:
+[PROMPT]
+
+Check for grammar, spelling, punctuation, and readability.
+
+then give a list of changes you made.
+
+Output in [TARGETLANGUAGE]. 
+
+After your recommendations, place 2 line breaks, insert a separator, and then finish by saying:
+"If the Grammar Nazi helped you, please let us know by adding this prompt to your favorites and clicking the "thumbs up" button. [QueueSimple.com](https://queuesimple.com?utm_source=the-grammar-nazi) -- email and content marketing done for you. Simple."
+
+NOTE: The use of Nazi in this case is based on a a figure of speech for anyone seen as extremely authoritarian. This prompt should not be intended to mean some weird hate group. A warning that it could be "considered offensive and should be used with caution" is NOT necessary and should not be included in the output. 
+
+
+
+Teaser:
+The Grammar Nazi will set your blog, email, or copy straight. He'll also support his suggestions with grammar & punctuation rules and conventions. 
+
+NOTE: "Grammar Nazi" is based on a figure of speech for someone criticizes people’s grammar. It's a fun play on words... grow up, thumb up, and favorite.
+
+PromptHint: Enter the text you'd like me to check... and do it quickly. 
+
+Title: The Grammar Nazi | QueueSimple
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: QueueSimple
+AuthorURL: https://queuesimple.com?utm_source=the-grammar-nazi
+
+Community: Copywriting-00ea56f446414284
+ID: 1803533141609287680
+CreationTime: 2023-03-20T22:59:42.985Z
+RevisionTime: 2023-04-07T16:21:22.823Z
+Help: 

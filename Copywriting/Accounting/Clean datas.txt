@@ -1,0 +1,23 @@
+Prompt Template:
+Veuillez nettoyer chaque nom de société de la liste suivante en supprimant les formes juridiques (SARL, SELARL, SAS, etc.) et en ne conservant que le nom essentiel de la société. 
+Mettez chaque mot avec le première lettres en majuscule et le reste en minuscule comme dans cet exemple : Nicolas. N'incluez aucun détail supplémentaire tel que des informations sur les services ou les villes. Assurez-vous de n'inclure que le nom de la société. Voici la liste des sociétés dans [PROMPT]. Utilise le [TARGETLANGUAGE]
+
+Teaser:
+Clean datas
+
+PromptHint: Clean datas
+
+Title: Clean datas
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Kahea
+AuthorURL: https://www.kahea.io
+
+Community: Copywriting-00ea56f446414284
+ID: 1817161965102174208
+CreationTime: 2023-04-27T13:35:47.717Z
+RevisionTime: 2023-05-05T10:44:30.316Z
+Help: 

@@ -1,0 +1,23 @@
+Prompt Template:
+I need you to present me a Bible study, with topics, biblical references, biblical examples and practical application in life, on the following topic: [KEYWORD]
+[TARGETLANGUAGE] [PROMPT]
+
+Teaser:
+Get a Bible study, based on the topic you suggest
+
+PromptHint:  Enter one or more topics you want to get your Bible study on:
+
+Title: Creating My Bible Study With Ease
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName:  Bible Lessons
+AuthorURL: https://www.youtube.com/@canallicoesbiblicasadultos457
+
+Community: Copywriting-00ea56f446414284
+ID: 1798884968647360512
+CreationTime: 2023-03-08T03:09:32.192Z
+RevisionTime: 2023-03-12T03:56:03Z
+Help: 

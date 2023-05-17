@@ -1,0 +1,31 @@
+Prompt Template:
+write proposal to apply for this offer [PROMPT]. Make it persuasive and why they should hire me. it must be in this format "Hi! Just read your posting. Sounds like you need an email expert to advise you on a few things… from funnel setup and strategy, to what you should offer to get signups in the first place.
+
+I have a background in funnels and email copywriting and have been doing this for 3 years, including for some other subscription/membership businesses.
+
+I can work with you to come up with a great strategy and high-converting emails to turn your prospects into paying customers. And I can help you get more email signups going into this funnel, too.
+
+If any of the above sounds interesting, let me know when you’d be available to talk this week.
+
+Best regards,
+Biron Clark". All output shall be in  [TARGETLANGUAGE]
+
+Teaser:
+Use this tool to write Cover letter for  upwork. this save you a to of stress
+
+PromptHint: [Select and copy the offer and paste it here]
+
+Title: Upwork Cover Letter Writer
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Lawal Lekan Ridwan
+AuthorURL: https://www.producthunt.com/products/1000-chatgpt-prompts-for-all
+
+Community: Copywriting-00ea56f446414284
+ID: 1783984516277460992
+CreationTime: 2023-01-26T00:20:27.51Z
+RevisionTime: 2023-03-24T14:14:17.467Z
+Help: 

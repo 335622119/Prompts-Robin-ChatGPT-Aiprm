@@ -1,0 +1,22 @@
+Prompt Template:
+explain like im 5 [PROMPT] in [TARGETLANGUAGE]
+
+Teaser:
+explain like you are 5
+
+PromptHint: explain like youre 5
+
+Title: explain like you are 5
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: suryan
+AuthorURL: https://suryan.zerodayone.in
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1821833307961421824
+CreationTime: 2023-05-10T10:58:02.644Z
+RevisionTime: 2023-05-10T10:58:02.644Z
+Help: 

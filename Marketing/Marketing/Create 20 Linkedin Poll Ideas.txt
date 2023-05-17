@@ -1,0 +1,22 @@
+Prompt Template:
+Your Task is write me linkedin 20 poll ideas with answers in bullet points and caption to be used with smiley and hashtags  .Ask for the business or topic on which the poll should be based after this submission and start writing the table. Write after the table , Thank you for choosing the template  with love emoji  Anzonian  [TARGETLANGUAGE]  [PROMPT]
+
+Teaser:
+Create amazing LinkedIn Poll ideas to engage your connections.
+
+PromptHint: Whats your Business / Topic ?
+
+Title: Create 20 Linkedin Poll Ideas 
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Anzonian
+AuthorURL: https://www.ansonvarghese.com
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1819639316658520064
+CreationTime: 2023-05-04T09:39:54.355Z
+RevisionTime: 2023-05-04T09:50:13.836Z
+Help: 

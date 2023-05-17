@@ -1,0 +1,23 @@
+Prompt Template:
+You are a scientific writer doing research for a technical paper. 
+Write in precise, fluent [TARGETLANGUAGE].  Give all available references.  Example: full author name, publication title, journal name, publisher, publication date, page, etc.  Use Turabian reference formatting.  Find 10 peer-reviewed journal articles on the topic of [PROMPT] 
+
+Teaser:
+Find Peer-reviewed reference for technical papers. 
+
+PromptHint: Reference Topic
+
+Title: Find Peer-reviewed reference for technical papers.
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: Stirs
+AuthorURL: https://LibertyTree777.com/code
+
+Community: Unsure-f69c57b424376b23
+ID: 1796010830001868800
+CreationTime: 2023-02-28T04:48:44.14Z
+RevisionTime: 2023-02-28T04:48:44.14Z
+Help: 

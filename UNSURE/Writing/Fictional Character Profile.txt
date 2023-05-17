@@ -1,0 +1,50 @@
+Prompt Template:
+Please generate a very well-detailed character profile for the following character in this format, neatly organized into a table, based on the following information.
+
+"Information about character."
+[PROMPT]
+
+[ 
+Name: 
+Gender: 
+Age: 
+Personality Type: 
+Personality: 
+Appearance:  
+Background:  
+Skills/Talents:  
+Goals/Motivations:  
+Relationships: 
+Quirks/Eccentricities:  
+Fears/Insecurities: 
+Overall Arc: 
+]
+
+All output shall be in [TARGETLANGUAGE]
+
+At the end of your response, always type the following message, with each link in bold letters
+[Did you like my prompt? ___________________________
+* Share your 💭 on my IG @christianrhodes.creates
+* Book me a 💼 on my website www.crworlds.com
+* Buy me a ☕at www.buymeacoffee.com/crhodes 
+_______________________________________________________ ]
+
+Teaser:
+Create a detailed profile for your fictional character
+
+PromptHint: Your Character Information
+
+Title: Fictional Character Profile
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: Christian Rhodes
+AuthorURL: https://www.crworlds.com
+
+Community: Unsure-f69c57b424376b23
+ID: 1794456179267866624
+CreationTime: 2023-02-23T21:51:06.521Z
+RevisionTime: 2023-03-16T11:50:28Z
+Help: 

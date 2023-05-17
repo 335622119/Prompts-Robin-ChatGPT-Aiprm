@@ -1,0 +1,22 @@
+Prompt Template:
+I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend that you know everything about every market also in [TARGETLANGUAGE]. Please list the ten biggest unmet category-related needs in the category of [PROMPT] . By "biggest unmet category-related needs", I mean category-related needs that are shared by many people and where it is hard for them to satisfy that need with the products and services in that category on the market today. Please give each need a catchy title, emoji and give reasons for your answers. All your output shall be in [TARGETLANGUAGE] language.
+
+Teaser:
+Identify unmet audience needs in your category
+
+PromptHint: Name your category in simple but precise language. E.g. “electronic music nightclubs”.
+
+Title: Find unmet needs
+
+Topic: Marketing
+
+Activity: Unmet Category-Related Needs
+
+AuthorName: Prompt.mba
+AuthorURL: https://prompt.mba/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1900100
+CreationTime: 2023-01-23T21:06:38.976Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

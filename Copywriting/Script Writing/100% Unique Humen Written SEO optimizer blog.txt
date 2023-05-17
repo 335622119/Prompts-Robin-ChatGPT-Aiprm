@@ -1,0 +1,23 @@
+Prompt Template:
+your task is to generate a blog of 2500+ words about the given topic name and its totally ranked and SEO based. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+[PROMPT]
+
+Teaser:
+Create a top ranked SEO optimize blog about the given topic with meta keywords.
+
+PromptHint: Human Written | SEO Optimized Article With Proper Outline | Plagiarism Free (2500+ Words) [Upgraded Version]
+
+Title: 100% Unique Humen Written SEO optimizer blog
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: Fawad Anwar
+AuthorURL: https://sparstudios.io/
+
+Community: Copywriting-00ea56f446414284
+ID: 1798110721360527360
+CreationTime: 2023-03-05T23:52:57.254Z
+RevisionTime: 2023-04-14T17:19:46.899Z
+Help: 

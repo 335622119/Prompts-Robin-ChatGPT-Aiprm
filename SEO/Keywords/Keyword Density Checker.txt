@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is check keywords density in given article and make a result for text in percent. In the end add total percent of keywords density in text.All output shall be in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Check keyword density and watery in your article and make it perfect!
+
+PromptHint: [Text]
+
+Title:  Keyword Density Checker
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: SaldoInvoice
+AuthorURL: https://saldoinvoice.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1799758152758202368
+CreationTime: 2023-03-10T12:59:15.507Z
+RevisionTime: 2023-03-15T12:52:23Z
+Help: 

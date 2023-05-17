@@ -1,0 +1,26 @@
+Prompt Template:
+Write a really short facebook post about the following article, use CTA´s and emojis. Write in [TARGETLANGUAGE]. 
+
+Create 3 versions
+
+[PROMPT]  
+
+Teaser:
+Facebook post 
+
+PromptHint: Copy paste article here
+
+Title: Facebook Post
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Mark
+AuthorURL: https://www.hojvig.dk/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1793593184472010752
+CreationTime: 2023-02-21T12:41:52.528Z
+RevisionTime: 2023-04-12T09:02:09.283Z
+Help: 

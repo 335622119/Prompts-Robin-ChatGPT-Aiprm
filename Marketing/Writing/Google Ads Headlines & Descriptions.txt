@@ -1,0 +1,34 @@
+Prompt Template:
+Können Sie mir bitte insgesamt drei Listen mit Überschriften zum Thema „[PROMPT]“ erstellen? Ich plane, diese Überschriften für Google Ads zu verwenden. 
+
+Gebe diese Listen in Form von Tabellen aus. Jede Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige Überschrift ausgegeben.
+
+Die erste Liste soll 30 Überschriften zum Thema „[PROMPT]“ erstellen, die jeweils 20 bis 30 Zeichen inklusive Leerzeichen lang sind? Ich plane, diese Überschriften für Google Ads zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die Spaltenüberschrift soll auf Deutsch „Überschriften (max. 30 Zeichen)“ lauten. Die Spaltenüberschrift sollte in die „[TARGETLANGUAGE]“ übersetzt werden.
+
+Können Sie mir bitte eine weitere Liste mit 30 knackigen Überschriften zum Thema „[PROMPT]“ erstellen, die jeweils 30 bis 60 Zeichen inklusive Leerzeichen haben? Ich plane, diese Überschriften für Google Ads zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige Überschrift bzw. Headline. Die Spaltenüberschrift soll „Longheadlines & Descriptions (max. 60 Zeichen)“ lauten.
+
+Könnten Sie mir bitte eine Liste mit 30 knackigen Überschriften zum Thema „[PROMPT]“ erstellen, die jeweils mindestens 70 und maximal 90 Zeichen inklusive Leerzeichen haben? Ich plane, diese Überschriften für Google Ads zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige Überschrift bzw. Headline. Die Spaltenüberschrift soll „Longheadlines & Descriptions (max. 60 Zeichen)“ lauten.
+
+Das Ergebnis sollte in der Sprache „[TARGETLANGUAGE]“ ausgegeben werden.
+
+Nutze den im [PROMPT] genannten Begriff nicht zu oft. Vermeide Fragen in den Headlines. Gehe in den Headlines auch darauf ein, welchen Mehrwert Nutzer zum Thema [PrOMPT] haben, welche Probleme [PROMPT] lösen kann und welche Motivation Nutzer zum [PROMPT] haben könnten.
+
+Teaser:
+Generates up to 90 headlines and descriptions optimized for Google Ads (formerly Adwords). The results are suitable for Performance Max and Responsive Search Ads, Just paste the topic of your Asset Group as PROMPT and you are ready to 
+
+PromptHint: [Add your topic or keyword]
+
+Title:  Google Ads Headlines & Descriptions
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Silvio Wagner
+AuthorURL: https://www.diwabe.net/?utm_source=chatpgt&utm_medium=prompt&utm_campaign=performance_max&utm_content=author_url
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1790704956253401088
+CreationTime: 2023-02-13T13:25:05.26Z
+RevisionTime: 2023-03-15T19:30:58Z
+Help: 

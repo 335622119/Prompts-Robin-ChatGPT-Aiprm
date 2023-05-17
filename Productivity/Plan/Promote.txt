@@ -1,0 +1,22 @@
+Prompt Template:
+[Promt text including [TARGETLANGUAGE] and [PROMPT]]
+
+Teaser:
+Create a guide to sell monat products
+
+PromptHint: monat products
+
+Title: Promote
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Vanesa
+AuthorURL: http://andreavanesa.mymonat.com
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1796954004249640960
+CreationTime: 2023-03-02T19:16:34.404Z
+RevisionTime: 2023-03-02T19:16:34.404Z
+Help: 

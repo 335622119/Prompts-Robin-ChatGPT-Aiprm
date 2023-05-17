@@ -1,0 +1,24 @@
+Prompt Template:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  I want you to act as a very proficient researcher that can write fluent [TARGETLANGUAGE]. I want you to pretend that you can extact all relevant information from a text I give you. Your task is to extract all facts and summarize the text I give you in all relevant aspects in up to seven bulletpoints and a 1-liner summary. Pick a good matching emoji for every bullet point. End with the 5 most relevant topics as hashtags. All output shall be in [TARGETLANGUAGE]. The text to extract facts from summarize is this:
+
+[PROMPT]
+
+Teaser:
+Extract all facts as emoji bullets and summarize the text given.
+
+PromptHint: [enter text to summarize]
+
+Title: TLDR - Extract facts and summarize
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: AIPRM
+AuthorURL: https://www.aiprm.com/?via=chatgpt&utm_campaign=promptcredits&utm_source=chatgpt&utm_medium=prompt&utm_content=aiprm+for+chatgpt&utm_term=TLDR
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1783773498066604032
+CreationTime: 2023-01-25T10:21:56.848Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

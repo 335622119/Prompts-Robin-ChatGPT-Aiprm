@@ -1,0 +1,26 @@
+Prompt Template:
+act as storyteller of "25 top facts" type of videos and rewrite this script "[PROMPT]"
+
+with point 1 to 25
+
+write it in  [TARGETLANGUAGE] 
+
+Teaser:
+Create a yt (25 top facts type of video) video script, videos of 2:30 min 
+
+PromptHint: [idea of video]
+
+Title: Rewrite as a storyteller
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: A
+AuthorURL: https://google.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1806700754988425216
+CreationTime: 2023-03-29T16:46:40.866Z
+RevisionTime: 2023-05-04T14:54:38.59Z
+Help: 

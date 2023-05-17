@@ -1,0 +1,22 @@
+Prompt Template:
+Rewrite this [PROMPT] for a post in Linkedin, it should be engaging yet professional, shouldn't have repetitions and the language should be natural. All output shall be in [TARGETLANGUAGE] The post won't be longer than 100 words. Also give me 10 hashtags that go well with the text.
+
+Teaser:
+Rewrite a text for a post in Linkedn
+
+PromptHint: [Add your text here]
+
+Title: Engaging post for LinkedIn
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: CapybaraUX
+AuthorURL: https://www.capybaraux.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1798705323830411264
+CreationTime: 2023-03-07T15:15:41.53Z
+RevisionTime: 2023-03-07T15:15:41.53Z
+Help: 

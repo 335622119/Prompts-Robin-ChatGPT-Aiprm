@@ -1,0 +1,22 @@
+Prompt Template:
+Write a silly or funny product description for [PROMPT] in [TARGETLANGUAGE], and include catchy social media copy for each platform: Facebook, Instagram, Twitter, YouTube, TikTok, Reddit, and LinkedIn.
+
+Teaser:
+Create a goofy or silly product description or social media post. Drop a like if you used it!
+
+PromptHint: Name of your product, and where it can be found.
+
+Title: Silly Product Marketing
+
+Topic: Marketing
+
+Activity: Products
+
+AuthorName: Andrew Lemacks
+AuthorURL: https://dieseljackmedia.com
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1804130417633394688
+CreationTime: 2023-03-22T14:33:04.686Z
+RevisionTime: 2023-03-22T14:33:04.686Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Provide an 5 SEO optimized keywords used in article. Give also an 5 SEO optimized compelling meta description that entices users to click on our website in search results strictly under 160 caracters and  5 SEO optimized slug that is not too long, minimum 35 and maximum 75 characters , and only uses the most important key words of the article to rank on on search engines. Respect the character limits provided. Also provide an appealing 5 Title for the article with minimum 15 and maximum 60 characters . targeted language is [TARGETLANGUAGE] Don't provide anything else than those 4 tasks.  The article to use for this task is [PROMPT]
+
+Teaser:
+SEO Optimized Generator: 5 Keywords, 5 Meta Description, 5 Slugs,  5 Title 
+
+PromptHint: Paste your article here to generate SEO Optimized Keywords, Meta Description, Slugs & Title
+
+Title: Keyword, Meta Description, Slug  Generator
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Afnan Tajuddin
+AuthorURL: https://www.safetynotes.net/
+
+Community: Copywriting-00ea56f446414284
+ID: 1823627408335695872
+CreationTime: 2023-05-15T09:47:09.506Z
+RevisionTime: 2023-05-15T09:48:34.763Z
+Help: 

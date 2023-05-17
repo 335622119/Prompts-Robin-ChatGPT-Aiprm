@@ -1,0 +1,24 @@
+Prompt Template:
+I just received a message [PROMPT] Can you suggest a creative reply for me? All output shall be in [TARGETLANGUAGE]. 
+
+
+
+Teaser:
+Get a Creative Reply in Seconds to Boost your Productivity.
+
+PromptHint: Enter your message to get creative reply.
+
+Title: Quick and Creative Reply for Marketers
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Kashif Saleem
+AuthorURL: https://weeklyhodl.com/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1800269961101578240
+CreationTime: 2023-03-11T22:53:00.125Z
+RevisionTime: 2023-03-12T09:20:17Z
+Help: 

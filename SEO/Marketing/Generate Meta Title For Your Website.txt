@@ -1,0 +1,24 @@
+Prompt Template:
+create a meaningful meta title that stands out from the crowd and rank on google based on the keywords that is given to you title must be under 60 characters and give 4 different variations for the meta title and also pick the best fit meta title.  [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+create a unique meta title that's stands out from the crowd and rank on google. If you like the prompt please do upvote it motives me to create more prompts
+
+PromptHint: [Add Your Keywords]
+
+Title: Generate Meta Title For Your Website
+
+Topic: SEO
+
+Activity: marketing
+
+AuthorName: Keyur Shah
+AuthorURL: https://www.buymeacoffee.com/keyurshah8x
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1792836140261433344
+CreationTime: 2023-02-19T10:33:39.123Z
+RevisionTime: 2023-03-11T08:27:47Z
+Help: 

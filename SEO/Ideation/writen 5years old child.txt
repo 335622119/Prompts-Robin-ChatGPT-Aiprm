@@ -1,0 +1,22 @@
+Prompt Template:
+Schreibt einen Text über ein [PROMPT] aus der Sicht eines Senior SEO Managers. Schreibe die Ausgabe in der Sprache [TARGETLANGUAGE]
+
+Teaser:
+Write an Sentence for the  [KEYWORD] as a 5 years old child.
+
+PromptHint: as a 5 years old child.
+
+Title: writen 5years old child
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Marc Mulack
+AuthorURL: https://noseo.de
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1797221831686750208
+CreationTime: 2023-03-03T13:00:49.441Z
+RevisionTime: 2023-03-03T13:00:49.441Z
+Help: 

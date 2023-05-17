@@ -1,0 +1,22 @@
+Prompt Template:
+All output shall be in [TARGETLANGUAGE]. Your task is to make a Mission, Vision, Strategies, Objectives, Tactics, Schedule table, Customer Values, and Customer Segments including emojis, table, bullet points, and Suggestions for [PROMPT]. Make it as brief and informative as possible.
+
+Teaser:
+Create blog with a Mission, Vision, Schedule, Strategy, Customer Segments for your Topic. Please leave a thumbs up if you like it!!
+
+PromptHint: Type in your Topic here [Eg: Project planning for this month]
+
+Title: Mission and Vision
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: BadKaRmA
+AuthorURL: http://www.blankwebsite.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1797185329829240832
+CreationTime: 2023-03-03T10:35:46.72Z
+RevisionTime: 2023-03-25T11:12:57.736Z
+Help: 

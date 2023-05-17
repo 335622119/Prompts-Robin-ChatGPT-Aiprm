@@ -1,0 +1,24 @@
+Prompt Template:
+Create a table in Markdown language of [PROMPT] Digital Marketing Blog Topics with Clickbait-Like Titles, and assign a Creative Score and SEO Score for each. The Creative Score should reflect how catchy and attention-grabbing the title is, while the SEO Score should reflect how well the title is optimized for search engines. Please also include Topic Category, and Tags in table as well. All output shall be in [TARGETLANGUAGE].
+
+
+
+Teaser:
+Create a table of Digital Marketing Blog Topics with Clickbait-Like Titles, and assign a Creative Score and SEO Score.
+
+PromptHint: Provide the number of topics you'd like to be generated. Example "5"
+
+Title: Digital Marketing Topic Machine
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Loviise Antheia
+AuthorURL: https://loviiseantheia.com/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1797313173087580160
+CreationTime: 2023-03-03T19:03:46.928Z
+RevisionTime: 2023-03-06T20:22:36Z
+Help: 

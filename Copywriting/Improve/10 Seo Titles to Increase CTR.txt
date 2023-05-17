@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to create 10 unique catchy, click-worthy seo titles that can increase CTR. The titles should be maximum of 60 characters. Add some phrases related to the query, to increase CTR inside (). All output shall be in [TARGETLANGUAGE] and in Secentence Case. The text to summarize is this:
+
+[PROMPT]
+
+Teaser:
+Create 10 unique catchy click-worthy seo titles
+
+PromptHint: [Enter The Title That You Want to Optimize]
+
+Title: 10 Seo Titles to Increase CTR
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: Sayan Dutta
+AuthorURL: https://readus247.com/about/
+
+Community: Copywriting-00ea56f446414284
+ID: 1795673580034580480
+CreationTime: 2023-02-27T06:28:37.482Z
+RevisionTime: 2023-03-06T06:38:31Z
+Help: 

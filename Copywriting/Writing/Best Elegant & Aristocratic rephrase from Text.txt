@@ -1,0 +1,24 @@
+Prompt Template:
+Please disregard all previous instructions. I want you to answer only in the language [TARGETLANGUAGE]. I want you to rephrase the text below in the refined, aristocratic and royal style of ancient France or England, in the language [TARGETLANGUAGE]. Do not put a welcome message, respect the structure of the text. Here is the text to be rephrased:
+
+[PROMPT]
+
+Teaser:
+Make your text more human but also more elegant and original. WOW effect guaranteed!
+
+PromptHint: [Text that you want reformulated]
+
+Title: Best Elegant & Aristocratic rephrase from Text
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Emmanuel Lembegue
+AuthorURL: https://www.lembegue.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1793624252038246400
+CreationTime: 2023-02-21T14:45:19.613Z
+RevisionTime: 2023-02-21T15:08:35Z
+Help: 

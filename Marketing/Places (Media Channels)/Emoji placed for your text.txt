@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to place a corresponding emoji at the end of each phrase of the [TARGETLANGUAGE] The text to have emoji is this:
+[PROMPT]
+
+
+Teaser:
+Place an emoji for each phrase of my content
+
+PromptHint: [text that you want an emoji]
+
+Title: Emoji placed for your text
+
+Topic: Marketing
+
+Activity: Places (Media Channels)
+
+AuthorName: Celia Dias
+AuthorURL: https://www.facebook.com/groups/collabdigital
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1803804972190789632
+CreationTime: 2023-03-21T16:59:52.446Z
+RevisionTime: 2023-03-21T17:06:53Z
+Help: 

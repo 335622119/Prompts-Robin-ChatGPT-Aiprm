@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to find synonyms for words I give you in a bulleted format.
+[TARGETLANGUAGE]
+[PROMPT] 
+
+Teaser:
+Generate a list of same keywords
+
+PromptHint: [Keyword]
+
+Title: Generate a list of alternative keywords
+
+Topic: Marketing
+
+Activity: Research
+
+AuthorName: Michael Coles
+AuthorURL: https://www.rocket55.com
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1807434248282693632
+CreationTime: 2023-03-31T17:21:19.295Z
+RevisionTime: 2023-03-31T17:22:55.515Z
+Help: 

@@ -1,0 +1,27 @@
+Prompt Template:
+Write all of your answers in [TARGETLANGUAGE]!
+
+[INSTRUCTIONS]: I have a [text] that I would like to make changes to. Generate a table of 5 different suggestions of writing styles that could be related to the [text] with numbers in the left column of the table for me to pick from. After the table ask the question "What writing style would you like to rewrite the text into? Pick one from the table above." below the table.
+Execute INSTRUCTIONS in a table format!
+
+text = [PROMPT]
+
+Teaser:
+Suggest 5 writing styles for your text/article/etc. with further choice what style to rewrite it in.
+
+PromptHint: [text]
+
+Title: Rewrite your text in 5 different styles
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: HIMixoid
+AuthorURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Community: Copywriting-00ea56f446414284
+ID: 1794331273284816896
+CreationTime: 2023-02-23T13:34:46.614Z
+RevisionTime: 2023-02-23T13:34:46.614Z
+Help: 

@@ -1,0 +1,26 @@
+Prompt Template:
+Topic : [PROMPT] 
+
+Create it in the XML OPML 2.0 format of a well researched, tree-like hierarchy, insightful, related, high relevant, high authority, exhaustive mindmap on the topic above. List out the all main branches, sub-branches to use latent semantic index LSI keywords to help brainstorming new ideas and thoughts for an Ultimate Guide blog for Content Experts and Subject Matter Experts. [TARGETLANGUAGE] (Temperature = 0.8, Top-p = 0.9, Top-k = 5).  
+
+
+
+Teaser:
+Generate Mind Map for Keyword Research for Content Expert (need ChatGPT 4 to work)
+
+PromptHint: [Keyword]
+
+Title: Mind Map Generator for Content Experts
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Ronald Soh @ Win-Pro
+AuthorURL: https://www.winpro.com.sg
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1795938630347517952
+CreationTime: 2023-02-28T00:01:50.401Z
+RevisionTime: 2023-05-10T15:07:43.699Z
+Help: 

@@ -1,0 +1,23 @@
+Prompt Template:
+Your task is to write a friendly professional email including all typical elements, writing to the recipient:[PROMPT].
+You shall write regarding or about the subject:[PROMPT]. All output shall be in the writing style of human behavior expert Mark Bowden. All output shall not mention Mark Bowden's expertise or behavioral analysis explicitly in the email. All output shall be in [TARGETLANGUAGE] formatted for standard email clients.
+
+Teaser:
+Mark Bowden writes an email for you the only way he knows how, or almost! Just input [your recipient's name, what you're emailing about]
+
+PromptHint: [recipient, subject]
+
+Title: Mark Bowden Writes Your Emails
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Matt Dilworth REALTOR
+AuthorURL: https://www.mattdilworth.realtor
+
+Community: Copywriting-00ea56f446414284
+ID: 1793692741558079488
+CreationTime: 2023-02-21T19:17:28.787Z
+RevisionTime: 2023-02-22T04:12:45Z
+Help: 

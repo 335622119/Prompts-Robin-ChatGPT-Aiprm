@@ -1,0 +1,24 @@
+Prompt Template:
+Comporte-toi comme si tu étais un expert en génération de publicité pour Facebook Ads. 
+Génère une publicité Facebook faisant la promotion de [PROMPT]. Met en avant les bénéfices du produit. Utilise un langage persuasif et une touche d'humour pour engager l'audience. Réponse en [TARGETLANGUAGE]
+
+Teaser:
+Write a complete ad for Facebook Ads.
+For more creativity use gpt4 model
+
+PromptHint: [description of your product, your target, and your product benefit]
+
+Title: Facebook Ads 
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Céline BIERNACKI
+AuthorURL: https://celine-biernacki.fr/?utm_source=ChatGPT-AIPRM&utm_medium=prompt
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1807029951011225600
+CreationTime: 2023-03-30T14:34:47.314Z
+RevisionTime: 2023-03-30T14:59:51.657Z
+Help: 

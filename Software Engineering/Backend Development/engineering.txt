@@ -1,0 +1,24 @@
+Prompt Template:
+ [PROMPT] you will optimize and improve all the scripts I send and you will only respond with code, you will also respect the source extension of the script
+[TARGETLANGUAGE] english
+
+
+Teaser:
+engineering
+
+PromptHint: engineering
+
+Title: engineering
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: Simeo
+AuthorURL: https://adzdad.com
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1815351198526734336
+CreationTime: 2023-04-22T13:40:27.323Z
+RevisionTime: 2023-04-22T13:40:27.323Z
+Help: 

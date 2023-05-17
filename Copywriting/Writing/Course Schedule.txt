@@ -1,0 +1,30 @@
+Prompt Template:
+Eu sou um criador de curso online.
+Estou criando um curso de [COURSE].
+Eu quero que você escreva um índice com módulos para a criação desse curso.
+Depois escreva um resumo de cada um desses módulos.
+Me informe o público alvo desse curso.
+
+
+[TARGETLANGUAGE]
+[PROMPT]
+
+Teaser:
+Create a complete schedule for your course with modules and lectures. (Biffi)
+
+PromptHint: [Course]
+
+Title: Course Schedule
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Leandro Biffi
+AuthorURL: https://biffi.com.br
+
+Community: Copywriting-00ea56f446414284
+ID: 1804080382141001728
+CreationTime: 2023-03-22T11:14:15.295Z
+RevisionTime: 2023-03-22T18:01:44.644Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+Summarize to [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Request Summarizing
+
+PromptHint: article to summarize
+
+Title: summarize
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: Choiwonhyeok
+AuthorURL: https://examle.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1803250969803485184
+CreationTime: 2023-03-20T04:18:27.984Z
+RevisionTime: 2023-03-20T04:18:27.984Z
+Help: 

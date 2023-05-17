@@ -1,0 +1,24 @@
+Prompt Template:
+use [TARGETLANGUAGE] In the style of a Socratic dialogue, describe [PROMPT] 
+
+
+Teaser:
+In the style of a Socratic dialogue, describe [PROMPT]
+
+
+PromptHint: [ the meaning of life]
+
+Title: Socratic
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: CPANLP
+AuthorURL: https://www.cpanlp.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1807704012192223232
+CreationTime: 2023-04-01T11:13:16.023Z
+RevisionTime: 2023-04-02T11:00:47.508Z
+Help: 

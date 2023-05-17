@@ -1,0 +1,22 @@
+Prompt Template:
+Generate 5 clickbait title ideas in [TARGETLANGUAGE] for the keyword [PROMPT] and include a power word, a positive or negative sentiment word and a number in the title
+
+Teaser:
+Generate clickbait SEO article titles
+
+PromptHint: [Keyword]
+
+Title: Generate clickbait SEO article titles
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Kapil Nawani
+AuthorURL: https://www.kapilnawani.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1814930480429264896
+CreationTime: 2023-04-21T09:48:40.312Z
+RevisionTime: 2023-04-21T09:48:40.312Z
+Help: 

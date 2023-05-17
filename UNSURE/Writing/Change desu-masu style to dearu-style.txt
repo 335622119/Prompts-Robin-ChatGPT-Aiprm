@@ -1,0 +1,24 @@
+Prompt Template:
+以下の文章の文末の表現の「〜です、〜でした、〜ます、〜しました」などの「ですます調」を「〜である、〜であった、〜だ、〜した」の「である調」に変更して
+[PROMPT]
+[TARGETLANGUAGE] 
+
+Teaser:
+Change "desu-masu style" to "dearu-style"
+
+PromptHint: input text here
+
+Title: Change "desu-masu style" to "dearu-style"
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: genkaijokyo
+AuthorURL: https://note.com/genkaijokyo/
+
+Community: Unsure-f69c57b424376b23
+ID: 1795133621544411136
+CreationTime: 2023-02-25T18:43:01.346Z
+RevisionTime: 2023-02-25T18:43:01.346Z
+Help: 

@@ -1,0 +1,25 @@
+Prompt Template:
+I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend that you know everything about every market also in [TARGETLANGUAGE]. 
+
+List ten types of company my brand should consider Brand Partnerships with to reach my target audience. Give each type a name and an emoji. For each: give the benefit to my brand and also the benefit to the brand partner. All your output shall be in [TARGETLANGUAGE] language.
+The brand (first line), category (second line) and target audience (third line) are: [PROMPT]
+
+Teaser:
+Find partners that can help your brand reach your audiences
+
+PromptHint: Name your brand (e.g. “Fabric London”) + SHIFT ENTER + Name your category in simple but precise language. E.g. “electronic music nightclubs” + SHIFT ENTER + Describe your target audience (e.g. “Budget-conscious infrequent clubbers”)
+
+Title: Target audiences with partnerships
+
+Topic: Marketing
+
+Activity: Partnerships
+
+AuthorName: Prompt.mba
+AuthorURL: https://prompt.mba/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1900104
+CreationTime: 2023-01-23T21:06:38.976Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

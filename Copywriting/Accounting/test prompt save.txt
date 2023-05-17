@@ -1,0 +1,25 @@
+Prompt Template:
+[PROMPT]
+
+Please write in clinical tone, informative writing style, [TARGETLANGUAGE].
+
+
+Teaser:
+this is the teaser area
+
+PromptHint: test prompt learning
+
+Title: test prompt save
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: test test
+AuthorURL: http://openai.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1800264116565434368
+CreationTime: 2023-03-11T22:29:46.679Z
+RevisionTime: 2023-03-11T22:29:46.679Z
+Help: 

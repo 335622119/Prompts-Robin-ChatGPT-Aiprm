@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to create 8 Google Search Ads Description with a limit of maximum 90 characters per description including spacing in [TARGETLANGUAGE]. The type of business this description is for is the following:
+
+[PROMPT]
+
+Teaser:
+Google Search Ads - Description Generator - Based on Business Type
+
+PromptHint: [Your Business Type]
+
+Title: Google Ads - Descriptions
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: MRVN.ai
+AuthorURL: https://www.resknow.co.uk
+
+Community: Copywriting-00ea56f446414284
+ID: 1801921984473595904
+CreationTime: 2023-03-16T12:17:33.19Z
+RevisionTime: 2023-03-17T11:06:18Z
+Help: 

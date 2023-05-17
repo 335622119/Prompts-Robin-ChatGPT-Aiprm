@@ -1,0 +1,24 @@
+Prompt Template:
+your task to write enganing LinkedIn post from topic with emojis and hashtags in [TARGETLANGUAGE]. 
+topic to write post is
+[PROMPT]
+
+Teaser:
+Create enganing LinkedIn post from topic with emojis and hashtags
+
+PromptHint: [topic to write post for]
+
+Title: LinkedIn Post with Emojis by Naeem Anjum
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Naeem Anjum
+AuthorURL: https://www.linkedin.com/in/thisnaeem/
+
+Community: Copywriting-00ea56f446414284
+ID: 1805856512263053312
+CreationTime: 2023-03-27T08:51:57.715Z
+RevisionTime: 2023-03-27T08:55:58.333Z
+Help: 

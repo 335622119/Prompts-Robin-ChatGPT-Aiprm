@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to Generate Instagram Captions and Relevent Hashtags. I Give you the Topic Name or Title. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+
+[PROMPT]
+
+Teaser:
+Generate High-Quality Instagram Captions.
+
+PromptHint: Enter your Topic Name or Title
+
+Title: Instagram Captions
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: Sharique Afzal
+AuthorURL: https://in.linkedin.com/in/sharique-afzal
+
+Community: Copywriting-00ea56f446414284
+ID: 1784111409865678848
+CreationTime: 2023-01-26T08:44:41.299Z
+RevisionTime: 2023-02-22T12:06:55Z
+Help: 

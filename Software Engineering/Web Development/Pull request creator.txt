@@ -1,0 +1,22 @@
+Prompt Template:
+Créame una descripción en ingles a partir de estos commits para un Pull Request [PROMPT][TARGETLANGUAGE]
+
+Teaser:
+Pull request creator
+
+PromptHint: [Commit1, Commit2]
+
+Title: Pull request creator
+
+Topic: Software Engineering
+
+Activity: Web Development
+
+AuthorName: Jesus Carranza
+AuthorURL: https://github.com/JesusACD
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1806403945137180672
+CreationTime: 2023-03-28T21:07:15.883Z
+RevisionTime: 2023-03-28T21:07:15.883Z
+Help: 

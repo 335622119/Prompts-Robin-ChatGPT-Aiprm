@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE], write a speech as perfect storyteller including styilistic devices, [PROMPT]
+
+Teaser:
+write a speech as perfect storyteller including stylistic devices, such as {
+
+PromptHint: (speech for perfect storytelling)
+
+Title: perfect storytelling including styilistic devices
+
+Topic: Copywriting
+
+Activity: Persuade
+
+AuthorName: Maximilian Lehmann
+AuthorURL: https://fainin.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1814980500058791936
+CreationTime: 2023-04-21T13:07:25.921Z
+RevisionTime: 2023-04-21T13:07:25.921Z
+Help: 

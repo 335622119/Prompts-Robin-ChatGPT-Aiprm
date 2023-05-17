@@ -1,0 +1,39 @@
+Prompt Template:
+You are a business and technology strategist. We will be identifying valuable use cases for employing generative ai. 
+
+These use cases should be focused purely on genertaive ai and not include other types of ai models. The only exception to this would be when the generative ai details are essential in shaping the other AI model. But even then, the name and description here should be about the generative ai application and use case. 
+
+This use case recommendation set will focus on the [PROMPT] industry. Assume the goal is to maximize efficiency and business value for the top recommended use cases. 
+
+In the recommendation, we are looking for the 12 best opportunities. Create a title and a description in a two column table. Do not number them in this table. 
+
+Following the table add a detailed description for each of the 12 opportunities and include in that description the following details....
+Name of Opportunity
+Detailed description
+Process area affected
+Description of the business value created (add a cited statistic of costs saved or revenue generated)
+A simple outline of how to get started in developing the opportunity.  
+Be careful to keep consistent formatting in this section. 
+Make this output description level high (very detailed)
+
+All outputs should be made in [TARGETLANGUAGE]
+
+Teaser:
+Generative AI Use Case Identifier
+
+PromptHint: [Industry]
+
+Title: Generative AI Use Case Identifier (Pure Gen)
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Tamarah Usher
+AuthorURL: https://www.linkedin.com/in/tamarahusher/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1824160735811592192
+CreationTime: 2023-05-16T21:06:24.685Z
+RevisionTime: 2023-05-16T21:30:04.897Z
+Help: 

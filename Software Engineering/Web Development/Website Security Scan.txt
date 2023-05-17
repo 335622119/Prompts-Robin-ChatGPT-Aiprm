@@ -1,0 +1,22 @@
+Prompt Template:
+Use [TARGETLANGUAGE] and do a security scan using open sources like ZAP and OWASP10 of the website listed in [PROMPT]. Also list all the URL that have errors like 404. Send this as a formal report with the date and risk envolved.
+
+Teaser:
+Do a Security Scan in your Website
+
+PromptHint: [Insert your website here]
+
+Title: Website Security Scan
+
+Topic: Software Engineering
+
+Activity: Web Development
+
+AuthorName: STIX
+AuthorURL: https://semantix.ai
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1793259053624066048
+CreationTime: 2023-02-20T14:34:09.526Z
+RevisionTime: 2023-03-23T19:25:35.64Z
+Help: 

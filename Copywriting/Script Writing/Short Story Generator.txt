@@ -1,0 +1,22 @@
+Prompt Template:
+Write a unique short story without plagiarizing using the following description: [PROMPT]. Generate a title as well please. 
+
+Teaser:
+Generates a short story based on your description. Add a few keywords together, separated by comma and send it. 
+
+PromptHint: "Monster, woods, camping, horror story" , "flowers, field, best friend, sunset", etc.
+
+Title: Short Story Generator
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: WilliamCole
+AuthorURL: http://www.creaition.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1782554965269803008
+CreationTime: 2023-01-22T01:39:55.99Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+Un sommaire pour un documentaire d'expert détaillé et optimisé pour le SEO. Doit être organiser de façon à pouvoir en faire un article de blog. Doit contenir plusieurs titres et sous titres. Doit contenir des mots clés pouvant être bien référencé sur les moteurs de recherches. Le sujet est le suivant : "[PROMPT]"
+
+Please write in [TARGETLANGUAGE].
+
+Teaser:
+Create a full and detailed blog post outline for the topic of your choice | Fully SEO optimized | 100% Unique
+
+PromptHint: Write the topic of your blog post
+
+Title: Full Blog Post Outline
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: Danny Da Rocha
+AuthorURL: https://dannydarocha.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1796104588013858816
+CreationTime: 2023-02-28T11:01:17.792Z
+RevisionTime: 2023-04-18T07:23:32.719Z
+Help: 

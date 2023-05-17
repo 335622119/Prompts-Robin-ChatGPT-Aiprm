@@ -1,0 +1,22 @@
+Prompt Template:
+Write a [TARGETLANGUAGE] article about [PROMPT] that explains [aspect of topic].
+
+Teaser:
+Are you looking for ways to [achieve desired outcome related to focus keyword]? Check out these [number] tips to help you [achieve desired outcome].
+
+PromptHint: Consider the common challenges or goals of your target audience related to the focus keyword, and provide actionable tips that can help them address these challenges or achieve their goals.
+
+Title: 100% SEO friendly Blog Post [rank 1st]
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Anas Deraiya
+AuthorURL: https://designmepro.in/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1814703443424833536
+CreationTime: 2023-04-20T18:46:30.472Z
+RevisionTime: 2023-04-20T18:48:17.869Z
+Help: 

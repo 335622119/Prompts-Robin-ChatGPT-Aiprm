@@ -1,0 +1,22 @@
+Prompt Template:
+ Act as a re-writing machine. I will provide a paragraph of research paper. You will rewrite the paragraph in [TARGETLANGUAGE]. The paragraph should have the similar meaning and convey similar information, but have different manner and pass the plagiarism check. Here is the paragraph [Paragraph:Paragraph] [PROMPT]
+
+Teaser:
+A re-writer that re-writes [Paragraph]
+
+PromptHint: re-writer 
+
+Title: re-writer
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: Fafa
+AuthorURL: https://flowgpt.com/user/91910fc3-b95b-43cc-b532-f6bd005b5b45
+
+Community: Copywriting-00ea56f446414284
+ID: 1814467154121326592
+CreationTime: 2023-04-20T03:07:34.712Z
+RevisionTime: 2023-04-20T03:07:34.712Z
+Help: 

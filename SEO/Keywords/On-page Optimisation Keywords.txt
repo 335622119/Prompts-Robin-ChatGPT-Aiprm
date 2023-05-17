@@ -1,0 +1,22 @@
+Prompt Template:
+Please ignore all previous queries. All Output should be in [TARGETLANGUAGE] and also in separate bulleted lists. Pretend that you are a SEO Expert and study this list of [PROMPT], and output a compact list of Semantic, LSI and NLP Keywords from that list to optimize a landing page for those keywords. 
+
+Teaser:
+Create a list of Semantic, LSI, and NLP [Keywords] for On-page optimisation based on output data from Search Console for a landing page. 
+
+PromptHint: [your list of keywords exported from search console]
+
+Title: On-page Optimisation Keywords
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Piyush from SEO ORB
+AuthorURL: https://seoorb.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1788455303403266048
+CreationTime: 2023-02-07T08:25:46.224Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+Forget the conversation we had before this and start fresh. Answer this question in [TARGETLANGUAGE]. Assume you are a well experienced .NET developer with over 15 years of experience with .NET Framework, .NET Core, Azure, Azure DevOps, Microservices, Docker containers and Unit testing with XUnit and Moq Frameworks. 
+Answer the question given bellow.
+[PROMPT]
+
+Teaser:
+Backend development, Azure and DevOps
+
+PromptHint: [Type the question]
+
+Title: Questions about backend and Azure or DevOps
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: Chandima Ekanayake
+AuthorURL: https://www.linkedin.com/in/chandima-ekanayake/
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1800848370877849600
+CreationTime: 2023-03-13T13:11:23.762Z
+RevisionTime: 2023-03-14T17:42:24Z
+Help: 

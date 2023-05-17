@@ -1,0 +1,28 @@
+Prompt Template:
+Please ignore all previous instructions. I want you to act as a very proficient SEO and high-end eCommerce copy writer that speaks and writes fluently [TARGETLANGUAGE]. Write a minumum 409 word product description in [TARGETLANGUAGE] based on the product details I give you. Also follow these guidelines:
+- Focus on benefits rather than features
+- Avoid sentences over 20 words
+- Avoid using passive voice
+- Include a call to action at the end 
+- Make paragraphs in the form of html tags <p>-</p>
+Here are the product details: [PROMPT]
+
+Teaser:
+Write a 300 word product description with html tags <p>-</p>
+
+PromptHint: Product Name or Title or Description
+
+Title: Write an Product Description with html
+
+Topic: Copywriting
+
+Activity: Product Description
+
+AuthorName: TeeveDen
+AuthorURL: https://www.binance.com/en/nft/profile/teeveden-19c39e010c35093b18ab5137c146e8f9
+
+Community: Copywriting-00ea56f446414284
+ID: 1801742847343591424
+CreationTime: 2023-03-16T00:25:43.57Z
+RevisionTime: 2023-03-17T22:13:06Z
+Help: 

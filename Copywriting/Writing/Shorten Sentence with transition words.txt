@@ -1,0 +1,23 @@
+Prompt Template:
+Shorten with a shortening sentence. must be 100% human writing style, fix grammar issues. All output shall be in [TARGETLANGUAGE]. the sentence to shorten is : 
+[PROMPT]
+
+Teaser:
+Shorten sentence with transition words.
+
+PromptHint: [Sentence to Shorten]
+
+Title: Shorten Sentence with transition words
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Graphic Shell
+AuthorURL: https://graphicshell.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1814296261323649024
+CreationTime: 2023-04-19T15:48:30.694Z
+RevisionTime: 2023-04-19T15:50:35.325Z
+Help: 

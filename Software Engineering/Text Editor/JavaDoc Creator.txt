@@ -1,0 +1,23 @@
+Prompt Template:
+Write ONLY the JavaDoc (in idiomatic [TARGETLANGUAGE]) for the following method(s). Push JavaDoc syntax to the limit by using tags and HTML where possible. Use @link ANY time you refer to a symbol. Do NOT copy the method(s).
+[PROMPT]
+
+Teaser:
+Creates a JavaDoc for a given method(s)
+
+PromptHint: Write the method(s) you want to get the JavaDoc from.
+
+Title: JavaDoc Creator
+
+Topic: Software Engineering
+
+Activity: Text Editor
+
+AuthorName: ElJaviLuki
+AuthorURL: https://github.com/ElJaviLuki
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1814209966257737728
+CreationTime: 2023-04-19T10:05:36.347Z
+RevisionTime: 2023-04-19T10:38:59.527Z
+Help: 

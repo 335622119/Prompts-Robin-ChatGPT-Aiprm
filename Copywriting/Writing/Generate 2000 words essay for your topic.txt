@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to create minimum of 2000 words analytical, human written essay that is Plagiarism free with 10 external sources embedded with in text citations for each source including MLA citation page for all the sources used with the topic i give you. All output shall be in [TARGETLANGUAGE]. The topic to elaborate on is this:
+
+[PROMPT]
+
+Teaser:
+Generate long essays, articles and analytics
+
+PromptHint: [Topic] or [Niche]
+
+Title: Generate 2000 words essay for your topic
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Anonymous
+AuthorURL: https://seowriting.ai/
+
+Community: Copywriting-00ea56f446414284
+ID: 1801727948785709056
+CreationTime: 2023-03-15T23:26:31.477Z
+RevisionTime: 2023-03-16T15:59:26Z
+Help: 

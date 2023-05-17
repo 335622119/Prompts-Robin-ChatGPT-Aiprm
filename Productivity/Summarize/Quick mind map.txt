@@ -1,0 +1,23 @@
+Prompt Template:
+Create a mind map in the following text or articles. List the main idea, main branches and sub-branches.  [KEYWORD] write all output to [TARGETLANGUAGE][PROMPT]
+
+
+Teaser:
+Mind map with topics and subtopics
+
+PromptHint: What's the text?
+
+Title: Quick mind map
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Nathanael
+AuthorURL: http://nathan.com.br
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1818777774425640960
+CreationTime: 2023-05-02T00:36:26.68Z
+RevisionTime: 2023-05-09T02:07:37.912Z
+Help: 

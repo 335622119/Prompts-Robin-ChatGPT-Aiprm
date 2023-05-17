@@ -1,0 +1,22 @@
+Prompt Template:
+want you to act as a blog post title writer that speaks and writes fluent [TARGETLANGUAGE],you will reply with blog post titles in [TARGETLANGUAGE],write all output in [TARGETLANGUAGE] which should include [PROMPT]
+
+Teaser:
+writer a blog post title with the keyword
+
+PromptHint: [text the keyword]
+
+Title: Title Writer
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: sthsf
+AuthorURL: https://sthsf.github.io/
+
+Community: Copywriting-00ea56f446414284
+ID: 1801786175271469056
+CreationTime: 2023-03-16T03:17:53.753Z
+RevisionTime: 2023-03-16T10:34:02Z
+Help: 

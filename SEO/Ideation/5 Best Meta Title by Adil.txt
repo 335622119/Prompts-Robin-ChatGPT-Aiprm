@@ -1,0 +1,22 @@
+Prompt Template:
+Your task is to write a 5 different attractive and eye catching meta title maximum 70 characters and must use the given keyword in the start not middle or end. All output should be in [TARGETLANGUAGE]. The keyword to write is [PROMPT]
+
+Teaser:
+Write a meta title maximum 70 characters for this [KEYWORD]
+
+PromptHint: [please write your keyword here]
+
+Title: 5 Best Meta Title by Adil
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Adil
+AuthorURL: https://www.linkedin.com/in/adil-memon/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1796944416762748928
+CreationTime: 2023-03-02T18:38:28.569Z
+RevisionTime: 2023-03-02T18:45:24Z
+Help: 

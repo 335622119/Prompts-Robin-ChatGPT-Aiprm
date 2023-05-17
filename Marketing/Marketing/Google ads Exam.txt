@@ -1,0 +1,22 @@
+Prompt Template:
+Soy un experto en google ads y estoy haciendo un examen  sobre la certificación  sobre mis conocimientos. Necesito seleccionar solo [PROMPT] respuesta correcta para la siguiente pregunta[TARGETLANGUAGE].
+
+Teaser:
+Prompt for google ads certification
+
+PromptHint: Enter the question
+
+Title: Google ads Exam
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Jotape
+AuthorURL: https://www.youtube.com/watch?v=NBV_jeqWl_c
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1805574689574354944
+CreationTime: 2023-03-26T14:12:05.95Z
+RevisionTime: 2023-03-26T14:12:05.95Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to create an Intermittent Fasting beginner 16:8 weight loss plan. All output shall be in [TARGETLANGUAGE]. Include a definition of 16:8. Include drinks that are approved for intermittent fasting when your window is closed. Include meal ideas and shopping list. Include contraindications. Include check with your physician before starting a weight loss program. The text to summarize is this:
+
+[PROMPT]
+
+Teaser:
+Intermittent Fasting 16:8 plan
+
+PromptHint: Enter "intermittent fasting weight loss plan" 
+
+Title: Intermittent Fasting Weight Loss Plan
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Yolanda Moore, Betterfasting
+AuthorURL: https://www.instagram.com/betterfasting/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1796941764804997120
+CreationTime: 2023-03-02T18:27:56.293Z
+RevisionTime: 2023-03-02T20:03:10Z
+Help: 

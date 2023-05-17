@@ -1,0 +1,23 @@
+Prompt Template:
+Your task is to summarize the text i give you in 30 words or maximum 140 characters. All out put shall be in[[TARGETLANGUAGE].The text to summarize is this:
+[PROMPT]
+
+Teaser:
+Create best meta description for my content
+
+PromptHint: [text that you want a meta description for]
+
+Title: Best Meta Description
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: MJ Gill
+AuthorURL: https://www.ilmkiroshni.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1791003666266984448
+CreationTime: 2023-02-14T09:12:03.277Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

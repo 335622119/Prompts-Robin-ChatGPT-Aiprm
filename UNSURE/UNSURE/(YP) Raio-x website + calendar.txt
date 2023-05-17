@@ -1,0 +1,38 @@
+Prompt Template:
+Apresente o resultado no idioma [TARGETLANGUAGE]
+
+Faça um raio-X do site ... 
+
+e traga um checklist se ele tem ou não os itens abaixo:
+
+- Grade de produtos sem ruptura
+- Imagens dos produtos
+- Preço com desconto destacado 
+- Existe uma boa descrição dos produtos?
+- Quais são as formas de pagamento trabalhadas no site
+- Existe uma boa variedade de produtos no site?
+- Nomes e títulos dos produtos é bem escrito?
+
+Traga também detalhado por mês do ano um calendário das principais datas sazonais para um ecommerce de ...
+
+[PROMPT]
+
+Teaser:
+(YP) Raio-x website + calendar
+
+PromptHint: [website] [market segment]
+
+Title: (YP) Raio-x website + calendar
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Victor Felipone
+AuthorURL: https://yooper.com.br/
+
+Community: Unsure-f69c57b424376b23
+ID: 1806010094580920320
+CreationTime: 2023-03-27T19:02:14.593Z
+RevisionTime: 2023-05-05T21:10:30.842Z
+Help: 

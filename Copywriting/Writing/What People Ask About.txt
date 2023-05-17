@@ -1,0 +1,26 @@
+Prompt Template:
+Act as an journalist who knows what queries people have on a particular topic. 
+
+Your task is to let the user know what people often ask when there is a discussion around [Target Question] on social media, general discussion websites and internet searches. All output shall be in [TARGETLANGUAGE] Just tell the query questions. There is no need of answers. The query to summarize is this:
+
+[PROMPT]
+
+Teaser:
+Get a list of FAQs related to the topic which are often asked by the audience on search engines, social media & more.
+
+PromptHint: What people often ask about [Question Keyword]
+
+Title: What People Ask About
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Karan Morwani
+AuthorURL: https://twitter.com/karanmmorwani
+
+Community: Copywriting-00ea56f446414284
+ID: 1821438216969125888
+CreationTime: 2023-05-09T08:48:05.611Z
+RevisionTime: 2023-05-11T06:07:14.068Z
+Help: 

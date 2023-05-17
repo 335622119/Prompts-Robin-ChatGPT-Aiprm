@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE] [PROMPT]
+
+Teaser:
+Boost Your content with 100% free articl rewriter tool, check now & go to our link.
+
+PromptHint: Rewrite Article | Article Rewriter Tool Free
+
+Title: Rewrite Article | Keword-Rich Content Goto.
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: bluedool.com
+AuthorURL: https://www.bluedool.com/article-rewriter
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1799787614799388672
+CreationTime: 2023-03-10T14:56:19.805Z
+RevisionTime: 2023-03-10T14:56:19.805Z
+Help: 

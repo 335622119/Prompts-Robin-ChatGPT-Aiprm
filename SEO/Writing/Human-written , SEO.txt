@@ -1,0 +1,31 @@
+Prompt Template:
+It doesn't write like an AI article,
+This is a long, human-level blog post,
+plagiarism free,Use different expressions when using the same word, use different verbs, Words and colloquial expressions used in daily life, interlocutor,
+Friendly tone,
+a sympathetic tone,
+put in # and ## and ### Don't put a link in it,
+a detailed table of contents,2000 to 2500 words written,
+all output shall be in [TARGETLANGUAGE], the text to summarize is this:
+
+[PROMPT]
+
+Teaser:
+Just write the keyword
+
+PromptHint: [[ Keyword ]]
+
+Title: Human-written , SEO 
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: lived
+AuthorURL: https://exploreescapades.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1800518857958625280
+CreationTime: 2023-03-12T15:22:01.76Z
+RevisionTime: 2023-03-31T05:25:30.977Z
+Help: 

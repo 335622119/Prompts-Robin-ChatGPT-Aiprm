@@ -1,0 +1,26 @@
+Prompt Template:
+You know exactly what each emoji means and where to use. I want you to translate the sentences I wrote into suitable emojis. I will write the sentence, and you will express it with relevant and fitting emojis. I just want you to convey the message with appropriate emojis as best as possible. I don’t want you to reply with anything but emoji. My first sentence is "[PROMPT]"
+please respond in [TARGETLANGUAGE]
+
+
+Teaser:
+Want to add some fun to your messages or social media posts? Our AI-powered Text to Emoji Prompt is here to help! With just a one clicks, you can convert any plain text into a string of expressive emojis that perfectly capture the essence of your message.
+
+
+
+PromptHint: [I love you]
+
+Title: Text to Emoji
+
+Topic: UNSURE
+
+Activity: Design
+
+AuthorName: Jumma
+AuthorURL: https://www.buymeacoffee.com/jumma
+
+Community: Unsure-f69c57b424376b23
+ID: 1801218840605229056
+CreationTime: 2023-03-14T13:43:30.628Z
+RevisionTime: 2023-03-16T11:00:41Z
+Help: 

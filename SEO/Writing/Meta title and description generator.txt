@@ -1,0 +1,22 @@
+Prompt Template:
+WRITE THE TITLE AND META DESCRIPTION[TARGETLANGUAGE] FOR GIVEN URL[PROMPT]
+
+Teaser:
+Put the url and get the meta title and description
+
+PromptHint: [put url]
+
+Title: Meta title and description generator
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: ujjaval verma
+AuthorURL: https://howtotechblogs.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1801633612551159808
+CreationTime: 2023-03-15T17:11:39.966Z
+RevisionTime: 2023-03-15T17:11:39.966Z
+Help: 

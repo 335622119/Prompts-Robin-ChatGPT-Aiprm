@@ -1,0 +1,31 @@
+Prompt Template:
+Act as a Human to help me create 10 articles that have the best content without breaking a sweat. Google's algorithms. Choose the best publishing topic and engage my customers. Using a keyword that is not detected by AI. and each article, 1500 CHARACTERS with 3 paragraphs, including each paragraph emojis for each line in the article, must be different from those already written, then write 2 engaging questions that will encourage people to comment and at the end of each article you will generate 7 hashtags. 
+
+
+[TARGETLANGUAGE]. The text 
+
+[PROMPT]
+
+
+
+Teaser:
+30 Unique SEO-optimized articles  For (GMB)
+Get 30 SEO-optimized Google Business (GMB) Posts for your Google Business Profile (GMB). type in the business name, type, and target keywords. Local SEO optimization is included in all posts!
+
+
+PromptHint: [Keyword or Title]
+
+Title: 10 Unique SEO-optimized articles  For (GMB)
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: KAMAL-SEO RANK
+AuthorURL: https://www.buymeacoffee.com/atozdigital
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1799505356393807872
+CreationTime: 2023-03-09T20:14:44.157Z
+RevisionTime: 2023-04-21T11:41:19.841Z
+Help: 

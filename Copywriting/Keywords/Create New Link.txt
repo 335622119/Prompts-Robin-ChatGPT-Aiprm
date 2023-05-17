@@ -1,0 +1,22 @@
+Prompt Template:
+Você é um jornalista! Crie uma matéria completa [TARGETLANGUAGE] em Português, limitando a 2000 caracteres, com base nas informações da [URL]. Especificamente na primeira linha informe o [TITULO] da matéria e na última linha, crie um lista de [KEYWORDS] separado por virgula. [PROMPT]
+
+Teaser:
+Create New Link [url]
+
+PromptHint: Create New Link [url]
+
+Title: Create New Link
+
+Topic: Copywriting
+
+Activity: keywords
+
+AuthorName: Jean Silva
+AuthorURL: https://silverteam.com.br
+
+Community: Copywriting-00ea56f446414284
+ID: 1794649338820165632
+CreationTime: 2023-02-24T10:38:39.347Z
+RevisionTime: 2023-02-24T10:38:39.347Z
+Help: 

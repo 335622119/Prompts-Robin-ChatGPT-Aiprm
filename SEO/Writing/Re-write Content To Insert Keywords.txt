@@ -1,0 +1,22 @@
+Prompt Template:
+Disregard all the previous prompts. Please output in [TARGETLANGUAGE]. Pretend that you are a SEO Copywriter, and re-write below paragraph with very minimal edits and introduce the keywords to insert that I have given. Make sure to keep the output in similar wordcount. [PROMPT]
+
+Teaser:
+Takes an existing content and re-writes it to introduce new keywords for on-page optimisation.
+
+PromptHint: Paste 1. Paragraph to Re-write & 2. Keywords To Introduce (Comma Separated)
+
+Title: Re-write Content To Insert Keywords
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Piyush from SEO ORB
+AuthorURL: https://seoorb.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1792511625765580800
+CreationTime: 2023-02-18T13:04:08.838Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

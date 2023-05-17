@@ -1,0 +1,22 @@
+Prompt Template:
+Make me a code in [TARGETLANGUAGE] using Python PyQt5 that enables the user to [PROMPT], make the code compact as much as you can, set also the default window size to 200x200
+
+Teaser:
+Make a code in a python language using PyQt5
+
+PromptHint: Input the behavior of your code idea
+
+Title: Generate PyQt5 GUI codes
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: Manuel Ottani
+AuthorURL: https://www.instagram.com/manuel_ottani/
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1792143572083146752
+CreationTime: 2023-02-17T12:41:38.002Z
+RevisionTime: 2023-02-24T19:25:14Z
+Help: 

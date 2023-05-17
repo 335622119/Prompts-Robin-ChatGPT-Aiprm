@@ -1,0 +1,22 @@
+Prompt Template:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to outline a nice looking mindmap for the given topic. the mindmap should have at least 3 subitems under each item. The topic is: [PROMPT]
+
+Teaser:
+Create a Mindmap for a given topic
+
+PromptHint: [What should be the topic of the mindmap?]
+
+Title: Create a basic Mindmap 
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: QR Cloud
+AuthorURL: https://qr-cloud.com?utm_source=aiprm
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1790461480135823360
+CreationTime: 2023-02-12T21:17:36.03Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

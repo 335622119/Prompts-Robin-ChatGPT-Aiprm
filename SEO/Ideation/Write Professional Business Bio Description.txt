@@ -1,0 +1,25 @@
+Prompt Template:
+give 200 words for your business bio
+[TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+[give business bio description]
+
+PromptHint: [Enter Business Name]
+
+Title: Write Professional Business Bio Description
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Disha Paghdar
+AuthorURL: https://digitaldisha1.blogspot.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1794314273376436224
+CreationTime: 2023-02-23T12:27:13.52Z
+RevisionTime: 2023-02-28T06:49:01Z
+Help: 

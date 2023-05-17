@@ -1,0 +1,24 @@
+Prompt Template:
+Can you come up with a title that would make it easy to find the following text in a Finder (Mac OS) search: [PROMPT]
+
+[TARGETLANGUAGE]
+
+Teaser:
+Title a text file so that it is easily searchable in Mac OS Finder
+
+PromptHint: Please copy and paste the text from the document you want to title
+
+Title: Optimized title for a text document 
+
+Topic: Copywriting
+
+Activity: Subject Lines
+
+AuthorName: Benoit
+AuthorURL: https://benoit.fr
+
+Community: Copywriting-00ea56f446414284
+ID: 1804835215378743296
+CreationTime: 2023-03-24T13:13:41.563Z
+RevisionTime: 2023-04-16T22:54:54.18Z
+Help: 

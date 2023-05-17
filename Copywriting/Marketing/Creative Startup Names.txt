@@ -1,0 +1,22 @@
+Prompt Template:
+Donne moi des noms de startup en [TARGETLANGUAGE]pour [PROMPT] donne moi 20 noms, sans description, clair et concis, ne comportant pas de mot évoquant l'idée, avec un créativité accrue et abstraite, et surtout, que les gens se souvienne et peuvent en parler facilement à travers le monde. 
+
+Teaser:
+Generate 20 creative and easy to remember startup names with your business description 
+
+PromptHint: Business names
+
+Title: Creative Startup Names
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: Nocham
+AuthorURL: https://chat.openai.com/chat
+
+Community: Copywriting-00ea56f446414284
+ID: 1793929828827922432
+CreationTime: 2023-02-22T10:59:34.797Z
+RevisionTime: 2023-02-22T10:59:34.797Z
+Help: 

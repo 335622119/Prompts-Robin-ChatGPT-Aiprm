@@ -1,0 +1,22 @@
+Prompt Template:
+Create two Questions and matching answers in [TARGETLANGUAGE] based on [PROMPT] and matching FAQ-Schema Markup and format it as JSON-LD.
+
+Teaser:
+Create two FAQs from your Content and matching JSON-LD Markup.
+
+PromptHint: [Your Content]
+
+Title:  FAQ Markup Generator + Schema Markup 
+
+Topic: SEO
+
+Activity: marketing
+
+AuthorName: Jens Polomski
+AuthorURL: https://jens.marketing?utm_source=aiprm&utm_medium=prompt
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1781755088919060480
+CreationTime: 2023-01-19T20:41:30.607Z
+RevisionTime: 2023-02-23T18:20:27Z
+Help: 

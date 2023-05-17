@@ -1,0 +1,24 @@
+Prompt Template:
+Suggest 10 SEO Optimized Titles for Following keyword  [TARGETLANGUAGE] and [PROMPT]
+
+Teaser:
+[keyword]
+[keyword2]
+[keyword]3
+
+PromptHint: [keyword] [keyword2] [keyword]3
+
+Title: SEO Optimized Title Genrator
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Zubair ijaz
+AuthorURL: https://leatherapron.shop
+
+Community: Copywriting-00ea56f446414284
+ID: 1813846723785912320
+CreationTime: 2023-04-18T10:02:12.593Z
+RevisionTime: 2023-04-20T06:43:38.575Z
+Help: 

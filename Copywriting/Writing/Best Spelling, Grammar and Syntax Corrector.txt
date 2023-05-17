@@ -1,0 +1,25 @@
+Prompt Template:
+Correct the spelling, syntax and grammar of this text in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Struggle with writing because of your Dyslexia? This Spelling and Grammar corrector is just what you need.
+
+
+PromptHint: Write anything and it will correct your spelling, syntax and grammar.
+
+Title: Best Spelling, Grammar and Syntax Corrector 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Yohai Zilber
+AuthorURL: https://www.youtube.com/@yohaizilber
+
+Community: Copywriting-00ea56f446414284
+ID: 1788887681418391552
+CreationTime: 2023-02-08T13:03:53.176Z
+RevisionTime: 2023-04-30T04:37:35.102Z
+Help: 

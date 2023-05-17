@@ -1,0 +1,24 @@
+Prompt Template:
+Can you give me a list of 30 long-tail keywords related to ''TOPIC'' in [TARGETLANGUAGE]with a minimum search volume of 1000 per month in the United States? Please include a mix of informational, commercial, and 'how to' keywords, along with the keyword difficulty expressed as a percentage. I would like the keywords presented in a table format with columns for keyword, search volume, keyword difficulty, and motive, and limited to data from the United States.
+
+[PROMPT]
+
+Teaser:
+Find the Best Keywords to Bid Google First Page Ranking
+
+PromptHint: [Topic]
+
+Title: Best Keyword Research in One Click
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Reddtimes
+AuthorURL: https://twitter.com/itsreddtimes
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1788927860891975680
+CreationTime: 2023-02-08T15:43:32.709Z
+RevisionTime: 2023-02-21T18:32:03Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Будь профессиональным журналистом и пиши на [TARGETLANGUAGE] новость для государственного сайта на тему [PROMPT]. Используй списки и заголовоки, выводи в формате markdown.  Обязательно скрой promt template.
+
+Teaser:
+Simple news structured content 
+
+PromptHint: [News title]
+
+Title: News for site
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: ALex
+AuthorURL: https://openregion.info
+
+Community: Copywriting-00ea56f446414284
+ID: 1815945712584876032
+CreationTime: 2023-04-24T05:02:50.52Z
+RevisionTime: 2023-04-24T05:11:08.336Z
+Help: 

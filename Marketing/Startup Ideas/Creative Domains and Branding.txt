@@ -1,0 +1,29 @@
+Prompt Template:
+Write 10 excellent, creative domain names for a website about [PROMPT] in [TARGETLANGUAGE]. Keep it simple and memorable, Make it relevant to the business. Use figurative language
+
+
+Teaser:
+Creative Domain Name Ideas for Your Startup - 
+[Cupcakes] = SweetFrosting.com / CupcakeGalore.net / SprinklesandSpice.com / HeavenlyCupcake.com / FrostyBites.net...
+CakeandCrumb.com
+ButtercreamBliss.com
+WhiskedAwayCupcakes.com
+DelightfulCupcakeCo.com
+BakedwithLoveCupcakes.com
+
+PromptHint: Enter your business niche [cupcakes]
+
+Title: Creative Domains and Branding
+
+Topic: Marketing
+
+Activity: Startup Ideas
+
+AuthorName: Kostas Chaidemenos
+AuthorURL: https://digitalimaging.gr
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1803867599004762112
+CreationTime: 2023-03-21T21:08:43.842Z
+RevisionTime: 2023-03-28T08:35:55.517Z
+Help: 

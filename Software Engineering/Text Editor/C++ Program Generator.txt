@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to write a C++ program using iostream.h and conio.h extension for the topic given by the user. Also explain the Program using comments. All the output should be in [TARGETLANGUAGE]. Write a program to:
+
+[PROMPT]
+
+Teaser:
+Write any C++ Program
+
+PromptHint: [Write a C++ Program to ......................]
+
+Title: C++ Program Generator
+
+Topic: Software Engineering
+
+Activity: Text Editor
+
+AuthorName: Umair Khan
+AuthorURL: http://umairyousafzai.com/
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1799518680149909504
+CreationTime: 2023-03-09T21:07:40.788Z
+RevisionTime: 2023-03-29T02:29:51.261Z
+Help: 

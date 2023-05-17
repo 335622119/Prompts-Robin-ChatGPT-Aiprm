@@ -1,0 +1,22 @@
+Prompt Template:
+I want you to act as copywriter, create a content idea for 5 days social media post [PROMPT]. The output must include posting Date, Title and Content Copywriting. The Content Copywriting must be atleast 100 to 120 words including hashtag. Please create a table for the Date, Title and Content Copywriting. The output must be in [TARGETLANGUAGE].
+
+Teaser:
+Create a content idea  and copywriting for 5 days social media post.
+
+PromptHint: [Write your product or service here]
+
+Title: 5 Days Content For Social Media Posting
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Ezrix Jaafar
+AuthorURL: https://ezrix.lol
+
+Community: Copywriting-00ea56f446414284
+ID: 1793826535346794496
+CreationTime: 2023-02-22T04:09:07.712Z
+RevisionTime: 2023-02-22T11:43:17Z
+Help: 

@@ -1,0 +1,32 @@
+Prompt Template:
+Rewrite the below-provided "Blog Post Introduction" content in a user-friendly, easy-to-read, and SEO-friendly format.
+
+"[PROMPT]"
+
+In the beginning of the content, add a two-line paragraph as a post introduction that tells users what they are going to see in this blog post and increases their interest in reading the whole blog post.
+
+Also, make sure to create kinds of content that totally look like human-created content and don't get caught for plagiarism in AI detection tools. And keep one thing in mind: we always focus on the user and its experience before search engines to create content that is more helpful for users and easy to read and understand for users.
+
+Write all output in [TARGETLANGUAGE]﻿
+
+Teaser:
+Rewrite the below-provided "Blog Post Introduction" content in a user-friendly, easy-to-read, and seo-friendly format using AIDA method.
+
+[PROMPT]
+
+PromptHint: [content to rewrite]
+
+Title: Rewrite Blog Post Introduction with AIDA
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: MANIACMEET
+AuthorURL: https://maniacmeet.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1797195928957095936
+CreationTime: 2023-03-03T11:17:53.749Z
+RevisionTime: 2023-03-04T05:07:01Z
+Help: 

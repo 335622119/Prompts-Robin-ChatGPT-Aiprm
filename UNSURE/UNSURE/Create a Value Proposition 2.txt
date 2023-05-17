@@ -1,0 +1,25 @@
+Prompt Template:
+Apresentar o resultado no idioma [TARGETLANGUAGE]
+Crie uma proposta de valor para o seu negócio usando o seguinte modelo:
+Para (segmento de clientes) que (dores, necessidades ou desejos), oferecemos (produto ou serviço) que entrega (benefícios) diferenciando-se da concorrência com (diferenciais da oferta).
+[PROMPT]
+
+Teaser:
+Create a value proposition easily
+
+PromptHint: (customer segments), (pains, needs, desires), benefits, (offer differentials)
+
+Title: Create a Value Proposition 2
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Marcinho
+AuthorURL: https://www.linkedin.com/in/marcio-belchior/
+
+Community: Unsure-f69c57b424376b23
+ID: 1821564541721645056
+CreationTime: 2023-05-09T17:10:03.779Z
+RevisionTime: 2023-05-09T17:10:36.92Z
+Help: 

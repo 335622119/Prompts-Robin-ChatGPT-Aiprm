@@ -1,0 +1,22 @@
+Prompt Template:
+Translate to [TARGETLANGUAGE] this text: "[PROMPT]". 
+
+Teaser:
+Comfortable and simple to make the best translations.
+
+PromptHint: [text to translate]
+
+Title: ChatGPT Easy Translator
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: ERITO
+AuthorURL: https://www.facebook.com/eritocuba/
+
+Community: Copywriting-00ea56f446414284
+ID: 1798184575231586304
+CreationTime: 2023-03-06T04:46:25.389Z
+RevisionTime: 2023-03-14T02:55:46Z
+Help: 

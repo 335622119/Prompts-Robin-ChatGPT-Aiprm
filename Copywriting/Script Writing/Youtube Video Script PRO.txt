@@ -1,0 +1,26 @@
+Prompt Template:
+You write a Video script Minimum 90000 character. include VideoTitle, Video description, 5 Keyword, intro, outro, and Voice over, 
+[TARGETLANGUAGE].  The sentence to summarize is this.
+
+[PROMPT]
+
+Teaser:
+Pro Youtube Long Video Script Writer:  Just a Click Write Professional Long Video Script for Your Youtube Video! Video description generator, Video title generator, Video ranking, Amazon Article Writer, Product Description Writing, Informational Article Writer, Facebook Add video, tiktok, twitter, linkdin, fiverr, seo, backlink 
+H Tag, and Best to rank no 1 on Google youtube,seo Meta-Title & Description + Content rewriter
+
+PromptHint: [KEYWORD] Or [VIDEO TOPIC] Or [YOUTUBE VIDEO TITLE] Etc
+
+Title: Youtube Video Script PRO
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: Saddam Sir
+AuthorURL: https://www.freelancingit.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1786474749397041152
+CreationTime: 2023-02-01T21:15:45.352Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

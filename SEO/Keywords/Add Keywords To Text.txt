@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is add one, two or three seo-keywords  to proposed text. Do not change keys. Add an within the meaning of the text. Do not change. All output should be in [TARGETLANGUAGE]. 
+
+[PROMPT]
+
+Teaser:
+Make your article perfect with adding keyword to your text! 
+
+PromptHint: [Paste text + keywords:]
+
+Title: Add Keywords To Text
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: SaldoInvoice
+AuthorURL: https://saldoinvoice.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1800831028890427392
+CreationTime: 2023-03-13T12:02:29.11Z
+RevisionTime: 2023-03-15T12:52:37Z
+Help: 

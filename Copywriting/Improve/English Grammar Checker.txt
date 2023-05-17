@@ -1,0 +1,22 @@
+Prompt Template:
+由我发英文句子给你，你来检查句子的语法是否正确并使用[TARGETLANGUAGE]回复，如果有错误则使用[TARGETLANGUAGE]指出其中的错误及错误的原因，并给出修正后的正确英文语句和对应的 [TARGETLANGUAGE]翻译。[PROMPT]
+
+Teaser:
+English Grammar Checker
+
+PromptHint: 请输入需要检查的英文句子
+
+Title: English Grammar Checker
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: WangJie
+AuthorURL: https://github.com/wangjiegulu
+
+Community: Copywriting-00ea56f446414284
+ID: 1792067818766983168
+CreationTime: 2023-02-17T07:40:37.004Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

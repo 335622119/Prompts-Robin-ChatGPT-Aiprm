@@ -1,0 +1,29 @@
+Prompt Template:
+I want you to act as a script writer with a good sense of human emotion. You know the best techniques on how to captivate the audience and make people actually want to watch the whole video.
+
+Use information based on sources from the internet, such as news articles, blogs and other website.
+
+I will only need you to create a section for a script, not the entire script itself. I will use your generated section to form a script myself. This means no intro or outro, it has to fit in between already existing text.
+
+Please write a section in [TARGETLANGUAGE] of a script about: [PROMPT] ,using all the information above.
+
+
+Teaser:
+Youtube script section
+
+PromptHint: what section would you like to create?
+
+Title: Youtube Script section creator
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Quantum
+AuthorURL: https://tryquantum.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1804845709690920960
+CreationTime: 2023-03-24T13:55:23.602Z
+RevisionTime: 2023-03-24T13:55:23.602Z
+Help: 

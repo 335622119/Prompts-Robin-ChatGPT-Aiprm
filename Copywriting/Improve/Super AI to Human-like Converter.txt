@@ -1,0 +1,27 @@
+Prompt Template:
+Your task is to rewrite an AI generated input into a human-like output in [TARGETLANGUAGE]. The output should resemble casual human writing while maintaining standard grammar and accessible vocabulary. You should also add some perplexity and burstiness when appropriate to make it resemble human writing. 
+
+Rewrite input with this:
+[PROMPT]
+
+
+
+Teaser:
+Rewrite AI generated input into human-like output.
+
+PromptHint: [Enter what you want to convert]
+
+Title: Super AI to Human-like Converter 
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: Guilherme da Costa
+AuthorURL: http://www.teacherguilherme.com.br
+
+Community: Copywriting-00ea56f446414284
+ID: 1807195186414223360
+CreationTime: 2023-03-31T01:31:22.504Z
+RevisionTime: 2023-04-20T17:03:54.921Z
+Help: 

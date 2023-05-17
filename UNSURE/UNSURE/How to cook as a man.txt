@@ -1,0 +1,22 @@
+Prompt Template:
+How to cook [TARGETLANGUAGE] and [PROMPT]
+
+Teaser:
+Man is going to the moon
+
+PromptHint: [This is Meal]
+
+Title: How to cook as a man
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Saviour Essien
+AuthorURL: https://theboringcreatives@gmail.com
+
+Community: Unsure-f69c57b424376b23
+ID: 1801858313202425856
+CreationTime: 2023-03-16T08:04:32.776Z
+RevisionTime: 2023-03-16T08:04:32.776Z
+Help: 

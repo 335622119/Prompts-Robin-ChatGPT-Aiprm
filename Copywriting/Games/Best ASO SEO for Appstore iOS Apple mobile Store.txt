@@ -1,0 +1,22 @@
+Prompt Template:
+Write Game Name, Subtitle, Promotional Text, Description and Keywords separated by commas,  for Games in the Appstore iOS Store for the [PROMPT] in the [TARGETLANGUAGE] Title length should be 30 letters   description should be 600 letters at least  and all these should be SEO Optimized and popular and relevant keywords should be used
+
+Teaser:
+Best ASO SEO for Appstore iOS Apple mobile Store
+
+PromptHint: Write game name, title or Link
+
+Title: Best ASO SEO for Appstore iOS Apple mobile Store
+
+Topic: Copywriting
+
+Activity: Games
+
+AuthorName: Pamir Khan
+AuthorURL: https://apps.apple.com/us/developer/pamir-khan/id1480803046
+
+Community: Copywriting-00ea56f446414284
+ID: 1789308358629781504
+CreationTime: 2023-02-09T16:55:30.439Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

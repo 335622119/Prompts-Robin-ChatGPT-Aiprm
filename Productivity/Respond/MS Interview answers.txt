@@ -1,0 +1,22 @@
+Prompt Template:
+Think you are the Interviewer. How to answer [PROMPT] in Interview to impress you? You will reply in [TARGETLANGUAGE] 
+
+Teaser:
+How to answer in Interview [PROMPT]
+
+PromptHint: [InterviewQuestion]
+
+Title: MS Interview answers
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: ms
+AuthorURL: https://www.youtube.com
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1793123951527059456
+CreationTime: 2023-02-20T05:37:18.676Z
+RevisionTime: 2023-02-20T05:37:18.676Z
+Help: 

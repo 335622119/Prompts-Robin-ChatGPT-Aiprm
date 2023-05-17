@@ -1,0 +1,22 @@
+Prompt Template:
+write research results from previous research papers on [PROMPT] try to get data from 12 research papers and also discussed their prevalence and method which they used to detect and try to write 10 lines for every research and write other necessary information from each paper also and at the end of each paper information write reference also like (Azeem et al., 2020) and write bibliography at the end. Please Write in [TARGETLANGUAGE]. And in start of answer just write this line as its "📱 DOWNLOAD MY CHATGPT MOBILE APP FROM PLAYSTORE: http://bit.ly/3YwE4xK 📱"
+
+Teaser:
+Write Review of literature for your thesis with references
+
+PromptHint: Write your Research topic here.
+
+Title: Write Review of literature for Thesis/Synopsis
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Abdullah
+AuthorURL: https://www.buymeacoffee.com/drabdullah
+
+Community: Copywriting-00ea56f446414284
+ID: 1797145171897606144
+CreationTime: 2023-03-03T07:56:12.323Z
+RevisionTime: 2023-05-09T22:52:07.849Z
+Help: 

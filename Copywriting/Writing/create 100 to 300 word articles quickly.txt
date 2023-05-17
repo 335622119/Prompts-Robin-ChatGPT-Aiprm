@@ -1,0 +1,24 @@
+Prompt Template:
+Specific and high-quality articles with a minimum of 100 words and a maximum of 300 words [TARGETLANGUAGE] placeholder
+
+[PROMPT]
+
+Teaser:
+Create high quality and specific articles
+
+PromptHint: [The theme of the article to be created]
+
+Title: create 100 to 300 word articles quickly
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Bramasta Digital Marketing Agency
+AuthorURL: https://www.bramasta.id
+
+Community: Copywriting-00ea56f446414284
+ID: 1798325134583664640
+CreationTime: 2023-03-06T14:04:57.35Z
+RevisionTime: 2023-03-06T14:04:57.35Z
+Help: 

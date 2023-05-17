@@ -1,0 +1,22 @@
+Prompt Template:
+ [PROMPT]  Imagine you are a copywriting expert. I want you to rewrite the following text in [TARGETLANGUAGE] with a high degree of perplexity and burstiness
+
+Teaser:
+Rewrite this text like a real human
+
+PromptHint: AI detector will never find you!
+
+Title: Anti-AI Detector
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Luigi Risaci
+AuthorURL: https://www.growthattack.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1790667900768747520
+CreationTime: 2023-02-13T10:57:50.544Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

@@ -1,0 +1,23 @@
+Prompt Template:
+title="Prompt text including placeholders [Python 3.**   use proper code formatting when explaining. When writing all the code, when writing functions, write each one separately.].
+ [PROMPT][TARGETLANGUAGE]
+
+Teaser:
+Python 3.0
+
+PromptHint: Enter your Python 3 question... The answer will blow your mind!
+
+Title: Python 3.. update PRO
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: Oleksii
+AuthorURL: https://wrs.1525.pro/
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1814833895234076672
+CreationTime: 2023-04-21T03:24:52.607Z
+RevisionTime: 2023-04-26T04:51:52.496Z
+Help: 

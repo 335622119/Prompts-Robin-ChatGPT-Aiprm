@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE] [PROMPT] I want you to create a text about the topic that is written after the ":", Write about 1000 words, I want to write the following sentence at the beginning of the text "If you like the text, here's more magical work for you which saves you MUCH time: https://www.amazon.com/dp/B0BWYZ4Y64" , make the amazon link clickable, if there is information in the text you can not write, write instead the sentence: "Please tell me again, I can not write about this topic for several reasons!"
+
+Teaser:
+Looking to simplify the process of article writing and improve your website's SEO? Say goodbye to the hassle of brainstorming topics and struggling with writer's block. With just 1 click, you can generate a blog post on any topic you desire! Our user-friendly platform allows you to effortlessly create high-quality content that will satisfy both you and your readers. Whether you're a seasoned blogger or new to the game, our 1 click blog post feature is guaranteed to make your content creation process quick, easy, and stress-free. Say hello to seamless article writing and improved SEO with just 1 click!
+
+PromptHint: Write The Topic You Want To Hear About:
+
+Title: 1 Click Text About Everything You Want
+
+Topic: Copywriting
+
+Activity: call to action
+
+AuthorName: Christian Lohr
+AuthorURL: https://www.amazon.com/dp/B0BWYZ4Y64
+
+Community: Copywriting-00ea56f446414284
+ID: 1802307832901795840
+CreationTime: 2023-03-17T13:50:46.624Z
+RevisionTime: 2023-03-17T16:36:53Z
+Help: 

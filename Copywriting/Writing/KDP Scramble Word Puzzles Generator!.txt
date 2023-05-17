@@ -1,0 +1,23 @@
+Prompt Template:
+Your task is to write 20 scramble words in given [TARGETLANGUAGE]. I want you to create two columns containing original words and scramble words. I want you to come up with word lists about: 
+[PROMPT]
+
+Teaser:
+Create scrable words puzzle books fast for Amazon KDP!
+
+PromptHint: [Enter the topic you need scramble words for]
+
+Title: KDP Scramble Word Puzzles Generator!
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Subha
+AuthorURL: https://lowcontentprofits.com/create-word-search-puzzles-chatgpt/
+
+Community: Copywriting-00ea56f446414284
+ID: 1796548285360762880
+CreationTime: 2023-03-01T16:24:23.483Z
+RevisionTime: 2023-05-01T05:24:12.535Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+PRISMA database model simulator with my question in language [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Create a model with the table name [tableName]
+
+PromptHint: Create a model with the table name [tableName]
+
+Title: Generate database model with PRISMA
+
+Topic: DevOps
+
+Activity: Database Administration
+
+AuthorName: Nicolas Hedoire
+AuthorURL: https://www.linkedin.com/in/nicolas-hedoire-1734775b/
+
+Community: DevOps-f3e52afbf831197f
+ID: 1797785413470130176
+CreationTime: 2023-03-05T02:20:17.809Z
+RevisionTime: 2023-03-05T02:20:17.809Z
+Help: 

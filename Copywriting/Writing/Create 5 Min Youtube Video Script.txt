@@ -1,0 +1,23 @@
+Prompt Template:
+You will be creating a 5-minute Youtube video script on any topic that you choose, with a colorful and dynamic visual style. The video should grab viewers' attention right away and have an upbeat and optimistic tone. The target audience is viewers between the ages of 18 to 55, and the video should aim to inform and/or entertain. The pacing and flow of the video should be well-thought-out to keep viewers engaged, and there should be a clear message or call-to-action at the end. [TARGETLANGUAGE] is [ENGLISH]
+[PROMPT]
+
+Teaser:
+This Prompt Helps you to Create 5 Min perfect youtube Video Script 
+
+PromptHint: Enter your topic
+
+Title: Create 5 Min Youtube Video Script 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Haytham Fadul
+AuthorURL: https://haytham.co.uk/
+
+Community: Copywriting-00ea56f446414284
+ID: 1798054694841749504
+CreationTime: 2023-03-05T20:10:19.491Z
+RevisionTime: 2023-03-15T23:07:58Z
+Help: 

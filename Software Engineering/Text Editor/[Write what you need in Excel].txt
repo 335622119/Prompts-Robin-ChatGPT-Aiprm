@@ -1,0 +1,24 @@
+Prompt Template:
+You are an excel trainer, and you have to explain and resolve issue in langage [TARGETLANGUAGE]   
+For the following  issue [PROMPT]  
+
+
+Teaser:
+Excel Expert
+
+PromptHint: [Write what you need in Excel]
+
+Title: [Write what you need in Excel]
+
+Topic: Software Engineering
+
+Activity: Text Editor
+
+AuthorName: David Mt
+AuthorURL: http://dmo-formation.com
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1798457985144721408
+CreationTime: 2023-03-06T22:52:51.392Z
+RevisionTime: 2023-03-07T08:28:14Z
+Help: 

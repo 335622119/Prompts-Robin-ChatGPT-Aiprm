@@ -1,0 +1,26 @@
+Prompt Template:
+Your task is to provide a video script of the text I give you in 750 words within {Script Start} and {Script Stop} followed by If you want to watch such videos just click on the link: https://www.youtube.com/@HalfTraveller  
+All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+
+
+[PROMPT] 
+
+Teaser:
+Get The Complete Vlog Script
+
+PromptHint: [Write Title of your vlog]
+
+Title: 100% Humen Written Script For YouTube Vlogs
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Hemant
+AuthorURL: https://digiflygoals.com/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1796760799960891392
+CreationTime: 2023-03-02T06:28:50.913Z
+RevisionTime: 2023-03-16T12:03:06Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to summarize the document given in maximum 3 paragraphs. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+
+Text from: [PROMPT]
+
+Teaser:
+Use this prompt to summarize documents online
+
+PromptHint: input the link from the article here
+
+Title: Article Summarizer
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Oliver Benson
+AuthorURL: https://www.instagram.com/musicby_oli/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1814021836799995904
+CreationTime: 2023-04-18T21:38:02.789Z
+RevisionTime: 2023-04-18T21:42:48.976Z
+Help: 

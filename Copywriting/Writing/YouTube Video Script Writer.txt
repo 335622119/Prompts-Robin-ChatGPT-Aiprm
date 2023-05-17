@@ -1,0 +1,26 @@
+Prompt Template:
+I want you to act as a creative script writer and Create an astonishing, compelling, and engaging video script, and also write scene descriptions for a YouTube video script with an appropriate and attention-grabbing clickbait intro, then a main body with proper subheadings and informational facts, and then an outro using the given keyword in [TARGETLANGUAGE]. Please also provide 5 creative ideas for an appropriate clickbait YouTube title. Please also provide high-converting tags for the video according to the title and keywords. Please also write description fort his video keeping SEO factors in mind.
+
+The Keyword is:
+
+[PROMPT]
+
+Teaser:
+Write Your Keyword To Get an Amazing Youtube Script with Intro & Outro, Title & Tags, Description
+
+PromptHint: Enter your Keyword OR title
+
+Title: YouTube Video Script Writer
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Jahangir Ali
+AuthorURL: https://netgirdigital.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1802651195073101824
+CreationTime: 2023-03-18T12:35:10.545Z
+RevisionTime: 2023-03-18T12:35:10.545Z
+Help: 

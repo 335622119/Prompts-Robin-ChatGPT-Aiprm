@@ -1,0 +1,32 @@
+Prompt Template:
+All output shall be in [TARGETLANGUAGE].
+
+Your task is to identify what industry the [PROMPT] is and summarize a website of what they do.
+Please summarize [PROMPT] and recommend at least some IT solutions and IT appliance with specific product name, brief description and a product link that we can sell to the website that I provide to you.
+
+Your response should be in bullet like form style and should translate all your response in Thai language every after sentence.
+
+The website to summarize is this:
+
+[PROMPT]
+
+
+Teaser:
+Generate a summary of the website
+
+PromptHint: [website that you want to know and summarize it]
+
+Title: Summarize a Website
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: BobotDLS
+AuthorURL: https://iristechworld.com/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1813741970980605952
+CreationTime: 2023-04-18T03:05:57.578Z
+RevisionTime: 2023-04-19T09:45:45.59Z
+Help: 

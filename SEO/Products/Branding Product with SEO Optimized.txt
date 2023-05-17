@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to become an SEO expert [TARGETLANGUAGE] for a product or brand, start with 10 tagline ideas for products, 10 keywords, 5 good hashtags so that they are easily found in search engines, create product descriptions, 10 article title ideas and also provide 10 branding strategies in detail. all output shall be in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Branding Product with SEO Optimized
+
+PromptHint: [Text here product or brand]
+
+Title: Branding Product with SEO Optimized
+
+Topic: SEO
+
+Activity: Products
+
+AuthorName: Wisnu Febrian
+AuthorURL: https://www.youtube.com/channel/UCYoowQq7EHkpJgJvz9553uA
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1794361107205591040
+CreationTime: 2023-02-23T15:33:19.575Z
+RevisionTime: 2023-03-22T15:23:47.907Z
+Help: 

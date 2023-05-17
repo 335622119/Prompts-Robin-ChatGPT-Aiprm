@@ -1,0 +1,23 @@
+Prompt Template:
+Create 10 viral video hooks for a [PROMPT] in [TARGETLANGUAGE] that are in the form of a question; pain or problem focused question; only the question with no statements after; do not use quotations
+
+
+Teaser:
+Create 10 Million Dollar Video Hooks in Seconds
+
+PromptHint: [your product, service, or offer - you can just paste a link here or describe it]
+
+Title: Million Dollar Video Hooks
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: Drew Crawford
+AuthorURL: https://www.drewcrawford.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1801119688697319424
+CreationTime: 2023-03-14T07:09:30.971Z
+RevisionTime: 2023-03-14T07:16:44Z
+Help: 

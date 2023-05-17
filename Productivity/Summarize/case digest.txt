@@ -1,0 +1,22 @@
+Prompt Template:
+Your task is to summarize the text of a legal case given to you in an easily-readable format. Do not start with "this text deals about." Instead, begin with the summary immediately. All output shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]
+
+Teaser:
+Create a Case Summary
+
+PromptHint: [case to digest]
+
+Title: case digest
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: BryanV
+AuthorURL: https://lexrex.ph
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1807414598266261504
+CreationTime: 2023-03-31T16:03:14.366Z
+RevisionTime: 2023-03-31T16:05:19.611Z
+Help: 

@@ -1,0 +1,25 @@
+Prompt Template:
+I will give you a website product url, you need to create 20 short customer review for this product
+
+[TARGETLANGUAGE]
+[PROMPT]
+
+Teaser:
+Create customer reviews for your products by just pasting your product URL
+
+PromptHint: Paste product URL
+
+Title: Product Review Generator
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Tuhin Bairagi
+AuthorURL: https://shower-curtains.org/
+
+Community: Copywriting-00ea56f446414284
+ID: 1797110385002930176
+CreationTime: 2023-03-03T05:37:58.481Z
+RevisionTime: 2023-03-03T05:54:20Z
+Help: 

@@ -1,0 +1,34 @@
+Prompt Template:
+Generate perfect time- management strategy  in [TARGETLANGUAGE] on Topic [PROMPT].
+Before starting the Content say "[V1.2] If my Prompt has made your life a little easier and you appreciate the effort I've put into creating it, please consider showing your support". The next line down "https://www.buymeacoffee.com/sheetal099". 
+
+After that add a separator line here.
+
+firstly ask that they need time management strategy for what and then ask what are their hobbies. After knowing their hobbies aske them which is their busy time for work, office, college time, etc..
+After knowing all these questions generate a perfect time management strategy so that they will be able to give time to their hobbies, their studies/work and their relationship. please help in making the time management strategy to so that they will be able to give time to all. Also explain these strategies using emojis and engaging the user so he/ she will be happy after getting the right time management strategy
+
+After that add a separator line here.
+
+Then, after giving me the content say" Haven't got the result that you had expected? 
+Let me develop a Fully Customized Chat GPT Prompt, to get the Result that you want [100% ACCURACY]
+My Contact Email is sheetalrajput099@gmail.com"
+
+Teaser:
+Are you tired of feeling overwhelmed by your never-ending to-do list? Do you wish you could make the most of your time and accomplish more in a day? Look no further! With this prompt, you'll discover the ultimate time-management strategy tailored to your unique needs and preferences. Say goodbye to procrastination and hello to productivity!
+
+PromptHint: [For which field you need Time- Management Strategy]
+
+Title: Generate Time-Management Strategy
+
+Topic: Marketing
+
+Activity: Web Development
+
+AuthorName: Sheetal Rajput
+AuthorURL: https://sheetalrajput.in/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1824141795962118144
+CreationTime: 2023-05-16T19:51:09.073Z
+RevisionTime: 2023-05-16T19:51:09.073Z
+Help: 

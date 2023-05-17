@@ -1,0 +1,23 @@
+Prompt Template:
+Hi ChatGPT, I will send you some javascript code or ask you to create it. Use 'let' for variables or 'const'. Write the complete code in only one block. Use proper variable, parameters and etc names for [TARGETLANGUAGE], but keep the name of the functions that I indicate. Use only single quotes in the code. When using increment operator, use "i += 1" instead of "i++". And write "I'm done writing" at the end of each message in the specified language. All the text message should be written in [TARGETLANGUAGE].
+[PROMPT]
+
+Teaser:
+Write Better JavaScript Code, uses new and more useful syntax and lets you know when coding is done.
+
+PromptHint: [ask for or send some code + question]
+
+Title: Better JavaScript Prompting
+
+Topic: Software Engineering
+
+Activity: Web Development
+
+AuthorName: Rayan Medeiros
+AuthorURL: https://github.com/rayan6ms
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1786702625711067136
+CreationTime: 2023-02-02T12:21:15.299Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

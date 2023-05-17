@@ -1,0 +1,23 @@
+Prompt Template:
+Your task is to Write 10 Primary text, Headline, Description for Facebook ads. Try to give 3 column have 125 characters for the Primary text field, 40 characters for the Headline field and 155 characters for the Description field for promoting this post, and list it into a table. All outputs will be in [TARGETLANGUAGE]. The task is: 
+[PROMPT]
+
+Teaser:
+Create best Facebook ads Primary text, Headline, Description for a landing page. If you like please up vote it. Otherwise I can not create more.Thanks.
+
+PromptHint:  [insert your landing page url]
+
+Title: Facebook ads Primary text, Headline, Description
+
+Topic: SEO
+
+Activity: marketing
+
+AuthorName: Nayan
+AuthorURL: https://tempmaili.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1802314300917018624
+CreationTime: 2023-03-17T14:16:28.719Z
+RevisionTime: 2023-03-21T13:46:50Z
+Help: 

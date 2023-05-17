@@ -1,0 +1,22 @@
+Prompt Template:
+Create a comprehensive marketing proposal in [TARGETLANGUAGE] based on [PROMPT]. Please include information on the industry, target market, competition, a detailed plan for a successful launch, including performance metrics, excluding budget.
+
+Teaser:
+Create a comprehensive marketing plan in seconds!
+
+PromptHint: [Your website url]
+
+Title: Marketing Plan
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Kristofer Hahne
+AuthorURL: https:www.syphermedia.co.uk
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1793248414033772544
+CreationTime: 2023-02-20T13:51:52.85Z
+RevisionTime: 2023-02-20T13:52:46Z
+Help: 

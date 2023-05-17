@@ -1,0 +1,25 @@
+Prompt Template:
+Take on the persona of an expert SEO writer. Your tasks is to write an optimized image title, description, caption, and alternative text of the image description I give you. write all output in [TARGETLANGUAGE]. The goal of this is to optimized web images faster in one click. 
+
+[PROMPT]
+
+
+Teaser:
+Optimized and Write your Web Image Title, Description, Caption, and Alternative text in One Click!
+
+PromptHint: [image description]
+
+Title: Optimized your Web Image in One Click!
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Alvin Jay Samijon
+AuthorURL: https://alvinjaysamijon.tech
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1822371189524520960
+CreationTime: 2023-05-11T22:35:23.602Z
+RevisionTime: 2023-05-11T22:35:23.602Z
+Help: 

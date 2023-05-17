@@ -1,0 +1,24 @@
+Prompt Template:
+[TARGETLANGUAGE] I'm going to give you an aritcle, then STRICTLY await instructions.
+
+article = "[PROMPT]"
+
+Teaser:
+Paste article then add "
+
+PromptHint: Paste article then add "
+
+Title: Article Analyzer Starter
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: EA
+AuthorURL: https://twitter.com/ephraimyx
+
+Community: Copywriting-00ea56f446414284
+ID: 1820568986480545792
+CreationTime: 2023-05-06T23:14:04.913Z
+RevisionTime: 2023-05-11T02:21:16.834Z
+Help: 

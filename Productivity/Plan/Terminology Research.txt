@@ -1,0 +1,23 @@
+Prompt Template:
+Your Task is to Create a list of 50 terms and its brief definition on [PROMPT] and display it in a table of four columns where the first column is the term in English and the second column contains the definition in English, the third column is the translation in [TARGETLANGUAGE] and the fourth column is the definition in [TARGETLANGUAGE]. The  list will be sorted by the popularity of use.
+
+Teaser:
+Create a list of terminology about a [TOPIC] in English and its translation in your [LANGUAGE]. 
+Very useful for translator or interpreter who wants to prepare for upcoming Interpretation/Translation event.
+
+PromptHint: [Write The Topic or Title of Your Interpreting Event]
+
+Title: Terminology Research
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Hikmat Gumilar the Indonesian-English vv Interpreter
+AuthorURL: https://penerjemah-id.com
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1801959363318112256
+CreationTime: 2023-03-16T14:46:05.001Z
+RevisionTime: 2023-03-16T15:05:00Z
+Help: 

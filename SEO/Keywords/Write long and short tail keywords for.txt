@@ -1,0 +1,25 @@
+Prompt Template:
+Write long tail and short-tail keywords by just writing Keyword for required Post.
+[TARGETLANGUAGE] . 
+
+[PROMPT]
+
+Teaser:
+Write long tail and short tail keywords for
+
+PromptHint: Write here your "Targeted Keyword"
+
+Title: Write long and short tail keywords for
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Tasif
+AuthorURL: https://kazi-tasif.webflow.io/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1818949505295572992
+CreationTime: 2023-05-02T11:58:50.51Z
+RevisionTime: 2023-05-10T09:40:47.509Z
+Help: 

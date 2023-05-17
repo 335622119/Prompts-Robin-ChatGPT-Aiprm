@@ -1,0 +1,46 @@
+Prompt Template:
+You are part of the marketing team, trying to acquire more organic traffic to your website. For a given Topic please provide me:
+1. Query intent: an explanation of what type of query we are trying to answer 
+
+2. Media: what type of information and media content will help the user to convert
+
+3. meta Title: an informative and sexy meta title
+
+4. meta description: a meta description with a CTA.
+
+5. H1 tag: an informational H1 tag NOT containing the word Eventbrite
+
+6. Sub-headings: List of non branded headings suggestions NOT containing Eventbrite
+
+7. Notes: good copywriter practices
+
+8. Internal linking: list of 4 to 5 relevant topics to link to in order users can find more information
+
+9. FAQs: Four ideas for FAQs questions
+
+All output shall be in [TARGETLANGUAGE]
+
+Topic: 
+[PROMPT]
+
+
+
+Teaser:
+Keyword Research template by Joao Filipe Pereira
+
+PromptHint: [Target Keyword]
+
+Title: Keyword Research Template
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Joao Filipe Pereira
+AuthorURL: https://www.linkedin.com/in/joaofpereira/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1786709265046831104
+CreationTime: 2023-02-02T12:47:38.24Z
+RevisionTime: 2023-03-15T11:58:39Z
+Help: 

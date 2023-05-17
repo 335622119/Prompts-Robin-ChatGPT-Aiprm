@@ -1,0 +1,25 @@
+Prompt Template:
+want you to analyze text provided and assign an AI detection score from 0 to 100, with 100 being the most likely to be written by an AI in [TARGETLANGUAGE]
+the keywords to use in the analysis are [PROMPT]
+you will reply with an AI detection score from 0 to 100 and a list of specific linguistic and stylistic features that contribute to the score in [TARGETLANGUAGE]
+write all output in [TARGETLANGUAGE]
+
+Teaser:
+Analyze any text and provide an AI detection score from 0 to 100
+
+PromptHint: [content to analyze - 3693 characters max.]
+
+Title: AI Content Detector
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Free AI Content Detector
+AuthorURL: https://free-ai-content-detector.net/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1787934393973858304
+CreationTime: 2023-02-05T21:55:51.738Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

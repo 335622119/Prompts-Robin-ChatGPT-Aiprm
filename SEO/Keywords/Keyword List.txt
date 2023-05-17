@@ -1,0 +1,22 @@
+Prompt Template:
+Give Me Google And Bing 20 Keywords In low KD Around 15 And High Volume about[PROMPT] Language [TARGETLANGUAGE]
+
+Teaser:
+Keyword List 
+
+PromptHint: [Keyword]
+
+Title: Keyword List
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Mushfiqur Alif 
+AuthorURL: https://mushfiquralif.blogspot.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1807520694653943808
+CreationTime: 2023-03-31T23:04:49.716Z
+RevisionTime: 2023-04-22T20:38:35.917Z
+Help: 

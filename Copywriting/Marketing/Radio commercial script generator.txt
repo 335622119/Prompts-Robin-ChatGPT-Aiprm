@@ -1,0 +1,23 @@
+Prompt Template:
+Create 3 versions for a radio commercial text. Use maximum 350 characters or 50 words! End with a strong selling call to action. Do not write the text from the we form. But as the third person. Optimize for selling the product. All output shall be in [TARGETLANGUAGE]. Call the versions "Versie 1, 2, etc." and generate a short attractive title above each version. All in the [TARGETLANGUAGE]. The text to summarize is this: 
+[PROMPT]. Human Written | Plagiarism Free
+
+Teaser:
+Create 3 radio commercials (30 sec.) scripts from [KEYWORDS]
+
+PromptHint: Put all keywords related to the radio commercial here...
+
+Title: Radio commercial script generator
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: Jeroen Muller
+AuthorURL: https://jeroenmuller.nl
+
+Community: Copywriting-00ea56f446414284
+ID: 1799038483764088832
+CreationTime: 2023-03-08T13:19:33.048Z
+RevisionTime: 2023-03-08T14:33:10Z
+Help: 

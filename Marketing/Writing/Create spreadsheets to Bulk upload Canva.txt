@@ -1,0 +1,26 @@
+Prompt Template:
+My output will be in [TARGETLANGUAGE]
+
+Create a 10 rows tables with information about [PROMPT]. 
+As my table columns I want: 
+Title, subtitle, short explanation and an long explanation.
+
+Teaser:
+Create spreadsheets to Bulk upload Canva about a Subject
+
+PromptHint: Provide the Subject that you'd like to generate content
+
+Title: Create spreadsheets to Bulk upload Canva
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Undercontrol AI
+AuthorURL: https://www.mvitor.com/?utm_campaign=airpm
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1799485934010630144
+CreationTime: 2023-03-09T18:57:33.5Z
+RevisionTime: 2023-03-22T15:39:15Z
+Help: 

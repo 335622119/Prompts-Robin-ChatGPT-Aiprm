@@ -1,0 +1,24 @@
+Prompt Template:
+Write a creative blog article on [PROMPT] using emojis, tables, bullet points, etc. start directly without responding as person.
+All output will be in [TARGETLANGUAGE]
+
+
+Teaser:
+Get detailed information and Blog in a creative way on any topic as a  Document. Use this for your Project, Showcase your Creativity. 
+
+PromptHint: Type your Topic [Eg. Product Management]
+
+Title: Creative Document at your fingertips
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: BaDkArMa
+AuthorURL: https://blank.page/
+
+Community: Copywriting-00ea56f446414284
+ID: 1798233076070084608
+CreationTime: 2023-03-06T07:59:08.89Z
+RevisionTime: 2023-03-16T10:20:33Z
+Help: 

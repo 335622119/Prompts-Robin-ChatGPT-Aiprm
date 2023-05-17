@@ -1,0 +1,30 @@
+Prompt Template:
+Act as a LinkedIn Community Manager, and write a caption for [PROMPT] using the format: HOOK, COMMON MISCONCEPTION (less than 15 words), CURIOSITY PROVOKING QUESTION, and then add more value related to the [PROMPT] from above. End it with a call-to-comment.
+Replace words with emojis also[HOOK: 💥
+COMMON MISCONCEPTION: 😬 ❌
+CURIOSITY PROVOKING QUESTION: 🤔❓
+VALUE: 💡👨‍💻
+CALL-TO-COMMENT: 💭👇]
+
+[TARGETLANGUAGE] [English]
+
+
+Teaser:
+Act as a LinkedIn Community Manager, and write a caption for [PROMPT]
+
+PromptHint: [Linkedin Post Topic]
+
+Title: Linkedin Caption
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Ishaq Shakoor
+AuthorURL: https://www.linkedin.com/in/theishaqsaqi/
+
+Community: Copywriting-00ea56f446414284
+ID: 1807905570737610752
+CreationTime: 2023-04-02T00:34:11.325Z
+RevisionTime: 2023-04-02T02:03:24.851Z
+Help: 

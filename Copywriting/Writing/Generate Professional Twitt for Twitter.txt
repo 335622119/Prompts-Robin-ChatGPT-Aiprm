@@ -1,0 +1,22 @@
+Prompt Template:
+Generate Professional Twitt for Twitter in [TARGETLANGUAGE]  from given [PROMPT]
+
+Teaser:
+Generate Professional Twitt for Twitter
+
+PromptHint: [Topic] or [Niche]
+
+Title: Generate Professional Twitt for Twitter 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: DingDam
+AuthorURL: https://www.dingdam.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1822695354811023360
+CreationTime: 2023-05-12T20:03:30.629Z
+RevisionTime: 2023-05-12T20:03:30.629Z
+Help: 

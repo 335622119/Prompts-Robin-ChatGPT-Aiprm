@@ -1,0 +1,23 @@
+Prompt Template:
+Please look for the best keywords to position in google the web that I will tell you next. Create a table with the 10 keywords with the highest monthly global search volume, and a descriptive title to create the blog posts in [TARGETLANGUAGE] . The website is [PROMPT]
+
+Teaser:
+
+Table with the top 10 keywords for [a website] and a list of their titles to create blog articles.
+
+PromptHint: website url
+
+Title: Keywords By Volume Whith Blog Title
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: RubenJcole
+AuthorURL: https://obsoletor.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1804842525828317184
+CreationTime: 2023-03-24T13:42:44.51Z
+RevisionTime: 2023-03-29T10:25:32.669Z
+Help: 

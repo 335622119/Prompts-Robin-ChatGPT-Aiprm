@@ -1,0 +1,24 @@
+Prompt Template:
+[Writing style guideline: Imagine you are a digital marketing expert. Write as a master of brevity would. Use figurative language. Frequently use short, pitchy sentences that pack a punch.]
+
+All output shall be in [TARGETLANGUAGE]. The text to summarise is this: [PROMPT]
+
+Teaser:
+Marketing Expert tone to write article
+
+PromptHint: Marketing
+
+Title: Marketing Expert tone
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Bevis
+AuthorURL: https://www.linkedin.com/in/bevis-lau-digital/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1797571327834710016
+CreationTime: 2023-03-04T12:09:35.816Z
+RevisionTime: 2023-03-04T12:18:59Z
+Help: 

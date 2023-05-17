@@ -1,0 +1,24 @@
+Prompt Template:
+Write a pinterest discription for title I'll give you. Sound informal and add call to action words, add relevent five tags, WORD LIMIT SHOULD NOT EXCEED 400.  and use [TARGETLANGUAGE]
+
+Title i give you is [PROMPT]
+
+Teaser:
+A prompt to write engaging pinterest discriptions. With relevent tags.
+
+PromptHint: [Put you title or Keyword Here]
+
+Title: Pinterest Engaging Keyword rich Discription 
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Shivvya
+AuthorURL: https://in.pinterest.com/ShivvyaCom/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1801082561544577024
+CreationTime: 2023-03-14T04:41:59.168Z
+RevisionTime: 2023-03-14T04:54:43Z
+Help: 

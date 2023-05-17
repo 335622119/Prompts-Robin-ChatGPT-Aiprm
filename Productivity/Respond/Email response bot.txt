@@ -1,0 +1,26 @@
+Prompt Template:
+Please I need you the help me answer this email: 
+[PROMPT]
+I want you to act as a real estate lawyer with more than 8 years of experience who writes fluently [TARGETLANGUAGE]. 
+Use formal "we" language with rich, detailed paragraphs that engage the reader. Write in a formal style as written by a human (use a formal tone, utilize personal pronouns, keep it simple, engage the reader, use the active voice, keep it brief and simple). 
+
+Teaser:
+This prompt helps lawyers to quickly respond an emails
+
+
+PromptHint: [Email + consideration to the answer]
+
+Title: Email response bot
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: Lluis Puig
+AuthorURL: https://www.linkedin.com/in/lluis-puig/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1797272989834936320
+CreationTime: 2023-03-03T16:24:06.494Z
+RevisionTime: 2023-03-03T16:27:58Z
+Help: 

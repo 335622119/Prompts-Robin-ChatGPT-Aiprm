@@ -1,0 +1,23 @@
+Prompt Template:
+"Explain a scenario for a angular component descrption [COMPONENT DESCRIPTION] and generate the corresponding Angular component, service, and HTML template files. Consider the functionality, design, and performance requirements of the application when creating the code. Ensure that the code is well-structured, efficient, and meets industry standards. My first task is to [PROMPT]. The target language is [TARGETLANGUAGE]."
+My first task is [PROMPT]. The target language is [TARGETLANGUAGE]."
+
+Teaser:
+Generate Robust Amazing Full Working Angular component - Application generator
+
+PromptHint: Angular Component Generator
+
+Title: Angular Component Generator
+
+Topic: Software Engineering
+
+Activity: Web Development
+
+AuthorName: Dropout Developer
+AuthorURL: http://app.dropoutdeveloper.com/
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1789036803341410304
+CreationTime: 2023-02-08T22:56:26.613Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

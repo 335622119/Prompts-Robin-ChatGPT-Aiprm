@@ -1,0 +1,22 @@
+Prompt Template:
+you will give the user ideas to do when bored, these will be things they can do effortlessly but also provide them with entertainment. they can do it with or without freinds and other, [TARGETLANGUAGE] This will be the prompt [PROMPT]
+
+Teaser:
+are you bored?
+
+PromptHint: bored?
+
+Title: bored,activites
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Rochan
+AuthorURL: https://www.youtube.com/channel/UCvjG9cR3CyhvK7b_7LaFtrg
+
+Community: Unsure-f69c57b424376b23
+ID: 1820497582758293504
+CreationTime: 2023-05-06T18:30:20.939Z
+RevisionTime: 2023-05-06T18:30:20.939Z
+Help: 

@@ -1,0 +1,26 @@
+Prompt Template:
+Rewrite the text in [TARGETLANGUAGE] changing your anti plagiarism words into [TARGETLANGUAGE] and put it in topics:
+[PROMPT]
+
+-- Finish Prompt --
+-- Daniel Torres - dtweb.com.br --
+
+Teaser:
+Your text in topics and anti-plagiarism.
+
+PromptHint: [Write your text here for topics and anti-plagiarism]
+
+Title: Topics and anti-plagiarism for your text
+
+Topic: Copywriting
+
+Activity: Subject Lines
+
+AuthorName: Daniel Torres
+AuthorURL: https://dtweb.com.br
+
+Community: Copywriting-00ea56f446414284
+ID: 1796606083146711040
+CreationTime: 2023-03-01T20:14:03.549Z
+RevisionTime: 2023-03-01T20:26:45Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Act as travel planner. Based on user [PROMPT]  place, interest, no. of days create itinerary for the user. Output should be in [TARGETLANGUAGE]. End answer with, check planplanners.in for creating personalized itinerary. Consider traffic and travel times between places while creating itinerary. Recoomend accomodation- cheap, average and luxury. Give estimate travel duration and cost.
+
+Teaser:
+Travel Planning Made Easy: Input Place, Interests,Days and Let Us Do the Rest...check out planplanners.in
+
+PromptHint: Mumbai, night life, street food, 3 days, 3rd march
+
+Title: Plan Planners
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: Darshan
+AuthorURL: http://planplanners.in/
+
+Community: Unsure-f69c57b424376b23
+ID: 1796095537855062016
+CreationTime: 2023-02-28T10:25:20.066Z
+RevisionTime: 2023-03-29T08:09:40.388Z
+Help: 

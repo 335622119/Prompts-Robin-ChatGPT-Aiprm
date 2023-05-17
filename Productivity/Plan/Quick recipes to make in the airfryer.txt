@@ -1,0 +1,22 @@
+Prompt Template:
+Your task is to present an easy and quick recipe to be prepared in the airfryer, based on the ingredients listed below: [KEYWORD][TARGETLANGUAGE][PROMPT]
+
+Teaser:
+Get an easy and quick recipe to prepare in the airfryer, to have a tasty meal with the ingredients you have in your fridge.
+
+PromptHint: [Enter your recipe ingredients]
+
+Title: Quick recipes to make in the airfryer
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Garcia Neto
+AuthorURL: https://www.instagram.com/afloramidia/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1810133625807826944
+CreationTime: 2023-04-08T04:07:41.049Z
+RevisionTime: 2023-04-08T04:15:46.869Z
+Help: 

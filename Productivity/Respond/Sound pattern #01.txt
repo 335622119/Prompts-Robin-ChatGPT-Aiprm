@@ -1,0 +1,22 @@
+Prompt Template:
+[PROMPT] a list of [TARGETLANGUAGE] words bilt with: "consonant", "i", "consonant" and "e". 
+
+Teaser:
+Create a list of words with the sound pattern [IE]
+
+PromptHint: [Time]
+
+Title: Sound pattern #01
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: Raposo, Gutemberg
+AuthorURL: https://lipeidiomas.com.br
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1802261572782129152
+CreationTime: 2023-03-17T10:46:57.353Z
+RevisionTime: 2023-03-17T10:46:57.353Z
+Help: 

@@ -1,0 +1,23 @@
+Prompt Template:
+ [TARGETLANGUAGE] [PROMPT] Create 20 content ideas related to a [topic] make it interesting and beneficial.
+ [TARGETLANGUAGE] [PROMPT] add a short description to each idea.
+
+Teaser:
+ARE YOU A WRITER? Create 20 content ideas related to your [topic] that [your audience] would find interesting and beneficial.
+
+PromptHint:  [topic]
+
+Title: 20 Content Ideas Related To Any Topic
+
+Topic: Generative AI
+
+Activity: Dall-E
+
+AuthorName: Mark Felix
+AuthorURL: https://www.youtube.com/@ultraoffers4u710/videos
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1816333082794655744
+CreationTime: 2023-04-25T06:42:06.775Z
+RevisionTime: 2023-04-25T11:56:54.845Z
+Help: 

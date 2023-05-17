@@ -1,0 +1,23 @@
+Prompt Template:
+Write in [TARGETLANGUAGE]. Create [NUM] questions with answers for [PRODUCT]. Use each of keywords in exact form.
+ [PROMPT] 
+
+Teaser:
+Create keyword optimized FAQ for Product
+
+PromptHint: keywords
+
+Title: Create SEO optimized FAQ for Product
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: SoftOrbits
+AuthorURL: https://www.softorbits.net
+
+Community: Copywriting-00ea56f446414284
+ID: 1812696712163364864
+CreationTime: 2023-04-15T05:52:28.456Z
+RevisionTime: 2023-04-15T05:52:28.456Z
+Help: 

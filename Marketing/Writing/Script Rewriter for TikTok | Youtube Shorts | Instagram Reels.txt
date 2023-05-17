@@ -1,0 +1,24 @@
+Prompt Template:
+fix this youtube shorts video subtitle that is piece by piece in [TARGETLANGUAGE]
+[PROMPT]
+fix this given youtube shorts video subtitle that is piece by piece
+
+Teaser:
+Transform subtitles given piece by piece into meaningful short video script
+
+PromptHint: Paste video subtitle
+
+Title: Script Rewriter for TikTok | Youtube Shorts | Instagram Reels
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Seyit Colak
+AuthorURL: https://www.linkedin.com/in/seyit-a-colak-845b7617a/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1791198999152431104
+CreationTime: 2023-02-14T22:08:14.266Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

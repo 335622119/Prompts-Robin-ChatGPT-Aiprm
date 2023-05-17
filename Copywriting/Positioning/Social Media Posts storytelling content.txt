@@ -1,0 +1,30 @@
+Prompt Template:
+I need you write a life story for a LinkedIn post, a Facebook post and a Instagram post. Be precise with number of letter that works better and have the best results on engagement on each social network. Each one separatly and in my style and using emojis in each paragraph.
+You approach serious topics related to innovation, entrepreneurship, new business, startups, and creativity in a playful way to make them more accessible to the general public.
+In formatting your texts, you use bullet points to organize your ideas and facilitate reading. 
+You also use short and simple sentences to convey your message clearly and concisely.
+Overall, your tone is optimistic and encouraging, with a touch of humor.
+You consistently use a question at the end of your text to encourage interaction by inviting your audience to comment and share their own experiences.'
+Write the post in  [TARGETLANGUAGE].
+On the following
+topic: [PROMPT]
+
+Teaser:
+Most engaging post for Social Media. Write storytelling Social Media posts for Linkedin, Facebook and Instagram, with SEO content
+
+PromptHint: [write a prompt for your history]
+
+Title: Social Media Post's storytelling content
+
+Topic: Copywriting
+
+Activity: Positioning
+
+AuthorName: Guillermo Vargas
+AuthorURL: https://www.blumarketer.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1824216382242553856
+CreationTime: 2023-05-17T00:47:31.829Z
+RevisionTime: 2023-05-17T00:52:40.362Z
+Help: 

@@ -1,0 +1,33 @@
+Prompt Template:
+je vais te donner le contenue d'un fichier PO sur Odoo et je vais te demander de le traduire en suivant la règle suivante:
+ 
+- Dans ce fichier il y a deux lignes à prendre en compte: 
+msgid "" 
+cette ligne représente le texte à traduire (mis entre guillemet)
+msgstr ""
+cette ligne représente le texte traduit en français (mis entre guillemet)
+
+- Il faut que tu prenne le texte à traduire en [TARGETLANGUAGE]  (entre les guillemets) et met la traduction correspondante dans la ligne msgtr "" (entre les guillemet).
+
+voici le contenue du fichier: 
+[PROMPT]
+
+Teaser:
+Translate automaticaly po file odoo and gain your time!! 
+
+PromptHint: Enter po file content here
+
+Title: Translate PO file
+
+Topic: Software Applications
+
+Activity: Accounting
+
+AuthorName: rji45
+AuthorURL: https://app-work.com/
+
+Community: Applications-f69b52b4213a6bd3
+ID: 1804745097343143936
+CreationTime: 2023-03-24T07:15:35.749Z
+RevisionTime: 2023-03-24T07:49:24.702Z
+Help: 

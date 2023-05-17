@@ -1,0 +1,24 @@
+Prompt Template:
+Write a magazine-like introduction for: [Articletitle] It must include "what we will discuss" in one line given by the user as [Tableofcontent]. If the user give stats or facts or figure to discuss [STATS & FIGURES], so must include it as a hook initially in introduction. Output [TARGETLANGUAGE] will be Enlgish.
+
+[PROMPT]]
+
+Teaser:
+Create an introduction from title, table of content, and (facts, figure, and other info like statistics)
+
+PromptHint: [Articletitle] [Tableofcontent] [STATS & FIGURES]
+
+Title: Authoritative introduction
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Ahmed
+AuthorURL: http://ahmedbaig.co/
+
+Community: Copywriting-00ea56f446414284
+ID: 1789951997823410176
+CreationTime: 2023-02-11T11:33:05.981Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

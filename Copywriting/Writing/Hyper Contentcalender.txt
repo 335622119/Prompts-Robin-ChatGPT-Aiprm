@@ -1,0 +1,24 @@
+Prompt Template:
+Maak een contentkalender met 3 acties per week in [TARGETLANGUAGE] vanuit het bedrijf Mazars. Deel de kalender op in losse dagen en losse weken. Geef de tabel overzichtelijk weer in een tabel. De content is hyperpersoonlijk en maakt gebruik van een pakkende titel. Maak de content voor de volgende persona:
+
+[PROMPT] 
+
+Teaser:
+The ultimate content calendar
+
+PromptHint: Paste the persona here
+
+Title: Hyper Contentcalender
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Olivier
+AuthorURL: https://www.linkedin.com/in/olivier-van-berkel-879961168/
+
+Community: Copywriting-00ea56f446414284
+ID: 1824012136855375872
+CreationTime: 2023-05-16T11:15:55.933Z
+RevisionTime: 2023-05-16T11:20:15.762Z
+Help: 

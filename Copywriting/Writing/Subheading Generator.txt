@@ -1,0 +1,27 @@
+Prompt Template:
+I need you to give me bulleted list subheadings for the topics that I will provide you with. These subheadings should be unique and must not repeat themselves amongst different topics. The subheadings should be no longer than 50 characters each, including spaces. There should be atleast
+5 subheadings per topic.
+
+The prompts should be written in [TARGETLANGUAGE]
+
+The topics I want you to generate bulleted subheadings for is: [PROMPT]
+
+Teaser:
+Get Subheadings For Any Topic You Are Writing On. Useful if you are using Jasper and want to use your own outline.
+
+PromptHint: Enter your title here
+
+Title: Subheading Generator
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Aditya Banerjee
+AuthorURL: https://adityabanerjee.in/
+
+Community: Copywriting-00ea56f446414284
+ID: 1801462719359221760
+CreationTime: 2023-03-15T05:52:35.854Z
+RevisionTime: 2023-03-21T04:50:52Z
+Help: 

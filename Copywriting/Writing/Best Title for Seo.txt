@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to create an engaging headline about the word I give you, with a maximum width of 580 pixels. All output shall be in [TARGETLANGUAGE]. You will see the word here: 
+
+[PROMPT]
+
+Teaser:
+Create best title for seo 
+
+PromptHint: [keywords]
+
+Title: Best Title for Seo
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: ogulcanyituk
+AuthorURL: https://linktr.ee/ogulcanberkeyituk
+
+Community: Copywriting-00ea56f446414284
+ID: 1802730250074054656
+CreationTime: 2023-03-18T17:49:18.726Z
+RevisionTime: 2023-03-22T17:30:36.679Z
+Help: 

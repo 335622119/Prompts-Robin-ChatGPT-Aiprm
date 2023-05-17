@@ -1,0 +1,27 @@
+Prompt Template:
+How many hours and minutes between [PROMPT] in [TARGETLANGUAGE]
+
+Teaser:
+Would you like to determine the duration of your work on the to-do list in hours and minutes? For instance, working from 10 AM to 11:15 AM would be calculated as 1 hour and 15 minutes.
+
+
+
+
+
+
+PromptHint: [Enter the Time Between to]
+
+Title: Time Duration Calculator
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Aamir
+AuthorURL: https://nafran.com/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1799328040699031552
+CreationTime: 2023-03-09T08:30:08.801Z
+RevisionTime: 2023-03-15T05:53:46Z
+Help: 

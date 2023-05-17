@@ -1,0 +1,28 @@
+Prompt Template:
+Generate a list of search queries that appear as a featured snippet in Google's SERPs for a given any topic or title. List out only featured snippet appearing search queries and provide a reason why some queries may not appear as Featured Snippet as a note. 
+
+
+All output shall be in [TARGETLANGUAGE]
+
+The text to summarize is this: [PROMPT]
+
+
+Teaser:
+Dicover Featured Snippet search queries for your topic or title
+
+PromptHint: [enter your topic or title here]
+
+Title: Find featured snippet search queries
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Murthy at Next99
+AuthorURL: https://next99.com/?utm_source=ChatGPT&utm_medium=aiprm&utm_campaign=prompt_findFS
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1793596769100365824
+CreationTime: 2023-02-21T12:56:07.17Z
+RevisionTime: 2023-04-04T10:46:51.216Z
+Help: 

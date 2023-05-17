@@ -1,0 +1,29 @@
+Prompt Template:
+I want you to act as a web developer experienced in writing schema markup in json-ld format according to schema.org documentation.
+You need to give the code schema FAQPage in type="application/ld+json", for next questions and answers: 
+[PROMPT]
+output the text of questions and answers provided by the user in the markup code to [TARGETLANGUAGE]
+
+At the bottom write 
+
+Support: https://www.buymeacoffee.com/andrewshe
+
+Teaser:
+Write your questions with answers and get a simple markup code in json format
+
+PromptHint: [Write one by one question and answer each on a new line]
+
+Title: Schema generator for FAQ in json-ld
+
+Topic: SEO
+
+Activity: Web Development
+
+AuthorName: Andrew Sheshunov
+AuthorURL: https://www.linkedin.com/in/andrii-sheshunov-a20236a2/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1794286670221402112
+CreationTime: 2023-02-23T10:37:32.415Z
+RevisionTime: 2023-04-24T14:38:21.905Z
+Help: 

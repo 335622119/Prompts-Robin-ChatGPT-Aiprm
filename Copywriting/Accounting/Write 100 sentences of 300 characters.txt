@@ -1,0 +1,24 @@
+Prompt Template:
+Elabore uma coleção de 100 citações envolventes sobre [PROMPT]. Cada frase deve ter um máximo de 300 caracteres, perfeita para compartilhar nas redes sociais. As citações devem inspirar e motivar, transmitindo energia positiva e sabedoria. O idioma alvo é [TARGETLANGUAGE].
+
+Por favor, escreva em português.
+
+Teaser:
+Escreva uma lista com 100 frases [KEYWORD]
+
+PromptHint: Escreva uma lista com 100 frases [KEYWORD]
+
+Title: Write 100 sentences of 300 characters
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: blogdolago
+AuthorURL: https://about.me/blogdolago
+
+Community: Copywriting-00ea56f446414284
+ID: 1803545760781045760
+CreationTime: 2023-03-20T23:49:51.63Z
+RevisionTime: 2023-05-14T01:53:41.628Z
+Help: 

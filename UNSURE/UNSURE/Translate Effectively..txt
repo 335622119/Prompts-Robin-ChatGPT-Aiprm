@@ -1,0 +1,24 @@
+Prompt Template:
+Translate the following text to [TARGETLANGUAGE] in such a way that there are no syntax errors or awkward phrases, it is easily readable, but without losing the true meaning of the words and phrases:
+
+"[PROMPT]"
+
+Teaser:
+Translate accurately and effectively, without losing the original meaning of the text.
+
+PromptHint: [Type the text you want to translate]
+
+Title: Translate Effectively.
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: LeyvaCoatl
+AuthorURL: https://twitter.com/LeyvaCoatl
+
+Community: Unsure-f69c57b424376b23
+ID: 1804339164267929600
+CreationTime: 2023-03-23T04:22:33.762Z
+RevisionTime: 2023-03-23T04:22:33.762Z
+Help: 

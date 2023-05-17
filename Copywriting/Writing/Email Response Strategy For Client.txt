@@ -1,0 +1,25 @@
+Prompt Template:
+Your task is to act as an account manager and generate an email response to the text I give you. Please add suggestions on how to best serve the client as well. All output shall be in
+[TARGETLANGUAGE]. The email to respond to is this: 
+
+[PROMPT]
+
+Teaser:
+Respond to client email as account manager.
+
+PromptHint: [insert email text here]
+
+Title: Email Response Strategy For Client
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Marc Lande
+AuthorURL: https://www.mdsny.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1811589894502608896
+CreationTime: 2023-04-12T04:34:22.562Z
+RevisionTime: 2023-04-12T04:56:05.669Z
+Help: 

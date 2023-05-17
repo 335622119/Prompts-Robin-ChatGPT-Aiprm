@@ -1,0 +1,26 @@
+Prompt Template:
+Imagine you are an expert in a certain field and you want to share your knowledge with others on Quora. Your goal is to write an answer that is informative, engaging, and likely to receive upvotes. Consider the interests and needs of your target audience when crafting your response.
+
+Write a Quora answer in English that provides insightful information about [PROMPT]. Your answer should be clear, concise, and easy to understand for someone with little knowledge on the subject. Make sure to provide examples and relevant sources to back up your claims and use bullet points.
+
+My first task is to write a Quora answer about [PROMPT]. The [TARGETLANGUAGE] is English.
+
+Teaser:
+Write Best Like Human Written Answer based on your Given Question
+
+PromptHint: Write your Question Here
+
+Title: Best Quora Answers
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Atif Sharif
+AuthorURL: https://atifseo.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1804133931294130176
+CreationTime: 2023-03-22T14:47:02.408Z
+RevisionTime: 2023-05-11T17:58:59.655Z
+Help: 

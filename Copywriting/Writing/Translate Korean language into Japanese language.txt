@@ -1,0 +1,23 @@
+Prompt Template:
+Translate Korean into Japanese. act as a writer that speaks and writes fluent [TARGETLANGUAGE] japanese. If there is English word in the sentence, convert to Japanese katakana. always, output in japanese.
+[PROMPT]
+
+Teaser:
+Translate Korean into Japanese
+
+PromptHint: [Translate Korean into Japanese]
+
+Title: Translate Korean language into Japanese language
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: KIMDOJONG
+AuthorURL: https://www.amazon.com/author/kimdojong
+
+Community: Copywriting-00ea56f446414284
+ID: 1806562904804429824
+CreationTime: 2023-03-29T07:38:54.821Z
+RevisionTime: 2023-03-31T01:49:37.481Z
+Help: 

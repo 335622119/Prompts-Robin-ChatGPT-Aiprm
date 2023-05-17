@@ -1,0 +1,28 @@
+Prompt Template:
+Give 20 attention grabbing headlines and 10 attention grabbing descriptions for google ads ad copy in [TARGETLANGUAGE] language and related to [PROMPT] niche or keyword in table format separately.
+
+description and headline should follow the rules of google ad copy.
+
+Include promotional discount in at least 2 headlines.
+
+Avoid the word "academic" in both headlines and descriptions.
+
+Teaser:
+Create attention grabbing headlines and descriptions for your Google ad copy related to your niche or keywords
+
+PromptHint: Input your niche or keywords
+
+Title: Google Ads Ad-Copy Maker
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Hamza
+AuthorURL: https://www.articleshubs.com/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1806030227089129472
+CreationTime: 2023-03-27T20:22:14.557Z
+RevisionTime: 2023-04-08T21:34:28.478Z
+Help: 

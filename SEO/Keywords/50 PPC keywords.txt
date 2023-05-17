@@ -1,0 +1,22 @@
+Prompt Template:
+Give me 50 PPC keywords that could be used for "[PROMPT]" and created a table with the avg. monthly searches, and top to lowest page bid with competition ranging from (Low, Medium, high) [TARGETLANGUAGE]
+
+Teaser:
+50 PPC keywords
+
+PromptHint: keywords
+
+Title: 50 PPC keywords
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Wplynks
+AuthorURL: https://wplynks.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1796931705958031360
+CreationTime: 2023-03-02T17:47:58.077Z
+RevisionTime: 2023-03-02T17:47:58.077Z
+Help: 

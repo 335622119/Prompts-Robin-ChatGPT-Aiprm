@@ -1,0 +1,25 @@
+Prompt Template:
+Your task is to write all the nutritional components of a certain food. Write it in bullet points format and add explanation on each bullet point in detail. Each nutritional component should be in bold. All output shall be in [TARGETLANGUAGE]. The food is the following: 
+
+[PROMPT]
+
+
+Teaser:
+Nutritional components of any food
+
+PromptHint: [food to show nutritional components]
+
+Title: Nutritional Components Of Any Food
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: Arad
+AuthorURL: https://www.linkedin.com/in/arad-goller-a82705239/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1787200898985099264
+CreationTime: 2023-02-03T21:21:12.905Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

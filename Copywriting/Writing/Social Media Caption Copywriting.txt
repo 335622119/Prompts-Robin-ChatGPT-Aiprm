@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to write a social media post in [TARGETLANGUAGE]. The brief to use as reference for the social media post is the following:
+
+[PROMPT]
+
+Teaser:
+Social Media Post Generator - Based on Your Brief
+
+PromptHint: [Write the brief of you social media post]
+
+Title: Social Media Caption Copywriting
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: MRVN.ai
+AuthorURL: https://www.resknow.co.uk
+
+Community: Copywriting-00ea56f446414284
+ID: 1801944883364364288
+CreationTime: 2023-03-16T13:48:32.711Z
+RevisionTime: 2023-03-17T11:06:09Z
+Help: 

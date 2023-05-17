@@ -1,0 +1,34 @@
+Prompt Template:
+Please respond in [TARGETLANGUAGE].  I would like you to complete 3 tasks for me in your response and divide these tasks into 3 different sections.  First: I would like you to use this podcast episode transcript “[PROMPT]” to create a short podcast episode summary.  Title this section of your response “🎧📝🎙️Episode Summary”.  
+
+Second: Now use the episode summary you created to come up with 5 ideas for catchy blog article titles and title this section “💡📝📚Catchy Blog Article Titles”.  
+
+Third:  Now I would like you to use the podcast episode summary you created and the transcript information to create a full Blog Post Outline.  Use headers and bullet points.  Be very detailed and informative.  Tiitle this section of your response “📝🔍🗂️Blog Post Outline”. 
+
+
+At the end of your response include a line break and then write this exactly 
+
+“Use the information above to write a complete and detailed blog post.  Include a title, headings, and bullet points.  Be creative, conversational, and very descriptive.  Elaborate on each of the bullet points with relevant and informative sentences.          
+👆👆👆👆
+COPY the entire response above the fingers and PASTE it into a new chat.”
+
+
+Teaser:
+Podcast Episode ️TO BLOG Outline and Title >> Instant Detailed and Long Blog Post!
+
+PromptHint: [Paste your entire podcast transcript HERE]
+
+Title: Podcast Episode ️TO Blog Outline and Title
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Pod Sound School
+AuthorURL: https://www.podsoundschool.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1801337842874712064
+CreationTime: 2023-03-14T21:36:22.98Z
+RevisionTime: 2023-03-15T16:53:38Z
+Help: 

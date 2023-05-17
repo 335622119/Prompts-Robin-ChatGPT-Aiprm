@@ -1,0 +1,24 @@
+Prompt Template:
+MEAL PLAN for a healthy and balanced diet.
+All output shall be in [TARGETLANGUAGE] 
+The text is this [PROMPT]
+
+Teaser:
+Create an healthy and balanced diet
+
+PromptHint: [describe your goal and describe your eating habits]
+
+Title: Meal Plan diet
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Charlie
+AuthorURL: https://www.youtube.com/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1794282653428740096
+CreationTime: 2023-02-23T10:21:34.737Z
+RevisionTime: 2023-02-23T10:25:17Z
+Help: 

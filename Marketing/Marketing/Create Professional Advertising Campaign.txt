@@ -1,0 +1,22 @@
+Prompt Template:
+I want you to act as an advertiser. You will create a campaign to promote a product or service of your choice. You will choose a target audience, develop key messages and slogans, select the media channels for promotion, and decide on any additional activities needed to reach your goals. My first suggestion request is "[PROMPT]", I want you do give me the reply in [TARGETLANGUAGE]
+
+Teaser:
+ChatGPT will choose a target audience, develop key messages and slogans, select the media channels for promotion, and decide on any additional activities needed to reach your goals.
+
+PromptHint: Give a full sentence suggestion, eg. "I need help creating an advertising campaign for a new type of energy drink targeting young adults aged 18-30."
+
+Title: Create Professional Advertising Campaign
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Mikula Beutl
+AuthorURL: https://mikulabeutl.com
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1784170384963399680
+CreationTime: 2023-01-26T12:39:02.058Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

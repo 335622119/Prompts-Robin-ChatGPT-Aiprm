@@ -1,0 +1,23 @@
+Prompt Template:
+Your task is to rewrite the entire text in better words and make it unique with natural language. All output shall be in [TARGETLANGUAGE]. The text to rewrite it is this:
+[PROMPT]
+
+Teaser:
+rewrite the text in best possible way
+
+PromptHint: Paste Here
+
+Title: Rewrite the Entire Text
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Umar
+AuthorURL: https://legitapk.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1801289673260404736
+CreationTime: 2023-03-14T18:24:58.449Z
+RevisionTime: 2023-03-14T18:25:20Z
+Help: 

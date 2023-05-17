@@ -1,0 +1,22 @@
+Prompt Template:
+Please translate the text to [TARGETLANGUAGE] but do not change the code elemtents. I just want you to translate the text. Here is the code: [PROMPT]
+
+Teaser:
+Translate text within code to another language, but leave code elements as they are (i.e. for WPML)
+
+PromptHint: Enter your code
+
+Title: Translate text within code elements
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Phishman
+AuthorURL: https://www.linkedin.com/in/patrick-schmidt-092b13b4/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1794376914773995520
+CreationTime: 2023-02-23T16:36:08.393Z
+RevisionTime: 2023-02-23T16:37:02Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+What is [PROMPT]  [TARGETLANGUAGE] 
+
+Teaser:
+what type is good
+
+PromptHint: what type is good
+
+Title: StudyWade
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Wade
+AuthorURL: https://www.pandamech.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1805851285879259136
+CreationTime: 2023-03-27T08:31:11.648Z
+RevisionTime: 2023-03-27T08:31:11.648Z
+Help: 

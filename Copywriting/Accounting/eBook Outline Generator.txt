@@ -1,0 +1,22 @@
+Prompt Template:
+Create best Ebook Outline on [PROMPT]. All output shall be in  [TARGETLANGUAGE]
+
+Teaser:
+Create the best ebook Outline. Enter your title and let the AI do the Work
+
+PromptHint: [Enter Your Ebook topic}
+
+Title: eBook Outline Generator
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Lawal Lekan Ridwan
+AuthorURL: https://www.producthunt.com/products/1000-chatgpt-prompts-for-all
+
+Community: Copywriting-00ea56f446414284
+ID: 1783559590085132288
+CreationTime: 2023-01-24T20:11:57.211Z
+RevisionTime: 2023-03-24T14:14:05.922Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+I want you to act as a fancy title generator. Give me the title in the language [TARGETLANGUAGE]. I will type keywords via comma and you will reply with fancy titles. my first keywords are: [PROMPT]
+
+Teaser:
+You will get fancy titles! Type keywords separarted by a comma for the title, Example keywords are: api,test,automation
+
+PromptHint: [your list of keywords separated by comma]
+
+Title: Fancy Title Generator
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Mikula Beutl
+AuthorURL: https://mikulabeutl.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1784171557598527488
+CreationTime: 2023-01-26T12:43:41.636Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

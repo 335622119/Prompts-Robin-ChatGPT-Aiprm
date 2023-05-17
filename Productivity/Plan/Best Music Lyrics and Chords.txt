@@ -1,0 +1,27 @@
+Prompt Template:
+Give me the chord progression and a list of five chord progresion suggestions with 
+scale changes and chord variations in Roman numerals of this popular song: [PROMPT]
+Tell me why the song [PROMPT] has become a hit and what topics does it cover
+Also create 5 song chorus with similar topics
+Finally recommend me 5 songs similar to [PROMPT]
+Please provide all responses in [TARGETLANGUAGE]
+
+Teaser:
+Best Music Lyrics and Chords
+
+PromptHint: [Put the Title of the SONG]
+
+Title: Best Music Lyrics and Chords
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Walzos
+AuthorURL: https://www.facebook.com/walzos/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1791664679538647040
+CreationTime: 2023-02-16T04:58:41.122Z
+RevisionTime: 2023-03-05T16:54:23Z
+Help: 

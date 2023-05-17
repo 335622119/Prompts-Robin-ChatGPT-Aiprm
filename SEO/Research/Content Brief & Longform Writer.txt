@@ -1,0 +1,37 @@
+Prompt Template:
+Only respond in [TARGETLANGUAGE]
+Use the skyscraper and 10x techniques to create an article that is 10x more helpful.
+
+This content brief/article is about: [PROMPT]
+
+*10+ H2 headers, and however many H3 and H4 as needed 
+*1 primary keyword, 10 secondary keywords 
+*Title SEO optimized for primary Keyword in the style of Upwothy or Cosmo
+*Ideal number of words, images, headings, and paragraphs
+*10 Qs about the primary keyword (FAQs in the H2 tag; questions are H3, answer is regular, 45–60 words)
+
+Then, use the outline to write the article (just continue writing if response limit is hit) beginning with the introduction using a quote, stat, or scene-setting hook that uses a casual yet informative tone to write in a scannable and engaging format (bulleted lists, numbered lists, charts, tables, etc.)
+
+Most important of all, use external links to high DA websites as often as possible.
+
+(At the end of the actual article) write a Meta Title, Meta description, and blog tags. 
+
+Teaser:
+Content Brief & Long Form Writing Prompt
+
+PromptHint: (Headings, Keywords, Questions, etc)
+
+Title: Content Brief & Longform Writer
+
+Topic: SEO
+
+Activity: Research
+
+AuthorName: Chi Chi Crew Shop
+AuthorURL: https://chichicrew.shop
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1785620599591407616
+CreationTime: 2023-01-30T12:41:40.169Z
+RevisionTime: 2023-05-12T00:06:04.52Z
+Help: 

@@ -1,0 +1,23 @@
+Prompt Template:
+Create a 10 doman name in [TARGETLANGUAGE] suggestor depending upon following information typed in sequence separated by | first parameter is industry second is niche and third is the domin name length without extension [PROMPT]
+
+
+Teaser:
+Generate A List of 10 Domain Name Suggestion For Your Business
+
+PromptHint: [industry|niche|max_length] eg food|burger|6
+
+Title: Domain Name Suggestor
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: WebTantras
+AuthorURL: https://youtube.com/@webtantras?sub_confirmation=1
+
+Community: Copywriting-00ea56f446414284
+ID: 1800461912547516416
+CreationTime: 2023-03-12T11:35:44.916Z
+RevisionTime: 2023-03-12T12:14:34Z
+Help: 

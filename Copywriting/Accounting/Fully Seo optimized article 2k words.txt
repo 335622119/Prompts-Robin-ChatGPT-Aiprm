@@ -1,0 +1,26 @@
+Prompt Template:
+Your task is to Write the best unique and human-written article minimum of 1000 words. All output Shall be in [TARGETLANGUAGE]. the text is here 
+Always Write : ( this is a link to my site so write it in 2 times in article ( https://www.thebalancedlifeinspiration.com/ ) 
+and write nicely to grab the viewer's attention visit here) Remember
+
+[PROMPT]
+
+Teaser:
+Write a fully Seo Detailed Article and a good pattern 
+
+PromptHint: keyword here
+
+Title: Fully Seo optimized article 2k words
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Faizan
+AuthorURL: https://www.thebalancedlifeinspiration.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1795321810087317504
+CreationTime: 2023-02-26T07:10:48.991Z
+RevisionTime: 2023-02-26T07:36:02Z
+Help: 

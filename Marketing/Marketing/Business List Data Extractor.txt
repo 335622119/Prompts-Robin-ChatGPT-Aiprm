@@ -1,0 +1,22 @@
+Prompt Template:
+Extract business names and phone number from the following data, if there is no phone number put 'n/a' after the business name so they keep proper order, output phone numbers to '000-000-0000' format, output in table format, in the [TARGETLANGUAGE] language: [PROMPT]
+
+Teaser:
+Extract the business name and phone number from raw data (Google Maps copy & paste) Outputs in Table format
+
+PromptHint: Lead gen, Lead Generation, Business List Maker, Data Cleaning
+
+Title: Business List Data Extractor
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Kyler Edginton
+AuthorURL: https://www.habilitat.com/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1823835015818244096
+CreationTime: 2023-05-15T23:32:06.987Z
+RevisionTime: 2023-05-15T23:32:06.987Z
+Help: 

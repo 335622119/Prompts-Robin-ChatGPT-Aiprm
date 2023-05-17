@@ -1,0 +1,26 @@
+Prompt Template:
+Giving to 1000 words for Articles
+[TARGETLANGUAGE]
+
+[PROMPT]
+
+
+Teaser:
+[Giving Your Article]
+
+PromptHint: [Giving Your Keyword]
+
+Title: write SEO friendly Article
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: dhvani
+AuthorURL: https://digitaldhvani.blogspot.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1794314471074955264
+CreationTime: 2023-02-23T12:28:00.655Z
+RevisionTime: 2023-03-22T11:18:53Z
+Help: 

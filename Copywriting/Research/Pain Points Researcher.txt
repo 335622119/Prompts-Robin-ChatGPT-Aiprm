@@ -1,0 +1,25 @@
+Prompt Template:
+Act as researcher and make me a bullet list in [TARGETLANGUAGE] about main pain points, angles and problems that people associate certain product or service. Product or service is this:
+
+[PROMPT] 
+
+Teaser:
+Create a list of problems that are most often linked to the product.
+ 
+
+PromptHint:  [product description you want research for] 
+
+Title: Pain Points Researcher
+
+Topic: Copywriting
+
+Activity: Research
+
+AuthorName: InfoMA
+AuthorURL: https://www.google.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1791423174110601216
+CreationTime: 2023-02-15T12:59:01.741Z
+RevisionTime: 2023-03-06T12:55:19Z
+Help: 

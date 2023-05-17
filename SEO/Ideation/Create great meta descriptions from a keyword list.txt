@@ -1,0 +1,24 @@
+Prompt Template:
+Target Language is [TARGETLANGUAGE]
+Turn each of the following keywords into a compelling 2nd person meta description. Includes the keyword, exactly as it's written in the list below, near the beginning of the meta description. The entire description must be at least 130 characters in length, but no longer than 160 characters in length:
+[PROMPT]
+
+Teaser:
+Let the AI create some killer, high conversion meta descriptions to use with blog posts.
+
+PromptHint: [Keyword List]
+
+Title: Create great meta descriptions from a keyword list
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Joe Newell
+AuthorURL: https://theaiwriter.com/create-great-meta-descriptions-with-keywords/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1788844703798792192
+CreationTime: 2023-02-08T10:13:06.513Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

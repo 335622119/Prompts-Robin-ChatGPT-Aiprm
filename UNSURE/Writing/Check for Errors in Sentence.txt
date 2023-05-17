@@ -1,0 +1,22 @@
+Prompt Template:
+Are there any errors in the sentence "[PROMPT]"? Check and response in language [TARGETLANGUAGE].
+
+Teaser:
+Please check for errors in the sentence to be typed.
+
+PromptHint: Type sentence here
+
+Title: Check for Errors in Sentence
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: Bytebio
+AuthorURL: https://www.bytebio.com/?utm_source=chatgpt
+
+Community: Unsure-f69c57b424376b23
+ID: 1794313236733231104
+CreationTime: 2023-02-23T12:23:06.365Z
+RevisionTime: 2023-02-23T12:49:15Z
+Help: 

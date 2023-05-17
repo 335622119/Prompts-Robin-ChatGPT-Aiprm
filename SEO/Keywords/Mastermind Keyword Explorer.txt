@@ -1,0 +1,32 @@
+Prompt Template:
+[PROMPT]  [TARGETLANGUAGE] I want you to act like a SEO Keywords Explorer. I will give you the company product or services and you will give the top 10 keywords category based on the following:
+1. Seed keywords
+2. Keywords by search intent
+3. Long-tail keywords (topical and supporting)
+4. Low-competition keywords
+5. Niche keywords
+6. Branded and unbranded keywords
+7. Your competitors' keywords
+8. Primary and secondary keywords
+I dont need explanations. Do you understand? [TARGETLANGUAGE][PROMPT]
+
+
+Teaser:
+Mastermind Keyword Explorer
+
+PromptHint: Seed Keywords
+
+Title: Mastermind Keyword Explorer
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Zee S.D.
+AuthorURL: https://inceptiondomains.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1801266819194159104
+CreationTime: 2023-03-14T16:54:09.615Z
+RevisionTime: 2023-03-16T11:34:44Z
+Help: 

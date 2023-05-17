@@ -1,0 +1,24 @@
+Prompt Template:
+[TARGETLANGUAGE] و [PROMPT] 
+
+
+
+Teaser:
+"Learn the secrets of smart online shopping and enjoy a comfortable and enjoyable experience"
+
+PromptHint: [english]
+
+Title: the shopping
+
+Topic: Generative AI
+
+Activity: Dall-E
+
+AuthorName: GASAMIN  BATILIA
+AuthorURL: http://www.comthe shopping
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1811508939582603264
+CreationTime: 2023-04-11T23:12:41.405Z
+RevisionTime: 2023-04-11T23:12:41.405Z
+Help: 

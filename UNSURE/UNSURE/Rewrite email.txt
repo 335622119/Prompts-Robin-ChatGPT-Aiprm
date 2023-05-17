@@ -1,0 +1,24 @@
+Prompt Template:
+Rewrite this email, make it look professional and correct grammar. It should be in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Type your email and let ChatGPT make it look professional and correct grammar for you
+
+PromptHint: [Rewrite this email]
+
+Title: Rewrite email
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: D. Aslam
+AuthorURL: https://www.instagram.com/dh.aslam/
+
+Community: Unsure-f69c57b424376b23
+ID: 1796816388074246144
+CreationTime: 2023-03-02T10:09:44.151Z
+RevisionTime: 2023-03-02T10:30:07Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Write SEO-friendly, frequently asked questions in Q&A style about [PROMPT] in [TARGETLANGUAGE], include keywords relevant to [PROMPT] in the answers. Avoid keyword stuffing. Avoid repeating words in questions and answers.
+
+Teaser:
+Simply enter the topic name to get SEO-friendly FAQs written in Q&A style. Use "more" to get additional FAQs after content generation.
+
+PromptHint: Enter Topic Name
+
+Title: Faq Generator
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Roocha Pradhan
+AuthorURL: https://www.linkedin.com/in/roocha-pradhan-16778826/
+
+Community: Copywriting-00ea56f446414284
+ID: 1800790917620428800
+CreationTime: 2023-03-13T09:23:05.838Z
+RevisionTime: 2023-05-10T07:15:34.535Z
+Help: 

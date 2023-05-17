@@ -1,0 +1,24 @@
+Prompt Template:
+you task is to add the Keyword i give you a 100+ keyword ideas with synonyms of keywords, search volume and CPC, KD, competing products, suggested bid,  Max and min bid in table format for SEO . All output shall be in [TARGETLANGUAGE].The keywords to summarize is this.
+
+[PROMPT]
+
+Teaser:
+Keyword research with Search volume, CPC, Competing Products, KD, Suggested, minimum and maximum bid for SEO optimization. Get better ideas of keywords.
+
+PromptHint: [Keyword]
+
+Title: Keyword Research| Search Volume| CPC| KD| bid
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: M Khayam
+AuthorURL: https://www.linkedin.com/in/muhammad-khayam-1b8263261/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1793905723655315456
+CreationTime: 2023-02-22T09:23:47.676Z
+RevisionTime: 2023-02-22T15:27:31Z
+Help: 

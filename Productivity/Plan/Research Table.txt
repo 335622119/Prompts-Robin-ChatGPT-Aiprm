@@ -1,0 +1,23 @@
+Prompt Template:
+[Return only the main response. Remove pre-text and post-text.] List the following in a good formatted table with a minimum of 5 rows and if useful a maximum of 20 rows in an appropriate order, giving the table an appropriate caption. The table contains a minimum of 5 columns in german with appropriate attributes: [PROMPT]
+[Output Language: [TARGETLANGUAGE]]
+
+Teaser:
+Create an awesome Table for Research with the most appropriate attributes as columns.
+
+PromptHint: Examples: movie stars, the 5 most exiting games, most famous songs from the rolling stones, the 5 best movies from brad pitt including imdb rating
+
+Title: Research Table
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Marc Abromeit
+AuthorURL: https://www.linkedin.com/in/marcabromeit/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1782340887876206592
+CreationTime: 2023-01-21T11:29:15.962Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

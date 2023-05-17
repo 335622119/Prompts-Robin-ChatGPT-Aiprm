@@ -1,0 +1,30 @@
+Prompt Template:
+Give me a text of 1800 words long. Make a professional and educational piece about the next topic and, using 2 reference links, also use the following focus keyphrase. I wil give the info like this: "topic", "URL1", "URL2", "Keyphrase".
+
+Include please a meta description 22 words long and 6 FAQs with answers. 
+
+I want you to try it with these: [PROMPT]. 
+
+Make it user-friendly separating the content sections in headings and use SEO best practices using keywords relevant for the topic, and including the focus keyword as the Yoast plugin parameters would demand. 
+
+Return the text in perfect [TARGETLANGUAGE].
+
+Teaser:
+Create a betting guide from [TOPIC] [URL] [URL] [focuskeyphrase] in a minute 
+
+PromptHint: [topic], [url], [url], [Focus keyphrase]
+
+Title: Betting Guides
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Judyta
+AuthorURL: htttp:\\www.judyta.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1797297395974004736
+CreationTime: 2023-03-03T18:01:05.371Z
+RevisionTime: 2023-05-15T16:25:16.489Z
+Help: 

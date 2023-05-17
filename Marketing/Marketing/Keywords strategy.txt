@@ -1,0 +1,22 @@
+Prompt Template:
+keyword list including placeholders [TARGETLANGUAGE] or [PROMPT] automatically replaced AIPRM
+
+Teaser:
+Create keywords to use in your online ads
+
+PromptHint: [KEYWORD] ou [lista de palavra-chave, maximo ca.  2000]
+
+Title: Keywords strategy
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Valk
+AuthorURL: https://www.walkagencia.com.br/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1799459351778562048
+CreationTime: 2023-03-09T17:11:55.802Z
+RevisionTime: 2023-03-09T17:11:55.802Z
+Help: 

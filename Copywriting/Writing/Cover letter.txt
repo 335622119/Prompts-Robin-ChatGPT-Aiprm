@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE] and [PROMPT]Write a cover letter for this resume with first person perspective 
+
+Teaser:
+paste your resume here
+
+PromptHint: resume to cover letter
+
+Title: Cover letter
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Kaustubh joshi
+AuthorURL: https://openai.com/blog/chatgpt
+
+Community: Copywriting-00ea56f446414284
+ID: 1793376051414691840
+CreationTime: 2023-02-20T22:19:03.973Z
+RevisionTime: 2023-03-18T18:39:17Z
+Help: 

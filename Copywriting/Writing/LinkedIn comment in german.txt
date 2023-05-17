@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to comment on a LinkedIn-Post in 3 sentences and with 2 hashtags. Use a sympathetic and friendly tone with a direct approach. All output shall be in [TARGETLANGUAGE]. Please do not use a salutation at the beginnung of your comment. The text to comment is on this URL:
+
+[PROMPT]
+
+Teaser:
+Comment on a LinkedIn-Post in german
+
+PromptHint: [Url of LinkedIn-Post]
+
+Title: LinkedIn comment in german
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Stefan St.
+AuthorURL: https://linktr.ee/linkedinkommentar
+
+Community: Copywriting-00ea56f446414284
+ID: 1813469115147616256
+CreationTime: 2023-04-17T09:01:43.678Z
+RevisionTime: 2023-05-02T11:51:16.381Z
+Help: 

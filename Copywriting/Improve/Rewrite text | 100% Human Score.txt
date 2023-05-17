@@ -1,0 +1,24 @@
+Prompt Template:
+When it comes to writing content, three factors are crucial, "perplexity", "burstiness", and "predictability." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Finally, predictability is how likely someone is to guess the next sentence.Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. I also need it to have a low amount of predictability. You must also write in [TARGETLANGUAGE] only. Now, rewrite the following text: 
+
+[PROMPT]
+
+Teaser:
+Rewrites your text to generate 100% human content
+
+PromptHint: Your paragraph goes here
+
+Title: Rewrite text | 100% Human Score
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: Sami Yousef
+AuthorURL: https://blog.samiyousef.ca/?ref=chatgpt
+
+Community: Copywriting-00ea56f446414284
+ID: 1789816907139112960
+CreationTime: 2023-02-11T02:36:17.852Z
+RevisionTime: 2023-02-21T07:50:49Z
+Help: 

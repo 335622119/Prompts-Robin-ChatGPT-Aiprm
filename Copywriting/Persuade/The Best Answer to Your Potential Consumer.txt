@@ -1,0 +1,25 @@
+Prompt Template:
+
+You must give me a good objection-breaking answer to convince a potential customer to buy my product. All output shall be in [TARGETLANGUAGE]. You should give me this answer based on the following information:
+
+[PROMPT]
+
+Teaser:
+Create the best answer to convince your potential consumer to buy your product
+
+PromptHint: [product name, price, benefits, garantee and objection]
+
+Title: The Best Answer to Your Potential Consumer
+
+Topic: Copywriting
+
+Activity: Persuade
+
+AuthorName: Tiago Brendon
+AuthorURL: https://www.instagram.com/tiagobrendon/
+
+Community: Copywriting-00ea56f446414284
+ID: 1804161375799611392
+CreationTime: 2023-03-22T16:36:05.688Z
+RevisionTime: 2023-03-22T16:38:49Z
+Help: 

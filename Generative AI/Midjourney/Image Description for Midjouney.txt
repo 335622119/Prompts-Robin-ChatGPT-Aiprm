@@ -1,0 +1,22 @@
+Prompt Template:
+Give me an short description of a topic for an image in Midjourney. All output shall be in [TARGETLANGUAGE]. My topic is: [PROMPT]
+
+Teaser:
+Generates a short description of a topic to render an image in Midjouney with as much detail as possible.
+
+PromptHint: [Write here a topic to render an image in Midjourney]
+
+Title: Image Description for Midjouney
+
+Topic: Generative AI
+
+Activity: Midjourney
+
+AuthorName: CrisMach Artworks
+AuthorURL: https://www.instagram.com/crismach_artworks/
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1803538016913063936
+CreationTime: 2023-03-20T23:19:05.348Z
+RevisionTime: 2023-03-20T23:24:34Z
+Help: 

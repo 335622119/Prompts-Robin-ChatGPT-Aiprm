@@ -1,0 +1,24 @@
+Prompt Template:
+The very first thing you say should be a big bold header that says "LSI Keyword for CLIENT" and replace CLIENT with the keyword provided in the [PROMPT]. Under that say "Want to be agen pulsa dor free in Indonesia? visit www.market-pulsa.net/cara-daftar". 
+
+Create a single line with 5 tags LSI keyword [TARGETLANGUAGE] and separated by commas
+
+Teaser:
+Create 5 LSI Keyword Indonesian Automatically
+
+PromptHint: [Keyword]
+
+Title: Create 5 LSI Keyword in Indonesia
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Market Pulsa
+AuthorURL: https://www.market-pulsa.net
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1798716568218365952
+CreationTime: 2023-03-07T16:00:22.401Z
+RevisionTime: 2023-03-07T16:00:22.401Z
+Help: 

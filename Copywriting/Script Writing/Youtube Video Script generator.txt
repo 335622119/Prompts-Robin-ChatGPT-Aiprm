@@ -1,0 +1,27 @@
+Prompt Template:
+Act as a Professional writer and Write Professional Script for Youtube Video or Products using the keyword 
+[TARGETLANGUAGE]. The text
+
+[PROMPT]
+
+
+Teaser:
+Pro Youtube Long Video Script Writer:  Just a Click Write Professional Long Video Script for Your Youtube Video! Video description generator, Video title generator, Video ranking, Amazon Article Writer, Product Description Writing, Informational Article Writer, Facebook Add video, tiktok, twitter, linkdin, fiverr, SEO, backlink 
+H Tag, and Best to rank #1 on Google youtube,seo Meta-Title & Description + Content rewriter
+
+PromptHint: [keyword] or [Topic]
+
+Title: Youtube Video Script generator
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: KAMAL-SEO RANK
+AuthorURL: https://www.buymeacoffee.com/atozdigital
+
+Community: Copywriting-00ea56f446414284
+ID: 1796936017706749952
+CreationTime: 2023-03-02T18:05:06.078Z
+RevisionTime: 2023-03-02T20:38:34Z
+Help: 

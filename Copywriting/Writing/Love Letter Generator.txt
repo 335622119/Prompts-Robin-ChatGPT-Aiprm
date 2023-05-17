@@ -1,0 +1,24 @@
+Prompt Template:
+[TARGETLANGUAGE]. 
+
+Generate a Love Letter with this name [PROMPT] [PROMPT] less than 60 words
+
+Teaser:
+Create Love Note For your partner
+
+PromptHint: [Partner Name , Your Name]
+
+Title: Love Letter Generator
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Rakesh RR
+AuthorURL: https://generate-email.online/
+
+Community: Copywriting-00ea56f446414284
+ID: 1805157311833178112
+CreationTime: 2023-03-25T10:33:35.342Z
+RevisionTime: 2023-03-25T10:47:54.818Z
+Help: 

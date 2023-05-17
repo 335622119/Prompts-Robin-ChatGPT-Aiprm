@@ -1,0 +1,24 @@
+Prompt Template:
+Read below the topic and create title for Wikipedia citation on "[PROMPT]" with the citation link.
+[TOPIC]
+Write in [TARGETLANGUAGE]
+
+Teaser:
+Create Title For Wikipedia Citation
+
+PromptHint: Enter Topic In ""
+
+Title: Wikipedia Link Outreach
+
+Topic: SEO
+
+Activity: Outreach
+
+AuthorName: Phantom Marketing
+AuthorURL: https://phantommarketing.org
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1804210280167895040
+CreationTime: 2023-03-22T19:50:25.398Z
+RevisionTime: 2023-05-03T13:03:05.887Z
+Help: 

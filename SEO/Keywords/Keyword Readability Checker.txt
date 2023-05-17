@@ -1,0 +1,25 @@
+Prompt Template:
+Your task is to calculate the readability of the article. In the end add total percent of keyword readability in text. All output shall be in [TARGETLANGUAGE]. 
+
+[PROMPT]
+
+Teaser:
+Improve your content readabilty for SEO and make your article perfect! 
+
+
+PromptHint: [Paste text]
+
+Title:  Keyword Readability Checker
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: SaldoInvoice
+AuthorURL: https://saldoinvoice.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1800435549362978816
+CreationTime: 2023-03-12T09:50:59.443Z
+RevisionTime: 2023-03-15T12:52:30Z
+Help: 

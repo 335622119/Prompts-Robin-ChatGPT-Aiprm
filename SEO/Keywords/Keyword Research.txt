@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE] and [PROMPT]
+
+Teaser:
+Create a keyword research for real estate agents in Newnan GA for Military
+
+PromptHint: real estate agents in Newnan GA for Military
+
+Title: Keyword Research
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: sheila
+AuthorURL: https://www.drhorton.com/georgia/atlanta/newnan/genesee
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1810659450806341632
+CreationTime: 2023-04-09T14:57:07.498Z
+RevisionTime: 2023-04-09T14:57:07.498Z
+Help: 

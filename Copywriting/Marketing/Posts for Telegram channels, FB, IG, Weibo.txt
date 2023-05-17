@@ -1,0 +1,24 @@
+Prompt Template:
+Write a post for the channel's telegrams and shorten the characters to 4096, use all the necessary emojis. All output shall be in [TARGETLANGUAGE] 
+
+[PROMPT]
+
+Teaser:
+Generate eye-catching posts for Telegram channels, Facebook Page, Instagram, WeChat Moments,  Weibo based on any article or blog.
+
+PromptHint: Topic
+
+Title:  Posts for Telegram channels, FB, IG, Weibo
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: 陈沩亮博客
+AuthorURL: https://www.chenweiliang.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1795584383911202816
+CreationTime: 2023-02-27T00:34:11.469Z
+RevisionTime: 2023-05-16T16:21:18.441Z
+Help: 

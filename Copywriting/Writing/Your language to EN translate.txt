@@ -1,0 +1,22 @@
+Prompt Template:
+Translate the following [TARGETLANGUAGE] text to english using vocabulary and expressions of a native of the United Kingdom : [PROMPT]
+
+Teaser:
+Translate your text to EN, even better than Google translate !
+
+PromptHint: [COPY/PASTE YOUR TEXT]
+
+Title: Your language to EN translate
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Stride-up
+AuthorURL: https://www.stride-up.fr/
+
+Community: Copywriting-00ea56f446414284
+ID: 1792118557400887296
+CreationTime: 2023-02-17T11:02:14.037Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

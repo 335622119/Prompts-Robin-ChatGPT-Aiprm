@@ -1,0 +1,22 @@
+Prompt Template:
+write a funny youtube comment about the youtube video called "[PROMPT]". Only write it in [TARGETLANGUAGE] and do not repeat yourself.
+
+Teaser:
+Write funny youtube comments based off title
+
+PromptHint: [YOUTUBE TITLE]
+
+Title: Write funny youtube comments about a video title
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Kxffie
+AuthorURL: https://www.youtube.com/channel/UCoKzETf2enGb9eGPXiLZBEA?sub_confirmation=1
+
+Community: Unsure-f69c57b424376b23
+ID: 1786509677832691712
+CreationTime: 2023-02-01T23:34:32.94Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

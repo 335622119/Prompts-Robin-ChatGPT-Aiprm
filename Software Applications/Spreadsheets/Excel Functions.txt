@@ -1,0 +1,22 @@
+Prompt Template:
+Please explain what the following Excel function does:  [PROMPT] Explain it in an easy-to-understand way and provide example usage. All output should be in [TARGETLANGUAGE].
+
+Teaser:
+Provides easy-to-understand explanation for Microsoft Excel functions with examples.
+
+PromptHint: [Name of the Excel function]
+
+Title: Excel Functions
+
+Topic: Software Applications
+
+Activity: Spreadsheets
+
+AuthorName: Tamas Dukai
+AuthorURL: https://t-urls.com/USNSF
+
+Community: Applications-f69b52b4213a6bd3
+ID: 1797960885868945408
+CreationTime: 2023-03-05T13:57:33.689Z
+RevisionTime: 2023-03-05T16:50:07Z
+Help: 

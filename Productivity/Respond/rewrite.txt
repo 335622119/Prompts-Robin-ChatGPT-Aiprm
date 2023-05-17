@@ -1,0 +1,22 @@
+Prompt Template:
+rewrite the following concisely in [TARGETLANGUAGE]:[PROMPT]
+
+Teaser:
+rewrite concisely
+
+PromptHint: Write here something you want to rewrite
+
+Title: rewrite
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: Genv
+AuthorURL: https://www.ncsu.edu
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1800313193424490496
+CreationTime: 2023-03-12T01:44:47.514Z
+RevisionTime: 2023-03-12T01:44:47.514Z
+Help: 

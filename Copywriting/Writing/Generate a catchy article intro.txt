@@ -1,0 +1,23 @@
+Prompt Template:
+Rewrite it plagrism-free [TARGETLANGUAGE] for the given [PROMPT]  
+
+
+Teaser:
+Generate a beautifule article introduction
+
+PromptHint: [articleIntro]
+
+Title: Generate a catchy article intro
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Ankit shrivastava
+AuthorURL: https://twitter.com/iamankitshri
+
+Community: Copywriting-00ea56f446414284
+ID: 1814959766531989504
+CreationTime: 2023-04-21T11:45:02.663Z
+RevisionTime: 2023-04-28T22:12:35.72Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Ecris moi en [TARGETLANGUAGE] avec un langage très soutenu un paragraphe optimisé seo à la manière d'un rédacteur SEO professionnel afin d'informer le lecteur sur : [PROMPT]
+
+Teaser:
+Paragraph writing
+
+PromptHint: [Sujet] (to add KW : and include : (your keywords)
+
+Title: Paragraph seo
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Lefab
+AuthorURL: https://www.fabgency.fr
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1802243786903130112
+CreationTime: 2023-03-17T09:36:16.868Z
+RevisionTime: 2023-03-17T09:58:19Z
+Help: 

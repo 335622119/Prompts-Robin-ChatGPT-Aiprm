@@ -1,0 +1,28 @@
+Prompt Template:
+In [TARGETLANGUAGE] create a description for a Youtube video using the following information.
+
+Give 5 variations of this title [PROMPT] with maximum 55 characters
+
+create a list of 30 tags for the YouTube videos below with a coma between each tag and a space between each word within the tag.
+
+create a description of this video using 3 of the tags without exceeding 300 characters 
+
+Teaser:
+Create a list of tags/keywords, descriptions, and title variations from Youtube video titles
+
+PromptHint: [Enter the title of the YouTube video]
+
+Title: YouTube SEO/Keyword Template
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Joe Martin
+AuthorURL: https://joemartinassoc.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1796968691032915968
+CreationTime: 2023-03-02T20:14:56.006Z
+RevisionTime: 2023-03-02T20:14:56.006Z
+Help: 

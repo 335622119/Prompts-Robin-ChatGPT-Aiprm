@@ -1,0 +1,24 @@
+Prompt Template:
+Write a post for the channel's telegrams and shorten the characters to 4096, use all the necessary emojis. All output shall be in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Generating posts for channel telegrams based on any article or blog
+
+PromptHint: Copy the article or blog
+
+Title:  Post for channel telegrams
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: DMDdsgn
+AuthorURL: https://dmddsgn.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1802700449284100096
+CreationTime: 2023-03-18T15:50:53.664Z
+RevisionTime: 2023-03-19T07:13:37Z
+Help: 

@@ -1,0 +1,23 @@
+Prompt Template:
+you're an expert short story writer. You need to write a short story with this description: [PROMPT] in this language[TARGETLANGUAGE].
+Also write title for this, please
+
+Teaser:
+Generate Interesting short story that entertain you.
+
+PromptHint: [enter description of story you want to generate]
+
+Title: AI Short Story Generater
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: Tushar Jain
+AuthorURL: https://www.linkedin.com/in/tushar-jain-47a47a193/
+
+Community: Copywriting-00ea56f446414284
+ID: 1813805212805357568
+CreationTime: 2023-04-18T07:17:15.604Z
+RevisionTime: 2023-04-18T07:17:15.604Z
+Help: 

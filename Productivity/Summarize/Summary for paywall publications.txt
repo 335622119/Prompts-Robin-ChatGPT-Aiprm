@@ -1,0 +1,23 @@
+Prompt Template:
+all output shall be in [TARGETLANGUAGE]. can you write me an essay on the themes in the following publication:
+[PROMPT]
+
+Teaser:
+Get a summary of any paywalled article or book
+
+PromptHint: article or book
+
+Title: Summary for paywall publications
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Alex O
+AuthorURL: https://alexoviedo.info
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1803965019453657088
+CreationTime: 2023-03-22T03:35:50.687Z
+RevisionTime: 2023-03-22T03:38:19.913Z
+Help: 

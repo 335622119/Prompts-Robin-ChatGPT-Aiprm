@@ -1,0 +1,24 @@
+Prompt Template:
+Generate LinkedIn Post  [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Write LinkedIn Post Content [KEYWORD]
+
+PromptHint: [Keyword]
+
+Title: LinkedIn Post Content
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Deftsoft
+AuthorURL: https://deftsoftseo.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1786621156657455104
+CreationTime: 2023-02-02T06:57:31.563Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

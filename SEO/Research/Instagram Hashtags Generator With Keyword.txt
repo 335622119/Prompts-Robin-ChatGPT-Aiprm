@@ -1,0 +1,23 @@
+Prompt Template:
+Create 20 Instagram trending hashtags Targeting an LSI Keyword with some search volume for the following Topic: [PROMPT]. No tags, separate keywords by space. Only capitalize proper nouns.
+[TARGETLANGUAGE]
+
+Teaser:
+Create Instagram Hashtags About My Topic
+
+PromptHint: Write Instagram Topic Name
+
+Title: Instagram Hashtags Generator With Keyword
+
+Topic: SEO
+
+Activity: Research
+
+AuthorName: Habibur Rahman
+AuthorURL: https://hrlimon.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1792358699931787264
+CreationTime: 2023-02-18T02:56:28.478Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

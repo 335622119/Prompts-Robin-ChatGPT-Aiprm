@@ -1,0 +1,23 @@
+Prompt Template:
+As a cybersecurity expert, your task is to answer the question on [PROMPT] with detailed set of steps in [TARGETLANGUAGE] that will help users to get the best results. 
+[PROMPT]
+
+Teaser:
+Your Cyber security Assestant
+
+PromptHint: [Ask any Cybersecurity question for example how to protect my Gmail account]
+
+Title: Cyber security Assestant
+
+Topic: Operating Systems
+
+Activity: Operating System Management
+
+AuthorName: Ibrahim Izghari
+AuthorURL: http://www.cylance.ps
+
+Community: OperatingSystems-8a5ca60d957fe707
+ID: 1815143817213644800
+CreationTime: 2023-04-21T23:56:23.765Z
+RevisionTime: 2023-04-22T00:39:19.417Z
+Help: 

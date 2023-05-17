@@ -1,0 +1,23 @@
+Prompt Template:
+Pretend you are an Instagram sales copywriting expert creating a compelling and witty post copy with emojis and hashtags in british [TARGETLANGUAGE] using [PROMPT] as the subject matter.
+
+
+Teaser:
+Create a Instagram post caption copy with hashtags and emojis
+
+PromptHint: [Insert topic, offer, or keyword]
+
+Title: Ultimate Instagram Post Caption
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Firefly.
+AuthorURL: https://fireflynewmedia.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1796507749383925760
+CreationTime: 2023-03-01T13:43:18.953Z
+RevisionTime: 2023-03-30T10:10:04.888Z
+Help: 

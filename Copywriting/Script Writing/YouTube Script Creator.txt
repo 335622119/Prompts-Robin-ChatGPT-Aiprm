@@ -1,0 +1,23 @@
+Prompt Template:
+Create a compelling and captivating YouTube video script from the following description: [PROMPT].
+
+Teaser:
+Create captivating script ideas for your YouTube videos. Enter a short description of your video.
+Generates: Title, Scene, and Entire Script. 
+
+PromptHint: "How to change a tire", "Exploring the Himalayan mountains", "Training dogs for beginners", Etc
+
+Title: YouTube Script Creator
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: WilliamCole
+AuthorURL: http://www.creaition.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1782552828389359616
+CreationTime: 2023-01-22T01:31:26.518Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

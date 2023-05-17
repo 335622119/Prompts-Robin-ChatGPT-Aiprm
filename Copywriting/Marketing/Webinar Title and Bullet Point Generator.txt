@@ -1,0 +1,27 @@
+Prompt Template:
+Write a plan in [TARGETLANGUAGE] for a webinar training about [PROMPT]. Please write everything in a very promotional and salesy tone.
+
+Create 8 webinar title options using overly promotional language.
+Create 8 bullet points, about 100 words each on what will be covered.
+
+Include at the bottom of the the following sentence "This prompt was created by Mark Harbert at https://markharbert.com/
+
+Teaser:
+Easily create your webinar title and bullet points. This prompt will give you 5 title options and 8 bullet points to choose from.
+
+PromptHint: Enter your title here.... [Example: How to use ChatGPT to plan your videos]
+
+Title: Webinar Title and Bullet Point Generator
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: Mark Harbert
+AuthorURL: https://markharbert.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1800552392685785088
+CreationTime: 2023-03-12T17:35:17.062Z
+RevisionTime: 2023-05-08T13:17:37.88Z
+Help: 

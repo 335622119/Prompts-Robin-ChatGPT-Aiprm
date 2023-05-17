@@ -1,0 +1,22 @@
+Prompt Template:
+the subject is [PROMPT] in [TARGETLANGUAGE] - 5th grade reading level output. lets bantor back and forth. 
+
+Teaser:
+teach me a foreign language, talk about a subject [KEYWORD]
+
+PromptHint: what do you want to learn?
+
+Title: [iQRco.de] Language Exchange
+
+Topic: Copywriting
+
+Activity: Persuade
+
+AuthorName: Sean Ragsdale
+AuthorURL: https://iqrco.de
+
+Community: Copywriting-00ea56f446414284
+ID: 1798052804875780096
+CreationTime: 2023-03-05T20:02:48.888Z
+RevisionTime: 2023-03-26T22:42:36.043Z
+Help: 

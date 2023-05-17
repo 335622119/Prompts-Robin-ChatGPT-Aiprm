@@ -1,0 +1,23 @@
+Prompt Template:
+Create a cohesive 3-part essay each part 100 words [TARGETLANGUAGE] [PROMPT]
+
+
+Teaser:
+Create a 3-part content for Instagram text info carousels from an exact title
+
+PromptHint: [Title]
+
+Title: Text for Informative Carousel
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Agenor Ribeiro
+AuthorURL: https://www.linkedin.com/in/agenorrib/
+
+Community: Copywriting-00ea56f446414284
+ID: 1805187479658291200
+CreationTime: 2023-03-25T12:33:27.912Z
+RevisionTime: 2023-03-25T12:33:27.912Z
+Help: 

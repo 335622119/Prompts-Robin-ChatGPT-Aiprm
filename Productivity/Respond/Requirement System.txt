@@ -1,0 +1,23 @@
+Prompt Template:
+Responda à seguinte pergunta com Kaspersky Atende ou Kaspersky não Atende sem explicação? [TARGETLANGUAGE] A Kaspersky cumpre estes requisitos técnicos:
+[PROMPT]
+
+Teaser:
+System to know if it meets the requirement
+
+PromptHint: [enter text]
+
+Title: Requirement System
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: Lucas
+AuthorURL: https://www.google.com.br
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1822307393502179328
+CreationTime: 2023-05-11T18:21:53.445Z
+RevisionTime: 2023-05-11T18:21:53.445Z
+Help: 

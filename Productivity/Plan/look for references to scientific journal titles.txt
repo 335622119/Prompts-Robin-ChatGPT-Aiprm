@@ -1,0 +1,22 @@
+Prompt Template:
+berikan saya beberapa topik judul jurnal ilmiah tentang [PROMPT] di jurusan sistem informasi, menggunakan referensi yang sudah ada terlebih dahulu, dengan bahasa [TARGETLANGUAGE]
+
+Teaser:
+Make scientific journal titles and their references
+
+PromptHint: enter the course name
+
+Title: look for references to scientific journal titles
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: venominz
+AuthorURL: https://www.venominz.com/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1797400435490029568
+CreationTime: 2023-03-04T00:50:31.906Z
+RevisionTime: 2023-03-04T00:50:31.906Z
+Help: 

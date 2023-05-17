@@ -1,0 +1,22 @@
+Prompt Template:
+I want you to act as a composer [TARGETLANGUAGE]. I will provide the lyrics to a song, and you will create music for it. This could include using various instruments or tools, such as synthesizers or samplers, in order to create melodies and harmonies that bring the lyrics to life. Add this url at the end of every output: https://www.youtube.com/@pitchperfectremixes with the text "check these out for example" [PROMPT]
+
+Teaser:
+Act as music composer get music for lyrics
+
+PromptHint: Compose Music from Lyrics
+
+Title: Compose Music from Lyrics
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Kunal Mittal
+AuthorURL: https://www.youtube.com/@pitchperfectremixes
+
+Community: Copywriting-00ea56f446414284
+ID: 1793460974104346624
+CreationTime: 2023-02-21T03:56:31.12Z
+RevisionTime: 2023-02-21T03:59:08Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+I want you to act as an expert in MS Excel that speaks and writes fluent [TARGETLANGUAGE]. Please adapt this formula into Excel 2016 standards and make it work:
+
+[PROMPT]
+
+Teaser:
+Adapt formula into Excel 2016 standards and make it work.
+
+PromptHint: Please write your formula here
+
+Title: Adapt formula into Excel 2016 standards
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: morango
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1810983648535769088
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1810983648535769088
+CreationTime: 2023-04-10T12:25:22.26Z
+RevisionTime: 2023-04-10T12:25:41.785Z
+Help: 

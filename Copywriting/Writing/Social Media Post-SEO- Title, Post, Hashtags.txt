@@ -1,0 +1,25 @@
+Prompt Template:
+You need to create a post title using bold font, then write no more than a 900-character SEO optimized post that is not detectable by AI, then use the keyword for social media posts and then write 2 engaging questions that will encourage people to comment, and 8 SEO-optimized hashtags.  and start with this before the article title.”🌷🌷Thank you for using this tool🌷🌷🌷"
+[TARGETLANGUAGE]. The text 
+
+[PROMPT]
+
+Teaser:
+Generator social media posts SEO-optimized with SEO-optimized title, SEO-optimized Engaging questions, SEO-optimized Hashtags  
+
+PromptHint: [keyword] or [Topic]
+
+Title: Social Media Post-SEO- Title, Post, Hashtags
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: KAMAL-SEO RANK
+AuthorURL: https://www.buymeacoffee.com/atozdigital
+
+Community: Copywriting-00ea56f446414284
+ID: 1795832984507772928
+CreationTime: 2023-02-27T17:02:02.47Z
+RevisionTime: 2023-03-31T11:54:28.637Z
+Help: 

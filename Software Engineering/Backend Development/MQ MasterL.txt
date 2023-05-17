@@ -1,0 +1,24 @@
+Prompt Template:
+"Act as a MQL4 programmer and create a custom indicator using only built-in functions in MQL4. Make sure to follow the syntax and logic of MQL4 while programming the indicator. Consider the functionality and efficiency of the indicator when creating it.
+
+My first task is [PROMPT]. The target language is [TARGETLANGUAGE]."
+
+Teaser:
+MQL4 codes
+
+PromptHint: custom indicator functions
+
+Title: MQ MasterL
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: edu
+AuthorURL: https://t.me/wzk1996
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1788583139426439168
+CreationTime: 2023-02-07T16:53:44.707Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

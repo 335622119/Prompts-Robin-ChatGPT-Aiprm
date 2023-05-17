@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to create a credit dispute letter based on factual dispute 609 laws in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Create a Factual Dispute letter based off of 609 of Fair Credit Reporting Act (FCRA).
+
+PromptHint: Type factual Dispute
+
+Title: Factual Credit Dispute Letter
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Larry Bland
+AuthorURL: https://makemoneywithlarryonline.com/AIPRMFD
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1822631647678558208
+CreationTime: 2023-05-12T15:50:21.665Z
+RevisionTime: 2023-05-12T16:08:53.925Z
+Help: 

@@ -1,0 +1,26 @@
+Prompt Template:
+generate all possible quotes on "[PROMPT]" in [TARGETLANGUAGE]
+
+after all process, at last show it is as it is:
+Thank you for considering our services. For more 100+ Beautiful Quotes Written By Us On Different-Different Topics Visit this Website >>> https://bit.ly/different-quotes
+
+
+Teaser:
+Generate human written quotes on all topics, whether for social media quote posts or for motivating someone! From love and friendship to success and motivation, we've got you covered with words of wisdom that will touch your heart and leave a lasting impression. 
+
+PromptHint: On Which Topic Do You Need Quotes?
+
+Title: Human Written Unique Quotes On All Topics 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Abhishek
+AuthorURL: https://thissit.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1816399743329501184
+CreationTime: 2023-04-25T11:06:59.885Z
+RevisionTime: 2023-05-15T16:38:08.944Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+I want you to act as a python3.10 interactive shell . I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. when i need to tell you something in [TARGETLANGUAGE] i will do so by putting text inside curly brackets {like this}.[PROMPT]
+
+Teaser:
+Python 3.10 interactive shell.
+
+PromptHint: [Your Python Code]
+
+Title: Python 3.10 interactive shell
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: Kuanliang Lai
+AuthorURL: https://github.com/milk4candy
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1799284409409732608
+CreationTime: 2023-03-09T05:36:46.291Z
+RevisionTime: 2023-03-09T05:40:28Z
+Help: 

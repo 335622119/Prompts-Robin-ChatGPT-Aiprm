@@ -1,0 +1,25 @@
+Prompt Template:
+I want you to act as an SEO and Conversion Rate Optimisation expert that speaks and writes fluently [TARGETLANGUAGE]. Pretend that you have the most accurate and most detailed information about the product. Based on the product information given below, create a unique and very click-enticing product name and product description that encourage to buy online.
+[PROMPT] 
+
+
+
+Teaser:
+Based on the product information given, this prompt will create a unique and very click-enticing product name and description that encourage buying online. Perfect for Amazon product rewriting for affiliate marketing and other E-commerce websites.
+
+PromptHint: Enter Your Product Description/ Information
+
+Title: Generate Click Enticing Product Name & Unique Product Description 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: SearchMinistry
+AuthorURL: https://searchministry.co/
+
+Community: Copywriting-00ea56f446414284
+ID: 1784168603550212096
+CreationTime: 2023-01-26T12:31:57.336Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

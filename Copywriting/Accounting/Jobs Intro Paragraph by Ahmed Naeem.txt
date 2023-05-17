@@ -1,0 +1,22 @@
+Prompt Template:
+Write an short Intro Paragraph in very simple easy to read English of this Title [PROMPT] also include these words and sentences In this article discuss Eligibility Criteria, Job Benefits, and How to Apply. [TARGETLANGUAGE] .
+
+Teaser:
+[Generate Intro paragraph of Jobs]
+
+PromptHint: [Paste the Jobs title Here]
+
+Title: Jobs Intro Paragraph by Ahmed Naeem
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Ahmed Naeem
+AuthorURL: https://facebook.com/hajiahmednaeem
+
+Community: Copywriting-00ea56f446414284
+ID: 1807808126737702912
+CreationTime: 2023-04-01T18:06:58.865Z
+RevisionTime: 2023-04-01T18:16:48.505Z
+Help: 

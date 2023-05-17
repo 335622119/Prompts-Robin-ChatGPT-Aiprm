@@ -1,0 +1,22 @@
+Prompt Template:
+"As a youTuber, your goal is to create a 15-second video script that will captivate your audience and have the potential to go viral. consider the latest trends and topics that people are interested in, as well as the interests of your target audience. craft a script that is creative, catchy, and leaves a lasting impression on your viewers. think about what elements of a video are likely to appeal to a broad audience and generate a large number of views and shares. my first task is to create a video script that can go viral on [PROMPT]. The target language is [TARGETLANGUAGE]
+
+Teaser:
+create a youtube 15-sec viral script
+
+PromptHint: [Keyword]
+
+Title: Viral Youtube Script
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Futurekynn
+AuthorURL: https://loversgh.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1822091852522975232
+CreationTime: 2023-05-11T04:05:24.471Z
+RevisionTime: 2023-05-11T04:07:22.573Z
+Help: 

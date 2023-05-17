@@ -1,0 +1,24 @@
+Prompt Template:
+Your tasks are the following: First generate a list of semantically relevant terms from the topic I'm going to provide you. Name these as NLP terms. You are going to provide NLP terms in [TARGETLANGUAGE]. Then write multiple paragraphs that includes all of these terms in the [TARGETLANGUAGE]. Before writing paragraphs, tell the users that now I will include these terms in the following paragraphs. The topic is:
+[PROMPT]
+
+
+Teaser:
+Write a paragraph that includes most of the semantically relevant SEO terms, like SurferSEO does.
+
+PromptHint: [topic or heading that you want a semantically relevant paragraph for]
+
+Title: Semantically Relevant Paragraphs like Surfer 
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Ahmad Faruqi
+AuthorURL: https://www.buymeacoffee.com/ahmad234
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1796099504437719040
+CreationTime: 2023-02-28T10:41:05.773Z
+RevisionTime: 2023-04-04T02:02:37.838Z
+Help: 

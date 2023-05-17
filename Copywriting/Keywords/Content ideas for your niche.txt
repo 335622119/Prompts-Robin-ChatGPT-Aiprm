@@ -1,0 +1,24 @@
+Prompt Template:
+I want to add to my topical authority, write me 30 ideas  with catchy titles. write in table form with categories. The output is [TARGETLANGUAGE]. The text output is:
+
+[PROMPT]
+
+Teaser:
+give me ideas for my niche in table for insert [YOURNICHE]
+
+PromptHint: [Your Niche]
+
+Title: Content ideas for your niche
+
+Topic: Copywriting
+
+Activity: keywords
+
+AuthorName: Andrew Vaughan
+AuthorURL: https://myworkflowsolutions.pensil.in/?tab=Posts
+
+Community: Copywriting-00ea56f446414284
+ID: 1797943039768137728
+CreationTime: 2023-03-05T12:46:38.847Z
+RevisionTime: 2023-04-09T16:41:41.846Z
+Help: 

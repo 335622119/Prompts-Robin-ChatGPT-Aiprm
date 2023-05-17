@@ -1,0 +1,22 @@
+Prompt Template:
+Your task is to make a FAQ with both questions and answers. All text shall be in [TARGETLANGUAGE]  the topic is [PROMPT]
+
+Teaser:
+Frequently asked question generator that also includes answers to the questions. input topic and all will be generated!
+
+PromptHint: [keyword]
+
+Title: Frequently asked question with answers
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: Gustavo French
+AuthorURL: https://blackcapseo.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1800133181899534336
+CreationTime: 2023-03-11T13:49:29.422Z
+RevisionTime: 2023-04-01T23:01:05.757Z
+Help: 

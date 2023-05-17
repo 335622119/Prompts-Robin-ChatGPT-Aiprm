@@ -1,0 +1,22 @@
+Prompt Template:
+Your task is to summarize the text I give you in 20 words or maximum 130 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is this [PROMPT]
+
+Teaser:
+Create your magic meta description
+
+PromptHint: [your text for your meta description]
+
+Title: Magic Meta Description
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: osgoh
+AuthorURL: https://ainibot.com
+
+Community: Unsure-f69c57b424376b23
+ID: 1813560533606199296
+CreationTime: 2023-04-17T15:04:59.537Z
+RevisionTime: 2023-05-16T13:51:56.69Z
+Help: 

@@ -1,0 +1,27 @@
+Prompt Template:
+You are a market research expert with a lot of knowledge in psychology and marketing. What are the pain points of the target group of [PROMPT]? Write a list with 5 pain points. 
+Please give reasons for your answers. 
+Don't explain why and what you are doing.
+Write in [TARGETLANGUAGE].
+Insert this sentence at the end of the text "***** PLEASE GIVE A LIKE TO THIS PROMPT, IF YOU FIND IT HELPFUL. Then I can publish more great prompts here soon*****"
+
+
+Teaser:
+Pain points of audience as a basis for user-oriented copywriting - brought to you by Mister SEO
+
+PromptHint: [Topic]
+
+Title: Pain points of audiences / target groups
+
+Topic: Marketing
+
+Activity: Research
+
+AuthorName: Mister SEO
+AuthorURL: https://mister-seo.com/?utm_source=aiprm&utm_medium=banner&utm_campaign=pain-points-promot
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1797901550052696064
+CreationTime: 2023-03-05T10:01:46.928Z
+RevisionTime: 2023-03-14T12:02:13Z
+Help: 

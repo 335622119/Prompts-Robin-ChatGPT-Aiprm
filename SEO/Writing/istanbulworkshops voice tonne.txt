@@ -1,0 +1,24 @@
+Prompt Template:
+Voice tone = "a nicer way and must be informative and friendly, with clear instructions (easy to read) and a focus on customer satisfaction and add a few emojis to make it cute and keep it short"[TARGETLANGUAGE]
+
+the text: [PROMPT]
+
+Teaser:
+write context in the voice tonne of istanbulworkshops
+
+PromptHint: paste the text
+
+Title: istanbulworkshops voice tonne
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: IstanbulWorkshops
+AuthorURL: https://istanbulworkshops.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1799058733851205632
+CreationTime: 2023-03-08T14:40:01.045Z
+RevisionTime: 2023-03-11T13:30:22Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Generate a meta description for [PROMPT] within 160 character [TARGETLANGUAGE]
+
+Teaser:
+Create simple meta description
+
+PromptHint: [keyword]
+
+Title: Meta Description for Yoast
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: DevMizan
+AuthorURL: https://devmizan.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1807137357154213888
+CreationTime: 2023-03-30T21:41:34.934Z
+RevisionTime: 2023-03-30T21:43:44.98Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Write 5 titles and Generate High CTR 150 character Meta Description that Ranks in the Google. [PROMPT] [TARGETLANGUAGE]
+
+Teaser:
+This will help you write like a press writer in first person observation 
+
+PromptHint: What is your topic or blog title?
+
+Title: 5 Titles and Meta Descriptions
+
+Topic: Copywriting
+
+Activity: Sports Writing
+
+AuthorName: Clifton / Brandon
+AuthorURL: http://cliftoncanady.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1799189353638129664
+CreationTime: 2023-03-08T23:19:03.229Z
+RevisionTime: 2023-04-07T05:24:15.561Z
+Help: 

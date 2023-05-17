@@ -1,0 +1,22 @@
+Prompt Template:
+Write a set of trivia questions based on [PROMPT] in [TARGETLANGUAGE].
+
+Teaser:
+ChatGPT can help you write fun interactive elements like quizzes, trivia games or scavenger hunts that will make your marketing campaigns more engaging.
+
+PromptHint: topic
+
+Title: Gamification Generator
+
+Topic: Copywriting
+
+Activity: Games
+
+AuthorName: Kiat Media
+AuthorURL: https://kiatmedia.com/support-me/
+
+Community: Copywriting-00ea56f446414284
+ID: 1782919674846253056
+CreationTime: 2023-01-23T01:49:09.529Z
+RevisionTime: 2023-02-20T03:37:08Z
+Help: 

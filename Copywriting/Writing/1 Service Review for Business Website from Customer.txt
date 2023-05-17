@@ -1,0 +1,24 @@
+Prompt Template:
+Write a service review from the customer for a business in [TARGETLANGUAGE]. The review to generate for business & service is
+
+[PROMPT]
+
+Teaser:
+Create best customer review for my company services [COMPANYNAME : SERVICENAME] 
+
+PromptHint: [COMPANYNAME : SERVICENAME] 
+
+Title: 1 Service Review for Business Website from Customer
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Kunal Sah
+AuthorURL: https://kunalsah.com.np/
+
+Community: Copywriting-00ea56f446414284
+ID: 1784796316082368512
+CreationTime: 2023-01-28T06:06:15.666Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

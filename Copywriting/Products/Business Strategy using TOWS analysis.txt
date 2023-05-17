@@ -1,0 +1,23 @@
+Prompt Template:
+Your task is to create a brief swor analysis for the product or service: [PROMPT] taking in account its main characteristics, and considering the market in focus then aply a detailed tows analysis on the swot analysis results. Use an analytic formal analysis taking in account technological and enviromental trends. Avoid increased risk. [TARGETLANGUAGE]
+
+
+Teaser:
+Generate a Business Strategy using TOWS analysis (specialising SWOT analysis) for a new product or service
+
+PromptHint: Describe the product or the service to create, the possible market and the neccesary resources
+
+Title: Business Strategy using TOWS analysis
+
+Topic: Copywriting
+
+Activity: Products
+
+AuthorName: Konstantinos Katharakis
+AuthorURL: https://www.linkedin.com/in/konstantinos-katharakis-5053b0222/
+
+Community: Copywriting-00ea56f446414284
+ID: 1800531073210519552
+CreationTime: 2023-03-12T16:10:34.104Z
+RevisionTime: 2023-03-22T09:20:44Z
+Help: 

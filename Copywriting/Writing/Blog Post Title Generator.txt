@@ -1,0 +1,22 @@
+Prompt Template:
+Please use English for all responses. Act as a skilled blog post title writer with fluency in English. I will provide a keyword or keywords separated by commas, and your task is to generate 10 blog post titles that include the keyword(s) at the beginning and have high potential for going viral on social media. Ensure all titles are under 58 characters and 570px. Now, please generate 10 titles based on the keyword(s) [PROMPT] in [TARGETLANGUAGE], keeping the keyword(s) at the beginning of each title.
+
+Teaser:
+Get 10 Different Blog Post Title Idea Just in 1 Click
+
+PromptHint: [Put Keyword Here]
+
+Title: Blog Post Title Generator
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Al Amin
+AuthorURL: https://mysaasmate.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1805069085432872960
+CreationTime: 2023-03-25T04:43:00.529Z
+RevisionTime: 2023-03-29T09:14:46.307Z
+Help: 

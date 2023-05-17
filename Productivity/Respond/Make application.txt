@@ -1,0 +1,24 @@
+Prompt Template:
+[TARGETLANGUAGE]. 
+
+Generate Application For [PROMPT] 
+
+Teaser:
+Make Any Kind Of Application
+
+PromptHint: [Type your Application Subject]
+
+Title: Make application
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: Rakesh RR
+AuthorURL: https://generate-email.online/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1804779517051666432
+CreationTime: 2023-03-24T09:32:22.047Z
+RevisionTime: 2023-03-24T09:32:22.047Z
+Help: 

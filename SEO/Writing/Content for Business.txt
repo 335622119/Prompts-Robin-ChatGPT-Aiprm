@@ -1,0 +1,22 @@
+Prompt Template:
+Your task is to provide content using business name, service name and area name. You have to use everytime business name and area name in the content using above details of the data provided by me. Write the content in English[TARGETLANGUAGE] OR [PROMPT]
+
+Teaser:
+Create a SEO Based content using above details.
+
+PromptHint: Provide a Business, Service & Area Name
+
+Title: Content for Business 
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: TLD
+AuthorURL: https://thelogicdesign.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1796203531569729536
+CreationTime: 2023-02-28T17:34:27.774Z
+RevisionTime: 2023-03-03T15:57:06Z
+Help: 

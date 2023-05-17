@@ -1,0 +1,22 @@
+Prompt Template:
+Your task is to write 5 keywords that better ranked based on search intentions on linkedin hashtags and to get better views and clicks. All output shall be in [TARGETLANGUAGE]. Generante each keywords without space between the words. Generate a hash before each keywords. The text to generate the keywords is this: [PROMPT]
+
+Teaser:
+Create 5 keywords to use in Linkedin article
+
+PromptHint: [your article text for linkedin]
+
+Title: Five Best Hashtags for Linkedin Article
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Renato Gonçalves
+AuthorURL: https://www.linkedin.com/in/renatoaureliano
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1795499114537156608
+CreationTime: 2023-02-26T18:55:21.666Z
+RevisionTime: 2023-02-26T19:11:49Z
+Help: 

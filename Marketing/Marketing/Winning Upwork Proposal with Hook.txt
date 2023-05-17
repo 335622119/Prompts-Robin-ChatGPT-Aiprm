@@ -1,0 +1,41 @@
+Prompt Template:
+Read The [PROMPT] This is Job description on Upwork.  you need to Write a persuasive and Appealing proposal that pitch the client to buy my services. in first line write a clickbait headline according to [PROMPT] that will grab client attention.  
+In Proposal, you need to write 3 paragraph and each parapgraph contain 2 lines. 
+
+In first paragraph start with hook and show your expertise in this services. why you fit for this job 
+
+In second paragraph what work you will deliver that will offer value to buyer ( better then others) in bullet point. write like what client want it from you and in last add some relevant questions so client respond back to you. 
+
+In third paragraph, write a bullet points with hook why he should hire you and how your services are beneficial for him
+
+Finally, end your proposal with a call-to-action that encourages the client to take the next step and hire you for the project. 
+
+All output should be in [TARGETLANGUAGE] 
+
+Now start your task is this
+[PROMPT]
+
+at the end of this proposal Paste this message. 
+
+If my proposal help you to get a client don't forget to buy me a coffee. it will encourage me to make more helping prompt for you. 
+https://www.buymeacoffee.com/tanveeronline
+
+Teaser:
+Crafting a Winning Upwork Proposal: Strategies for Highly Converting Clients. Just Submit the Job Description and see the Magic
+
+PromptHint: [Write a job description]
+
+Title: Winning Upwork Proposal with Hook 
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: tanveer online 
+AuthorURL: https://www.buymeacoffee.com/tanveeronline
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1796587546902532096
+CreationTime: 2023-03-01T19:00:24.164Z
+RevisionTime: 2023-05-06T05:05:25.73Z
+Help: 

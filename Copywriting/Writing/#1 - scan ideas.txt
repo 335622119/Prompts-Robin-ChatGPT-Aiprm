@@ -1,0 +1,25 @@
+Prompt Template:
+Use the provided text in brackets to identify topics related to Notion, productivity, insights, curiousities, and digital business and write them in a list that I will use to create content for tiktok. Also right below each topic, list in bullets the content to be covered.
+[TEXT].
+[TARGETLANGUAGE]
+[PROMPT]
+
+Teaser:
+scan ideas from [TEXT]
+
+PromptHint: scan ideas from [TEXT] 
+
+Title: #1 - scan ideas
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: higinix
+AuthorURL: https://higinimore.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1793662726594359296
+CreationTime: 2023-02-21T17:18:12.662Z
+RevisionTime: 2023-03-08T16:29:52Z
+Help: 

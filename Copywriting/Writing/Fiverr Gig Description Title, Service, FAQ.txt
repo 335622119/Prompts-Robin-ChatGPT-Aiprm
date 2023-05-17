@@ -1,0 +1,22 @@
+Prompt Template:
+write Pro Fiverr Title Gig, description, Basic, Standard, Premium, Write 5 FAQ, 5 keyword[PROMPT][TARGETLANGUAGE]
+
+Teaser:
+Just a Click Write Professional Fiverr Gig Title, description, FAQ, Basic, Standard, Premium and 5 Keyword!
+
+PromptHint: [Only Keyword]
+
+Title: Fiverr Gig Description Title, Service, FAQ
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: ShayanXtreme
+AuthorURL: https://www.fiverr.com/shayanmemon786
+
+Community: Copywriting-00ea56f446414284
+ID: 1804549038469804032
+CreationTime: 2023-03-23T18:16:31.671Z
+RevisionTime: 2023-03-23T19:10:34.859Z
+Help: 

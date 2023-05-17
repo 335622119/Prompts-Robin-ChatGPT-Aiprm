@@ -1,0 +1,27 @@
+Prompt Template:
+Add some emojis to the following text in order to make it easier to read and more engaging.
+
+[PROMPT]
+
+Result should be in [TARGETLANGUAGE]
+Do not add any additional text or explanation to your answer 
+
+Teaser:
+Make a text more engaging with emojis, useful for social media posts, whatsapp messages, emails and more.
+
+PromptHint: Add your post or comment here
+
+Title: Increase engagement with emojis
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: Ruben Gallardo
+AuthorURL: https://aprendamosmarketing.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1794029886059577344
+CreationTime: 2023-02-22T17:37:10.3Z
+RevisionTime: 2023-02-22T17:58:03Z
+Help: 

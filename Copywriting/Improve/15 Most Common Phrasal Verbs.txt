@@ -1,0 +1,27 @@
+Prompt Template:
+Your task is to create a list of the 15 most-frequently-used phrasal verbs on a given topic. The phrasal verbs are composed of a VERB plus a PARTICLE. Use the CEFR level in [TARGETLANGUAGE] requested in the prompt hint. Use this format: the phrasal verbs in the first line are all in uppercase followed by a hyphen and the Portuguese equivalent in lowercase. Next, include examples in English in the second line The phrasal verbs in the second line are in lowercase along with the rest of the example sentences.  The examples are introduced by the abbreviation "Ex." 
+
+Create the list with this:
+
+[PROMPT]
+
+
+Teaser:
+Create a list of the 10 most common phrasal verbs on any topic!
+
+PromptHint: [Topic] - [Choose Level - A1 to B2]
+
+Title: 15 Most Common Phrasal Verbs 
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: Teacher Guilherme 
+AuthorURL: http://www.teacherguilherme.com.br
+
+Community: Copywriting-00ea56f446414284
+ID: 1801993517464281088
+CreationTime: 2023-03-16T17:01:47.984Z
+RevisionTime: 2023-04-19T02:45:08.573Z
+Help: 

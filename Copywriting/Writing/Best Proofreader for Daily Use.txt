@@ -1,0 +1,24 @@
+Prompt Template:
+Proofread this article and show where you did change. All output should be in [TARGETLANGUAGE]. Here is the article.
+
+[PROMPT]
+
+Teaser:
+Make your article perfect by correcting errors in spelling, grammar, punctuation, syntax, formatting and etc.
+
+PromptHint: [Paste your article here]
+
+Title: Best Proofreader for Daily Use
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Paper Now
+AuthorURL: https://www.papernow.co.uk
+
+Community: Copywriting-00ea56f446414284
+ID: 1794689539340767232
+CreationTime: 2023-02-24T13:18:23.898Z
+RevisionTime: 2023-03-03T03:39:39Z
+Help: 

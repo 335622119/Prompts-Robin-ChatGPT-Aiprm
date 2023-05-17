@@ -1,0 +1,31 @@
+Prompt Template:
+Write a recipe article using the eight steps listed below for the recipe name mentioned below. The eight steps are:
+1. Introduction (write 200 words long)
+2. Ingredients (write clearly)
+3. Directions (write detailed)
+4. How to prepare (write detailed)
+5. Preparation time (write detailed)
+6. Servings
+7. FAQs (research and write at least 5 questions and answers)
+8. Conclusion (write 200 words long)
+Sentence length should be short with enough transition words. Write it in [TARGETLANGUAGE] [PROMPT]. Write the recipe article title, should be attractive. And write a meta description within 156 characters.
+
+Teaser:
+Create a recipe step by step
+
+PromptHint: [Recipe Name]
+
+Title: Recipe Writing
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: SEO Youth Guest Post
+AuthorURL: https://seoyouth.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1788235229874614272
+CreationTime: 2023-02-06T17:51:16.606Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

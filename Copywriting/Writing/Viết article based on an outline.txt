@@ -1,0 +1,25 @@
+Prompt Template:
+[TARGETLANGUAGE]
+Write content for the outline below with a professional voice like HR Manager, short, logical sentences, no repetition of words, no overlap with content on the internet
+[PROMPT]
+[VARIABLE]
+
+Teaser:
+Create a complete article from your [outline]
+
+PromptHint: Enter outline here
+
+Title: Viết article based on an outline
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Đặng Trường Duy
+AuthorURL: https://duyoday.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1821067776312471552
+CreationTime: 2023-05-08T08:16:05.676Z
+RevisionTime: 2023-05-08T08:16:05.676Z
+Help: 

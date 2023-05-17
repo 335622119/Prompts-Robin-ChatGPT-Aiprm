@@ -1,0 +1,22 @@
+Prompt Template:
+Your task is to write a submittal to an engineering hiring manager from me in the third person including an introductory statement, four bullet points highlighting qualifications, including education, and achievements and a closing statement [TARGETLANGUAGE] [PROMPT]
+
+Teaser:
+For agency recruiters needing help writing client submittals. 
+
+PromptHint: Enter the notes and/or doc to be considered
+
+Title: Client Submittal
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Jen Fitzke
+AuthorURL: https://koniknetwork.com/our-team/jennifer-fitzke-senior-technical-recruiter/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1791203464563646464
+CreationTime: 2023-02-14T22:25:58.903Z
+RevisionTime: 2023-02-21T18:03:51Z
+Help: 

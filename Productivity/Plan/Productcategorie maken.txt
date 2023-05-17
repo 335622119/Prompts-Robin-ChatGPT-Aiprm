@@ -1,0 +1,22 @@
+Prompt Template:
+Make productcategories by means of brand, size or colour: [TARGETLANGUAGE] [PROMPT]
+
+Teaser:
+Productcategorie maken
+
+PromptHint: Brand, Size, Colour
+
+Title: Productcategorie maken
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Robbert
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1807352075320037376#
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1807356716585836544
+CreationTime: 2023-03-31T12:13:14.298Z
+RevisionTime: 2023-03-31T13:15:29.594Z
+Help: 

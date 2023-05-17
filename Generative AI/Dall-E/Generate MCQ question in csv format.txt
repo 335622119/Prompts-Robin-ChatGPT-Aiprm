@@ -1,0 +1,23 @@
+Prompt Template:
+generate 25 [KEYWORD] multiple-choice questions with four options  and corresponding answers (1, 2, 3, 4) in a csv format [TARGETLANGUAGE]
+ [PROMPT]
+
+Teaser:
+Generate  MCQ question in csv format by gyanok.com
+
+PromptHint: [Type Category]
+
+Title: Generate MCQ question in csv format
+
+Topic: Generative AI
+
+Activity: Dall-E
+
+AuthorName: GyanOk Team
+AuthorURL: https://gyanok.com
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1801886120246763520
+CreationTime: 2023-03-16T09:55:02.492Z
+RevisionTime: 2023-03-20T04:58:25Z
+Help: 

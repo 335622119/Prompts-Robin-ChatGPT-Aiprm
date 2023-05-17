@@ -1,0 +1,22 @@
+Prompt Template:
+I want you to act as a tool usage description for a set of tools. Describe each tool in detail, which should contain: 1. Tool Name; 2. Print the real sample as Input data [Table blocks]; 3. Code blocks: Scripts for handling the input data; 4. Print the output data [Table blocks]; 5. The explanation for all the arguments [Table blocks]; 6. How to install this tool; 7. Common errors with the tool. Now the tool name is [PROMPT]. It would be best if you used [TARGETLANGUAGE] to answer it.
+
+Teaser:
+Describe tools or packages
+
+PromptHint: Tool
+
+Title: Tool Description
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Haotian Zheng
+AuthorURL: https://www.linkedin.com/in/haotian-zheng-771796236/
+
+Community: Unsure-f69c57b424376b23
+ID: 1795802708645765120
+CreationTime: 2023-02-27T15:01:44.142Z
+RevisionTime: 2023-02-27T17:01:16Z
+Help: 

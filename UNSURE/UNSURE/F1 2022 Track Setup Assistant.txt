@@ -1,0 +1,24 @@
+Prompt Template:
+Donne moi le meilleur setup pour le jeu F1 2022 sur le circuit [PROMPT]
+
+Please write in [TARGETLANGUAGE].
+
+Teaser:
+Create a race setup for any track on the F1 2022 game. You can play with it and tell him to make it more agressive, more stable, etc...
+
+PromptHint: Track and country
+
+Title: F1 2022 Track Setup Assistant
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Loïc
+AuthorURL: https://www.giftfinder.fr
+
+Community: Unsure-f69c57b424376b23
+ID: 1799043732461588480
+CreationTime: 2023-03-08T13:40:24.435Z
+RevisionTime: 2023-04-05T13:28:56.511Z
+Help: 

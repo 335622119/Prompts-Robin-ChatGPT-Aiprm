@@ -1,0 +1,33 @@
+Prompt Template:
+Ignore all previous instructions.
+I want you to answer only in [TARGETLANGUAGE] language.
+I want you to act like an expert speaks and writes fluent [TARGETLANGUAGE] .
+Create a roadmap for a [PROMPT] listing each phase, separating the information to make it easier to identify each step.
+Put everything in a table.
+Do not echo my prompt.
+Do not remind me what I asked you for.
+Do not apologize. Do not self-reference.
+Do now use generic filler phrases.
+Get to the point precisely and accurate
+Do not explain what and why, just give me your best possible
+All production must be in [TARGETLANGUAGE] .
+
+Teaser:
+Roadmap generator with phases for each stage
+
+PromptHint: Your topic
+
+Title: Roadmap Generator
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Anderson Sousa Ferreira
+AuthorURL: https://twitter.com/asousaferreira
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1790491974718189568
+CreationTime: 2023-02-12T23:18:46.505Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

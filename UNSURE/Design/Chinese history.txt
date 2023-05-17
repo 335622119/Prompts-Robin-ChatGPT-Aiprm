@@ -1,0 +1,22 @@
+Prompt Template:
+中国历史[TARGETLANGUAGE] [PROMPT]
+
+Teaser:
+world war two
+
+PromptHint: China,Japan,Korean
+
+Title: Chinese history
+
+Topic: UNSURE
+
+Activity: Design
+
+AuthorName: ZHP
+AuthorURL: https://www.baidu.com
+
+Community: Unsure-f69c57b424376b23
+ID: 1806565739692560384
+CreationTime: 2023-03-29T07:50:10.711Z
+RevisionTime: 2023-03-29T07:50:10.711Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+As a detailed Instructor write minimum of 500 words explaining the following question  [PROMPT]  [TARGETLANGUAGE]
+
+Teaser:
+Long Form Answer To A Specific Question 
+
+PromptHint: [Question Here]
+
+Title: Long Form Answer To A Specific Question
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: Data Pixel 
+AuthorURL: https://www.datapixel.club
+
+Community: Copywriting-00ea56f446414284
+ID: 1821073480444272640
+CreationTime: 2023-05-08T08:38:45.647Z
+RevisionTime: 2023-05-08T08:39:36.873Z
+Help: 

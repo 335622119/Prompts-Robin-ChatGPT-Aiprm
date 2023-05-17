@@ -1,0 +1,25 @@
+Prompt Template:
+Your Task is to summarize the text i give you in 150 words or maximum 500 characters. All output shall be in 
+[TARGETLANGUAGE]. The text to summarize is this: 
+
+[PROMPT]
+
+Teaser:
+Create the best Guest posting or blogging approaching pitch or script to approach the website admins or owners or bloggers to Contribute an High quality Article or post for the blog categories like Architecture, Animals & Pets, Health, Technology, Travel, Fashion, Beauty, Finance, Law & Order, Education, Internet & Services.
+
+PromptHint: [Write a email template approaching pet website admin]
+
+Title: Guest Post Approaching Script-Email
+
+Topic: SEO
+
+Activity: Outreach
+
+AuthorName: Hasnain
+AuthorURL: https://www.morninglazziness.com/author/hasnain-khokhawala/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1801893786981498880
+CreationTime: 2023-03-16T10:25:30.384Z
+RevisionTime: 2023-03-27T05:36:50.936Z
+Help: 

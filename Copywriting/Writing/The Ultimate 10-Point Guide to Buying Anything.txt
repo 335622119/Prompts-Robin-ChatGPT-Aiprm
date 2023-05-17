@@ -1,0 +1,22 @@
+Prompt Template:
+You are an expert and have the most accurate and detailed information about buying[PROMPT] . Write in [TARGETLANGUAGE].Write a quick 10-point guide on buying [PROMPT], including tips on budgeting, researching [PROMPT], what to reviews, where to hunt for sales, considering collections and complexity, looking for exclusive releases and rarity, checking availability, considering storage space and cost, reading product descriptions carefully, and buying from reputable sources. Write the guide in English, using a polished and organized format resembling a quick guide book. Ask any questions you have before starting on buying [PROMPT]. 
+
+Teaser:
+Quick Guide Generator (full copy in under 30 seconds)
+
+PromptHint: Any Subject [TheWhiskySchool]
+
+Title: The Ultimate 10-Point Guide to Buying Anything
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: THEWHISKYSCHOOL
+AuthorURL: https://www.whiskyschoolus.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1813407940426862592
+CreationTime: 2023-04-17T04:58:38.488Z
+RevisionTime: 2023-04-17T05:25:58.754Z
+Help: 

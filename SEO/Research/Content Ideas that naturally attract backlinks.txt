@@ -1,0 +1,22 @@
+Prompt Template:
+In [TARGETLANGUAGE], act as Senior SEO consultant. Give me content ideas for a [PROMPT] that naturally would attract backlinks. 
+
+Teaser:
+Create content ideas for [target audience] that would naturally attract backlinks.
+
+PromptHint: Enter your [target audience]
+
+Title: Content Ideas that naturally attract backlinks
+
+Topic: SEO
+
+Activity: Research
+
+AuthorName: Dom Jedro
+AuthorURL: https://justdigital.world
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1807139419736772608
+CreationTime: 2023-03-30T21:49:46.692Z
+RevisionTime: 2023-03-30T21:49:46.692Z
+Help: 

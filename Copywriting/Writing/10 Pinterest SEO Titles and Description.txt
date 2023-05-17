@@ -1,0 +1,24 @@
+Prompt Template:
+As a proficient content write and experienced SEO writer Fluent in [TARGETLANGUAGE] . Help me create 10 pintrest titles and a general description of not more then 450 characters that will attract traffic and engagement from this article; 
+
+[PROMPT]
+
+Teaser:
+Create 10 pinterest titles using blog link and a great seo description for the pins in one go 
+
+PromptHint: [blog post link here]
+
+Title: 10 Pinterest SEO Titles and Description
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Priest Nduga
+AuthorURL: https://witchcraftlife.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1808427607704997888
+CreationTime: 2023-04-03T11:08:34.637Z
+RevisionTime: 2023-04-03T12:20:09.897Z
+Help: 

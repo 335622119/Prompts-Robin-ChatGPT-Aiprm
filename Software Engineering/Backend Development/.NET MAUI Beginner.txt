@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to give me solutions with the code in .NET MAUI with a context that I will give you each time. All results must be in [TARGETLANGUAGE]. The context is as follows:
+
+[PROMPT]
+
+Teaser:
+.NET MAUI giving a trouble ? I can help ?
+
+PromptHint: [Text for which you must give the context of your problem]
+
+Title: .NET MAUI Beginner
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: Eloy 
+AuthorURL: https://github.com/eloiJhn
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1787403294411579392
+CreationTime: 2023-02-04T10:45:27.735Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

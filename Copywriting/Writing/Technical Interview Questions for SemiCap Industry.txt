@@ -1,0 +1,28 @@
+Prompt Template:
+Act as a hiring manager. Your task is to create a table of three technical interview questions based on the prompt. Make column one the question, column two the answer, and column three explain the answer to a 5th grader. 
+
+Output in [TARGETLANGUAGE].
+
+Create the table based on:
+
+[PROMPT]
+
+Teaser:
+Quick table for technical interview questions for the semiconductor capital equipment industry.
+
+PromptHint: job title and technology
+
+Title: Technical Interview Questions for SemiCap Industry
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Brenden Wright
+AuthorURL: https://www.linkedin.com/in/brendenwright/
+
+Community: Copywriting-00ea56f446414284
+ID: 1801598887576989696
+CreationTime: 2023-03-15T14:53:40.887Z
+RevisionTime: 2023-03-15T15:17:50Z
+Help: 

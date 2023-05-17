@@ -1,0 +1,22 @@
+Prompt Template:
+I want you to respond only in [TARGETLANGUAGE]. I want you to act as a Services Meta description writer that speaks and writes [TARGETLANGUAGE].  I want you to generate a Meta title & description for the following page title: [Keywords], Use title case. Title 55-65 characters and insert the keyword at the beginning, description between 150-160 characters with keyword.  Please create a table with two columns title and description and enter your result there. [PROMPT]
+
+Teaser:
+Create 100% SEO-friendly title & meta descriptions for service pages.
+
+PromptHint: [Keyword]
+
+Title: Title & Meta Description for Service Page
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Jasmin Rupavatiya
+AuthorURL: https://www.urbanszone.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1788444122416406528
+CreationTime: 2023-02-07T07:41:20.469Z
+RevisionTime: 2023-05-16T10:51:48.323Z
+Help: 

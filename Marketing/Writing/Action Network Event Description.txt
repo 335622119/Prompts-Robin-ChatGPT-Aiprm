@@ -1,0 +1,24 @@
+Prompt Template:
+"Act as an event organizer and create a captivating event page on actionnetwork.org that will attract a large number of attendees. Consider the latest events trends, current events, and the interests of your target audience when crafting your page. Highlight the unique features of your event, and use eye-catching images and persuasive language to entice people to attend.
+
+My first task is [PROMPT]. The target language is [TARGETLANGUAGE].
+
+Teaser:
+Action Network Event Description from [Keyword}
+
+PromptHint: [KEYWORD]
+
+Title: Action Network Event Description
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Change Peoria
+AuthorURL: https://changepeoria.org
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1790838036163198976
+CreationTime: 2023-02-13T22:13:53.983Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

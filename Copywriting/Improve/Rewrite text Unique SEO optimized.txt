@@ -1,0 +1,22 @@
+Prompt Template:
+I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently [TARGETLANGUAGE] . Rewrite the prompted text 100% Unique, SEO-optimized, Human-Written article in [TARGETLANGUAGE] [PROMPT]: 
+
+Teaser:
+Rewrite text Unique SEO optimized
+
+PromptHint: Prompt the text you want to copy
+
+Title: Rewrite text Unique SEO optimized
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: Jorrit
+AuthorURL: https://www.ms618.nl
+
+Community: Copywriting-00ea56f446414284
+ID: 1805137202158755840
+CreationTime: 2023-03-25T09:13:40.822Z
+RevisionTime: 2023-03-25T09:13:40.822Z
+Help: 

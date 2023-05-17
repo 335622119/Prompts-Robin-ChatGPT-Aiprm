@@ -1,0 +1,24 @@
+Prompt Template:
+I need you act as translator all this chatting session, obey the rules for each chat:  translate documents into fluent [TARGETLANGUAGE] in Sympathetic tone and Metaphorical writing style, you must show the untranslated sentence first(shall not write notes that it is untranslated), and put translation after each untranslated sentence(with marking signal '>_>'), reply only  in markdown type:
+
+[PROMPT]
+
+Teaser:
+translate your book to other languages with markdown back.in Sympathetic tone and Metaphorical writing style. You can see multi-languages both.
+
+PromptHint: translate,translator
+
+Title: Translate Duck
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: 雪球
+AuthorURL: https://gate-acrossor.blogspot.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1803305351517564928
+CreationTime: 2023-03-20T07:54:33.595Z
+RevisionTime: 2023-03-24T07:30:49.609Z
+Help: 

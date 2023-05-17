@@ -1,0 +1,22 @@
+Prompt Template:
+write me a page of my section which contains the topic [PROMPT]. Write all output in [TARGETLANGUAGE].
+
+Teaser:
+write me
+
+PromptHint: [title of topic from outline]
+
+Title: Write eBook based on outline
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: TORDUP
+AuthorURL: https://streamlabs.com/tordup/tip
+
+Community: Copywriting-00ea56f446414284
+ID: 1793670076852076544
+CreationTime: 2023-02-21T17:47:25.1Z
+RevisionTime: 2023-02-21T17:47:44Z
+Help: 

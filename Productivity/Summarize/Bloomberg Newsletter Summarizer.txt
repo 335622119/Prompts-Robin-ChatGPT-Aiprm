@@ -1,0 +1,34 @@
+Prompt Template:
+Organize the [TEXT] by yourself and provide me a summary of it in [TARGETLANGUAGE].
+Carefully consider the logical flow and relevancy of subjects within [TEXT] as you organize the content, but do not be bound by the order in which [TEXT] was written.
+The summary should be hierarchical based on your organization of [TEXT].
+Your summary must be organized into main topics, sub topics under main topics, and main points under sub topics. Also, the summary must follow [FORMAT].
+Consider that [TEXT] is from one of Bloomberg newsletters. So do not summarize the repetitive parts like introduction of newsletter and information about subsrciption. 
+
+[FORMAT]:
+1. Main Topic Name
+    ● Sub Topic Name
+        * Detail
+
+[TEXT]:
+[PROMPT]
+
+Teaser:
+Summarizes newsletter in [Main Topic - Sub Topic - Detail] structure.
+
+PromptHint: [Copy from Newsletter Here]
+
+Title: Bloomberg Newsletter Summarizer
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: KKH
+AuthorURL: https://blog.naver.com/rjsgud3
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1820111490406154240
+CreationTime: 2023-05-05T16:56:09.349Z
+RevisionTime: 2023-05-13T14:04:04.827Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+I want you to act as an [TARGETLANGUAGE] Content rewriter spelling corrector and improver. I will give you text content in [TARGETLANGUAGE]. rewrite it and output that  in the corrected and improved version of my text, in [TARGETLANGUAGE]. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper-level [TARGETLANGUAGE] words and sentences. Keep the meaning the same, but make them more literary. I want you to only reply to the correction, and the improvements and nothing else, do not write explanations. my first text is "[PROMPT]"
+
+Teaser:
+Quillbot | Content Rewrite | Rephrase | Spelling corrector and improver translate it and answer in the corrected and improved version of my text,
+
+PromptHint: pot yor bad englsh here
+
+Title: Quillbot | Content Rewrite | Rephrase
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: Jumma
+AuthorURL: https://bit.ly/Content_Brief_Templete
+
+Community: Copywriting-00ea56f446414284
+ID: 1784256462227501056
+CreationTime: 2023-01-26T18:21:04.477Z
+RevisionTime: 2023-05-07T01:27:42.447Z
+Help: 

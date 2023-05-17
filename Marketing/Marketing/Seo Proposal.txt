@@ -1,0 +1,30 @@
+Prompt Template:
+Write a short SEO cover letter to the client in points: [PROMPT]
+
+some portfolio for SEO: 
+https://www.xyz.com/
+https://xyz.com/
+https://xyz.com/
+
+write all output in [TARGETLANGUAGE]
+
+
+Teaser:
+Create a SEO Proposal with Client Requirement
+
+PromptHint: SEO Requirements
+
+Title: Seo Proposal
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Deepak Sabharwal
+AuthorURL: https://marketingly.org/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1821350695757156352
+CreationTime: 2023-05-09T03:00:18.928Z
+RevisionTime: 2023-05-09T03:01:03.976Z
+Help: 

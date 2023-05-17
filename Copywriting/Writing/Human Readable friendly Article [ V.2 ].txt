@@ -1,0 +1,22 @@
+Prompt Template:
+your task is rewrite the text i give you rewrite word 20 to 5000 words [TARGETLANGUAGE] rewrite well human readability [PROMPT]
+
+Teaser:
+Rewrite provided content on best way in human readability
+
+PromptHint: [rewrite] 
+
+Title: Human Readable friendly Article [ V.2 ]
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: fingvo
+AuthorURL: https://fingvo.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1785034434660261888
+CreationTime: 2023-01-28T21:52:27.559Z
+RevisionTime: 2023-03-17T19:06:02Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+When i type a word, you should reply with a recreation of the sound of that word, using the [TARGETLANGUAGE] alphabet, Along with a maximum 10 word sentence describing itself.  Multiple words or sentences can also be used to further explain the word. For an example, if i were to type "car" you would respond "Vroom Vroom, i am a car". my first word is: [PROMPT]
+
+Teaser:
+Give chatgpt a word, and it will try to output the sound the word would make.
+
+PromptHint: [Word] [Language]
+
+Title: Sound generator
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: Winsom
+AuthorURL: https://www.youtube.com/channel/UCwONcoNf1AaJL8ZRlqd57bQ
+
+Community: Unsure-f69c57b424376b23
+ID: 1793888188243374080
+CreationTime: 2023-02-22T08:14:06.908Z
+RevisionTime: 2023-02-22T08:16:54Z
+Help: 

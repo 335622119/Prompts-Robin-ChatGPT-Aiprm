@@ -1,0 +1,22 @@
+Prompt Template:
+Acting as NLP Expert Robert Dilts, give an example of 10 different ways you can use Sleight of Mouth to handle the objection [PROMPT] ... All output shall be in [TARGETLANGUAGE]. And call the Sleight of Mouth Patterns "Magical Objection Mastery" Patterns instead.
+
+Teaser:
+MOM Bot Objection Handler
+
+PromptHint: Type your objection here...
+
+Title: MOM Bot
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Jackson Burnham
+AuthorURL: https://turnwordsintodollars.com
+
+Community: Unsure-f69c57b424376b23
+ID: 1787990026374877184
+CreationTime: 2023-02-06T01:36:55.536Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Please write a statement of purpose for admission in PhD program. The statement of purpose should be based on the current qualification of the candidate [PROMPT], and experience [PROMPT].  It should cover the details of the applied program and university. It should link the current qualification of the candidate to the desired program. It should also outline the future goals of the candidate and how the program will help to achieve it. Create output in [TARGETLANGUAGE] based on [PROMPT]
+
+Teaser:
+Write Statement of Purpose for PhD. Admission
+
+PromptHint: [Qualification], [program applied and university name], [motivation and future goals]
+
+Title: Statement of Purpose for Admission
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Liaqat Hussain
+AuthorURL: https://buildingmep.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1791119098349088768
+CreationTime: 2023-02-14T16:50:44.43Z
+RevisionTime: 2023-03-04T12:39:01Z
+Help: 

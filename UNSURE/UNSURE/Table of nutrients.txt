@@ -1,0 +1,29 @@
+Prompt Template:
+me apresente o resultado no idioma [targetlanguage]
+Eu quero que você me apresente os principais nutrientes de :
+me apresente os nutrientes em uma tabela.
+depois me escreva um texto sobre cada importância de cada nutriente.
+
+[TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Consult the nutrients of food and discover the importance of each.
+
+PromptHint: [food]
+
+Title: Table of nutrients
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Leandro silva
+AuthorURL: https://idolink.com/marketinggeolocalizao
+
+Community: Unsure-f69c57b424376b23
+ID: 1807386177687511040
+CreationTime: 2023-03-31T14:10:18.372Z
+RevisionTime: 2023-03-31T14:10:18.372Z
+Help: 

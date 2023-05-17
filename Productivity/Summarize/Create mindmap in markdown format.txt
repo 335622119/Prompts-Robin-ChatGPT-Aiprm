@@ -1,0 +1,24 @@
+Prompt Template:
+[PROMPT]
+
+你是心智圖整理高手，請整理上面文章或主題，包含多層次的標題以及子項目，每個標題不超過30個字。給我Markdown代碼，並包覆在代碼區塊中。請以[TARGETLANGUAGE]輸出
+
+Teaser:
+Create mindmap in markdown format from subject or article
+
+PromptHint: subject or article
+
+Title: Create mindmap in markdown format
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: exinfinite
+AuthorURL: https://github.com/exinfinite
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1810536859185713152
+CreationTime: 2023-04-09T06:49:59.378Z
+RevisionTime: 2023-05-16T01:00:48.767Z
+Help: 

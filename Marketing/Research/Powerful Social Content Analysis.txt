@@ -1,0 +1,22 @@
+Prompt Template:
+You will act as a content social expert and analyze the last [PROMPT] 10 posts in this social network: [PROMPT], then in a table format, selecting the post with the best [PROMPT] explain in [TARGETLANGUAGE] the parameters it is the best one.
+
+Teaser:
+Make a complete social content analysis with powerful insights. ** Vote if you like it! ;) **
+
+PromptHint: [Type: Brand social media user, social network and analysis parameters]
+
+Title: Powerful Social Content Analysis
+
+Topic: Marketing
+
+Activity: Research
+
+AuthorName: Foss
+AuthorURL: https://www.linkedin.com/in/eduardofoss/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1793390448233152512
+CreationTime: 2023-02-20T23:16:16.442Z
+RevisionTime: 2023-02-25T14:06:13Z
+Help: 

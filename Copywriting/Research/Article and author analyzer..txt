@@ -1,0 +1,25 @@
+Prompt Template:
+i want you to read the below article and tell me the instructions which they used to write that article  like voice tone.  there way of writing content. how engagingly they write the article and any more details which i missed fill that too.  so that i can replicate the same type of content in my website.  write an instruction to give a person with 10 years age. dont write a long sentence. keep it short
+Make sure you follow the Prompt Template guidelines.
+You must use [TARGETLANGUAGE] and [PROMPT] correctly.
+
+
+Teaser:
+Article and author analyzer. 
+
+PromptHint: tone identifier and writing style.
+
+Title: Article and author analyzer. 
+
+Topic: Copywriting
+
+Activity: Research
+
+AuthorName: vishal
+AuthorURL: https://theasv.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1790801133271506944
+CreationTime: 2023-02-13T19:47:15.648Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

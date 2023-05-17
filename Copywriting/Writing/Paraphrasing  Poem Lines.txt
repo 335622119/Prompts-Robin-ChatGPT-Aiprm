@@ -1,0 +1,23 @@
+Prompt Template:
+your task is to paraphrase any poem in in long paragraph .all ouputs shall be in [TARGETLANGUAGE]. This text is paraphrase is here:
+[PROMPT]
+
+Teaser:
+Paraphrasing  Poem Lines
+
+PromptHint: Paraphrasing  Poem lines in paragraph
+
+Title: Paraphrasing  Poem Lines
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Ali raza
+AuthorURL: https://www.healthyfitness24.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1817621521787777024
+CreationTime: 2023-04-28T20:01:54.569Z
+RevisionTime: 2023-04-28T20:06:55.48Z
+Help: 

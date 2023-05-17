@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is Create an RFQ for Alibaba suppliers. The target language is [TARGETLANGUAGE]
+Give me your keyword, your features and some LoopHoles:
+[PROMPT]
+
+Teaser:
+It will help you create best RFQ for your suppliers
+
+PromptHint: [RFQ(Request For Quotation) For Alibaba Suppliers]
+
+Title: Request For Quotation
+
+Topic: Copywriting
+
+Activity: Product Description
+
+AuthorName: Mazzi
+AuthorURL: https://www.facebook.com/profile.php?id=100014944711714
+
+Community: Copywriting-00ea56f446414284
+ID: 1798626586661224448
+CreationTime: 2023-03-07T10:02:49.126Z
+RevisionTime: 2023-03-07T10:07:48Z
+Help: 

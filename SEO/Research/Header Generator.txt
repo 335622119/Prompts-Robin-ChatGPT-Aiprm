@@ -1,0 +1,23 @@
+Prompt Template:
+based on these headers [PROMPT], give me a list of the most essential header for the article so that it gives the best value to the reader and covers the subject on many aspects.
+output must be in [TARGETLANGUAGE]
+
+Teaser:
+Takes competetors headers and create a unique headers that covers all aspects of your Article
+
+PromptHint: [your headers] here
+
+Title: Header Generator
+
+Topic: SEO
+
+Activity: Research
+
+AuthorName: Jacob
+AuthorURL: https://outdooorlab.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1820097076936310784
+CreationTime: 2023-05-05T15:58:52.91Z
+RevisionTime: 2023-05-05T15:58:52.91Z
+Help: 

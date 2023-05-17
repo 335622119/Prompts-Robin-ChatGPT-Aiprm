@@ -1,0 +1,26 @@
+Prompt Template:
+Saya perintahkan anda untuk membuat kalimat "[KEYWORD]" menjadi 100% unik dan bebas dari plagiat dengan menggunakan teknik penulisan yang gaul.
+
+Buat dalam bahasa [TARGETLANGUAGE].
+
+[PROMPT]
+
+Teaser:
+Masukkan penggalan kalimat...
+
+PromptHint: Masukkan penggalan kalimat...
+
+Title: Make Unique Words
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Whimsy Official
+AuthorURL: https://whimsyofficial.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1817512262106353664
+CreationTime: 2023-04-28T12:47:45.031Z
+RevisionTime: 2023-04-28T12:47:45.031Z
+Help: 

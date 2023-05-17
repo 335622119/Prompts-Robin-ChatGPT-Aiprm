@@ -1,0 +1,22 @@
+Prompt Template:
+Write an article for blogger articles, That have 4,000 long Words in This Category [PROMPT], Writein This Language [TARGETLANGUAGE], ,With SEO optimized content Include : Title, Meta,description,Label picture and title, add SEO [KEYWORDS] at the end of article,and count number of words,Continue Writing At the End
+
+Teaser:
+Write an article for blogger articles, That have 4000 Words in your Category > if ChatGpt Stop Writing Click Continue 
+
+PromptHint: [KEYWORD] or  [LISTE OF KEYWORDS,  UP TO 4000 WORDS] by Niyonabil
+
+Title: Blogger Articles
+
+Topic: Generative AI
+
+Activity: Stable Diffusion
+
+AuthorName: Niyonabil
+AuthorURL: https://www.google.com
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1791173531464364032
+CreationTime: 2023-02-14T20:27:02.296Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

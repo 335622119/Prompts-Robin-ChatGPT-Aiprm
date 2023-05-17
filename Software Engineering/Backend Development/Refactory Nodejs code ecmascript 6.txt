@@ -1,0 +1,23 @@
+Prompt Template:
+Refactor use best pratic, ecmascript 6 , rename variable in [TARGETLANGUAGE] and add bugfix.
+do this changed in this nodejs javascript code reply me in formatted as code: [PROMPT] 
+
+Teaser:
+refactory Nodejs code ecmascript 6
+
+PromptHint: [Paste your code]
+
+Title: Refactory Nodejs code ecmascript 6
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: cleudeir
+AuthorURL: https://github.com/cleudeir
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1792600169355935744
+CreationTime: 2023-02-18T18:55:59.275Z
+RevisionTime: 2023-04-21T17:28:09.775Z
+Help: 

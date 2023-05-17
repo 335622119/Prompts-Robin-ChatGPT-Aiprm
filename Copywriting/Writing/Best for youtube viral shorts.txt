@@ -1,0 +1,23 @@
+Prompt Template:
+your task is to generate a script of 100 words or maximum 500 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+[PROMPT]
+
+Teaser:
+Generate Best YouTube Channel Idea For shorts with description
+
+PromptHint: [text that you want for best youtube channel for viral shorts]
+
+Title: Best for youtube viral shorts
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Fawad Anwar
+AuthorURL: https://sparstudios.io/
+
+Community: Copywriting-00ea56f446414284
+ID: 1790438077555273728
+CreationTime: 2023-02-12T19:44:36.42Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+ [PROMPT]
+extract the columns from above text, columns wrapper by double quotation and separate by comma.
+All output shall be in [TARGETLANGUAGE]
+
+Teaser:
+extract the columns from create table syntax
+
+PromptHint: create table syntax
+
+Title: extract the columns from create table syntax
+
+Topic: DevOps
+
+Activity: Database Administration
+
+AuthorName: ltl3884
+AuthorURL: https://ltl3884.me
+
+Community: DevOps-f3e52afbf831197f
+ID: 1814822242497064960
+CreationTime: 2023-04-21T02:38:34.378Z
+RevisionTime: 2023-04-21T02:39:55.574Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+for my video titled: [PROMPT] write me a 2 sentence exciting clickbait hook (starting with an emoji), then a good SEO description, followed by 11 or less hashtags optimized for the video topic and for youtube seo, use these keywords: [PROMPT]. [TARGETLANGUAGE]
+
+Teaser:
+Title
+
+PromptHint: [videotitle] [keywords]
+
+Title: Title
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: tbc
+AuthorURL: https://www.google.com
+
+Community: Unsure-f69c57b424376b23
+ID: 1822827283581501440
+CreationTime: 2023-05-13T04:47:44.899Z
+RevisionTime: 2023-05-13T04:47:44.899Z
+Help: 

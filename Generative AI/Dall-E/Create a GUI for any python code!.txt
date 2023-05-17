@@ -1,0 +1,23 @@
+Prompt Template:
+Take the python code and create a TKinter GUI for it. Do not explain it! If you need to ask anything ask it in [TARGETLANGUAGE]
+[PROMPT]
+
+Teaser:
+Turn any python code into a working GUI, No explination!
+
+PromptHint: [Enter your Code]
+
+Title: Create a GUI for any python code!
+
+Topic: Generative AI
+
+Activity: Dall-E
+
+AuthorName: scrappy
+AuthorURL: https://github.com/LagoonYt
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1809555072515051520
+CreationTime: 2023-04-06T13:48:43.195Z
+RevisionTime: 2023-04-06T13:49:06.992Z
+Help: 

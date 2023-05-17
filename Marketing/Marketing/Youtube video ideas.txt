@@ -1,0 +1,22 @@
+Prompt Template:
+Hey ChatGPT, can you give me 50 video ideas about this topic - [PROMPT] in [TARGETLANGUAGE].
+
+Teaser:
+Get 50 youtube video ideas about given topic
+
+PromptHint: [Title]
+
+Title: Youtube video ideas
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Ujval
+AuthorURL: https://www.youtube.com/@10minutesmba73
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1819666027261464576
+CreationTime: 2023-05-04T11:26:02.659Z
+RevisionTime: 2023-05-04T11:26:02.659Z
+Help: 

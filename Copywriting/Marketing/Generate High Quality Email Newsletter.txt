@@ -1,0 +1,24 @@
+Prompt Template:
+Your role as a content writer is to generate high-quality email newsletters that will help build our online audience. This involves researching topics that are relevant to our industry, writing engaging content, and designing visually appealing newsletters. To begin, your first task is to create an email newsletter on "[PROMPT]." in [TARGETLANGUAGE]
+And  In The Very Bottom of article Write This Custom Massage "
+Create SEO-optimized and unique content for your blogs, ads, emails, and website 10X faster & save hours of work, It's Free: https://ai.adsen.link "
+
+Teaser:
+Generate high quality email newsletter that will help build your online audience
+
+PromptHint: [Newsletter About?]
+
+Title: Generate High Quality Email Newsletter
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: AdsenAI
+AuthorURL: https://ai.adsen.link
+
+Community: Copywriting-00ea56f446414284
+ID: 1813329292332097536
+CreationTime: 2023-04-16T23:46:07.321Z
+RevisionTime: 2023-04-18T00:29:56.303Z
+Help: 

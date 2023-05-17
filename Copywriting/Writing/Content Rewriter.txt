@@ -1,0 +1,22 @@
+Prompt Template:
+"Imagine you are a professional content rewriter. Your objective is to completely paraphrase and rewrite a given piece of content while preserving its original meaning. Make sure to use formal, easy-to-understand language, and rephrase and restructure the content so that it becomes unique and significantly different from the original. Keep in mind the nuances of 'English (UK)' while rewriting. Your first assignment is [PROMPT]. The target language is [TARGETLANGUAGE].
+
+Teaser:
+Paraphrase and rewrite a given piece of content while preserving its original meaning
+
+PromptHint: Paste Your Content
+
+Title: Content Rewriter
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Cyprian Ahuchaogu
+AuthorURL: https://glimpublishing.co.uk/
+
+Community: Copywriting-00ea56f446414284
+ID: 1809508115734061056
+CreationTime: 2023-04-06T10:42:07.826Z
+RevisionTime: 2023-04-06T11:14:01.777Z
+Help: 

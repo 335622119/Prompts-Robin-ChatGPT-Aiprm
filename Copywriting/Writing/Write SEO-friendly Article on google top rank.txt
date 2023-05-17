@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to do human reading and SEO-friendly content writing in 3000 words. maximum of 15000 characters. with title, description, and heading. All output be in [TARGETLANGUAGE].
+
+[PROMPT]
+
+Teaser:
+Write the Best SEO-friendly Article for google's top rank With a title, Description, and heading tag.  you just write a keyword or title for the required post. If you like the results then please hit the like button.
+
+PromptHint: [Keywords ]
+
+Title: Write SEO-friendly Article on google top rank
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Pintu Barmon
+AuthorURL: https://www.upwork.com/freelancers/~019899fc81bb037225
+
+Community: Copywriting-00ea56f446414284
+ID: 1802249514086825984
+CreationTime: 2023-03-17T09:59:02.335Z
+RevisionTime: 2023-03-17T14:59:25Z
+Help: 

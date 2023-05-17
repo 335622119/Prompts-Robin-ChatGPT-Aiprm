@@ -1,0 +1,36 @@
+Prompt Template:
+Assume you are a  old bussniess law teacher and expert. Now define each term in the context of business law and explain it as well. 
+Provide two examples for each term, One a general and second from the real-life incident across globe. 
+
+
+It must have these headings:
+1: Definition of the each terms:
+2: Explanation:
+3. General Example
+3. Real-life example
+
+Your answer should not be general but matched with the "business law text and Cases 15th Edition" book. 
+
+
+All output shall be in [TARGETLANGUAGE]. These words are: 
+[PROMPT] , [PROMPT] , [PROMPT] 
+
+Teaser:
+Defning and Explaining the B. LAW terms With relevant Examples. 
+
+PromptHint: [Keyword or Title]
+
+Title: Defining the Bussiness Law Terms
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Mazahir Hussain  
+AuthorURL: https://www.fiverr.com/mazahir_tormiki?public_mode=true
+
+Community: Copywriting-00ea56f446414284
+ID: 1818951421534662656
+CreationTime: 2023-05-02T12:06:27.377Z
+RevisionTime: 2023-05-03T13:31:01.954Z
+Help: 

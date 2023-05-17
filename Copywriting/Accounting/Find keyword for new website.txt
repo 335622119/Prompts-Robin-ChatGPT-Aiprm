@@ -1,0 +1,22 @@
+Prompt Template:
+Give me a keyword for [PROMPT] with low keyword difficulty and low search volume. This keyword must be best for a new website. [TARGETLANGUAGE].
+
+Teaser:
+Find low keyword difficulty and low search volume keywords for a new blog or a new affiliate blog.
+
+PromptHint: [Enter your website niche]
+
+Title: Find keyword for new website
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Hassaan
+AuthorURL: https://hscoolinginfo.com/blogs/
+
+Community: Copywriting-00ea56f446414284
+ID: 1802590561010708480
+CreationTime: 2023-03-18T08:34:14.258Z
+RevisionTime: 2023-03-19T05:43:49Z
+Help: 

@@ -1,0 +1,28 @@
+Prompt Template:
+There is this website that posts freelance project opportunities.
+I am currently applying for projects on this website.
+One project that I taken interest into is:
+[PROMPT]
+
+Can you write a suitable first message, in [TARGETLANGUAGE], that will: make me stand out, show my interest and show my relevant expertise for this project.
+Before you write the message, you can ask me questions to ensure you have all the required details.
+
+Teaser:
+Create a reponse to a freelance project posting from the job's description
+
+PromptHint: [The project description]
+
+Title: Create a reponse to a freelance project posting
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: Ben Brunyee
+AuthorURL: https://webspred.com
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1788149584560906240
+CreationTime: 2023-02-06T12:10:57.172Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

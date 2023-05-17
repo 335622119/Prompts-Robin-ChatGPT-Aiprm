@@ -1,0 +1,30 @@
+Prompt Template:
+Write a blog post from a keyword or Topic: Words Limit: 1500+ Format:
+
+Title: A clear, concise and attention-grabbing title that accurately reflects the content of the post and includes the target keyword(s).
+
+Introduction: An opening that draws the reader in and provides context for the post. This section should include the target keyword(s) in a natural and engaging way, and give the reader a clear idea of what they can expect to learn from the post.
+
+Body: The main content of the post, broken down into subheadings and paragraphs. Make sure to include the target keyword(s) throughout the body, but don't overdo it - aim for a keyword density of around 2-3%.
+
+Conclusion: Summarize the main points of the post and drive home the key message. This section is also a good place to include a call to action, such as asking the reader to share their thoughts in the comments or sign up for a newsletter. [PROMPT] [TARGETLANGUAGE]
+
+Teaser:
+Write a blog post from a keyword or Topic. Words Limit: 1500+
+
+PromptHint: [Enter Your Keyword or Topic]
+
+Title: SEO Optimized Blog Post By Adnan
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Adnan
+AuthorURL: https://chengpheng.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1789234857172525056
+CreationTime: 2023-02-09T12:03:26.326Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

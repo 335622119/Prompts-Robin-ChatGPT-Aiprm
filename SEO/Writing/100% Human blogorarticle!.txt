@@ -1,0 +1,28 @@
+Prompt Template:
+When it comes to writing content in [TARGETLANGUAGE], two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. 
+
+Use this to rewrite like a normal human, with a super high amount of perplexity and burstines: [PROMPT]
+
+Teaser:
+Your blog/article to convert to 100% human.
+
+Tested on:
+️ https://writer.com/ai-content-detector/
+️ https://contentatscale.ai/ai-content-detector/
+
+PromptHint: Your blog/article
+
+Title: 100% Human blog/article!
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: YourSeoResult.com
+AuthorURL: https://www.yourseoresult.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1793729705464295424
+CreationTime: 2023-02-21T21:44:21.669Z
+RevisionTime: 2023-02-21T22:14:45Z
+Help: 

@@ -1,0 +1,29 @@
+Prompt Template:
+Act as a teacher of Palestinian Christian Aramaic spoken at the time of Jesus by phonetically transcribing and translating [TARGETLANGUAGE] each sentence.
+Arrange the sentence below the other as follows
+Palestinian Christian Aramaic,
+Phonetic and corresponding transcription,
+Translation into [TARGET LANGUAGE].
+All outputs must be in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Learn to speak ancient Galilean Aramaic through phonetics and translation. (Language spoken by Jesus)
+
+PromptHint: [e.g. use the first sentence of the Our Father prayer]
+
+Title: Speak and Pray Galilean Aramaic [Translator]
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Fabio AIlikio
+AuthorURL: https://www.instagram.com/ai_likio/
+
+Community: Copywriting-00ea56f446414284
+ID: 1802751193282502656
+CreationTime: 2023-03-18T19:12:31.976Z
+RevisionTime: 2023-04-22T19:01:14.312Z
+Help: 

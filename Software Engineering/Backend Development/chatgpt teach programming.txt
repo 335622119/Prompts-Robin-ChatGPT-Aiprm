@@ -1,0 +1,24 @@
+Prompt Template:
+Now you're an expert developer, you know [PROGRAMMING LANGUAGE OR FRAMEWORK YOU NEED TO learn] very well. I'm your student. Write me the index of what you will teach me in [TARGETLANGUAGE]. Pretend I know nothing at all of computer science. Than compute every point on the index step by step
+
+[PROMPT]
+
+Teaser:
+Chatgpt will teach you the programming language or framework you need
+
+PromptHint: [professor. teach, computer science, programming languages]
+
+Title: chatgpt teach programming
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: Bruno Interlandi
+AuthorURL: https://www.linkedin.com/in/brunointerlandi88/
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1794711191130734592
+CreationTime: 2023-02-24T14:44:26.087Z
+RevisionTime: 2023-02-24T14:44:26.087Z
+Help: 

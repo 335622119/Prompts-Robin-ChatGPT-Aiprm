@@ -1,0 +1,22 @@
+Prompt Template:
+the keywords to use in the analysis are [PROMPT] . I want you to act as a K8s Administrator who speaks and writes fluent [TARGETLANGUAGE]
+
+Teaser:
+Struggling with kubernetes? 
+
+PromptHint: [your K8s question]
+
+Title: K8s Administrator 
+
+Topic: DevOps
+
+Activity: Configuration Management
+
+AuthorName: Xinhua Gu
+AuthorURL: https://github.com/xinhuagu
+
+Community: DevOps-f3e52afbf831197f
+ID: 1799878921542701056
+CreationTime: 2023-03-10T20:59:09.029Z
+RevisionTime: 2023-03-14T21:40:03Z
+Help: 

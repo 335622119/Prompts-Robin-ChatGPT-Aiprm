@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE] full code of "[PROMPT]" in HTML, CSS and Javascript.
+
+Teaser:
+Get Full Code of Your Project with ChatGPT AI With This Prompt. Please LIKE if you Love it.
+
+PromptHint: [Write a Keyword, What you want to build] :: Its Build with HTML, CSS, JS
+
+Title: HTML,CSS and JAVASCRIPT Projects Code Generator
+
+Topic: Software Engineering
+
+Activity: Web Development
+
+AuthorName: Mehedi Al Tayib
+AuthorURL: https://mehedialtayib.blogspot.com/
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1788825768235896832
+CreationTime: 2023-02-08T08:57:51.923Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

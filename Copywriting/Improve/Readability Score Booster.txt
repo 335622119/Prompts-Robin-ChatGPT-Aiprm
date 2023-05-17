@@ -1,0 +1,24 @@
+Prompt Template:
+Analyze this text and rewrite to improve its readability according to Hemingway Editor methodologies? Simplify to an 8th grade level in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Improve Content Readability Score
+
+PromptHint: Paste Your Text
+
+Title: Readability Score Booster
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: Content Writer Tools
+AuthorURL: https://contentwritertools.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1815691404492664832
+CreationTime: 2023-04-23T12:12:18.746Z
+RevisionTime: 2023-04-23T12:12:18.746Z
+Help: 

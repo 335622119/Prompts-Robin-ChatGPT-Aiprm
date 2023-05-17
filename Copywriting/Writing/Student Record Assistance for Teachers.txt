@@ -1,0 +1,26 @@
+Prompt Template:
+Fill out student records for [PROMPT]. Write it so that the capability of [VARIABLE1] is clearly revealed. Include detailed examples of [VARIABLE2]. Write within [VARIABLE3] characters. Write only in [TARGETLANGUAGE] language. Do not mention student's name or gender. Complete sentences using action verbs. Write in the style of Educator John Dewey.
+
+[VARIABLE1:Core competency]
+[VARIABLE2:Specific example]
+[VARIABLE3:Number of characters]
+
+Teaser:
+High School Student Record about [PROMPT] Subject.
+
+PromptHint: [Subject Name]
+
+Title: Student Record Assistance for Teachers
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: YSLEE
+AuthorURL: https://studentbot.co.kr
+
+Community: Copywriting-00ea56f446414284
+ID: 1822188626063388672
+CreationTime: 2023-05-11T10:29:57.081Z
+RevisionTime: 2023-05-16T23:26:40.93Z
+Help: 

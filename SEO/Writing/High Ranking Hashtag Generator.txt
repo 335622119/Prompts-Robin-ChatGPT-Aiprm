@@ -1,0 +1,24 @@
+Prompt Template:
+Generate the 30 highest ranking hashtags for Instagram based on provided text and in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Get the 30 highest ranking hashtags for Instagram related to your post
+
+PromptHint: [text that you want highest ranking hashtags for]
+
+Title: High Ranking Hashtag Generator
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: AstroJelly
+AuthorURL: https://astrojellymyco.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1803186322471649280
+CreationTime: 2023-03-20T00:01:34.859Z
+RevisionTime: 2023-03-20T02:08:03.752Z
+Help: 

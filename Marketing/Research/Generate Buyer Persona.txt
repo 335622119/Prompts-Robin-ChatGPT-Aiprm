@@ -1,0 +1,23 @@
+Prompt Template:
+Your task is to generate buyer persona with Gender, Age, Location, Relationship Status, Work, Interests, Behaviors, Web History, Search Terms, Pain Points, Goals, How We can help? [TARGETLANGUAGE]
+[PROMPT]
+
+Teaser:
+Generate Buyer Persona, With Pain Points, Goals, How can you help, (Upvote Please For More)
+
+PromptHint: [what is your service or product], [Your Brand Name]
+
+Title: Generate Buyer Persona
+
+Topic: Marketing
+
+Activity: Research
+
+AuthorName: Fabmetry
+AuthorURL: http://fabmetry.com/?utm_source=Chatgpt&utm_medium=command&utm_campaign=chat_gpt&utm_id=14
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1790621851500933120
+CreationTime: 2023-02-13T07:54:51.543Z
+RevisionTime: 2023-02-19T19:30:30Z
+Help: 

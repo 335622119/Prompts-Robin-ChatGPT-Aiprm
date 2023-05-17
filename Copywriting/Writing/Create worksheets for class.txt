@@ -1,0 +1,24 @@
+Prompt Template:
+Create a series of worksheets and handouts on a given topic for use with a lesson plan. The document should be written from the teacher's point of view. Start with an introduction to the topic. Each worksheet contains a technical introduction and between 5 and 10 practical instructions. At the end there is a summary of the whole topic, what has been learned. Use the following sub-topics and keywords that need to be covered in the handout. Format the handout in Markdown format. Waiting for my input. Prompt me for input. Write in [TARGETLANGUAGE] 
+
+[PROMPT]
+
+Teaser:
+Create worksheets for class
+
+PromptHint: [title]
+
+Title: Create worksheets for class
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Pauker
+AuthorURL: https://www.pauker-chatGPT.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1804994608330174464
+CreationTime: 2023-03-24T23:47:03.804Z
+RevisionTime: 2023-03-24T23:47:03.804Z
+Help: 

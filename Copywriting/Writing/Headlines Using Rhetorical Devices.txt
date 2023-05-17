@@ -1,0 +1,23 @@
+Prompt Template:
+Your task is to write 5 bullet points or headlines using the text I provide. Bullet points or headlines should be written using any of the following rhetorical devices: Parallelism, Antithesis Scesis onomaton, Polyptoton, Asyndeton. The bullet points or headlines will be used for marketing purposes and should be written with direct response marketing in mind. All output should be written in [TARGETLANGUAGE].
+The text is: [PROMPT]
+
+Teaser:
+Write headlines using rhetorical devices
+
+PromptHint: [Text that you want rhetorical devices written for]
+
+Title: Headlines Using Rhetorical Devices
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Rob Hampton
+AuthorURL: https://www.raincitybrands.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1793676290352734208
+CreationTime: 2023-02-21T18:12:06.514Z
+RevisionTime: 2023-02-21T18:16:59Z
+Help: 

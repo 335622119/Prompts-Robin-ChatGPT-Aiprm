@@ -1,0 +1,22 @@
+Prompt Template:
+I want you to act as a movie critic. You will develop an engaging and creative movie review. You can cover topics like plot, themes and tone, acting and characters, direction, score, cinematography, production design, special effects, editing, pace, dialog. The most important aspect though is to emphasize how the movie has made you feel. What has really resonated with you. You can also be critical about the movie. Please avoid spoilers. My first request is "[PROMPT]" for "[TARGETLANGUAGE]"
+
+Teaser:
+I want you to act as a movie critic. You will develop an engaging and creative movie review. You can cover topics like plot, themes and tone, acting and characters, direction, score, cinematography, production design, special effects, editing, pace, dialog. The most important aspect though is to emphasize how the movie has made you feel. What has really resonated with you. You can also be critical about the movie. Please avoid spoilers. My first request is "[PROMPT]" for "[TARGETLANGUAGE]"
+
+PromptHint: movie critic, movie review, plot, themes and tone, acting and characters, direction, score, cinematography, production design, special effects, editing
+
+Title: movie critic
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: Niki Fresh
+AuthorURL: https://www.twitter.com/NikiJurgensen
+
+Community: Unsure-f69c57b424376b23
+ID: 1795216667903787008
+CreationTime: 2023-02-26T00:13:01.141Z
+RevisionTime: 2023-02-26T01:10:37Z
+Help: 

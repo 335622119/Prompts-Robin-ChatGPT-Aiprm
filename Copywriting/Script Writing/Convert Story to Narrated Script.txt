@@ -1,0 +1,23 @@
+Prompt Template:
+Generate an acting script for the story provided: [PROMPT]. 
+Add roles, and narrator please.
+
+Teaser:
+Takes a story and turns it into a full on Action Script, or Scene. 
+
+PromptHint: Paste your story here...
+
+Title: Convert Story to Narrated Script
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: WilliamCole
+AuthorURL: http://www.creaition.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1782556022871953408
+CreationTime: 2023-01-22T01:44:08.142Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

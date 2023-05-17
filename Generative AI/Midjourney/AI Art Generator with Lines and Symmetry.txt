@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE] several adorable rainbow robotic cyberpunk [PROMPT]::[PROMPT]; made of geometric zentangle tessellation mandalas, filigree; rounded Pixar style; brightly lit, clean white background [TARGETLANGUAGE]
+
+Teaser:
+Cyber Robot Detailed Geometric
+
+PromptHint: cute, zentangle, geometry, mandalas, filigree, pixar
+
+Title: AI Art Generator with Lines and Symmetry
+
+Topic: Generative AI
+
+Activity: Midjourney
+
+AuthorName: Heather Dube
+AuthorURL: https://www.midjourney.com/app/users/0d62dbb8-0a02-4dd2-83dd-ed3682ca6f49/
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1799107589100015616
+CreationTime: 2023-03-08T17:54:09.044Z
+RevisionTime: 2023-03-08T17:58:42Z
+Help: 

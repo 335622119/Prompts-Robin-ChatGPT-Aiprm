@@ -1,0 +1,25 @@
+Prompt Template:
+create a meta description with maximum of 160 characters using exact keyword about
+[PROMPT]
+
+Use English as [TARGETLANGUAGE] 
+
+Teaser:
+create a meta description with maximum of 160 characters using exact keyword 
+
+PromptHint: create a meta description with maximum of 160 characters using exact keyword [KEYWORD] [ENGLISH]
+
+Title: meta description
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: erwin
+AuthorURL: http://eriwnvalles.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1801191715894456320
+CreationTime: 2023-03-14T11:55:43.593Z
+RevisionTime: 2023-04-01T02:33:16.97Z
+Help: 

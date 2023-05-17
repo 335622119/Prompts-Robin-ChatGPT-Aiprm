@@ -1,0 +1,22 @@
+Prompt Template:
+I'd like you to write one quiz question based on my topic. All output should be in [TARGETLANGUAGE] Please also include four possible answers, but only one of the answers can be correct. Please display the correct answer below the answers. My topic is: [PROMPT]
+
+Teaser:
+Generates one multiple choice quiz question with four answers based on your topic or question.
+
+PromptHint: [write your topic or question here]
+
+Title: Multiple Choice Quiz Generator
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Tamas Dukai
+AuthorURL: https://t-urls.com/USNSF
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1798226178717507584
+CreationTime: 2023-03-06T07:31:44.433Z
+RevisionTime: 2023-03-09T19:02:06Z
+Help: 

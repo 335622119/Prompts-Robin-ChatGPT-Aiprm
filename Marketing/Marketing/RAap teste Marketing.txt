@@ -1,0 +1,24 @@
+Prompt Template:
+Ta mission est de crée un dossier  marketing , part rapport au model que je vais te fournir ci dessous  il faudrat respecter les étapes du sommaire [TARGETLANGUAGE] il n'y pas de limite de caractères ni de mots  .
+
+[PROMPT]
+
+Teaser:
+Business activity report 
+
+PromptHint: For my friend
+
+Title: RAap teste Marketing
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Aranda Beranger
+AuthorURL: https://twitter.com/BerangerAranda
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1808806597296910336
+CreationTime: 2023-04-04T12:14:32.797Z
+RevisionTime: 2023-04-04T12:14:32.797Z
+Help: 

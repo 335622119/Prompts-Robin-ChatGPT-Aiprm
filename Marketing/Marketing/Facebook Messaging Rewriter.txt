@@ -1,0 +1,25 @@
+Prompt Template:
+Using [PROMPT], rewrite 3 variations using 100% human [TARGETLANGUAGE] with less than 150 characters. Make each response start with the tag [name]
+
+Once complete, copy this text and paste at the end:
+Create a free account of Elmessenger to start automating your Facebook marketing today  👉https://myvisionagency.com/elmessenger
+
+Teaser:
+Rewrite your Facebook messaging segments to avoid account restriction. Simply paste your message and this prompt will rewrite it in 3 different variations. Each variation can be used in your segments with Elmessenger Pro, Genius CRM or any other  Facebook Messaging automation tool. 
+
+PromptHint: Enter the message segment to rewrite
+
+Title: Facebook Messaging Rewriter
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Bridget Bartlett
+AuthorURL: https://myvisionagency.com/elmessenger
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1796571606487920640
+CreationTime: 2023-03-01T17:57:03.673Z
+RevisionTime: 2023-03-22T19:44:41.502Z
+Help: 

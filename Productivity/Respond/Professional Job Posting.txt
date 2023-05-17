@@ -1,0 +1,22 @@
+Prompt Template:
+Interagiere als Recruiting Spezialist und schreibe für mich eine professionelle Stellenanzeige. Schreibe sie in der "Du" Form und in Stichpunkten und nutze dabei die typische Gliederung (Deine Aufgaben, Dein Profil, Wir bieten) . Schreibe auf [TARGETLANGUAGE] die Stellenanzeige für folgenden Job:  [PROMPT]
+
+Teaser:
+Create a professional job posting [title]
+
+PromptHint: Title of the job posting + further information, if applicable
+
+Title: Professional Job Posting
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: Hutach
+AuthorURL: https://sites.google.com/view/hutach/startseite
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1799766530049970176
+CreationTime: 2023-03-10T13:32:32.809Z
+RevisionTime: 2023-03-10T14:17:40Z
+Help: 

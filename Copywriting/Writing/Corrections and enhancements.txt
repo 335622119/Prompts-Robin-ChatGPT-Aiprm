@@ -1,0 +1,22 @@
+Prompt Template:
+J'aimerais que vous agissiez en tant que correcteur et améliorateur d'orthographe en [TARGETLANGUAGE] Répondez dans la version corrigée et améliorée de mon texte dans la langue que vous avez détécté. Je veux que vous remplaciez mes mots et mes phrases simplifiés par des mots et des phrases mieux formulés. Gardez le même sens mais rendez-le plus littéraire. Je vous demande de répondre uniquement aux corrections, aux améliorations, rien d'autre, n'écrivez pas d'explications. Ma première phrase : " [PROMPT] "
+
+Teaser:
+Corrections and enhancements to your text.
+
+PromptHint: Paste your text here
+
+Title: Corrections and enhancements
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Design Zi
+AuthorURL: https://www.etsy.com/shop/DesignZi
+
+Community: Copywriting-00ea56f446414284
+ID: 1806708451632742400
+CreationTime: 2023-03-29T17:17:15.889Z
+RevisionTime: 2023-05-01T12:16:28.653Z
+Help: 

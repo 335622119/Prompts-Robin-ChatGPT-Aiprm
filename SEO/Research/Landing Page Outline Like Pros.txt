@@ -1,0 +1,22 @@
+Prompt Template:
+act like copywriter and Explain what content sections I should use for a web landing page for a [PROMPT] designed for [PROMPT] in this [TARGETLANGUAGE]
+
+Teaser:
+Create killer landing page outline in seconds
+
+PromptHint: Enter Your [Keyword, Industry,language]
+
+Title: Landing Page Outline Like Pros
+
+Topic: SEO
+
+Activity: Research
+
+AuthorName: Linkyviz
+AuthorURL: https://linkyviz.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1794684977372454912
+CreationTime: 2023-02-24T13:00:16.24Z
+RevisionTime: 2023-02-24T13:08:24Z
+Help: 

@@ -1,0 +1,23 @@
+Prompt Template:
+[PROMPT] Write in bash script.
+I want the output in [TARGETLANGUAGE].
+
+Teaser:
+Write simple and runnable bash script for automation. For example, [PROMPT] can be "remove all lines that contain '[2022-01-01]". 
+
+PromptHint: Any request you want to make in bash script.
+
+Title: Easy Use Bash Simple & Runnable 
+
+Topic: DevOps
+
+Activity: Configuration Management
+
+AuthorName: dummy
+AuthorURL: https://blog.naver.com/ktae5/223054021033
+
+Community: DevOps-f3e52afbf831197f
+ID: 1804552945875021824
+CreationTime: 2023-03-23T18:32:03.269Z
+RevisionTime: 2023-03-28T15:35:35.758Z
+Help: 

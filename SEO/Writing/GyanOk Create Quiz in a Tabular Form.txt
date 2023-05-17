@@ -1,0 +1,24 @@
+Prompt Template:
+create a quiz with minimum 10 qestions per table on category [KEYWORD] with four options and in tabular form (Question, Option A, Option B, Option C, Option D, Correct option). Make sure on correct option write number on correct option column 1 as a Optiona A ,2 as a Option B, 3 as a Option C and 4 as a Option D for correct answer. Don't Repeat the Questions. Don't repeat the options too many times. Don't repeat the correct option place (Option A, Option B, Option C, Option D) too many times. All output shall be in [TARGETLANGUAGE].
+
+[PROMPT]
+
+Teaser:
+Create Quizzes in a Tabular form
+
+PromptHint: [Topic]- Add your topic
+
+Title: GyanOk Create Quiz in a Tabular Form
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Umesh Rawat
+AuthorURL: https://www.linkedin.com/in/umesh-singh-rawat/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1801871706307162112
+CreationTime: 2023-03-16T08:57:45.941Z
+RevisionTime: 2023-04-01T10:06:49.623Z
+Help: 

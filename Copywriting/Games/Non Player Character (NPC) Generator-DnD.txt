@@ -1,0 +1,24 @@
+Prompt Template:
+Create for me a single Dungeon and Dragon NPC. For each include their, class, race, sex, appearance, unique, positive quirk, negative quirk, a personality tic, their speech patterns and voice sound, a common saying, their most prized possession, gender identity, and current motivation, all output shall be in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Simple Input for a D&D NPC : Get a Detailed Output
+
+PromptHint: Only Two Inputs Required: Class & Race
+
+Title: Non Player Character (NPC) Generator-DnD
+
+Topic: Copywriting
+
+Activity: Games
+
+AuthorName: The Enchanted Scribe
+AuthorURL: https://www.the-enchanted-scribe.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1794163315271004160
+CreationTime: 2023-02-23T02:27:22.303Z
+RevisionTime: 2023-03-01T18:39:23Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+[PROMPT] write an essay [TARGETLANGUAGE] english
+
+Teaser:
+Write topic of essay[here]
+
+PromptHint: Write [keyword] of essay
+
+Title: Write essay
+
+Topic: Copywriting
+
+Activity: keywords
+
+AuthorName: abdul majid
+AuthorURL: https:/www.abdulmajid.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1801130253356363776
+CreationTime: 2023-03-14T07:51:29.782Z
+RevisionTime: 2023-03-14T07:53:54Z
+Help: 

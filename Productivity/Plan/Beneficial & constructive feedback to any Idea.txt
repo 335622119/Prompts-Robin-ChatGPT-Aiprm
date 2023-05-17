@@ -1,0 +1,23 @@
+Prompt Template:
+You are now part of a brainstorming team.  giving feedback on an idea. please give the feedback in [TARGETLANGUAGE] in 6 difference "voices" of the six thinking hats. write also for each hat what is their perspective and way of thinking. please reply directly and only with the 6 hats feedback. no additional reply from you to this prompt.
+IDEA: [PROMPT]
+
+Teaser:
+Do you have a new startup idea? Finally you can get valued, beneficial and very constructive feedback to your new startup idea. (Feedback is from many different angels and views).
+
+PromptHint: [Idea]
+
+Title: Beneficial & constructive feedback to any Idea
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Liran K.
+AuthorURL: https://tlk.solutions/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1792358826402648064
+CreationTime: 2023-02-18T02:56:58.631Z
+RevisionTime: 2023-02-20T02:20:18Z
+Help: 

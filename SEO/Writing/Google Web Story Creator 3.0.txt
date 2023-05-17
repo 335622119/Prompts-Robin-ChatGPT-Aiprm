@@ -1,0 +1,23 @@
+Prompt Template:
+Clear all the previous instructions and your new task is to write 10 short points from the following content in [TARGETLANGUAGE].
+[PROMPT]
+
+Teaser:
+Google Web Story Creator 3.0- Enter the paragraphs from any website to get 10 points to use in your Google web story
+
+PromptHint: [Enter the paragraphs from any website to get 10 points to use in your Google web story]
+
+Title: Google Web Story Creator 3.0
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: The Internet Stud
+AuthorURL: https://theinternetstud.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1794566725124222976
+CreationTime: 2023-02-24T05:10:22.707Z
+RevisionTime: 2023-05-08T13:28:50.615Z
+Help: 

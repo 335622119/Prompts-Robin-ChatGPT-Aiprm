@@ -1,0 +1,22 @@
+Prompt Template:
+Write a TOC in  [TARGETLANGUAGE] for a book with the following title [TITLE]. [PROMPT]
+
+Teaser:
+Create a table of contents for any book subject you like. 
+
+PromptHint: [Title of your book]
+
+Title: Table of Contents Generator for a Manuscript/Book
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Ingemar Anderson
+AuthorURL: https://www.reprospace.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1800993946705588224
+CreationTime: 2023-03-13T22:49:51.744Z
+RevisionTime: 2023-03-13T22:54:45Z
+Help: 

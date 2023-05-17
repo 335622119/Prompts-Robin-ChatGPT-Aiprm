@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to Convert Passive Voice to Active Voice I Give you the Paragraph. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+
+[PROMPT]
+
+Teaser:
+Convert your paragraph Passive Voice to Active Voice.
+
+PromptHint: [Enter your Paragraph]
+
+Title: Passive Voice to Active Voice Converter
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Sharique Afzal
+AuthorURL: https://in.linkedin.com/in/sharique-afzal
+
+Community: Copywriting-00ea56f446414284
+ID: 1784504495217307648
+CreationTime: 2023-01-27T10:46:40.15Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

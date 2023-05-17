@@ -1,0 +1,23 @@
+Prompt Template:
+[TARGETLANGUAGE]
+[PROMPT] Act as a nutritionist and create recipes for a diabetic, hypertensive and having cholesterol
+
+Teaser:
+Act as a nutritionist and create recipes for a diabetic, hypertensive and having cholesterol
+
+PromptHint: Act as a nutritionist and create recipes for a diabetic, hypertensive and having cholesterol
+
+Title: Recipes for diabetic person
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: KitsuneDreams
+AuthorURL: https://dragonbugeminhareligiao.blogspot.com/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1789395510273245184
+CreationTime: 2023-02-09T22:41:49.01Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

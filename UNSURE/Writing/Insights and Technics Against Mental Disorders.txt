@@ -1,0 +1,24 @@
+Prompt Template:
+I suffer from [PROMPT] disorder(s). Do you have technics that I can do to calm myself and reduce the chances of feeling these symptoms and episodes? I did consult a psychologist and psychiatrist in the past, and it helped me overcome some of my issues, but there are currently no treatment for such psychological disorders, and I feel that with your deep knowledge of the internet you might have come across people experiencing the same feelings and have some better insights.
+
+Please write in [TARGETLANGUAGE] language.
+
+Teaser:
+Give a keyword describing your mental disorder. Example “derealization”.
+
+PromptHint: Panics attacks, derealization, DPDR, anxiety disorders, scizophrenia.
+
+Title: Insights and Technics Against Mental Disorders
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: Mo henni
+AuthorURL: https://github.com/Mohenni
+
+Community: Unsure-f69c57b424376b23
+ID: 1801684324802887680
+CreationTime: 2023-03-15T20:33:10.709Z
+RevisionTime: 2023-03-15T20:54:25Z
+Help: 

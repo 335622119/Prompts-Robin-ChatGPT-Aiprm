@@ -1,0 +1,23 @@
+Prompt Template:
+I want you to act as a market researcher.Write comprehensive market research in [TARGETLANGUAGE] on Market Overview by discussing  product overview and highlights of product and application segments, Competition by Company, Price by company, revenue by company, sales by company, and market share by company, market rate, competitive situations Landscape, and latest trends, merger, expansion, acquisition, and market shares of top companies, Company Profiles and sales Data, Market Status and Outlook by Region, Application or End User, Market Forecast, research findings and conclusion
+[PROMPT]
+
+Teaser:
+Write a comprehensive marketing report. Put your [title] in the prompt.
+
+PromptHint: [Title]
+
+Title: Market Report/Research
+
+Topic: Copywriting
+
+Activity: Research
+
+AuthorName: PollySpeech
+AuthorURL: https://pollyspeech.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1798336806090174464
+CreationTime: 2023-03-06T14:51:20.054Z
+RevisionTime: 2023-03-06T19:19:48Z
+Help: 

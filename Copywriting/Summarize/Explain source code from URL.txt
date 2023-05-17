@@ -1,0 +1,26 @@
+Prompt Template:
+Explain the following source code below to me like I am 5 yers old in [TARGETLANGUAGE] language, please.
+
+Source of the source code: [PROMPT]
+
+[CRAWLEDSOURCECODE]
+
+Teaser:
+Explain source code from URL like I am 5 years old
+
+PromptHint: [URL to fetch code from]
+
+Title: Explain source code from URL
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: Jorge Gabana
+AuthorURL: https://www.gabana.me
+
+Community: Copywriting-00ea56f446414284
+ID: 1820212500172636160
+CreationTime: 2023-05-05T23:37:31.954Z
+RevisionTime: 2023-05-05T23:39:38.042Z
+Help: 

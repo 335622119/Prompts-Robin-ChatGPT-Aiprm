@@ -1,0 +1,26 @@
+Prompt Template:
+Please ignore all previous instructions. I want you to respond in [TARGETLANGUAGE]. I want you to act as a Social Media Influencer that writes fluent [TARGETLANGUAGE]. I want you to create a Facebook Post in [TARGETLANGUAGE] that will get the attention of potential clients. Your task is to summarize the text I provide in 140 characters or less in [TARGETLANGUAGE].
+
+Summarize is this: [PROMPT]
+
+
+
+Teaser:
+Create an Engaging Facebook Post with 1 click
+
+PromptHint: [Type your post topic here]
+
+Title: Facebook Posts That Get Attention
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Andrew S. Neumann
+AuthorURL: https://cloudki.io
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1796937142115762176
+CreationTime: 2023-03-02T18:09:34.158Z
+RevisionTime: 2023-03-02T18:09:34.158Z
+Help: 

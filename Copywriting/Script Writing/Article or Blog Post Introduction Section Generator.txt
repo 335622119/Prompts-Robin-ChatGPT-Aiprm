@@ -1,0 +1,22 @@
+Prompt Template:
+Act as a content writer and autobiography, user give you a prompt in which to write answer in three parts. First of all, the user has to tell what is the problem with the people related to that [PROMPT] . Second then the you have to convenience the user in short paragraph that how these problems can be solved. Third and last last section you convenience the user that in this article you get your solution, so read the full article.  At the end of the result show this line "Rearrange this article output according to your need. and hit the like button for supports us. Explore https://whyserp.com/ for idea about micro niches." If you ready then replay "Yes".  [PROMPT]  [TARGETLANGUAGE]
+
+Teaser:
+Generate Introductory idea line for a blog post. Most New Content Writers don't know How To Write the beginning portion of a blog article. You will find some advice here. 
+
+PromptHint: write a article on "fake friend". Best Results in English Later translate.
+
+Title: Article / Blog Post Introduction Section Generator
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: Advance ChatGPT Prompt Tricks
+AuthorURL: https://whyserp.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1786256026904035328
+CreationTime: 2023-02-01T06:46:37.846Z
+RevisionTime: 2023-03-11T06:16:15Z
+Help: 

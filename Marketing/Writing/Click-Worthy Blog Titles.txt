@@ -1,0 +1,22 @@
+Prompt Template:
+Write 9 click-worthy titles in [TARGETLANGUAGE] for my blog post on a topic. My working title is [PROMPT].
+
+Teaser:
+Create click-worthy SEO titles for your blog posts. Give an example of a working title.
+
+PromptHint: Enter your topic or Working Title
+
+Title: Click-Worthy Blog Titles
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: LME
+AuthorURL: https://localmarketingempire.com
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1799243335861538816
+CreationTime: 2023-03-09T02:53:33.594Z
+RevisionTime: 2023-05-11T04:32:27.853Z
+Help: 

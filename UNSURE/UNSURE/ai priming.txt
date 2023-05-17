@@ -1,0 +1,22 @@
+Prompt Template:
+Believe that your are an expert in the field of [PROMPT]. Your task is to help me [PROMPT]. Output language should be [TARGETLANGUAGE].  Ask questions to help me navigate. Do you understand?
+
+Teaser:
+Priming the AI
+
+PromptHint: [Enter expert field]
+
+Title: ai priming 
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Rameez OK.
+AuthorURL: https://www.linkedin.com/in/rameezthehacker/
+
+Community: Unsure-f69c57b424376b23
+ID: 1803102155813683200
+CreationTime: 2023-03-19T18:27:07.964Z
+RevisionTime: 2023-03-19T18:34:37.181Z
+Help: 

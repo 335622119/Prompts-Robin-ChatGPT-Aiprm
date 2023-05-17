@@ -1,0 +1,22 @@
+Prompt Template:
+Can you give me ideas with a productive thinking model about [PROMPT], act like a phd boss, that speaks and writes fluent [TARGETLANGUAGE], be creative, imaginative and be the best of the world in advanced thinking models write all output in [TARGETLANGUAGE]
+
+Teaser:
+Can help you approach challenges with a structured and critical mindset, resulting in more creative solutions. 
+
+PromptHint: [Write a Descriptive Problem Title in a Short Phrase]
+
+Title: Problem-Solving Potential with this Thinking Model
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Pablo Solar Frese
+AuthorURL: https://linktr.ee/pablosolar
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1787195763584131072
+CreationTime: 2023-02-03T21:00:48.53Z
+RevisionTime: 2023-05-06T20:00:01.764Z
+Help: 

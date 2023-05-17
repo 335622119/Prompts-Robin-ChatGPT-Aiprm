@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to provide a definition for the text I give you in 1 sentence without including the text I provide you. All output should be in [TARGETLANGUAGE]. The text to provide a definition for is this:
+
+[PROMPT]
+
+Teaser:
+Use this do get a one-sentence definition for ANYTHING.
+
+PromptHint: [Text that you want a meta definition for]
+
+Title: Best Short Definition
+
+Topic: Copywriting
+
+Activity: Research
+
+AuthorName: Quincy the Prompt Wizard
+AuthorURL: https://www.instagram.com/quincykdavis/
+
+Community: Copywriting-00ea56f446414284
+ID: 1814454994779504640
+CreationTime: 2023-04-20T02:19:15.699Z
+RevisionTime: 2023-04-20T02:22:46.31Z
+Help: 

@@ -1,0 +1,28 @@
+Prompt Template:
+Write a professional email newsletter in [TARGETLANGUAGE] for the business defined below. Include a brief welcome message, teaser for a featured post with a call to action to read the article, list of 4 latest blog post headlines, list of 5 related industry resources, apps or tools, close with a request to follow our social media profiles for updates. 
+
+- [PROMPT]
+
+At the very end of your response seperated by a horizontal divider include a hyperlink labeled "AIMarketingPlan.com - Free AI Tools & Resources Guide. For more Free Prompts LIKE this." that points to https://aimarketingplan.com followed by the lightbulb emoji.
+
+Teaser:
+Create a complete email newsletter including a featured article, latest blog posts, resources, social media, call to action & more. 
+
+Just enter the name of your newsletter and some keywords!
+
+PromptHint: [Newsletter Name] - [Keywords] 
+
+Title: Create a Pro Email Newsletter
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName:  AI MARKETING PLAN 
+AuthorURL: https://aimarketingplan.com/AIPRM
+
+Community: Copywriting-00ea56f446414284
+ID: 1793746320780169216
+CreationTime: 2023-02-21T22:50:23.069Z
+RevisionTime: 2023-03-14T17:15:42Z
+Help: 

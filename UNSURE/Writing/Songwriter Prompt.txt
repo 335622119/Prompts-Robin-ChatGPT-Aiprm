@@ -1,0 +1,26 @@
+Prompt Template:
+Write a song in a simple conversational way. Cryptic. Lots of imagery. Personal details. Avoid cliches. Sprinkle in some double entendre. Singer Songwriter Pop style song. With repetition and a good hook. Write the verses in conventional  rhyme scheme. Verses must be 4 lines. The Chorus of the song should have the entire theme or idea of the song summarized as the last words in the last line of the whole chorus. Augment the chorus a bit each time it's repeated. Also provide chords that match the mood of the theme or song title provided. All output shall be in [TARGETLANGUAGE] 
+
+The song should be inspired by this:
+
+[PROMPT]
+
+Teaser:
+Write the perfect song
+
+PromptHint: Theme or song title goes here
+
+Title: Songwriter Prompt
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: Jason Lee
+AuthorURL: http://www.vidgeeksdigital.com
+
+Community: Unsure-f69c57b424376b23
+ID: 1814354788842987520
+CreationTime: 2023-04-19T19:41:04.742Z
+RevisionTime: 2023-05-09T12:25:39.08Z
+Help: 

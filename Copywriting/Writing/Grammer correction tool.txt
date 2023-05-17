@@ -1,0 +1,26 @@
+Prompt Template:
+Imagine you are a language expert who has been asked to correct the grammar of a written piece in [TARGETLANGUAGE]. Your job is to identify and fix any grammatical errors, such as subject-verb agreement, verb tense consistency, and pronoun usage. You should also ensure that the piece is clear, concise, and easy to read, while preserving the author's intended meaning.
+
+ [PROMPT]
+
+
+
+Teaser:
+fix any grammatical errors
+
+PromptHint: [ Write Your Text Here ]
+
+Title: Grammer correction tool
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: ABHI RAJ 
+AuthorURL: https://www.aimagic.tools
+
+Community: Copywriting-00ea56f446414284
+ID: 1802888591282802688
+CreationTime: 2023-03-19T04:18:30.212Z
+RevisionTime: 2023-03-19T04:21:21Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+What topics do criminal defendants search for online when charged with  [PROMPT] charge in [PROMPT][TARGETLANGUAGE] 
+
+***PLEASE LIKE THE PROMPT****
+
+Teaser:
+Discover what criminal defendants search online when charged with a specific crime in a location.
+
+PromptHint: [criminal charges][state or city]
+
+Title: What Criminal Defendants Search Online
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Law Firm Marketing Experts
+AuthorURL: https://lawfirmmarketingexperts.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1813990511271469056
+CreationTime: 2023-04-18T19:33:34.201Z
+RevisionTime: 2023-05-05T21:07:51.94Z
+Help: 

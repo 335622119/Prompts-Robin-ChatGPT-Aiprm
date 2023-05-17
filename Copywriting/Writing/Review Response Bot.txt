@@ -1,0 +1,28 @@
+Prompt Template:
+Your task is to help me respond to an online customer review in [TARGETLANGUAGE]:
+
+Please pretend you are a very nice and grateful person that speaks and writes in casual perfect [TARGETLANGUAGE]. Please give me three responses to the prompt in this format. Please organize the responses in a table. 
+
+The customer review to help me with is:
+
+[PROMPT]
+
+Teaser:
+Get 3 customer review responses by simply pasting in your customer's review. These responses are written in casual English with an appreciative and apologetic tone. It can address multiple complaints, as well as mixed reviews. Just simply paste your customer review into the prompt and let us do our thing! Responses are optimized for local SEO.
+
+PromptHint: [paste your customer review here]
+
+Title: Review Response Bot
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName:  Google Business Profile Services
+AuthorURL: https://www.merchynt.com/google-business-pro?utm_source=AIPRM&utm_medium=Review+Response+Bot&utm_campaign=Review+Response+Bot&utm_id=chatgpt
+
+Community: Copywriting-00ea56f446414284
+ID: 1812887104934637568
+CreationTime: 2023-04-15T18:29:01.63Z
+RevisionTime: 2023-04-15T18:29:16.447Z
+Help: 

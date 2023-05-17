@@ -1,0 +1,27 @@
+Prompt Template:
+Forget all previously commands. Your task is to code the thing i give you. All output should be in [TARGETLANGUAGE] Imagine you are a senior developer who masters JS, HTML, CSS, and Python perfectly without any errors. Now write the appropriate code I need to use to build the following:
+
+[PROMPT]
+
+Teaser:
+Code like a senior! 
+Use this promt for front-end development.
+HTML, CSS, JavaScript.
+I can do it for you!
+
+PromptHint: [Tell me what to do]
+
+Title: Senior front-end development
+
+Topic: Software Engineering
+
+Activity: Web Development
+
+AuthorName: Mads Nielsen
+AuthorURL: https://www.example.com/blade
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1806266310984982528
+CreationTime: 2023-03-28T12:00:21.344Z
+RevisionTime: 2023-05-08T13:09:52.69Z
+Help: 

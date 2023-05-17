@@ -1,0 +1,25 @@
+Prompt Template:
+write me a roblox game desc up to 1000 charecters (including spaces) and also some gamepass ideas not in the desc & title ideas not in the desc up to 50 charecters incuding spaces about the following: [PROMPT]
+
+The target launguege is [TARGETLANGUAGE]
+
+Teaser:
+This helps you make your roblox game easier to develop.
+Generates: title, description, gamepass ideas. 
+
+PromptHint: Try putting in something like your games' genre.
+
+Title: Roblox Game Ideas
+
+Topic: Copywriting
+
+Activity: Games
+
+AuthorName: classicplayz
+AuthorURL: https://www.youtube.com/channel/UC4ujlVN0wAkk6Twj2OkSbKQ
+
+Community: Copywriting-00ea56f446414284
+ID: 1812103952301555712
+CreationTime: 2023-04-13T14:37:03.492Z
+RevisionTime: 2023-04-22T13:31:47.775Z
+Help: 

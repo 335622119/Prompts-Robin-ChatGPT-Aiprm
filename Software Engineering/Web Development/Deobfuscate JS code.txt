@@ -1,0 +1,23 @@
+Prompt Template:
+[TARGETLANGUAGE]] deobfuscate kode javascript di bawah ini:
+[PROMPT]
+
+Teaser:
+Deobfuscate JS code
+
+PromptHint: [Masukan kode obfuscated JS]
+
+Title: Deobfuscate JS code
+
+Topic: Software Engineering
+
+Activity: Web Development
+
+AuthorName: CatatanDroid
+AuthorURL: https://www.catatandroid.com
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1791999566124670976
+CreationTime: 2023-02-17T03:09:24.306Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

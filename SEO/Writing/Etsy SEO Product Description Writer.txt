@@ -1,0 +1,22 @@
+Prompt Template:
+Act as an Etsy SEO Specialist and 5 heading bullet points Etsy Product Description, write short descriptions for bullet points using all Etsy SEO Techniques in [TARGETLANGUAGE] to rank on Etsy First Page for the Product: [PROMPT] Don't Explain What You did and Just Provide Description
+
+Teaser:
+Etsy SEO Product Description to Rank on First Page of Etsy, 5 Bullet Points Description using SEO Techniques
+
+PromptHint: [Write Your Product Name]
+
+Title: Etsy SEO Product Description Writer
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Abdullah Shafiq
+AuthorURL: https://dullasado.blogspot.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1818985412199444480
+CreationTime: 2023-05-02T14:21:31.383Z
+RevisionTime: 2023-05-16T15:57:14.858Z
+Help: 

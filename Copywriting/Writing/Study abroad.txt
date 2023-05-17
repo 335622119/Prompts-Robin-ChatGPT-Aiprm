@@ -1,0 +1,22 @@
+Prompt Template:
+List of Universities , fees , scholarships , list of available courses In English [TARGETLANGUAGE] give Information [PROMPT]
+
+Teaser:
+Looking to study abroad but need information on fees and other details? Simply enter the name of your desired country and receive comprehensive information on studying abroad, including fee structures and other useful details
+
+PromptHint: Study Abroad in [Country Name]
+
+Title: Study abroad 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Fazal ali
+AuthorURL: https://expertoverseas.business.site/
+
+Community: Copywriting-00ea56f446414284
+ID: 1798278031090122752
+CreationTime: 2023-03-06T10:57:47.002Z
+RevisionTime: 2023-03-07T12:10:01Z
+Help: 

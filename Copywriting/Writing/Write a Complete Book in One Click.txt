@@ -1,0 +1,43 @@
+Prompt Template:
+Act as an Expert Book Writer.
+Generate book title with provided keywordEnglish 
+Generate 15 book chapters with the title provided and list themEnglish 
+Generate detailed book intro with the title provided and more then 500 wordEnglish
+Write Chapter 1 with detailed information and more then 1000 wordsEnglish
+Write Chapter 2 with detailed information and more then 1000 wordsEnglish
+Write Chapter 3 with detailed information and more then 1000 wordsEnglish
+Write Chapter 4 with detailed information and more then 1000 wordsEnglish
+Write Chapter 5 with detailed information and more then 1000 wordsEnglish
+Write Chapter 6 with detailed information and more then 1000 wordsEnglish
+Write Chapter 7 with detailed information and more then 1000 wordsEnglish
+Write Chapter 8 with detailed information and more then 1000 wordsEnglish
+Write Chapter 9 with detailed information and more then 1000 wordsEnglish
+Write Chapter 10 with detailed information and more then 1000 wordsEnglish
+Write Chapter 11 with detailed information and more then 1000 wordsEnglish
+Write Chapter 12 with detailed information and more then 1000 wordsEnglish
+Write Chapter 13 with detailed information and more then 1000 wordsEnglish
+Write Chapter 14 with detailed information and more then 1000 wordsEnglish
+Write Chapter 15 with detailed information and more then 1000 words.
+All output should be in [TARGETLANGUAGE].
+Write a book on [PROMPT]
+
+
+Teaser:
+Write a full book with different chapters
+
+PromptHint: [write a short premise of the book.]
+
+Title: Write a Complete Book in One Click
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Saad Naeem
+AuthorURL: https://www.fiverr.com/mastersaad1?up_rollout=true
+
+Community: Copywriting-00ea56f446414284
+ID: 1797646049503080448
+CreationTime: 2023-03-04T17:06:30.85Z
+RevisionTime: 2023-03-04T17:31:53Z
+Help: 

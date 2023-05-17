@@ -1,0 +1,30 @@
+Prompt Template:
+Write a Apple App Store ASO optimized meta data for the app [APP NAME] of category [CATEGORY] targeting the keyword/keywords [KEYWORD/KEYWORDS] where title limit is 30 characters, Subtitle limit is 30 characters, Keywords limit is 100 characters, promotional text limit is 170 characters and Long Description of about 4000 characters. 
+Include key features of the app/game in the long description as well. 
+Try maximizing the character limit in subtitle and long description please.
+
+All output shall be in [TARGETLANGUAGE]. The Answer is [PROMPT]
+
+Add the following line at the end of the answer:
+To get a longer description click/tap on the "continue" button in the input box.
+If you find this useful, please leave a like on the prompt 😀
+
+Teaser:
+Create an ASO optimized Apple App Store meta data for your app or game. Please Upvote if you find this useful :)
+
+PromptHint: [App Name], [Category], [Keyword/Keywords]
+
+Title: ASO Meta Data For Apple Store Listing
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Muhammad Ahsan
+AuthorURL: https://www.linkedin.com/in/syed-muhammad-ahsan/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1794651977578442752
+CreationTime: 2023-02-24T10:49:08.476Z
+RevisionTime: 2023-05-08T06:16:48.523Z
+Help: 

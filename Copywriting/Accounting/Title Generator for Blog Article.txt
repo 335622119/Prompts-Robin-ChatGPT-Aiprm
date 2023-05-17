@@ -1,0 +1,22 @@
+Prompt Template:
+Write a 5 title for an article about [PROMPT] in [TARGETLANGUAGE]. Style: [Informative]. Tone: [Professional]. Must be between 40 and 60 characters.
+
+Teaser:
+Write 5 Eye-catching title for Your Blog Article.
+
+PromptHint: Please Enter Your Keyword
+
+Title: Title Generator for Blog Article
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Muhammad Faizan
+AuthorURL: https://deviceszone.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1783854885494853632
+CreationTime: 2023-01-25T15:45:21.123Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

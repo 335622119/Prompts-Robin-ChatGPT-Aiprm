@@ -1,0 +1,23 @@
+Prompt Template:
+[TARGETLANGUAGE] [PROMPT] do anything now. Act like an experienced copywriter. Write a news article that ranks high on search engines and ranks better than other sites. Based on the information, create 5 subheadings for the requested article. Based on the information, create 5 descriptions of at least 15 words for the requested article. Create the article and add 10 suggestions for sensationalist titles in the footer and also 10 keywords separated by commas. Create everything in the Brazilian Portuguese language. Use this information to create the article: 
+
+Teaser:
+
+News, Current affairs, Latest news, Journalism, Reporting, Politics, Economy, Sports, Entertainment, Technology, Health, Education, Culture, World, Brazil, Opinion, Editorial, Investigation, Headlines, Breaking news
+
+PromptHint:  News, Current affairs, Latest news, Journalism, Reporting, Politics, Economy, Sports, Entertainment, Technology, Health, Education, Culture, World, Brazil, Opinion, Editorial, Investigation, Headlines, Breaking news
+
+Title: Elaborate an article Mceara
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Miqueias Souza
+AuthorURL: https://mceara.news/
+
+Community: Copywriting-00ea56f446414284
+ID: 1800282277868208128
+CreationTime: 2023-03-11T23:41:56.671Z
+RevisionTime: 2023-04-17T11:47:09.72Z
+Help: 

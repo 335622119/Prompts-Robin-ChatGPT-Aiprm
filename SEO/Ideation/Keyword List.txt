@@ -1,0 +1,22 @@
+Prompt Template:
+give me a list of 50 keywords for the topic [PROMPT]
+
+Teaser:
+50 Keyword List for a TOPIC which you can then cluster.
+
+PromptHint: [KEYWORD/TOPIC}
+
+Title: Keyword List
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Mersudin Forbes
+AuthorURL: https://mersudinforbes.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1783142825010126848
+CreationTime: 2023-01-23T16:35:52.674Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

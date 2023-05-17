@@ -1,0 +1,29 @@
+Prompt Template:
+[PROMPT]Write me the article with relevant government official websites links that must be working following the rules mentioned below:[TARGETLANGUAGE]
+Our main keyword is [ Keyword][TARGETLANGUAGE]
+use simple words as possible [TARGETLANGUAGE]
+It must be keyword focused.[TARGETLANGUAGE]
+no longer than 1500 words[TARGETLANGUAGE]
+write referral links in the sentences [TARGETLANGUAGE]
+Include one table or chart as appropriate [TARGETLANGUAGE]
+
+
+Teaser:
+Create a fully optimized Article or blog 
+
+PromptHint: sponges
+
+Title: Blog content with fully keyword optimization
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Naeem
+AuthorURL: https://afruxy.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1796763537134317568
+CreationTime: 2023-03-02T06:39:43.505Z
+RevisionTime: 2023-03-02T06:40:39Z
+Help: 

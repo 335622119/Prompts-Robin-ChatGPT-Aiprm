@@ -1,0 +1,22 @@
+Prompt Template:
+I am using Lexica to generate AI images for [PROMPT] in [TARGETLANGUAGE].
+
+Teaser:
+Outputs four extremely detailed lexica aperture prompts for your title.
+
+PromptHint: [Title]
+
+Title: Lexica Prompt Generator
+
+Topic: Generative AI
+
+Activity: Stable Diffusion
+
+AuthorName: Healscure
+AuthorURL: https://www.healscure.com/
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1794841831864004608
+CreationTime: 2023-02-24T23:23:33.265Z
+RevisionTime: 2023-02-24T23:47:40Z
+Help: 

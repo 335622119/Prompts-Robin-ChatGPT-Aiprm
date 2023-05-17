@@ -1,0 +1,23 @@
+Prompt Template:
+You are going to act like a tutor to me, and you should tell me information about the github repository below. You should always speek [TARGETLANGUAGE].
+Read this github repository code: [repoAddress], and answer my questions:[PROMPT]. 
+
+Teaser:
+Read github repo and answer my question: [question.]
+
+PromptHint: [repoAddress], [question]
+
+Title: Read Repo and answer questions
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: Song Fu
+AuthorURL: https://www.bjzy.com.cn
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1798383281327308800
+CreationTime: 2023-03-06T17:56:00.614Z
+RevisionTime: 2023-03-06T17:56:00.614Z
+Help: 

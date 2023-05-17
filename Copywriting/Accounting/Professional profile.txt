@@ -1,0 +1,22 @@
+Prompt Template:
+Create me a professional profile on [TARGETLANGUAGE] for [PROMPT] Hispanic working in the US who has his blog.
+
+Teaser:
+business lawyer
+
+PromptHint: public defender
+
+Title: Professional profile 
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Silva Rayner
+AuthorURL: https://abogado10.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1802342851062001664
+CreationTime: 2023-03-17T16:09:55.604Z
+RevisionTime: 2023-03-17T16:09:55.604Z
+Help: 

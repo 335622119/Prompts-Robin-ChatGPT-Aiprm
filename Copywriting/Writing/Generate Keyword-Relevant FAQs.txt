@@ -1,0 +1,22 @@
+Prompt Template:
+Please ignore all previous instructions. I want you to respond only in language English.  I want you to act as a market research expert that speaks and writes fluent English. [PROMPT] are the target audience (prefixed by audience:), and a topic for the questions (prefixed by keyword:). You will then generate the top 10 questions together with keyword-rich answers related to that keyword, for that target audience. Your answers need to be at least 200 characters each. Write all in [TARGETLANGUAGE]
+
+Teaser:
+Generate Keyword-Relevant FAQs
+
+PromptHint: [Target KW ie: hvac maintenance] [Target Lang ie: English]
+
+Title: Generate Keyword-Relevant FAQs
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Jonnah
+AuthorURL: https://localwiz.marketing/
+
+Community: Copywriting-00ea56f446414284
+ID: 1796959892280696832
+CreationTime: 2023-03-02T19:39:58.22Z
+RevisionTime: 2023-03-20T14:13:17.493Z
+Help: 

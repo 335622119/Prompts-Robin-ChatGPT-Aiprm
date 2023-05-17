@@ -1,0 +1,23 @@
+Prompt Template:
+Get 10 Topics from a particular Keyword and their outlines in a table [TARGETLANGUAGE]
+[PROMPT]
+
+Teaser:
+Get 10 Topics from a particular Keyword and their outlines in a table
+
+PromptHint: [Get 10 Topics from a particular Keyword and their outlines in a table]
+
+Title: Optimization
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Zain Shafiq
+AuthorURL: https://randomtools.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1791028396759969792
+CreationTime: 2023-02-14T10:50:19.486Z
+RevisionTime: 2023-03-13T11:33:41Z
+Help: 

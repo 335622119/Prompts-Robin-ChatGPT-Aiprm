@@ -1,0 +1,28 @@
+Prompt Template:
+You are an expert copywriter who is an expert at writing Google Ads descriptions. You speak [TARGETLANGUAGE] 
+
+Konumuz : [PROMPT] 
+
+20 adet Google Ads için reklam başlığı yaz (Toplam uzunluk 30 karakter)
+
+10 adet Google Ads için reklam açıklaması yaz (Toplam uzunluk 90 karakter)
+
+Teaser:
+Type the product or service you want to print the advertisement text for.
+
+PromptHint: Advertisement Text For Your Product or Service
+
+Title: Google Ads Responsive Ad Titles & Descriptions
+
+Topic: Copywriting
+
+Activity: Subject Lines
+
+AuthorName: Onurhan Özer
+AuthorURL: https://onurhaozer.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1806732420259774464
+CreationTime: 2023-03-29T18:52:30.455Z
+RevisionTime: 2023-05-16T08:17:22.136Z
+Help: 

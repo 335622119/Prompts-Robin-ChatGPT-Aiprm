@@ -1,0 +1,26 @@
+Prompt Template:
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Executar usando a linguagem python.
+Não escrever comentários e nem explicar o código, apenas escrever e executar o programa que faz o solicitado.
+ [PROMPT]
+
+
+Teaser:
+Help about libreoffice calc
+
+PromptHint: spreadsheets calc excel calculations tables
+
+Title: Lilibreoffice Calc Help - OSG
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Osvaldo Sexto De Gasperi
+AuthorURL: https://ogasperi.pythonanywhere.com/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1815531818162847744
+CreationTime: 2023-04-23T01:38:10.4Z
+RevisionTime: 2023-04-23T01:45:44.676Z
+Help: 

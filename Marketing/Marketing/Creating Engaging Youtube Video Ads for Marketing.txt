@@ -1,0 +1,22 @@
+Prompt Template:
+I would like you to act as a creative and ingenious Prompt Engineer, with the goal of helping me craft the best possible ideas for my needs. The prompt will be used by you, ChatGPT. I would like you to write 10 listicle of marketing prompts with engaging video ads and creative ideas to increase sales for my product must be SEO-friendly, no-plagiarism, unique and would go viral, [PROMPT] in [TARGETLANGUAGE].
+
+Teaser:
+Write a listicle of 10 creative video ad ideas for your campaign, give it a vote if you like it. 
+
+PromptHint: [Your product names]
+
+Title: Creating Engaging Youtube Video Ads for Marketing 
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Wqhadija M.
+AuthorURL: https://lnk.bio/wqhadija
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1801433443876474880
+CreationTime: 2023-03-15T03:56:16.035Z
+RevisionTime: 2023-03-15T04:21:59Z
+Help: 

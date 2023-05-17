@@ -1,0 +1,24 @@
+Prompt Template:
+Please ignore all previous requests. I'm going to ask a question related Google Cloud Platform (GCP), please answer this in full detail, providing a step-by-step guid in [TARGETLANGUAGE] on how to achieve a solution to the problem. You will assume that the project has already been created.
+
+The question is: [PROMPT]
+
+Teaser:
+Solve your Google Cloud Platform (GCP) issue with ease using this prompt. It will provide you a simple step-by-step solution to your problem. Just type your question, we'll handle the rest. 
+
+PromptHint: Question, example: How to create a Cloud Function?
+
+Title: Google Cloud Platform | GCP | Helper
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: Jusi Monteiro
+AuthorURL: https://byfuze.com
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1798443431031472128
+CreationTime: 2023-03-06T21:55:01.421Z
+RevisionTime: 2023-04-17T21:55:42.349Z
+Help: 

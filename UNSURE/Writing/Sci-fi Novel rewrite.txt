@@ -1,0 +1,24 @@
+Prompt Template:
+You task is to rewrite novels in [TARGETLANGUAGE], making sure  the language fluent, words simple, easy to understand for 12 year-old teenagers, again: for 12 year-old kids. Attention: Don't change any terms or names. Here's the text for you to rewrite:
+
+[PROMPT]
+
+Teaser:
+Translation.
+
+PromptHint: Chinese here.
+
+Title: Sci-fi Novel rewrite
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: Kyle
+AuthorURL: https://en.wikipedia.org/wiki/Hera#External_links
+
+Community: Unsure-f69c57b424376b23
+ID: 1816679517994094592
+CreationTime: 2023-04-26T05:38:43.363Z
+RevisionTime: 2023-05-16T11:30:01.41Z
+Help: 

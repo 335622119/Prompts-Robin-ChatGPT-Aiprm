@@ -1,0 +1,25 @@
+Prompt Template:
+Your task is to find metadata of provided url of amazon kdp
+[TARGETLANGUAGE] url is this 
+
+[PROMPT]
+
+Teaser:
+Find the metadata from competitor url on amazon kdp
+
+PromptHint: [url of competitor]
+
+Title: KDP Amazon Competitor Metadata
+
+Topic: SEO
+
+Activity: Research
+
+AuthorName: Ejaz - Prompt Engineer
+AuthorURL: https://www.facebook.com/ejazpro/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1791735341691170816
+CreationTime: 2023-02-16T09:39:28.292Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

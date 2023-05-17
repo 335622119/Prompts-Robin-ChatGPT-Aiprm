@@ -1,0 +1,22 @@
+Prompt Template:
+Sana vereceğim başlıkları [PROMPT] hakkında hepsine ayrı ayrı seo uyumlu , google politikalarına uygun içerikler yaz. içeriklerin içine maddeler halinde bilgiler ekle, maddeleri listele . Bu dilde [TARGETLANGUAGE]
+
+Teaser:
+do u have tittle?  then create content
+
+PromptHint: write the tittle
+
+Title: create content 
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Nes
+AuthorURL: https://www.linkedin.com/in/neslihan-d-799a56147/
+
+Community: Copywriting-00ea56f446414284
+ID: 1800770334354563072
+CreationTime: 2023-03-13T08:01:18.405Z
+RevisionTime: 2023-03-13T17:30:51Z
+Help: 

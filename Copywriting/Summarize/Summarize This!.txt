@@ -1,0 +1,26 @@
+Prompt Template:
+Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE]. Your task is to summarize the given article. The article must be 300 to 2500 words. Article must be 100% human writing style, fix grammar issues and change to active voice. The text to summarize is this:
+
+[PROMPT]
+
+Teaser:
+The purpose of a content summary prompt is to provide a quick understanding of the main points of the content without having to read or watch the entire thing.
+summarizing an article, a book, a movie, a conversation, or any other type of content that requires a short and to-the-point summary.
+Upvote if you like!
+
+PromptHint: [Copy paste your text here]
+
+Title: Summarize This!
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: Rahul Product Review
+AuthorURL: https://rahulproductreview.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1793950258343182336
+CreationTime: 2023-02-22T12:20:45.574Z
+RevisionTime: 2023-03-30T17:31:33.737Z
+Help: 

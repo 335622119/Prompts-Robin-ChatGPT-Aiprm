@@ -1,0 +1,24 @@
+Prompt Template:
+Read the below-mentioned Quora Question. Pretend to be an expert on the subject. Write 2 paragraphs of 300 words long answer . Be informal and greet the author. Write it in [TARGETLANGUAGE]. Personalize the comment to sound as if you are talking to the author. Write a fictional story from your own life.
+
+[PROMPT]
+
+Teaser:
+Write a personalized Quora answer to any query. Upvote if you like it. Check out my "Magic Article Generator."
+
+PromptHint: [PASTE QUORA QUESTION]
+
+Title: Quora Answer
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: MMM SEO
+AuthorURL: https://bit.ly/m/MMMSEO
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1784520619539562496
+CreationTime: 2023-01-27T11:50:44.488Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

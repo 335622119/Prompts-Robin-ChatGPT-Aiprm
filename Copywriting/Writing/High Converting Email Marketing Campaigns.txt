@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to Use the Problem-Agitate-Solve framework, write an email marketing campaign where the "ideal customer avatar" has a problem "list the problem here", agitate that problem and solve with "product, service or idea"  All output shall be in [TARGETLANGUAGE]. The test to summarize is this:
+
+[PROMPT]
+
+Teaser:
+Using the "Problem-Agitate-Solve" framework write marketing emails that will 10X your conversions.  Thanks for the upvote
+
+PromptHint: [Ideal Customer] with [Problem] solve with [product, service or idea]
+
+Title: High Converting Email Marketing Campaigns
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Caleb Becker - eCreateBiz
+AuthorURL: https://www.ecreatebiz.com/prompts
+
+Community: Copywriting-00ea56f446414284
+ID: 1794343765922803712
+CreationTime: 2023-02-23T14:24:25.091Z
+RevisionTime: 2023-02-24T15:21:50Z
+Help: 

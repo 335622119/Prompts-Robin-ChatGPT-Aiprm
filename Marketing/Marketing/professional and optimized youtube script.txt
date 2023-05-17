@@ -1,0 +1,23 @@
+Prompt Template:
+Create an attractive and captivating YouTube video script script that is informative. I want you to create a persuasive and attractive headline, write a description for the video with repetition of keywords used in the headline, cite relevant keywords and tags, create the youtube video script script and give me an idea of ​​a thumbnail persuasive, from the following description: [PROMPT]
+that all output is done in [TARGETLANGUAGE]. Please script the video script.
+
+Teaser:
+this prompt will make your video script for YouTube, thumbnail, description and keywords and if you like it just like it.
+
+PromptHint: [write your description]
+
+Title: professional and optimized youtube script
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: @salvatore
+AuthorURL: https://www.avantreinne.site/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1794732237611335680
+CreationTime: 2023-02-24T16:08:03.959Z
+RevisionTime: 2023-02-24T16:12:54Z
+Help: 

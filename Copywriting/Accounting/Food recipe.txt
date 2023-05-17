@@ -1,0 +1,22 @@
+Prompt Template:
+Based on the title, generate the recipe including preparation time,  cook time, total time, Serves, Ingredients, Directions, and NUTRITION FACTS  in horizontal lines words distribution example Calories: 420 | Total Fat: 14g | Saturated Fat: 2g | Cholesterol: 186mg | Sodium: 1513mg | Total Carbohydrates: 49g | Dietary Fiber: 5g | Sugar: 6g | Protein: 24g [TARGETLANGUAGE] [PROMPT]
+
+Teaser:
+recipe, cookbook
+
+PromptHint: Auto cookbook write 
+
+Title: Food recipe
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Mahfujur Rahman
+AuthorURL: https://www.facebook.com/razu.sarker.71/
+
+Community: Copywriting-00ea56f446414284
+ID: 1797483122145882112
+CreationTime: 2023-03-04T06:19:05.941Z
+RevisionTime: 2023-03-13T16:55:11Z
+Help: 

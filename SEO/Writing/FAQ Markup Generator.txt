@@ -1,0 +1,26 @@
+Prompt Template:
+Please answer these questions:
+
+ [PROMPT]
+
+And generate a FAQPage Schema markup as output. Don't explain what a FAQPage Schema Markup is. Dont say you can not answer the question. Dont give the answer in text, only in the FAQPage Markup. If you cannot answer a question, skip and go to the next.
+
+Teaser:
+Create FAQ Markup for your Question
+
+PromptHint: Enter your Questions
+
+Title: FAQ Markup Generator
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: readData
+AuthorURL: https://readdata.de
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1782363614355910656
+CreationTime: 2023-01-21T12:59:34.377Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

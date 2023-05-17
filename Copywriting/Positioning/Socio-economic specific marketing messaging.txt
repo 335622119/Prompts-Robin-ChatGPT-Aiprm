@@ -1,0 +1,22 @@
+Prompt Template:
+In [TARGETLANGUAGE] Considering the diverse aspects of the [PROMPT] psyche in [PROMPT], including social, cultural, environmental, economic, technological, and political factors, develop tailored marketing messages to drive increased awareness and sales for a [PROMPT], In your answer justify your messaging based on key events that affect the psyche of the time:
+
+Teaser:
+Create a socio-economic trend specifc marketing messaging. Give the country, year & business description. 
+
+PromptHint: [Country], [Year], [Business description]
+
+Title: Socio-economic specific marketing messaging
+
+Topic: Copywriting
+
+Activity: Positioning
+
+AuthorName: Joel Hauer
+AuthorURL: https://au.linkedin.com/in/joelhauer
+
+Community: Copywriting-00ea56f446414284
+ID: 1811691614494777344
+CreationTime: 2023-04-12T11:18:34.498Z
+RevisionTime: 2023-04-14T10:12:05.451Z
+Help: 

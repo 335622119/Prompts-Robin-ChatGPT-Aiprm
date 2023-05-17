@@ -1,0 +1,24 @@
+Prompt Template:
+[TARGETLANGUAGE] Compare 2 URLs from the same niche and specify the pros and cons of each one, as well as a final conclusion about which one is better taking into account positioning, SEO, search intention... In conclusion which is better for the engine.
+
+[PROMPT]
+
+Teaser:
+Write [URL1] and [URL2] to be compared
+
+PromptHint: [website 1] - [website 2]
+
+Title: Compare 2 Websites
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Paula Pc
+AuthorURL: https://paulapc.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1798274608189923328
+CreationTime: 2023-03-06T10:44:10.919Z
+RevisionTime: 2023-03-06T10:51:14Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+For the topic of “[PROMPT]“, what are common fears, frustrations, goals, and aspirations? Return your answer in a person's own words using I-statements, like you would get in a survey or product review.
+
+Please write in [TARGETLANGUAGE] language.
+
+Teaser:
+Generate a F(ear), F(rustration), G(oal) and A(spiration) Outline and Content
+
+PromptHint: Write a question
+
+Title: F(ear), F(rustration), G(oal) and A(spiration)
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Barret Nobel
+AuthorURL: https://bento.me/barretnobelfit
+
+Community: Copywriting-00ea56f446414284
+ID: 1794464592567721984
+CreationTime: 2023-02-23T22:24:32.408Z
+RevisionTime: 2023-02-23T22:24:32.408Z
+Help: 

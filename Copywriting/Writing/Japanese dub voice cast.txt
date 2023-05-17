@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE] write me voice cast of the japanese dub of [PROMPT]
+
+Teaser:
+Japanese dub voice cast 
+
+PromptHint: Japanese Dub Voice cast
+
+Title: Japanese dub voice cast
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Asaf Yadovnik
+AuthorURL: https://www.youtube.com/channel/UCBX0mzUiXccxF5ok0IsscYw
+
+Community: Copywriting-00ea56f446414284
+ID: 1820091224632320000
+CreationTime: 2023-05-05T15:35:37.612Z
+RevisionTime: 2023-05-05T15:35:37.612Z
+Help: 

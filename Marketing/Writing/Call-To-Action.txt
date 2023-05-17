@@ -1,0 +1,22 @@
+Prompt Template:
+Write a short improved call-to-action in Language: [TARGETLANGUAGE], containing a headline and a button text for this action: [PROMPT]
+
+Teaser:
+Writes a compelling call-to-action intro and button text
+
+PromptHint: What you want the reader to do?
+
+Title: Call-To-Action
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Tom
+AuthorURL: https://flapper.ai
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1790692869196214272
+CreationTime: 2023-02-13T12:37:03.481Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

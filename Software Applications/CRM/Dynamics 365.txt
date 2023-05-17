@@ -1,0 +1,25 @@
+Prompt Template:
+Dans un contexte de Microsoft Dynamics 365 CRM
+Response in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Any question about Microsoft Dynamics 365 CRM with the good context
+
+PromptHint: Your question about Microsoft Dynamics 365
+
+Title: Dynamics 365
+
+Topic: Software Applications
+
+Activity: CRM
+
+AuthorName: Lucas Bodin
+AuthorURL: https://www.linkedin.com/in/lucasbodin
+
+Community: Applications-f69b52b4213a6bd3
+ID: 1793703760225366016
+CreationTime: 2023-02-21T20:01:15.842Z
+RevisionTime: 2023-02-28T10:59:46Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to create a meta description from the text that is provided. The meta description must be less than 160 characters (including spaces.) All outputs should include related information and a call to action. All output shall be in [TARGETLANGUAGE].  The text to summarize is this:
+
+[PROMPT]
+
+Teaser:
+Create SEO meta descriptions that will improve CTR and follow best practices.
+
+PromptHint: [on-page text, article title or target keyword]
+
+Title: SEO Meta Description Creator
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: JS
+AuthorURL: https://www.linkedin.com/in/josef-sperzel/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1801298839110676480
+CreationTime: 2023-03-14T19:01:23.758Z
+RevisionTime: 2023-03-28T14:09:41.255Z
+Help: 

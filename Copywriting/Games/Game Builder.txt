@@ -1,0 +1,22 @@
+Prompt Template:
+Design a fun and interactive game in [TARGETLANGUAGE] on the topic [PROMPT]
+
+Teaser:
+Design a fun and interactive game on any topic from a keyword
+
+PromptHint: [KEYWORD]
+
+Title: Game Builder
+
+Topic: Copywriting
+
+Activity: Games
+
+AuthorName: Adam L.
+AuthorURL: http://instagram.com/dietitian.memes
+
+Community: Copywriting-00ea56f446414284
+ID: 1790473494107250688
+CreationTime: 2023-02-12T22:05:20.384Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

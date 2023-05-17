@@ -1,0 +1,42 @@
+Prompt Template:
+Generate a blockchain whitepaper [PROMPT]  in [TARGETLANGUAGE] ,Project name : [VARIABLE1], As an expert in blockchain, cryptocurrencies, and finance, I will generate a comprehensive whitepaper for your blockchain project, highlighting its innovative features, benefits, and potential applications. Together, we will delve into the intricacies of blockchain technology, its impact on financial systems, and how your project disrupts the industry.
+
+Write a headline, a teaser, a subtitle and a paragraph. Format everything in Markdown.
+
+ [VARIABLE1:Project Name]
+
+
+Teaser:
+An expert in blockchain, cryptocurrencies, and finance, generate a comprehensive whitepaper of that showcases your project's potential, benefits, and innovative features. With a focus on decentralization, security, and transparency, we will explore the use of smart contracts, token economy, and diverse industry applications.
+
+Table of Contents:
+
+Executive Summary
+Introduction
+The Problem
+Solution Overview
+Platform Features
+Use Cases
+Token Economy
+Roadmap
+Marketing and Growth Strategy
+Financials
+Conclusion
+
+
+PromptHint: Write your project detail to generate a full whitepeper
+
+Title: Full Whitepeper for blockchain project
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Dan Baruka
+AuthorURL: https://twitter.com/danamphred
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1824061157770792960
+CreationTime: 2023-05-16T14:30:43.43Z
+RevisionTime: 2023-05-16T15:15:30.867Z
+Help: 

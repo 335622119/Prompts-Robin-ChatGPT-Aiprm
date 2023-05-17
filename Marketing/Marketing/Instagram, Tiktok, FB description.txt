@@ -1,0 +1,24 @@
+Prompt Template:
+Write a Instagram Reel description for [PROMPT] (Do it with emoji and funny, and at the end add 20 related hashtags) 
+After Write a tweet for that video and after for Youtube Shorts video title
+[TARGETLANGUAGE] English 
+
+Teaser:
+Write a Instagram, TikTok & Facebook Reel description (Funny, Catchy, With Emoji and with 20 related hashtags at the end)
+
+PromptHint: [Keyword]
+
+Title: Instagram, Tiktok, FB description
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Gene
+AuthorURL: https://tripinspain.com/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1802023622987223040
+CreationTime: 2023-03-16T19:01:25.7Z
+RevisionTime: 2023-03-17T20:17:44Z
+Help: 

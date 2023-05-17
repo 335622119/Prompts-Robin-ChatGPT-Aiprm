@@ -1,0 +1,23 @@
+Prompt Template:
+Magento 2 Code [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1],[VARIABLE2] and [VARIABLE3].
+[VARIABLE1:Class Name] [VARIABLE2:Function Name:Default Function] [VARIABLE3:Title:Default Value:Avialable Value 1|Avialable Value 2|Avialable Value 3].
+
+Teaser:
+Adobe Cloud Commerce
+
+PromptHint: Magento 2 Code suggestion
+
+Title: Magento 2 Code suggestion
+
+Topic: Software Engineering
+
+Activity: Backend Development
+
+AuthorName: Emizen Tech Pvt Ltd
+AuthorURL: https://www.emizentech.com
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1818889262914068480
+CreationTime: 2023-05-02T07:59:27.607Z
+RevisionTime: 2023-05-02T08:02:25.968Z
+Help: 

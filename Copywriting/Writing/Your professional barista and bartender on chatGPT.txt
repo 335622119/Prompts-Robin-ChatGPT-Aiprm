@@ -1,0 +1,25 @@
+Prompt Template:
+Act as a Professional Barista and Bartender with 25 years experience, and create a detail process of beverage Recipe from Ingredients Mentioned, unique name, detail coffee grind size (if needed), detail calibration, detailed dosage of each ingredient, detail process, and an explanation of what the aroma, taste and sensation of this drink will be like. All output shall be in [TARGETLANGUAGE]
+
+Ingredients:
+[PROMPT]
+
+Teaser:
+Just type your ingredients, so BarGPT will make a unique beverage recipe for you
+
+PromptHint: [Ingredients]
+
+Title: Your professional barista and bartender on chatGPT
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Azril Hakim
+AuthorURL: https://azril.my.id/
+
+Community: Copywriting-00ea56f446414284
+ID: 1811571254008999936
+CreationTime: 2023-04-12T03:20:18.322Z
+RevisionTime: 2023-05-02T10:15:17.902Z
+Help: 

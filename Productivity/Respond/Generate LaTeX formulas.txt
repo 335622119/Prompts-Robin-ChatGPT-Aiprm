@@ -1,0 +1,24 @@
+Prompt Template:
+Give the formula, and only the formula in LaTeX of the concept stated belowin in [TARGETLANGUAGE]. Put dollar signs around the formula.
+Give the most known formula and the one used in high school.
+The concept : [PROMPT]
+
+Teaser:
+You are an expert in LaTeX.
+
+PromptHint: The formula :
+
+Title: Generate LaTeX formulas
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: Alexry
+AuthorURL: https://www.facebook.com/futuristicprojects
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1798024337446666240
+CreationTime: 2023-03-05T18:09:41.724Z
+RevisionTime: 2023-03-25T09:58:23.964Z
+Help: 

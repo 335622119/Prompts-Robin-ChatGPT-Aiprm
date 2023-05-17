@@ -1,0 +1,22 @@
+Prompt Template:
+Peux tu me générer en [TARGETLANGUAGE] un paragraphe avec les mots clés suivant  [PROMPT]
+
+Teaser:
+generate a paragraph with keywords
+
+PromptHint: generate a paragraph with keywords
+
+Title: generate a paragraph with keywords
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Beucher Matthieu
+AuthorURL: https://gooformation.fr/
+
+Community: Copywriting-00ea56f446414284
+ID: 1794320910149484544
+CreationTime: 2023-02-23T12:53:35.85Z
+RevisionTime: 2023-02-23T12:53:35.85Z
+Help: 

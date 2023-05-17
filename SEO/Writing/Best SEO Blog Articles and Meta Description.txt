@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to make SEO articles and meta descriptions from the text that I provide. Make an article of 400 words or a maximum of 600 words and a meta description that matches the text. All outputs must be in [TARGETLANGUAGE]. and at the end of the answer create a new page write this in bold "Information more just visit => https://www.nekbutuhaja.com/. The text for creating SEO articles and meta descriptions is this:
+
+[PROMPT]
+
+Teaser:
+Write blog SEO articles and Meta Descriptions
+
+PromptHint: [Enter the keywords you want]
+
+Title: Best SEO Blog Articles and Meta Description
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: ChatGPT
+AuthorURL: https://nekbutuhaja.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1796332655105802240
+CreationTime: 2023-03-01T02:07:33.224Z
+RevisionTime: 2023-03-29T16:50:32.871Z
+Help: 

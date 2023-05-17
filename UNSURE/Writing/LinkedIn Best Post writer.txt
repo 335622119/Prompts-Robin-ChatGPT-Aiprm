@@ -1,0 +1,25 @@
+Prompt Template:
+Your task s to write a LinkedIn post in 120 words. Use Emojis with text to make it reader friendly. All Output should be [TARGETLANGUAGE]. The post to write is this:
+[PROMPT]
+
+
+
+Teaser:
+Write your LinkedIn post with this to be professionally active.
+
+PromptHint: [Text that you want the post on]
+
+Title: LinkedIn Best Post writer
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: Vivian Opoku
+AuthorURL: https://vivianopoku.com/
+
+Community: Unsure-f69c57b424376b23
+ID: 1811359098978168832
+CreationTime: 2023-04-11T13:17:16.621Z
+RevisionTime: 2023-04-11T14:58:34.542Z
+Help: 

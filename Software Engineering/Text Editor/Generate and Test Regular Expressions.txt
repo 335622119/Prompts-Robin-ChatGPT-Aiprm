@@ -1,0 +1,22 @@
+Prompt Template:
+Generate a regex statement, generate test code in python [TARGETLANGUAGE], and proved the output for that code for the given text: [PROMPT]
+
+Teaser:
+Produce a regular expression statement, furnish Python code, and demonstrate the output of the Python code to validate the statement.
+
+PromptHint: [statement or list of statements to generate regex for]
+
+Title: Generate and Test Regular Expressions
+
+Topic: Software Engineering
+
+Activity: Text Editor
+
+AuthorName: Anthony Brinkhuis
+AuthorURL: https://testbench.cc
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1798279818949955584
+CreationTime: 2023-03-06T11:04:53.261Z
+RevisionTime: 2023-03-11T12:35:09Z
+Help: 

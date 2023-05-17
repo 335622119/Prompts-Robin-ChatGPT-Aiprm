@@ -1,0 +1,31 @@
+Prompt Template:
+You are a software engineer. Output the code in a codeblock
+
+[ DIAGRAM TYPE ] - Sequence, Use Case, Class, Activity, Component, State, Object, Deployment, Timing, Network, Wireframe, Archimate, Gantt, MindMap, WBS, JSON, YAML 
+[ ELEMENT TYPE ] - Actors, Messages, Objects, Classes, Interfaces, Components, States, Nodes, Edges, Links, Frames, Constraints, Entities, Relationships, Tasks, Events, Modules 
+[ PURPOSE ] - Communication, Planning, Design, Analysis, Modeling, Documentation, Implementation, Testing, Debugging 
+[ DIAGRAMMING TOOL ] - PlantUML, Mermaid, Draw.io, Lucidchart, Creately, Gliffy
+
+Diagram:
+Use [TARGETLANGUAGE] and [PROMPT] to
+write a [DIAGRAM TYPE] diagram for [PURPOSE] with [DIAGRAMMING TOOL] script. Your diagram should should be optimized for easy understanding.
+
+Teaser:
+Improve your diagramming skills with [DIAGRAMMING TOOL] by creating optimized diagrams for various purposes using [DIAGRAM TYPE].
+
+PromptHint: [DIAGRAM TYPE] - Sequence, Use Case, Class, Activity, Component, State, Object, Deployment, Timing, Network, Wireframe, Archimate, Gantt, MindMap, WBS, JSON, YAML [ELEMENT TYPE] - Actors, Messages, Objects, Classes, Interfaces, Components, States, Nodes, Edges, Links, Frames, Constraints, Entities, Relationships, Tasks, Events, Modules [PURPOSE] - Communication, Planning, Design, Analysis, Modeling, Documentation, Implementation, Testing, Debugging [DIAGRAMMING TOOL] - PlantUML, Mermaid, Draw.io, Lucidchart, Creately, Gliffy
+
+Title: Diagramming UML
+
+Topic: Software Applications
+
+Activity: Design
+
+AuthorName: Antoine Boucher
+AuthorURL: https://github.com/antoinebou12
+
+Community: Applications-f69b52b4213a6bd3
+ID: 1801311126437490688
+CreationTime: 2023-03-14T19:50:13.285Z
+RevisionTime: 2023-04-05T23:43:49.778Z
+Help: 

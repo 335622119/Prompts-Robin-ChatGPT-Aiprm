@@ -1,0 +1,24 @@
+Prompt Template:
+When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content in [TARGETLANGUAGE] I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. using the concepts written previously, rewrite this article with a high degree of perplexity and burstiness:
+
+[PROMPT]
+
+Teaser:
+Rewrite Articles | AI Detection 100% Human Written
+
+PromptHint: Rewrite Articles | AI Detection 100% Human Written
+
+Title: Rewrite Articles | AI Detection 100% Human
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Saeed Ahmed
+AuthorURL: https://www.youtube.com/channel/UCM-nM5gRl8laFGnaNYuksgw?sub_confirmation=1
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1796774778250727424
+CreationTime: 2023-03-02T07:24:23.596Z
+RevisionTime: 2023-03-02T07:41:54Z
+Help: 

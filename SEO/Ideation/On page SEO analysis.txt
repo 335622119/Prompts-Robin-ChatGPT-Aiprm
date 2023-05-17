@@ -1,0 +1,23 @@
+Prompt Template:
+Act like SEO analyzing tool and review the provided service page content for all aspect of SEO for ranking and give a points for all SEO factors. [PROMPT] [TARGETLANGUAGE]
+
+Teaser:
+This will analyzing your on page SEO for all SEO Factors
+
+
+PromptHint: Provide link of service page
+
+Title: On page SEO analysis
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Shahzad Gohar
+AuthorURL: https://www.facebook.com/search.engine.optimizer.1
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1802282394833911808
+CreationTime: 2023-03-17T12:09:41.716Z
+RevisionTime: 2023-03-22T14:20:53Z
+Help: 

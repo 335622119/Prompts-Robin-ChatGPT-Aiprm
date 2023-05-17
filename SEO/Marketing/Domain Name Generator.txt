@@ -1,0 +1,22 @@
+Prompt Template:
+Generate 100 domain name ideas for [PROMPT] niche having some search volume and available with .com [TARGETLANGUAGE]
+
+Teaser:
+Generate 100 domain name ideas for my niche having some search volume and available with .com
+
+PromptHint: give your topic name
+
+Title: Domain Name Generator
+
+Topic: SEO
+
+Activity: marketing
+
+AuthorName: Habibur Rahman
+AuthorURL: https://www.linkedin.com/in/habibsoft/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1783757363933876224
+CreationTime: 2023-01-25T09:17:50.171Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

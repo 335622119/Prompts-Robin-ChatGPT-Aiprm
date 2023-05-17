@@ -1,0 +1,23 @@
+Prompt Template:
+Ai Job Letter Writter 
+[TARGETLANGUAGE] and [PROMPT]
+
+Teaser:
+Write A Job Letter [Job Letter]
+
+PromptHint: Write A Job Title 
+
+Title: Job Letter
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: TechTopGamer
+AuthorURL: https://youtube.com/@TechTopGamer
+
+Community: Copywriting-00ea56f446414284
+ID: 1801272557090103296
+CreationTime: 2023-03-14T17:16:57.636Z
+RevisionTime: 2023-03-14T17:16:57.636Z
+Help: 

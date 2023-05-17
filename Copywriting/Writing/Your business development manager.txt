@@ -1,0 +1,25 @@
+Prompt Template:
+Your task is to write business plan details with full information as like professional business development head that text I gave you in 4500 words or maximum 10000 characters.All output shall be in [TARGETLANGUAGE].The text to write business plan in this :
+
+[PROMPT]
+
+
+Teaser:
+Create the business plan 
+
+PromptHint: [text that you want the best business plan for]
+
+Title: Your business development manager
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Hein Sithu 
+AuthorURL: https://www.facebook.com/hsithukyaw
+
+Community: Copywriting-00ea56f446414284
+ID: 1793112072616411136
+CreationTime: 2023-02-20T04:50:06.523Z
+RevisionTime: 2023-02-20T05:00:13Z
+Help: 

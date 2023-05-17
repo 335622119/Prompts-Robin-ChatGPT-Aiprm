@@ -1,0 +1,22 @@
+Prompt Template:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  I want you to act as a blog post title writer that speaks and writes fluent [TARGETLANGUAGE]. I will type a title or keywords via comma and you will reply with blog post titles in [TARGETLANGUAGE]. They should all have a hook and high potential to go viral on social media. Write all in [TARGETLANGUAGE]. my first keywords are [PROMPT]
+
+Teaser:
+Generate/Create Multiple Blog Titles From 1 Keyword
+
+PromptHint: [Keyword]
+
+Title: Blog/Article Title Generator
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Web Tech Tips
+AuthorURL: https://www.webtechtips.co.uk
+
+Community: Copywriting-00ea56f446414284
+ID: 1788145109322428416
+CreationTime: 2023-02-06T11:53:10.192Z
+RevisionTime: 2023-02-20T11:36:54Z
+Help: 

@@ -1,0 +1,28 @@
+Prompt Template:
+You will act as a social media manager. I will give you content or a keyword. You will generate a list of 52 unique and creative blog post ideas in [TARGETLANGUAGE] 
+
+Each idea must be unique and do not repeat. Each article should educate and help the target audience.
+
+[PROMPT]
+
+
+
+Teaser:
+Create a list of 52 blog post titles
+
+PromptHint: [Insert your Keyword]
+
+Title: 52 Week Content planner
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: Ben Macdonald
+AuthorURL: https://www.t40digital.co.uk/
+
+Community: Copywriting-00ea56f446414284
+ID: 1791063016285138944
+CreationTime: 2023-02-14T13:07:53.424Z
+RevisionTime: 2023-04-25T18:01:28.659Z
+Help: 

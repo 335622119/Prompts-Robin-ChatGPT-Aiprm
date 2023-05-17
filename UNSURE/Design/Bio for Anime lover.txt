@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to write a bio for a person who has keen interest in Japanese cartoons specifically in genre of Romance, time-travel and action. All output should be in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Write a bio for an anime lover who loves action, issekai and romance anime
+
+PromptHint: [anime that you like and the impact Japanese cartoons have on you]
+
+Title: Bio for Anime lover
+
+Topic: UNSURE
+
+Activity: Design
+
+AuthorName: Diptendu Nandi
+AuthorURL: https://github.com/diptendunandi
+
+Community: Unsure-f69c57b424376b23
+ID: 1818329218451496960
+CreationTime: 2023-04-30T18:54:02.602Z
+RevisionTime: 2023-04-30T18:54:02.602Z
+Help: 

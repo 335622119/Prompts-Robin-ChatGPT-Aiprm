@@ -1,0 +1,24 @@
+Prompt Template:
+Your Task is leave a comment for the YouTube video in a persuasive language style. comment must in 1 paragraph with full emojis. you will reply in [TARGETLANGUAGE]
+the video title is [PROMPT]
+
+
+Teaser:
+This prompt is great for commenting video titles on YouTube without the headache
+
+PromptHint: comment for an attention-grabbing YouTube video
+
+Title: Catchy comment for Youtube- VV.1
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Virgontoro
+AuthorURL: https://www.ivena.eu.org/
+
+Community: Copywriting-00ea56f446414284
+ID: 1820396867872350208
+CreationTime: 2023-05-06T11:50:08.639Z
+RevisionTime: 2023-05-06T11:50:08.639Z
+Help: 

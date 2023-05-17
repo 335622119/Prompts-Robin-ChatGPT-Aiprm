@@ -1,0 +1,23 @@
+Prompt Template:
+Leave the text unchanged, do not delete or add anything, just correct typos, punctuation and paragraphing! Use [TARGETLANGUAGE] and use Markdown for formatting.
+[PROMPT] 
+
+Teaser:
+Provides a clean text, eliminates typos and superfluous returns
+
+PromptHint: Enter text to be cleansed ...
+
+Title: Text Cleanser
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Wern ER
+AuthorURL: https://www.bergheidengasse.at/
+
+Community: Copywriting-00ea56f446414284
+ID: 1798682578140786688
+CreationTime: 2023-03-07T13:45:18.535Z
+RevisionTime: 2023-04-02T16:34:46.563Z
+Help: 

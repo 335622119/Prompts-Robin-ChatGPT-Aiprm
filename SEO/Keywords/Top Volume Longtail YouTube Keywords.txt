@@ -1,0 +1,25 @@
+Prompt Template:
+Create table having columns Keyword , volume ,  difficulty , must 2 to 4 words 15 keywords [TARGETLANGUAGE] for YouTube video with traffic which have over 5000 searches in YouTube on : 
+[TARGETLANGUAGE]
+[PROMPT]
+
+
+Teaser:
+Long tail High Volume Youtube Keywords
+
+PromptHint: Write Your Keyword
+
+Title: Top Volume Longtail YouTube Keywords 
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Wakil
+AuthorURL: https://www.youtube.com/@tutorsgrip
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1797220418613149696
+CreationTime: 2023-03-03T12:55:12.538Z
+RevisionTime: 2023-03-16T11:26:41Z
+Help: 

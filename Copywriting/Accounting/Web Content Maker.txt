@@ -1,0 +1,23 @@
+Prompt Template:
+ [TARGETLANGUAGE] and [PROMPT] Task: generate high-quality website content for the following business or project, including a home page, product pages, about us, Our Impact, news, and contact us page. Use bold titels and drawdown language. The business is [Type Here Your Business].
+
+Teaser:
+ Get ready to take your online presence to the next level with this expertly crafted website content!  This prompt will assist you to create a captivating WEB content that will keep your customers coming back for more.  With a commitment to quality and attention to details!
+ The content that will exceed your expectations. 
+
+PromptHint: [Describe Your Business]
+
+Title: Web Content Maker 
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: MM
+AuthorURL: https://www.buymeacoffee.com/promptMM
+
+Community: Copywriting-00ea56f446414284
+ID: 1801259889155366912
+CreationTime: 2023-03-14T16:26:37.365Z
+RevisionTime: 2023-03-21T04:21:56Z
+Help: 

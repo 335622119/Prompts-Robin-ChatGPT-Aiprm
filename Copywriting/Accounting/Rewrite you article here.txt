@@ -1,0 +1,30 @@
+Prompt Template:
+rewrite this content  with this rule
+
+1. use short engaging sentences at headline 
+2. give proper headline to each para that you explain 
+3. include key heilight in starting 
+4. use proper context don't
+
+[TARGETLANGUAGE] [PROMPT]
+content is this "" 
+
+Teaser:
+past you content here
+
+PromptHint: Rewrite you article here
+
+Title: Rewrite you article here
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: sumitnyayadhish
+AuthorURL: https://mazhishala.in/
+
+Community: Copywriting-00ea56f446414284
+ID: 1813141655818342400
+CreationTime: 2023-04-16T11:20:31.29Z
+RevisionTime: 2023-04-16T11:27:26.751Z
+Help: 

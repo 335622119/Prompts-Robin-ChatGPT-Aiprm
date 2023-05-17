@@ -1,0 +1,24 @@
+Prompt Template:
+Act as a native English speaker to create detailed explanations and expand content for given requirements. Generate posts for one week (including days of the week) with a word count of between 700 to 1000 characters for each post created. Include hashtags under each post. I will provide the business update for which the content needs to be written, as well as the business name, location, audience, and keywords:
+All output shall be in [TARGETLANGUAGE]
+[PROMPT]
+
+Teaser:
+Generate 1 Week SEO optimized Google Business Profile Posts from Monday to Sunday 
+
+PromptHint: [Services You Offer] [Name & Location] [Audience] [Keywords]
+
+Title: Generate 1 Week Google Business Profile Posts
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Soma
+AuthorURL: https://rankworks.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1801320788289388544
+CreationTime: 2023-03-14T20:28:36.85Z
+RevisionTime: 2023-03-17T18:08:05Z
+Help: 

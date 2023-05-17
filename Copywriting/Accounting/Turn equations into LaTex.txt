@@ -1,0 +1,24 @@
+Prompt Template:
+Please ignore all previous inputs. Turn [PROMPT] into perfect LaTex code in [TARGETLANGUAGE].
+Always start an equation with \begin{equation} and end an equation with \end{equation}.
+Do not solve any of the operations while generating the LaTex code. In other words, do not synthesise 2*7*x into 14*x or any other mathematical equations.
+
+Teaser:
+Turn any equation into LaTex
+
+PromptHint: The equation you want to transform
+
+Title: Turn equations into LaTex
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Lau
+AuthorURL: https://example.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1788555159459328000
+CreationTime: 2023-02-07T15:02:33.763Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

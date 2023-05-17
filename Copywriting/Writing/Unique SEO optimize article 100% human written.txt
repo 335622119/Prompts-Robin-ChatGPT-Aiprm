@@ -1,0 +1,24 @@
+Prompt Template:
+your task is to write a blog  post or article  in all output shall be in [TARGETLANGUAGE]on the given title for the block post make sure that the content should be SEO optimized.
+
+[PROMPT]
+
+Teaser:
+create full blog post the blog post will be SEO optimize and unique 
+
+PromptHint: [ Enter Title Here ]
+
+Title: Unique SEO optimize article 100% human written
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: fazil khan 
+AuthorURL: https://neurolatools.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1796012497795547136
+CreationTime: 2023-02-28T04:55:21.773Z
+RevisionTime: 2023-03-01T06:34:59Z
+Help: 

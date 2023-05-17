@@ -1,0 +1,24 @@
+Prompt Template:
+Please generate regular expressions for use in Visual Studio/Visual Studio Code,  Javascript, C#, PHP, Ruby, Java, Bash. Please respond in [TARGETLANGUAGE] and put every regular expression separately with a short annotation and explanation. You need to write a regular expression for the following:
+
+[PROMPT]
+
+Teaser:
+Generates regular expression for use Visual Studio, Javascript, PHP, C#, Ruby and Java. Please share suggestions via LinkedIn - click the link to contact
+
+PromptHint: text to create regular expression for. For example: hyperlink. Or hyperlink containing /kb/. Please share your suggestion via LinkedIn - use the link to contact view my profile
+
+Title: Write a Regular Expression
+
+Topic: Software Engineering
+
+Activity: Text Editor
+
+AuthorName: Eugene Mironichev
+AuthorURL: https://www.linkedin.com/in/mironic/
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1796794394582712320
+CreationTime: 2023-03-02T08:42:20.494Z
+RevisionTime: 2023-03-02T09:00:33Z
+Help: 

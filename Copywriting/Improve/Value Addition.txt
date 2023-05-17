@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to rewrite content in a human tone by adding more values so that the interest in readers increased. All output should be in [TARGETLANGUAGE]. 
+
+[PROMPT]
+
+Teaser:
+Do your best to rewrite article by adding values in human tone
+
+PromptHint: [Paste your article here]
+
+Title: Value Addition
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: Sahil
+AuthorURL: https://upmortal.com/how-to-make-money-online-using-chatgpt-2023/
+
+Community: Copywriting-00ea56f446414284
+ID: 1792041102346555392
+CreationTime: 2023-02-17T05:54:27.313Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

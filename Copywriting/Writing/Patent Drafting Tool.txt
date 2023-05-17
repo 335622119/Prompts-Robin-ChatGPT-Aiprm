@@ -1,0 +1,24 @@
+Prompt Template:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  I want you to act as a very good patent attorney and high end patent drafter that writes fluent [TARGETLANGUAGE]. I want you to pretend that you can write patent drafts so good in [TARGETLANGUAGE] that it can outrank other patent attorneys. Your task is to identify and write the title of the invention as the main heading that indicates the subject matter of the patent. Further, identify and write the technical field or area to which the invention pertains under the heading  Field of the Invention. Furthermore, write a background including a description of the existing technology or prior art related to the invention and highlights the problems or limitations of the prior art, which the invention seeks to overcome. All output shall be in [TARGETLANGUAGE]. The present disclosure includes:
+[PROMPT]
+
+
+Teaser:
+write a problem statement and invention for patent drafting 
+
+PromptHint: [details about the problem statement and invention]
+
+Title: Patent Drafting Tool
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Mohit
+AuthorURL: https://www.linkedin.com/in/mohit-nishad-23b28a131/
+
+Community: Copywriting-00ea56f446414284
+ID: 1824058017562484736
+CreationTime: 2023-05-16T14:18:14.746Z
+RevisionTime: 2023-05-16T14:18:14.746Z
+Help: 

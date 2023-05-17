@@ -1,0 +1,22 @@
+Prompt Template:
+I need you to do a competitive web and apps analysis in a table format of [PROMPT] in [PROMPT] between [PROMPT] and also provide me  the opportunities for improving the user experience for each of them. Respond [TARGETLANGUAGE]
+
+Teaser:
+Get competitive analyses of the brands you want
+
+PromptHint: [Type: company, location and competitors] 
+
+Title: Competitive analysis
+
+Topic: Software Applications
+
+Activity: Design
+
+AuthorName: Aramis Gaytán
+AuthorURL: https://www.linkedin.com/in/aramis-gayt%C3%A1n-02991593/
+
+Community: Applications-f69b52b4213a6bd3
+ID: 1793398098404577280
+CreationTime: 2023-02-20T23:46:40.385Z
+RevisionTime: 2023-02-21T17:21:03Z
+Help: 

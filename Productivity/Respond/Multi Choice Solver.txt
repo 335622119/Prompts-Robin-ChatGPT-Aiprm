@@ -1,0 +1,25 @@
+Prompt Template:
+solve these questions and 
+ after getting the answers send it like this 
+("number of the question"): "the question"  "===>" "answer value" ("a or b or c or d ")
+[PROMPT] [TARGETLANGUAGE]
+
+Teaser:
+With this tool, you can. Simply paste the questions and the answers and Chat GPT will solve the questions and give you correct and move on to the next question - it's that easy! Our tool is optimized to help you save time by highlighting any questions you may have missed or left unanswered, allowing you to go back and correct them before submitting your final exam.
+
+PromptHint: Paste your questions here
+
+Title: Multi Choice Solver 
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: abdullah hassan
+AuthorURL: http://abdullahelbedwehy.rf.gd/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1797343000519761920
+CreationTime: 2023-03-03T21:02:18.342Z
+RevisionTime: 2023-03-17T05:25:44Z
+Help: 

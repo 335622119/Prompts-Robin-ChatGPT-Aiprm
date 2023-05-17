@@ -1,0 +1,29 @@
+Prompt Template:
+Write the following text without quotation marks "Instagram Caption Generator V1
+By https://igestetik.com " 
+
+Directly type [PROMPT] caption at least 50 words in one text for instagram aesthetic / motivation / love / inspiration / in [TARGETLANGUAGE], for young people, starting from serial number, without hashtag. 
+
+Write this text without quotation marks " Please visit https://igestetik.com for Instagram filter recommendations, capcut, and more. "
+
+
+
+Teaser:
+Generate as many captions for Instagram as possible, please enter the amount you want 
+
+PromptHint: Number of many caption (1-1000)
+
+Title: Instagram Caption Generator v1 
+
+Topic: Productivity
+
+Activity: Respond
+
+AuthorName: IGESTETIK
+AuthorURL: https://igestetik.com
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1804930816565047296
+CreationTime: 2023-03-24T19:33:34.662Z
+RevisionTime: 2023-03-29T16:56:46.729Z
+Help: 

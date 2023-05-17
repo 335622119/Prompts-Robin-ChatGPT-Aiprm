@@ -1,0 +1,31 @@
+Prompt Template:
+Audience: Small business owners and people seeking instructions and information for their product or service strategy 
+Format and length: 500-1000 words, for professional text writing 
+Keywords and subtopics: use keywords from the “prompt” description
+Tone and style: Professional, with a focus on practical advice and real-world examples
+Research and sources: Please include data and statistics from reputable scientific sources such as financial times, forbs, Inc, New York times statista, marketwatch, Data.gov, Google Public Data Explorer, World Bank Data, OECD Data, Eurostat, elstat, taking in account recent business trends like sustainability and enviroment
+Constraints or limitations: Please avoid disputable material
+Deadline: This post should be submitted by today
+Your task is to use the provided information about the product or service taking in account its main characteristics, and considering the market in focus and the required resources to create a BUSINESS MODEL canvas  for a new product or service. use an analytic formal analysis taking in account all possible parameters. Avoid increased risk. [TARGETLANGUAGE]:
+[PROMPT]
+Analyse further each part of the Business model canvas
+
+Teaser:
+BMC for a new product or service
+
+PromptHint: Describe the product or the service, the possible market and the neccesary resources
+
+Title: Business Model Canvas for Startups (BMC)
+
+Topic: Marketing
+
+Activity: Startup Ideas
+
+AuthorName: Konstantinos Katharakis
+AuthorURL: https://www.linkedin.com/in/konstantinos-katharakis-5053b0222/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1800523140850511872
+CreationTime: 2023-03-12T15:39:02.881Z
+RevisionTime: 2023-03-24T08:13:23.537Z
+Help: 

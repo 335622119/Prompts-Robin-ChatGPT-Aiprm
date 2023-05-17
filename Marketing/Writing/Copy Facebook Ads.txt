@@ -1,0 +1,22 @@
+Prompt Template:
+Formule 10 copys com no mínimo 400 caracteres e no máximo 500 caracteres, 10 chamadas com 50 caracteres e no máximo 60 caracteres, e 10 call to action com 20 caracteres e no máximo 30 caracteres de forma persuasiva e atraente otimizadas para anúncios no Facebook Ads sobre [PROMPT]. Formate a saída como uma tabela intituladas Copy, Chamada e CTA. Toda a saída deve estar em [TARGETLANGUAGE]
+
+Teaser:
+Ten copys, call and CTA optimized for Facebook Ads
+
+PromptHint: [theme or subject]
+
+Title: Copy Facebook Ads
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Gabriel Tatsch
+AuthorURL: https://www.linkedin.com/in/gabriel-tatsch/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1821575932692140032
+CreationTime: 2023-05-09T17:55:19.598Z
+RevisionTime: 2023-05-09T19:51:48.67Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+All output shall be in [TARGETLANGUAGE]. Why is this Bible verse [PROMPT] relevant?
+
+Teaser:
+Uncover the significance of a specific Bible verse in your life by analyzing its context, application, and interpretation.
+
+PromptHint: [Bible verse] and [your preferred bible version, if you want.]
+
+Title: Bible Verse Relevance in English
+
+Topic: Copywriting
+
+Activity: call to action
+
+AuthorName: PG 
+AuthorURL: http://www.bss.church
+
+Community: Copywriting-00ea56f446414284
+ID: 1816228515352412160
+CreationTime: 2023-04-24T23:46:35.954Z
+RevisionTime: 2023-04-24T23:56:59.067Z
+Help: 

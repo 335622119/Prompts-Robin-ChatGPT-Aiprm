@@ -1,0 +1,27 @@
+Prompt Template:
+Identify html errors in the provided code. All output shall be in [TARGETLANGUAGE]. The HTML code to be analise is: 
+[PROMPT]
+
+Teaser:
+Validates HTML files for compliance against the W3C standards and performs linting to assess code quality against best practices.
+
+Find missing or unbalanced HTML tags in your documents, stray characters, duplicate IDs, missing or invalid attributes and other recommendations. by Joao Filipe Pereira
+
+Supports HTML5, SVG 1.1, MathML 3.0, ITS 2.0, RDFa Lite 1.1. Implementation is based on Validator.Nu.
+
+PromptHint: [PASTE YOUR CODE HERE, maximum circa 100 lines of code]
+
+Title: HTML Validator
+
+Topic: SEO
+
+Activity: Web Development
+
+AuthorName: Joao Filipe Pereira
+AuthorURL: https://www.linkedin.com/in/joaofpereira/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1786665227237195776
+CreationTime: 2023-02-02T09:52:38.808Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

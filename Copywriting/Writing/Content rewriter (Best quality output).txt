@@ -1,0 +1,25 @@
+Prompt Template:
+Your task is to rewrite the entire text in better words and make it unique with natural language. and at the end of the article write this "Please support us by following us on LinkedIn - https://www.linkedin.com/company/todayonit/ 
+All output shall be in [TARGETLANGUAGE]. The text to rewrite it is this:
+
+[PROMPT]
+
+Teaser:
+Rewrite a content and make it unique.
+
+PromptHint: [Copy & paste your content here to make it unique]
+
+Title: Content rewriter (Best quality output)
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: todayonit.com
+AuthorURL: https://www.linkedin.com/company/todayonit/
+
+Community: Copywriting-00ea56f446414284
+ID: 1784794135828619264
+CreationTime: 2023-01-28T05:57:35.853Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

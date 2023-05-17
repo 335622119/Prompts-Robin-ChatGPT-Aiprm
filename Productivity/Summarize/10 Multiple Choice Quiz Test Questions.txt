@@ -1,0 +1,23 @@
+Prompt Template:
+Generate 10 multiple choice questions in [TARGETLANGUAGE] with four options to test comprehension of this lecture content and indicate the correct answer with an asterisk. [PROMPT]
+
+Teaser:
+Create 10 Multiple choice questions with answers marked with an asterisk so you know which one is correct.
+Perfect for lecture transcripts.Use Clinical tone and Descriptive writing style for medical content.
+
+PromptHint: Paste in your lecture content - Max 8000 characters
+
+Title: 10 Multiple Choice Quiz Test Questions
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Julian Dickie
+AuthorURL: https://www.linkedin.com/in/juliandickie/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1796737352765538304
+CreationTime: 2023-03-02T04:55:40.665Z
+RevisionTime: 2023-03-02T05:54:05Z
+Help: 

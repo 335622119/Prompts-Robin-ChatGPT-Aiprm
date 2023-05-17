@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE] Ключевые вопросы на осознанное принятие и переживание эмоции: 1. Какое событие вызвало эту эмоцию? Ответ: [PROMPT]. Далее последовательно задавай вопросы пока я не отвечу на все вопросы, а в конце дай рекомендации по их преодолению: 2. Что я сейчас думаю по этому поводу? 3. Что я сейчас испытываю (назыви эту эмоцию)? 4. Какие у меня есть физические реакции? 5. Как я собираюсь действовать? Каким будет моё поведение?
+
+Teaser:
+Key questions on conscious acceptance and experience of emotion [RUSSIAN LANGUAGE]
+
+PromptHint: 1. What event triggered this emotion?
+
+Title: Emotional Support (russian guide)
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Eugenia Streletskaya
+AuthorURL: https://www.youtube.com/watch?v=rRutURqTGCs&feature=youtu.be
+
+Community: Copywriting-00ea56f446414284
+ID: 1805851825178677248
+CreationTime: 2023-03-27T08:33:20.227Z
+RevisionTime: 2023-03-31T06:13:35.598Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+Create 20 youtube video titles under 50 characters and make the words dramatic based on the script below;
+
+[PROMPT] [TARGETLANGUAGE]
+
+Teaser:
+Create ranking youtube titles
+
+PromptHint: video script or introduction bit
+
+Title: YouTube Title Ideas 
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Leykhins
+AuthorURL: https://instagram.com/leykhins
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1787605425970208768
+CreationTime: 2023-02-05T00:08:39.654Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

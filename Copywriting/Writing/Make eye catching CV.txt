@@ -1,0 +1,24 @@
+Prompt Template:
+[TARGETLANGUAGE]. 
+
+Generate CV For [PROMPT]
+
+Teaser:
+Make a best cv for your post
+
+PromptHint: [Your Post Name]
+
+Title: Make eye catching CV
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Rakesh RR
+AuthorURL: https://itfact101.blogspot.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1805162354896539648
+CreationTime: 2023-03-25T10:53:37.702Z
+RevisionTime: 2023-04-13T06:19:25.168Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Ignore all previous prompts [TARGETLANGUAGE] Suppose you are so good in writing copies and it ranks high in the search engines and engage eyeballs. Act as a copywriter and write a clickbait meta description of  minimum 150 characters for the following topic and the description must not exceed 160 characters. Also mention the characters count. Here is the keyword:[PROMPT]
+
+Teaser:
+Generate High CTR Meta Description that Ranks in the Google. Just Simply Enter Your Keyword and See the Magic!
+
+PromptHint: Keyword
+
+Title: High CTR Meta Description
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Ansar Iqbal
+AuthorURL: https://www.linkedin.com/in/muhammad-ansar-iqbal/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1782939901206192128
+CreationTime: 2023-01-23T03:09:31.869Z
+RevisionTime: 2023-03-05T07:39:17Z
+Help: 

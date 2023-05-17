@@ -1,0 +1,27 @@
+Prompt Template:
+Cluster this list of keywords. The primary objective it's to avoid cannibalization and choose the best options under each cluster or subtopic.
+Here are the keywords:
+
+[PROMPT] 
+
+[TARGETLANGUAGE]
+
+Teaser:
+Subtopics in KW research
+
+PromptHint: List of keywords
+
+Title: KW Research
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Natalie Baez
+AuthorURL: https://nataliebaez.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1812164595230699520
+CreationTime: 2023-04-13T18:38:01.893Z
+RevisionTime: 2023-04-13T18:58:39.837Z
+Help: 

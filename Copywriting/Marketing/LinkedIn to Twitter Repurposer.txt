@@ -1,0 +1,25 @@
+Prompt Template:
+Please ignore all previous instructions. Rewrite this [PROMPT] into 3 engaging twitter posts in [TARGETLANGUAGE]. Use emojis. 
+Do not apologize. Do not self-reference. 
+
+Please write in confrontational tone, conversational writing style.
+
+Teaser:
+Create Twitter Posts based on your LinkedIn Posts
+
+PromptHint: Repurpose LinkedIn to Twitter Posts
+
+Title: LinkedIn to Twitter Repurposer
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: Matthis Janssen
+AuthorURL: https://www.linkedin.com/in/matthis-janssen-0507801b2/
+
+Community: Copywriting-00ea56f446414284
+ID: 1796108459377418240
+CreationTime: 2023-02-28T11:16:40.797Z
+RevisionTime: 2023-03-22T16:28:19.171Z
+Help: 

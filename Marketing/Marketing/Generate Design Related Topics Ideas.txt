@@ -1,0 +1,23 @@
+Prompt Template:
+Generate Topics Related Creative & Unique Design Ideas #DesignGoals #Innovation #CreativeIdeas #Unique #Creative
+[TARGETLANGUAGE] from give [PROMPT]
+
+Teaser:
+Generate Topics Related Creative & Unique Design Ideas 
+
+PromptHint: [Topic] OR [Keyword]
+
+Title: Generate Design Related Topics Ideas
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Omnarayan
+AuthorURL: https://www.facebook.com/omnarayanmonu?mibextid=ZbWKwL
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1803641567844757504
+CreationTime: 2023-03-21T06:10:33.814Z
+RevisionTime: 2023-04-28T06:40:35.596Z
+Help: 

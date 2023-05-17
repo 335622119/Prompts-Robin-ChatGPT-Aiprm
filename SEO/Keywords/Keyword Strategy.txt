@@ -1,0 +1,22 @@
+Prompt Template:
+Give me a list of target keywords for a business-to-business company website site seeking to rank high on Google for [PROMPT]. Please return a table including the keywords, search intent, keyword cluster, a sample content topic for each, and an outline of each sample content topic. Also indicate what type of content would work best for the specific keyword (e.g., a blog post, a white paper, a guide or a video). Return results in [TARGETLANGUAGE].
+
+Teaser:
+Create a keyword cluster strategy to rank higher for your topic.
+
+PromptHint: Use the prompt for your target content topic.
+
+Title: Keyword Strategy
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Adam Smartschan
+AuthorURL: https://altitudemarketing.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1807007717941051392
+CreationTime: 2023-03-30T13:06:26.537Z
+RevisionTime: 2023-03-30T17:08:36.335Z
+Help: 

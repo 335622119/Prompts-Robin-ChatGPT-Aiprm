@@ -1,0 +1,47 @@
+Prompt Template:
+[PROMPT]
+Please act as a professional book writer. All the responses are written in 100% unique, 100% human-generated content, and bypass AI deduction
+Generate an eye catching and potential book title with provided keyword that could have a good chance of selling well [TARGETLANGUAGE]
+Generate a killing sale copy for this ebook and more than 500 words
+Generate 18 book chapters with the title provided and list them [TARGETLANGUAGE]
+Generate detailed book intro with the title provided and more then 1000 words[TARGETLANGUAGE]
+Write Chapter 1 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 2 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 3 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 4 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 5 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 6 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 7 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 8 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 9 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 10 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 11 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 12 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 13 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 14 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 15 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 16 with detailed information and more then 3000 words[TARGETLANGUAGE]
+Write Chapter 17 regarding top 30 questions most people ask and answers with more then 3000 words[TARGETLANGUAGE]
+Write Chapter 18 with detailed information and more then 3000 words[TARGETLANGUAGE]
+[PROMPT]
+
+
+Teaser:
+whole ebook with 18 Chapters including Sale Copy & Top FAQ-100% unique, 100% human-generated content, and bypass AI deduction. 
+
+PromptHint: [keyword]
+
+Title: FAST Ebook-100% human, bypass AI deduction 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Kokoshungsan
+AuthorURL: https://kokoshungsan.net
+
+Community: Copywriting-00ea56f446414284
+ID: 1802029494740180992
+CreationTime: 2023-03-16T19:24:45.635Z
+RevisionTime: 2023-03-19T13:12:15.938Z
+Help: 

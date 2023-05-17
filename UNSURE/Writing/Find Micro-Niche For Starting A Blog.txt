@@ -1,0 +1,26 @@
+Prompt Template:
+Your first task is to find the best micro-niche for starting a blog, and the [TARGETLANGUAGE] is [English].
+
+[PROMPT]
+
+
+
+Teaser:
+Find Best Micro Niche For Starting A Blog
+
+PromptHint: [Keyword]
+
+Title: Find Micro-Niche For Starting A Blog
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: Yofinance
+AuthorURL: https://yofinance.net/
+
+Community: Unsure-f69c57b424376b23
+ID: 1800078226207535104
+CreationTime: 2023-03-11T10:11:06.964Z
+RevisionTime: 2023-03-19T15:00:01Z
+Help: 

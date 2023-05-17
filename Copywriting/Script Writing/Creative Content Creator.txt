@@ -1,0 +1,24 @@
+Prompt Template:
+I want you to act as the best director and screenwriter all output shall be in [TARGETLANGUAGE]. You will develop an engaging and creative storyboard and script for commercial, film, content. Start with coming up with interesting characters, the setting of the story, dialogues between the characters etc. 
+
+[PROMPT]
+
+Teaser:
+Create The Best Storyboard and Script For Your Commercial | Film | Content
+
+PromptHint: [Input title, duration, character, location or anything here]
+
+Title: Creative Content Creator
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: Wisnu Febrian
+AuthorURL: https://www.youtube.com/channel/UCYoowQq7EHkpJgJvz9553uA
+
+Community: Copywriting-00ea56f446414284
+ID: 1792788768596684800
+CreationTime: 2023-02-19T07:25:24.838Z
+RevisionTime: 2023-03-17T09:43:35Z
+Help: 

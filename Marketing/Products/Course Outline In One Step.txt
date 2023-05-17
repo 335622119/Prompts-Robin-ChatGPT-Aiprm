@@ -1,0 +1,22 @@
+Prompt Template:
+Respond only in [TARGETLANGUAGE]. Can you create a course outline for the following topic: [PROMPT] include: a catchy title describing the transformation, and why they need it, also include a prefix for the course introduction explain what the course is about, also include the learning objectives for the entire course, additionally a  include a breakdown of the lessons within each module. for each lesson include the objective a bit of content for each lesson and a detailed explanation of how to complete each lesson assignment, also give me an outline for my sales page including: a sales page hook which will peak interest, pain points, course solutions , why they need it?
+
+Teaser:
+Create Your online course outline including assignments and get some information for your sales page as well! 
+
+PromptHint: Enter your course topic - example - How to create a podcast
+
+Title: Course Outline In One Step 
+
+Topic: Marketing
+
+Activity: Products
+
+AuthorName: Sandra Muriel-Colorado 
+AuthorURL: https://www.smcvirtualsolutions.com
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1798526683125637120
+CreationTime: 2023-03-07T03:25:50.267Z
+RevisionTime: 2023-03-07T03:45:51Z
+Help: 

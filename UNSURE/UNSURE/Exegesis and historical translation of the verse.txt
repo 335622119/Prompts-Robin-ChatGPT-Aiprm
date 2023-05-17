@@ -1,0 +1,24 @@
+Prompt Template:
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Quero que você se comporte como um especialista em Teologia Bíblica, falarei o versículo bíblico e você fará a exegese do versículo. Em seguida fará uma exposição histórica e cultural do tema principal do versículo. Por exemplo: (Se o versículo citado fala sobre casamento, o tema é casamento, então você será capaz de buscar referências detalhadas na história e na cultura do tempo e do lugar em que está inserido, e tudo que diz respeito à "casamento") O verso é este:
+[PROMPT]
+
+Teaser:
+Make the Exegesis, historical and cultural translation of a biblical verse.
+
+PromptHint: Write the bible verse to do exegesis [Keywords] 
+
+Title: Exegesis and historical translation of the verse
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Carlos Alves
+AuthorURL: https://semprenafe.site
+
+Community: Unsure-f69c57b424376b23
+ID: 1806497560635105280
+CreationTime: 2023-03-29T03:19:15.557Z
+RevisionTime: 2023-03-29T20:32:44.722Z
+Help: 

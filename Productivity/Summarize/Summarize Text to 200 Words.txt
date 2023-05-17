@@ -1,0 +1,22 @@
+Prompt Template:
+Please summarize the following text within 200 words. All output shall be in [TARGETLANGUAGE]. The text to summarize is [PROMPT]
+
+Teaser:
+Provide the text that you want to summarize. ChatGPT will summarize it within 200 words.
+
+PromptHint: Please insert your text here.
+
+Title: Summarize Text to 200 Words
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Richard Zhao
+AuthorURL: https://www.richardzhao2000.com/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1800386124510916608
+CreationTime: 2023-03-12T06:34:35.64Z
+RevisionTime: 2023-03-12T07:32:37Z
+Help: 

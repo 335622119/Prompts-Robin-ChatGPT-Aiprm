@@ -1,0 +1,34 @@
+Prompt Template:
+Help me with IOS developing with Swift and Xcode
+
+MY CODE: [PROMPT]
+
+My expectation about this problem: [VARIABLE1] 
+My error: [VARIABLE2]
+
+My goal: [VARIABLE3]
+ All output should be in [TARGETLANGUAGE]
+
+[VARIABLE1:My problem:none]
+[VARIABLE2:Error you got:none]
+[VARIABLE3:Goal to achive:none]
+
+Teaser:
+Help your development with swift.
+
+PromptHint: Paste code that you working on
+
+Title: Swift ios
+
+Topic: Software Engineering
+
+Activity: Text Editor
+
+AuthorName: octofox1357
+AuthorURL: https://velog.io/@octofox1357
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1810800217994563584
+CreationTime: 2023-04-10T00:16:29.011Z
+RevisionTime: 2023-04-10T04:32:52.789Z
+Help: 

@@ -1,0 +1,26 @@
+Prompt Template:
+[TARGETLANGUAGE]
+Capitalize the initials of the important words in the given text.
+Use the APA style for the provided titles in capitalized initials.
+You must apply the instructions to each line of text even if they are repeated
+[PROMPT]
+
+Teaser:
+Capitalize you text using the APA style guide.
+
+PromptHint: [Text you want to Capitalize using the APA Method]
+
+Title: Capitalizer APA Method
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Thibault FAYOL
+AuthorURL: https://www.linkedin.com/in/thibault-fayol/
+
+Community: Copywriting-00ea56f446414284
+ID: 1799690876143013888
+CreationTime: 2023-03-10T08:31:55.512Z
+RevisionTime: 2023-03-10T08:34:12Z
+Help: 

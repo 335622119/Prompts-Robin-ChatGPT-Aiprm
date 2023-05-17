@@ -1,0 +1,22 @@
+Prompt Template:
+Write a meta description as copywriter for [PROMPT] in [TARGETLANGUAGE] language less than 140 characters, please don't use hashtags and include the [PROMPT] in the description, also considere that this is for Seo purpose. 
+
+Teaser:
+Create the best meta description 100% optimized for SEO of a keyword
+
+PromptHint: Put your keyword here
+
+Title: Full optimized meta description for SEO
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Tecxpla Code
+AuthorURL: https://cappstudios.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1800157463308406784
+CreationTime: 2023-03-11T15:25:58.561Z
+RevisionTime: 2023-03-28T02:10:59.826Z
+Help: 

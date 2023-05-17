@@ -1,0 +1,22 @@
+Prompt Template:
+Create Youtube  Killer Titles [TARGETLANGUAGE] or [PROMPT]
+
+Teaser:
+Create the best Youtube Killer Titles for my content
+
+PromptHint: [ text that you want a youtube tiles
+
+Title: Create Youtube (1000%)  Killer Titles
+
+Topic: Copywriting
+
+Activity: Script Writing
+
+AuthorName: GauravGautam
+AuthorURL: https://www.youtube.com/@CarAcceleris
+
+Community: Copywriting-00ea56f446414284
+ID: 1822086736998830080
+CreationTime: 2023-05-11T03:45:04.835Z
+RevisionTime: 2023-05-11T03:45:04.835Z
+Help: 

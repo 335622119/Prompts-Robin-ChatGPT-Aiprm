@@ -1,0 +1,23 @@
+Prompt Template:
+Wirte as SEO summary of the following text in [TARGETLANGUAGE]. The Lext should not exceed the length of 150 Words.
+[PROMPT]
+
+Teaser:
+A 150 Words SEO Text für das Shopify Meta-Field
+
+PromptHint: [Copy the Text you use for the category in this field] 
+
+Title: Shopify SEO Text for Categories
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: PromtO
+AuthorURL: http://superrocker.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1800867893282594816
+CreationTime: 2023-03-13T14:28:58.266Z
+RevisionTime: 2023-03-13T14:28:58.266Z
+Help: 

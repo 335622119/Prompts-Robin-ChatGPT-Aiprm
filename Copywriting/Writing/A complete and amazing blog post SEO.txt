@@ -1,0 +1,34 @@
+Prompt Template:
+Sua resposta deve ser em [TARGETLANGUAGE]
+
+Escreva um post completo para blog com 1000 palavras.
+O texto deve ser otimizado para os mecanismos de buscas conforme a palavra-chave informada no prompt.
+O texto deve ter um título
+Escreva uma introdução
+O texto deve conter 3 subtítulos.
+Cada subtítulo deve conter 3 parágrafos
+Escreva todo o texto corrido
+Informe uma lista com sugestões de tópicos para continuar estudando sobre o assunto.
+Informe uma lista com tópicos relacionados com o assunto.
+
+[PROMPT]
+
+Teaser:
+A complete and amazing blog post SEO   (Biffi)
+
+PromptHint: [Keyword]
+
+Title: A complete and amazing blog post SEO
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Leandro Biffi
+AuthorURL: https://biffi.com.br/
+
+Community: Copywriting-00ea56f446414284
+ID: 1803118012493205504
+CreationTime: 2023-03-19T19:30:08.491Z
+RevisionTime: 2023-03-28T17:52:14.377Z
+Help: 

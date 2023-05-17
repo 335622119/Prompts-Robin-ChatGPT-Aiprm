@@ -1,0 +1,28 @@
+Prompt Template:
+[TARGETLANGUAGE] You are an expert in using Markdown to make articles visually pleasing.  Format this content in full by using  Markdown without changing any of the content. 
+
+After that become an SEO expert give me a table with: High CTR Title, 140-170 character meta description, tags, short and friendly URL suggestion for this content.
+
+"[PROMPT]"
+
+
+
+Teaser:
+Use markdown and give Title | Description | Tags | URL
+
+PromptHint: Paste article content here
+
+Title: Article Markdown and Meta
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Aleksandar
+AuthorURL: http://aleksandaratanasoski.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1796204929283780608
+CreationTime: 2023-02-28T17:40:01.015Z
+RevisionTime: 2023-03-06T21:03:08Z
+Help: 

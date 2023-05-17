@@ -1,0 +1,27 @@
+Prompt Template:
+analyze the given input in [TARGETLANGUAGE] and generate SEO title for about 57 characters and also write SEO ready meta description for about 150 character.
+
+Generate keywords meta tag of top 40 keywords to rank on google related to that topic, each keyword should separated by comma.
+write table of contents related to that topic (headings and subheadings), which should contain every topic can be asked related to that title
+
+[PROMPT]
+
+Teaser:
+Title, Description, Keywords and Post Oultine
+
+PromptHint: [Enter Keyword or Title Here]
+
+Title: Title, Description, Keywords and Post Oultine
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: webwizardspro
+AuthorURL: https://www.webwizardspro.online/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1804831688736636928
+CreationTime: 2023-03-24T12:59:40.746Z
+RevisionTime: 2023-03-24T13:04:09.474Z
+Help: 

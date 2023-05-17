@@ -1,0 +1,26 @@
+Prompt Template:
+Your task is to summarize the text I give you in 500 words or 
+maximum 10000 characters. All outputs shall be in 
+[TARGETLANGUAGE]. The text to summarize is this:
+
+[PROMPT]
+
+Teaser:
+Write Five Titles Or Write Description And Tags Also About The Given Keyword
+
+PromptHint: [text that you want titles, tags, and description for]
+
+Title: YouTube Title Tags and Description Free Generate 
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Adnan Ahmad
+AuthorURL: https://www.facebook.com/profile.php?id=100011470691166
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1786967080327974912
+CreationTime: 2023-02-03T05:52:06.193Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

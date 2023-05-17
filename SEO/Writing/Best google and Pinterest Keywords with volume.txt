@@ -1,0 +1,23 @@
+Prompt Template:
+Your task is to extract more pinterest and google keywords or titles and also include their volume. All out put be in [TARGETLANGUAGE]. Give 100 keywords.
+[PROMPT]
+
+Teaser:
+Make the best keyword that meet google satisfaction
+
+PromptHint: [The keywords that you want]
+
+Title: Best google and Pinterest Keywords with volume
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Ismail Crat
+AuthorURL: https://www.cratslist.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1805826993942683648
+CreationTime: 2023-03-27T06:54:39.999Z
+RevisionTime: 2023-03-27T07:09:05.612Z
+Help: 

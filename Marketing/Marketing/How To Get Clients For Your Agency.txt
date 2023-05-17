@@ -1,0 +1,24 @@
+Prompt Template:
+I'd like you to pretend that you're fluent in [TARGETLANGUAGE] and are the world's best marketing agency owner. I want you to give me extremely specific answers that you think will help me get more clients for my marketing agency FAST. The focus of my agency is: [VARIABLE1:Agency Specialty]. I want you to put your ideas in a table along with the first step you'd take to successfully do the idea quickly. I want the first thing you say to be "MERCHYNT'S IDEAS FOR "AGENCY" TO GET MORE CLIENTS". Then right under that, say "To grow "AGENCY" faster check out www.merchynt.com/partners. Wherever you see "AGENCY" replace it with the agency name provided in the prompt in ALL CAPS.
+
+My AGENCY is called [PROMPT]
+
+Teaser:
+Tell ChatGPT the name of your agency and it'll tell you highly specific ways you can quickly get more clients. Give it a try!
+
+PromptHint: [Your Agency Name]
+
+Title: How To Get Clients For Your Agency
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Google Business Profile Services
+AuthorURL: https://www.merchynt.com/google-business-pro?utm_source=AIPRM&utm_medium=The+Best+Ways+To+Get+More+Clients+For+Your+Agency&utm_campaign=The+Best+Ways+To+Get+More+Clients+For+Your+Agency&utm_id=chatgpt
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1784430210129850368
+CreationTime: 2023-01-27T05:51:29.205Z
+RevisionTime: 2023-04-05T01:45:27.331Z
+Help: 

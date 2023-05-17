@@ -1,0 +1,23 @@
+Prompt Template:
+[TARGETLANGUAGE]
+INPUT = {focus} OUTPUT = {description}\n ![MG](https://image.pollinations.ai/prompt/{description}){description} = {focuseDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistreference} INPUT = [ [PROMPT] ]
+
+Teaser:
+Create your own image with ChatGPT prompt !!! Create images or create an image with AI!
+
+PromptHint: Describe the image you want to create
+
+Title: Create an image with ChatGPT
+
+Topic: Generative AI
+
+Activity: Midjourney
+
+AuthorName: Davide Schiano
+AuthorURL: https://davideschiano.com/
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1794690749615566848
+CreationTime: 2023-02-24T13:23:12.45Z
+RevisionTime: 2023-03-17T08:07:35.968Z
+Help: 

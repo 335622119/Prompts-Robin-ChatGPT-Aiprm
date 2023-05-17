@@ -1,0 +1,26 @@
+Prompt Template:
+Task: Optimise my Redbubble listing for search engine visibility by following these steps:
+Target language:[TARGETLANGUAGE]
+[PROMPT]
+Create a Traffic Grabbing Title that adheres to the Redbubble algorithm's relevancy, competition, and traffic guidelines.
+Generate, based on BubbleSpider, 25 high-volume, relevant SEO tags to increase visibility and improve listing statistics seperate them with a comma. Craft a keyword-rich description with max. length 200 characters.
+
+Teaser:
+Create SEO optimised Redbubble listing for your design. Thanks for upvote
+
+PromptHint: Please describe your design in detail
+
+Title: SEO optimised listing for Redbubble
+
+Topic: SEO
+
+Activity: Products
+
+AuthorName: RichardCBAT
+AuthorURL: https://RichardCBAT.redbubble.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1791504477199785984
+CreationTime: 2023-02-15T18:22:05.908Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

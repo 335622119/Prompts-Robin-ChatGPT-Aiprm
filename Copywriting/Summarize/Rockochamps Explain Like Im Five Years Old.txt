@@ -1,0 +1,27 @@
+Prompt Template:
+Target output language: [TARGETLANGUAGE]
+Output should contain sarcasm: [VARIABLE1]
+
+Instruction: Explain "[PROMPT]" like I'm five years old, including a brief history, some examples, and an interesting fact.
+
+[VARIABLE1:Sarcasm:Off:Off|On]
+
+Teaser:
+Explains everything in a straightforward way. Optionally with sarcasm - just for fun.
+
+PromptHint: Just enter something you want to know more about
+
+Title: Rockochamp's: Explain Like I'm Five Years Old
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: Rockochamp
+AuthorURL: https://www.youtube.com/@rockochamp
+
+Community: Copywriting-00ea56f446414284
+ID: 1813277725881012224
+CreationTime: 2023-04-16T20:21:12.921Z
+RevisionTime: 2023-04-25T10:45:17.472Z
+Help: 

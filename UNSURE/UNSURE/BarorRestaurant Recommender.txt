@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to come up with a list of 5 real bars and/or restaurants that have been reviewed or can be found in Google maps. The list should be based on the location and preference information included in the [PROMPT] in the [TARGETLANGUAGE]. The [PROMPT] will be formatted like this:
+[Location - type of place or characteristic that is preferred]
+Include a global caveat/disclosure of the dates you have available to you for data so people can understand if they get outdated results. Also include the address for each item in the list. 
+
+Teaser:
+Get a list of 5 places you might want to try out
+
+PromptHint: [Location - type of place or characteristic that is preferred]
+
+Title: Bar/Restaurant Recommender
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Partycat
+AuthorURL: https://hutchlindsay.wixsite.com/partycat
+
+Community: Unsure-f69c57b424376b23
+ID: 1800889592069750784
+CreationTime: 2023-03-13T15:55:11.66Z
+RevisionTime: 2023-03-13T17:35:28Z
+Help: 

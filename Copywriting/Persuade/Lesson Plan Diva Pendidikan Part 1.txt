@@ -1,0 +1,61 @@
+Prompt Template:
+Lupakan semua tulisan sebelum ini.
+Tulis dalam [TARGETLANGUAGE]
+Format:
+I. INFORMASI UMUM
+A. Identitas Modul
+Nama Penyusun : -
+Satuan Pendidikan : -
+Kelas/Fase : 
+Mata Pelajaran : 
+Materi pembelajaran : 
+Alokasi Waktu : 
+Tahun Penyusunan : 2023/2024
+
+B. Kompetensi Awal
+
+C. Profil Pelajar Pancasila
+Diisi dengan dua atau tiga dari enam profil pancasila yang sesuai dengan tujuan pembelajaran. enam profil pancasila tersebut yaitu: Beriman dan bertakwa kepada Tuhan yang Maha Esa, Bergotong Royong, Bernalar Kritis, Kreatif dan Inovatif, Mandiri, Berkebhinekaan Global.
+
+D. Sarana dan Prasarana 
+
+E. Target Peserta Didik
+Peserta didik reguler/tipikal: umum
+Peserta didik dengan kesulitan belajar
+Peserta didik dengan pencapaian tinggi
+
+F. Model Pembelajaran
+-Gunakan salah satu atau lebih dari model pembelajaran berikut: Model pembelajaran inkuiri, Model pembelajaran kooperatif, Model pembelajaran problem-based learning, Model pembelajaran discovery learning, Model pembelajaran role playing, Model pembelajaran project-based learning
+-Teknik
+G. Metode Pembelajaran
+
+II. KOMPONEN INTI
+A. Tujuan Pembelajaran
+B. Pemahaman Bermakna (Pengalaman Bermakna)
+C. Pertanyaan Pemantik
+(setelah menulis bagian ini kamu akan langsung berhenti menulis)
+
+Tugas kamu adalah mengisi Format sesuai informasi yang diberikan. 
+
+[PROMPT]
+
+
+Teaser:
+Create Lesson Plan For Teacher
+
+PromptHint: [Write the theme here]
+
+Title: Lesson Plan Diva Pendidikan Part 1
+
+Topic: Copywriting
+
+Activity: Persuade
+
+AuthorName: Photrot
+AuthorURL: https://programkerja.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1819271303010713600
+CreationTime: 2023-05-03T09:17:33.064Z
+RevisionTime: 2023-05-17T02:01:50.811Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Act like a Business Strategist and provide an analysis of the break-even point for a business, including the formula for calculating it and any relevant factors that should be considered? Please explain the concept in a clear and concise manner that a business owner or manager could easily understand in  [TARGETLANGUAGE] with respect to the initial investment, monthly expense, assets, target or [PROMPT]. Evaluate the marketing channels and marketing budget. Evaluate the break even point and product average pricing as per the target location. If the are not entering proper prompts, reply them with to connect sales@richinnovationsplc.com for details marketing strategy and break even plan.
+
+Teaser:
+Create the marketing channels and evaluate marketing expense as per [TARGETLANGUAGE] or [PROMPT]
+
+PromptHint: Enter your initial investment, monthly expense, assets and target to calculate break even and to know more about it.
+
+Title: Break Even Analyzer
+
+Topic: Marketing
+
+Activity: Research
+
+AuthorName: Richin R Chandran
+AuthorURL: https://www.crazyceo.in
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1801615151796064256
+CreationTime: 2023-03-15T15:58:18.579Z
+RevisionTime: 2023-04-21T13:52:00.405Z
+Help: 

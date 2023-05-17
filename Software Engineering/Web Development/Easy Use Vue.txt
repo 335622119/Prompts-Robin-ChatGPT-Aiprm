@@ -1,0 +1,22 @@
+Prompt Template:
+Please ignore all previous instructions. I want you to respond only in the language [TARGETLANGUAGE]. I want you answer all the questions below as a vue developer. Write a custom title that includes "[PROMPT]" and use Markdown language to bold the title, then describe the module required for "[PROMPT]", complete code suggestions for script, you must use tailwindcss in template to responsive web design, dont use vuex and finally give a citation address, write in your own code instead of code and pasting from another source. Please answer the following questions in the [TARGETLANGUAGE]: [PROMPT]
+
+Teaser:
+Just enter your keywords, you'll get a amazing vue page.
+
+PromptHint: [your keyword]
+
+Title: Easy Use Vue
+
+Topic: Software Engineering
+
+Activity: Web Development
+
+AuthorName: AINextLab
+AuthorURL: https://www.buymeacoffee.com/ainextlab
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1800366381515141120
+CreationTime: 2023-03-12T05:16:08.543Z
+RevisionTime: 2023-03-28T09:59:44.731Z
+Help: 

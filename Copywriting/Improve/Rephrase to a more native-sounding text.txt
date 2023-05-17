@@ -1,0 +1,24 @@
+Prompt Template:
+Make the provided sentence sound more native speaking in [TARGETLANGUAGE]. UK English is the [TARGETLANGUAGE] you are going to rephrase the sentece to. 
+
+Sentence: [PROMPT] 
+
+Teaser:
+Rephrase to sound more native in UK English. Perfect for those who want to write something and sound more native to others. 
+
+PromptHint: Write here what to rephrase
+
+Title: Rephrase to a more native-sounding text
+
+Topic: Copywriting
+
+Activity: Improve
+
+AuthorName: morango
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1789570283800358912
+
+Community: Copywriting-00ea56f446414284
+ID: 1789570283800358912
+CreationTime: 2023-02-10T10:16:18.266Z
+RevisionTime: 2023-03-02T15:26:16Z
+Help: 

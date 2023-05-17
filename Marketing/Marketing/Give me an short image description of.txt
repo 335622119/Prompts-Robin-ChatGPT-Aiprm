@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE]  [PROMPT] 
+
+Teaser:
+Give me an short image description of 
+
+PromptHint: Give me an short image description of 
+
+Title: Give me an short image description of 
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Flamir Da Silva
+AuthorURL: https://flamirdasilva.com/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1805923707521331200
+CreationTime: 2023-03-27T13:18:58.313Z
+RevisionTime: 2023-03-27T13:36:25.873Z
+Help: 

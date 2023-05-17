@@ -1,0 +1,22 @@
+Prompt Template:
+[PROMPT] Write a caption for a post on social networks using the PAS technique (without citing) in HEADLINE format WITH MENTAL TRIGGERS, PAS AND BRAND FOOTONE with Hashtags optimized for SMO [TARGETLANGUAGE] portuguese
+
+Teaser:
+OPTIMIZED subtitle for social media posts 
+
+PromptHint: subtitles, optimized, triggers, pas
+
+Title: legend for social media 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Wesley Sousa
+AuthorURL: http://www.sousasmidia.com.br
+
+Community: Copywriting-00ea56f446414284
+ID: 1798283286351708160
+CreationTime: 2023-03-06T11:18:39.954Z
+RevisionTime: 2023-03-06T11:18:39.954Z
+Help: 

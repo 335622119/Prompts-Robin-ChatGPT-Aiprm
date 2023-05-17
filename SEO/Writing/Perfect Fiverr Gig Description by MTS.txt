@@ -1,0 +1,25 @@
+Prompt Template:
+using markup formatting, write creative "fiverr gig description" for the service "[PROMPT]" in a Friendly tone in [TARGETLANGUAGE]. Also Write some Frequently Asked Questions at end of the description.
+
+There should be maximum 1150 words in the Description.
+Description should not exceed 1150 words.
+
+Teaser:
+Create an Perfect Fiverr Gig Description that will attract buyers and Generate Leads
+
+PromptHint: Write your Fiverr Service "Title" here
+
+Title: Perfect Fiverr Gig Description by MTS
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Muhammad Talha (MTS)
+AuthorURL: https://www.fiverr.com/digitals_
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1821335432953335808
+CreationTime: 2023-05-09T01:59:39.992Z
+RevisionTime: 2023-05-09T06:23:35.873Z
+Help: 

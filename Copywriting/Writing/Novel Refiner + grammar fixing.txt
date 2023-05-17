@@ -1,0 +1,24 @@
+Prompt Template:
+Check for any mistakes and fix them, make the grammar like a top novel in [TARGETLANGUAGE]:
+
+[PROMPT]
+
+Teaser:
+Re-write your novel to have top quality grammar and sentence structure
+
+PromptHint: Insert your novel text
+
+Title: Novel Refiner + grammar fixing
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Advicell
+AuthorURL: https://www.youtube.com/@advicell
+
+Community: Copywriting-00ea56f446414284
+ID: 1796696574114660352
+CreationTime: 2023-03-02T02:13:38.277Z
+RevisionTime: 2023-03-02T02:13:38.277Z
+Help: 

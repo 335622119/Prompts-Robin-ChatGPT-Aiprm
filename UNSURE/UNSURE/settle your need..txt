@@ -1,0 +1,22 @@
+Prompt Template:
+My need is [PROMPT].Please tell me 2 possible solutions in as concise language as possible, and give as detailed and precise implementation steps as possible for each solution.Please output it in [TARGETLANGUAGE].
+
+Teaser:
+Utility class
+
+PromptHint: please enter your need.
+
+Title: settle your need.
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Jamil
+AuthorURL: https://space.bilibili.com/441609453
+
+Community: Unsure-f69c57b424376b23
+ID: 1800853371935264768
+CreationTime: 2023-03-13T13:31:16.107Z
+RevisionTime: 2023-03-13T13:31:16.107Z
+Help: 

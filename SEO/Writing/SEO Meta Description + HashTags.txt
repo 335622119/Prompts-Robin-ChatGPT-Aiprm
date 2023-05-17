@@ -1,0 +1,24 @@
+Prompt Template:
+Create Table With Five Rows and Make a Table Name SEO Meta Description and Write 156 Character plagiarism free and CTR Based Meta Description on [PROMPT] and Don't use Contact us, to learn more, words in the end of the meta description. All output shall be in [TARGETLANGUAGE]. In the Last Write atleast five relevant Hashtags.
+
+
+
+Teaser:
+Best SEO Optimized Meta Description For Product, Services etc  etc with 5 Different Varients + 5 HashTags 
+
+PromptHint: [Keyword]
+
+Title: SEO Meta Description + HashTags
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Aneel
+AuthorURL: https://transdatadigital.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1799772768569659392
+CreationTime: 2023-03-10T13:57:20.188Z
+RevisionTime: 2023-03-31T08:11:12.311Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a very proficient review writer and high end copy writer that speaks and writes fluent [TARGETLANGUAGE]. Write a maximum of 1000 characters based on the review details for an Airbnb I give you. Place negative aspects of the review in the middle and positive at the beginning and end of the text. All output shall be in [TARGETLANGUAGE]. Here are the review details: [PROMPT]
+
+Teaser:
+Generate a review for Airbnb by giving positive and negative aspects of your stay and the apartment. Example: fast wifi, good location, loud street, comfy bed.
+
+PromptHint: [separate with a comma the positive and negative aspects of your stay]
+
+Title: Airbnb Review Writer
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Elias Lange
+AuthorURL: https://elias.digital
+
+Community: Copywriting-00ea56f446414284
+ID: 1798326113349660672
+CreationTime: 2023-03-06T14:08:50.706Z
+RevisionTime: 2023-03-06T14:29:07Z
+Help: 

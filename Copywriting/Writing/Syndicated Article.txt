@@ -1,0 +1,26 @@
+Prompt Template:
+Create three introduction paragraphs with a least 50 words about the given topic. Then elaborate on the topic further in 600 words using an active voice. Do not plagiarize and start each paragraph with a header.
+
+All outputs will be in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Recycle an article with new or updated content.
+
+PromptHint: [Topic you want to recycle]
+
+Title: Syndicated Article
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Paolo Balingit
+AuthorURL: https://www.facebook.com/paolo.balingit/
+
+Community: Copywriting-00ea56f446414284
+ID: 1818903964209647616
+CreationTime: 2023-05-02T08:57:52.669Z
+RevisionTime: 2023-05-04T04:14:05.83Z
+Help: 

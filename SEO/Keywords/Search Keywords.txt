@@ -1,0 +1,23 @@
+Prompt Template:
+lister des mots en [TARGETLANGUAGE] en relation sans explications et sans donner de détails 
+[PROMPT]
+
+Teaser:
+Search Keywords
+
+PromptHint: [mot]
+
+Title: Search Keywords
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: wajdi
+AuthorURL: https://www.wajdi.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1793155721484042240
+CreationTime: 2023-02-20T07:43:33.224Z
+RevisionTime: 2023-02-20T07:48:32Z
+Help: 

@@ -1,0 +1,27 @@
+Prompt Template:
+Generate LinkedIn Post [TARGETLANGUAGE] on Topic [PROMPT]
+Before starting the Content say in [TARGETLANGUAGE] "Prompt Com'SEEP pour une publication LinkedIn". The next line down say "www.com-seep.com". 
+
+After that add a separator line here.
+
+Tell this as I am learning myself and want to tell the world about it. Please try to use some related emojis. Also, try to engage the audience in the post + try something that other users want to comment on the post. Try to keep Lines short and engaging. Also, keep in mind of LinkedIn SEO and try to fulfill all needs. Make sure that content is 100% Original and Plagiarism free. After that Also give 15 related hashtags for LinkedIn.
+
+Teaser:
+Linkedin content generator for create your publication en 1 clic
+
+PromptHint: [KEYWORD or sentence summarize]
+
+Title: Linkedin content generator 
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: Maurine BEILLARD
+AuthorURL: https://com-seep.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1801755407673458688
+CreationTime: 2023-03-16T01:15:38.186Z
+RevisionTime: 2023-03-16T01:15:38.186Z
+Help: 

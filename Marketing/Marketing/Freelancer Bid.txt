@@ -1,0 +1,23 @@
+Prompt Template:
+write me short text for Freelancer bid for 
+ [TARGETLANGUAGE] [PROMPT] 
+
+Teaser:
+Enter you bid title
+
+PromptHint: add your keyword
+
+Title: Freelancer Bid
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Vermadeals
+AuthorURL: https://www.vermadeals.com
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1794230028490506240
+CreationTime: 2023-02-23T06:52:27.974Z
+RevisionTime: 2023-03-20T15:21:12Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+write a cover letter for this job in [TARGETLANGUAGE].Use this format: Using the information [PROMPT]. write a unique job proposal by answering this information. The proposal should be in 4 paragraphs and less than 100 words. Paragraph one answer "Show you understand what the client is looking for "  paragraph two answer "Tell them you’ll help them" paragraph three "	Proof you can do it (experience, training, and anything else)" paragraph four "Call to action (Ask for interview & not hire)". Remember it should be less sales and more value driven for the client. Do not use the 1st person pronoun.
+
+Teaser:
+Write Unique Proposals for Upwork Jobs
+
+PromptHint: [upwork Job Requirements/Information]
+
+Title: Write Unique Upwork Proposals
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Stephen
+AuthorURL: https://www.destivenmerchants.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1795739111693488128
+CreationTime: 2023-02-27T10:49:01.447Z
+RevisionTime: 2023-04-14T05:41:17.251Z
+Help: 

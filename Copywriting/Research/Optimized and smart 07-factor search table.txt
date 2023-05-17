@@ -1,0 +1,22 @@
+Prompt Template:
+Ignore all instructions before this one. Create a prompt to help chatGPT users improve their use of the text-generating artificial intelligence that you are. To do this, create a prompt format that can be used by multiple users. The purpose of the prompt is to give them a fairly significant precision and good clarity in the answers you generate on the subjects they will ask you. The format will be created on the following structure: For a subject X, proposes a table in a block with columns and rows. You will describe the following parameters related to the subject: 1. The 05 best books on the subject to read; 2. The 05 best training courses on the subject to follow 3. The 05 best scientific articles on the subject to read 4. The 05 best companies which excel in the field of the subject and which must be studied; 5. The 05 best communications or conferences on the subject, 6. The 05 significant or relevant historicals facts to know on the subject. 07. The 05 best documentary films on the subject. Here is the format. Generate me this table with the subject [PROMPT]  [TARGETLANGUAGE] : 
+
+Teaser:
+Make an optimized and smart search with a maximum of specific, clear and precise data on any subject. The smartest and most excellent search prompt
+
+PromptHint: Type your subject, your keyword, your search phrase 
+
+Title: Optimized and smart 07-factor search table
+
+Topic: Copywriting
+
+Activity: Research
+
+AuthorName: Eudes STO
+AuthorURL: https://twitter.com/Eudes229
+
+Community: Copywriting-00ea56f446414284
+ID: 1797998226205573120
+CreationTime: 2023-03-05T16:25:56.319Z
+RevisionTime: 2023-03-19T18:15:34Z
+Help: 

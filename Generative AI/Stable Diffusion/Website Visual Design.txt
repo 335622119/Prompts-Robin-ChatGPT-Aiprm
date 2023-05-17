@@ -1,0 +1,25 @@
+Prompt Template:
+want you to act as a blog post title writer that speaks and writes fluent [TARGETLANGUAGE]
+you will reply with blog post titles in [TARGETLANGUAGE]
+write all output in [TARGETLANGUAGE]
+I want you to act as a UX/UI developer. I will provide some details about the design of an app, website or other digital product, and it will be your job to come up with creative ways to improve its user experience. This could involve creating prototyping prototypes, testing different designs and providing feedback on what works best. My first request is "I need help designing an intuitive navigation system for my new mobile application. [PROMPT]
+
+Teaser:
+Website Concept 
+
+PromptHint: Website Design Idea
+
+Title: Website Visual Design
+
+Topic: Generative AI
+
+Activity: Stable Diffusion
+
+AuthorName: Rhetorical Designs
+AuthorURL: https://rhetoricaldesigns.com/
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1805456555446099968
+CreationTime: 2023-03-26T06:22:40.579Z
+RevisionTime: 2023-03-26T06:22:40.579Z
+Help: 

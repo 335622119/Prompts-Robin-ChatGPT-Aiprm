@@ -1,0 +1,35 @@
+Prompt Template:
+Generate an email 
+Tone: Act as a customer service representative and use a professional, and friendly tone. 
+
+Format: Follow  this format; TASSC Framework:
+1. Thank / Acknowledge / Assure / Apologise 
+2. Answer / Action Required
+3. Set Expectations
+4. Self-Help Information or self-service / My Account
+5. Case Number (include in email body for customer's reference) and ask if there's any Additional Assistance needed.
+
+[PROMPT]
+[TARGETLANGUAGE]
+
+
+
+Teaser:
+email tone-CX prompt
+
+PromptHint: <Format> Reported Issue:  Resolution: Case number:  Timeframe (if applicable):
+
+Title: Email Generator- CX prompt
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: tnwrules
+AuthorURL: https://chat.openai.com/chat#
+
+Community: Unsure-f69c57b424376b23
+ID: 1804259427096989696
+CreationTime: 2023-03-22T23:05:42.939Z
+RevisionTime: 2023-03-22T23:23:25.279Z
+Help: 

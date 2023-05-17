@@ -1,0 +1,22 @@
+Prompt Template:
+Point out the differences between [PROMPT]. Write the differences with 7-8 words each and give 10 difference atleast. Output the result using [TARGETLANGUAGE]. Make sure to point them out correctly.
+
+Teaser:
+Differenciat between topics
+
+PromptHint: Difference
+
+Title: Differences between topics
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Arnob
+AuthorURL: https://twitter.com/ArnobDey_Dev
+
+Community: Copywriting-00ea56f446414284
+ID: 1805471998252679168
+CreationTime: 2023-03-26T07:24:02.431Z
+RevisionTime: 2023-03-26T16:31:37.537Z
+Help: 

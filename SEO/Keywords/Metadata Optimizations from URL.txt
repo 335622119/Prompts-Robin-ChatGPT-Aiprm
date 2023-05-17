@@ -1,0 +1,23 @@
+Prompt Template:
+Create title, meta description around 150 characters for this page [URL] using the keyword [KEYWORD], and the language must be [TARGETLANGUAGE].
+[PROMPT]
+
+Teaser:
+Optimize title and meta descriptions based on URL and keyword inputs.
+
+PromptHint: Insert the target URL and keyword to generate optimize Title and Descripton
+
+Title: Metadata Optimizations from URL
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Gabriel Zavitoski
+AuthorURL: https://www.linkedin.com/in/gabriel-zavitoski-43677420/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1803475543585452032
+CreationTime: 2023-03-20T19:10:50.546Z
+RevisionTime: 2023-03-20T19:13:31Z
+Help: 

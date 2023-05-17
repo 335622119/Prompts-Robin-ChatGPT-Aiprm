@@ -1,0 +1,25 @@
+Prompt Template:
+The answer will be in [TARGETLANGUAGE].
+
+1. What will be the next disruptive [PROMPT] product?
+2. What do people love about [PROMPT]?
+
+Teaser:
+Get 1. A disruptive idea and 2. Consumer behaviour insights 
+
+PromptHint: [Industry, topic, product, service... that you want to get innovative insights from]
+
+Title: Innovative Insights
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Dániel
+AuthorURL: https://www.instagram.com/danielzapatillas_/
+
+Community: Unsure-f69c57b424376b23
+ID: 1803368887623086080
+CreationTime: 2023-03-20T12:07:01.783Z
+RevisionTime: 2023-03-20T12:07:01.783Z
+Help: 

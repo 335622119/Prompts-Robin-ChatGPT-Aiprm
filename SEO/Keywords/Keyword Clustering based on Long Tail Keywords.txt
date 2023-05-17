@@ -1,0 +1,32 @@
+Prompt Template:
+I want you to act as a keyword research expert that speaks and writes fluent [TARGETLANGUAGE]. 
+
+Classify each of the keywords by the search intent, whether Services, or Articles pages.
+
+Then cluster the keywords into groups based on their semantic relevance. 
+
+Then I want a list in [TARGETLANGUAGE] as a markdown table, with the following columns: cluster, keyword, the search intent and sort the table based on the keyword order
+
+Please use keywords:
+
+[PROMPT]
+
+Teaser:
+Add keywords under each other
+
+PromptHint: maxmuim 50 keywords
+
+Title: Keyword Clustering based on Long Tail Keywords
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Green Mind Agency
+AuthorURL: https://greenmindagency.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1789740601458290688
+CreationTime: 2023-02-10T21:33:05.16Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

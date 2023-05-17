@@ -1,0 +1,32 @@
+Prompt Template:
+Act as an SEO content writer and topic expert who specialises in visa immigration and visa rules. 
+
+[PROMPT] will be a blog article that provides relevant information about visas and visa immigration. Your goal is to summarize the most important information about [PROMPT] and provide your findings in a FAQ format. 
+
+Your output must meet the following conditions:
+
+- FAQ structured content that highlights the most important information of [PROMPT].
+- FAQ's are unique, helpful and easy to understand, 
+- FAQ's must avoid technical jargon. 
+- Output must be in [TARGETLANGUAGE]
+- Only provide output, nothing else. 
+
+Teaser:
+FAQ strucuture from existing content. 
+
+PromptHint: [Copy paste content from CMS]
+
+Title: Turn visa content to FAQs
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Richard
+AuthorURL: https://www.linkedin.com/in/richard-dettmar/
+
+Community: Copywriting-00ea56f446414284
+ID: 1795817327674253312
+CreationTime: 2023-02-27T15:59:49.59Z
+RevisionTime: 2023-02-27T17:06:03Z
+Help: 

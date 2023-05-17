@@ -1,0 +1,33 @@
+Prompt Template:
+Creating helpful, reliable, people-first content. Write a unique, high-quality, informative and original content for given topic or competitor page url using with skyscraper technique. The target language is 'English'. Write a suitable Title.
+
+To achieve this, start by conducting thorough research on the given topic or the competitor page URL. Identify the gaps in their content and brainstorm ways to fill those gaps with your own unique perspective and insights.
+
+As you write, focus on creating high-quality content that provides real value to your audience. Use clear and concise language, and avoid fluff or filler content. Make sure to back up your claims with reliable sources and data to establish your credibility.
+
+Follow Google's helpful content update.
+
+Include citations or references to credible sources, such as scientific studies, government websites, and reputable organizations wherever required.
+
+All output shall be in [TARGETLANGUAGE]
+The text to summarize is this: [PROMPT]
+
+Teaser:
+Outperform your competitors in ranking by creating high quality content using Skyscraper Technique of your competitors URL.
+
+PromptHint: [enter your topic or competitor page url]
+
+Title: Skyscraper Content of Competitor URL
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Murthy
+AuthorURL: https://www.linkedin.com/in/murthy-venkat/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1795045177145167872
+CreationTime: 2023-02-25T12:51:34.558Z
+RevisionTime: 2023-04-20T06:01:51.079Z
+Help: 

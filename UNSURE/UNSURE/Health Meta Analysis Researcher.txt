@@ -1,0 +1,32 @@
+Prompt Template:
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Faça uma definição com base em artigos meta análise encontrados sobre o tema;
+
+Apresente artigos com  a mesma metodogia ou com a metodologia mais similar relacionados ao tema;
+
+Crie uma tabela e inclua cada artigo com os dados estatísticos apresentados e a metodologia usada em cada um.
+
+Faça um estudo comparativo entre os artigos 
+
+Finalize fazendo a referencia de cada artigo
+[PROMPT]
+
+Teaser:
+Compare meta analyzes of scientific articles.
+
+PromptHint: Show me meta analysis on the following topic...
+
+Title: Health Meta Analysis Researcher
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Meline Baião
+AuthorURL: https://www.instagram.com/meline.baiao/
+
+Community: Unsure-f69c57b424376b23
+ID: 1807143778981773312
+CreationTime: 2023-03-30T22:07:06.017Z
+RevisionTime: 2023-04-02T20:35:34.412Z
+Help: 

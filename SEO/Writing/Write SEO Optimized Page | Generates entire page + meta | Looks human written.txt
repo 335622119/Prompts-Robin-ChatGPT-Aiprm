@@ -1,0 +1,22 @@
+Prompt Template:
+Re-create a full article/page from the following content, include a better:  SEO Title, and SEO Meta Description at the begining. If the following content contains a list of keywords at the end (or at begining), please optimize the article to include them with a good density but make it look human written. Here's the content, and the keywords (if any): [PROMPT], please generate content in [TARGETLANGUAGE]
+
+Teaser:
+Generate SEO optimized page from ANY content (a page title, an existing post, or a long article). Drop an optional keyword list at the end.
+
+PromptHint: [Content to start from] + [Keywords - optional]
+
+Title: Write SEO Optimized Page | Generates entire page + meta | Looks human written
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Raul Popa
+AuthorURL: https://www.raulpopa.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1787176958136942592
+CreationTime: 2023-02-03T19:46:04.962Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

@@ -1,0 +1,25 @@
+Prompt Template:
+YOUR task id to act as a prompt engineer. you are expected to write 6 different kind of prompt fro AI to get 100 times a better result than normal prompt. all output must be in [TARGETLANGUAGE]. 
+the topic you are meant to creat for is:
+
+[PROMPT]
+
+Teaser:
+Get the The best prompt by supplying the topic
+
+PromptHint: [Input your topic]
+
+Title: Prompt Generator
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Hemdeeii
+AuthorURL: https://wa.me/+2348142263056
+
+Community: Copywriting-00ea56f446414284
+ID: 1806581895077818368
+CreationTime: 2023-03-29T08:54:22.455Z
+RevisionTime: 2023-03-29T08:58:40.518Z
+Help: 

@@ -1,0 +1,32 @@
+Prompt Template:
+Your task is to create a product description with these instructions:
+2) 2, 3, 4 or 5  paragraphs with the headings <h3> <h4>  and <h5> with the benefits of the product.
+3)Create a bullet point <ul> list with the most important futures and a heading in <h5>. 
+
+The description should be written in HTML.
+All output shall be in [TARGETLANGUAGE].
+
+Now I will give you the text to examine and create the product description:
+
+[PROMPT]
+
+
+Teaser:
+HTML Product Description with headings <H4> and <H5> and futures bullet points list with negative  and positive  emoji.
+
+PromptHint: Add you text here to create a HTML Product description 
+
+Title: <HTML> Product Description 
+
+Topic: Copywriting
+
+Activity: Product Description
+
+AuthorName: Cristian
+AuthorURL: https://italco.store
+
+Community: Copywriting-00ea56f446414284
+ID: 1795848120492613632
+CreationTime: 2023-02-27T18:02:11.17Z
+RevisionTime: 2023-03-22T14:40:35.589Z
+Help: 

@@ -1,0 +1,23 @@
+Prompt Template:
+Based on the content of my page, what are 5 to 10 relevant topics I should be linking to? Before showing the list with the relevant topics, explain in a couple of sentences why those internal links will be helpful for users. All output shall be in [TARGETLANGUAGE].
+[PROMPT]
+
+Teaser:
+Link Identification: Identify relevant topics or keywords that should be linked from a web page. The linked topics should provide additional information or context to the reader, improving their understanding of the content. - by Joao Filipe Pereira
+
+PromptHint: [PASTE YOUR CONTENT HERE]
+
+Title: Internal Linking Suggestion
+
+Topic: SEO
+
+Activity: link building
+
+AuthorName: Joao Filipe Pereira
+AuthorURL: https://www.linkedin.com/in/joaofpereira/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1786508947910557696
+CreationTime: 2023-02-01T23:31:38.913Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

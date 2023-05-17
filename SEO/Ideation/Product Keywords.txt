@@ -1,0 +1,22 @@
+Prompt Template:
+Extract keywords from this product name [PROMPT] in [TARGETLANGUAGE]
+
+Teaser:
+Product Keywords
+
+PromptHint: Product Keywords
+
+Title: Product Keywords
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Viengdala
+AuthorURL: https://fulfils.co
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1804025123964190720
+CreationTime: 2023-03-22T07:34:40.719Z
+RevisionTime: 2023-03-22T07:55:09.233Z
+Help: 

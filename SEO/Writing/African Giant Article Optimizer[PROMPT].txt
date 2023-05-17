@@ -1,0 +1,22 @@
+Prompt Template:
+English[TARGETLANGUAGE]SEO checklist[PROMPT]
+
+Teaser:
+article seo checklist[PROMPT]
+
+PromptHint: [Article keyphrase title][Text length][PROMPT]
+
+Title: African Giant Article Optimizer[PROMPT]
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: African Giant
+AuthorURL: https://247cashdollars.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1799433249886568448
+CreationTime: 2023-03-09T15:28:12.626Z
+RevisionTime: 2023-03-09T15:36:59Z
+Help: 

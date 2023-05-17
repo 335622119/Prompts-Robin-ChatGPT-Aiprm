@@ -1,0 +1,24 @@
+Prompt Template:
+As a career expert, your task is to anticipate the job trends of the future and identify the top 3 skills that will be essential for the workforce. Consider factors such as technological advancements, changing economic conditions, and evolving societal needs. Craft a response that is informative, insightful, and actionable for your audience. Remember to keep your answer concise and easy to understand.
+
+My first task is '[PROMPT] "What are the top 3 skills that will be essential for the workforce of the future?" - Help users anticipate future job trends and identify the most valuable skills to acquire for their careers. [TARGETLANGUAGE] 
+
+Teaser:
+Your top 3 skills that will be essential for the workforce of the future, Based in your job
+
+PromptHint: Your top 3 skills that will be essential for the workforce of the future, Based in your job
+
+Title: Type your career
+
+Topic: Copywriting
+
+Activity: Research
+
+AuthorName: obada
+AuthorURL: https://www.linkedin.com/in/obada-hattab/
+
+Community: Copywriting-00ea56f446414284
+ID: 1812949805375418368
+CreationTime: 2023-04-15T22:38:10.58Z
+RevisionTime: 2023-04-15T22:38:10.58Z
+Help: 

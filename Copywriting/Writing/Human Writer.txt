@@ -1,0 +1,22 @@
+Prompt Template:
+Please rewrite the following text in Language [TARGETLANGUAGE] and by adding a high degree of perplexity and burstiness: [PROMPT]
+
+Teaser:
+Make it unlikely that your text will be detected as AI generated
+
+PromptHint: Text to make human generated and AI detection proof
+
+Title: Human Writer 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Flapper.ai
+AuthorURL: https://flapper.ai
+
+Community: Copywriting-00ea56f446414284
+ID: 1800483020579536896
+CreationTime: 2023-03-12T12:59:37.464Z
+RevisionTime: 2023-03-14T21:11:38Z
+Help: 

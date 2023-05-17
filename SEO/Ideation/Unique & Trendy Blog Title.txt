@@ -1,0 +1,26 @@
+Prompt Template:
+Your task is to suggest 10 trendy and unique blog and article in a table format  along with targeted SEO keywords . Topics should not be same anytime, Categorigation of the articles on the basis of intent should be in each blog topics.  The blog article topics should be SEO optimized
+
+All output shall be in [TARGETLANGUAGE]. 
+
+[PROMPT]
+
+Teaser:
+Create The Best Blog Topics
+
+PromptHint: [keywords that you want blog ideation for]
+
+Title: Unique & Trendy Blog Title
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Ashutosh Joshi
+AuthorURL: https://in.linkedin.com/in/ashutosh-joshi-
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1821815696016007168
+CreationTime: 2023-05-10T09:48:03.629Z
+RevisionTime: 2023-05-11T05:13:27.274Z
+Help: 

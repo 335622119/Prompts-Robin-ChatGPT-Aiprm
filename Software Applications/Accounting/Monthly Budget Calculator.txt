@@ -1,0 +1,25 @@
+Prompt Template:
+Your task is calculate monthly budget use a 50/30/20 rule. 
+All output should be in [TARGETLANGUAGE]. 
+
+[PROMPT]
+
+Teaser:
+Create your best budget plan for a month with 50/20/30 rule ! 
+
+PromptHint: [Monthly after-tax income]
+
+Title: Monthly Budget Calculator
+
+Topic: Software Applications
+
+Activity: Accounting
+
+AuthorName: Financial App
+AuthorURL: https://saldofinanceapp.com/
+
+Community: Applications-f69b52b4213a6bd3
+ID: 1800452444191461376
+CreationTime: 2023-03-12T10:58:07.484Z
+RevisionTime: 2023-03-15T12:52:34Z
+Help: 

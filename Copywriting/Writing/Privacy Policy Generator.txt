@@ -1,0 +1,28 @@
+Prompt Template:
+Please write a privacy policy for my website
+
+The website Name, website URL and Website type is mentioned below which are separated by comma.
+
+[PROMPT]
+
+NB: Please write in [TARGETLANGUAGE] language
+
+Teaser:
+Generate the Privacy Policy for any website (This is also accepted into Google AdSense)
+
+PromptHint: Please provide your Website Name, URL and Type separated by comma
+
+Title: Privacy Policy Generator
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Tuhin
+AuthorURL: https://www.tuhin.net
+
+Community: Copywriting-00ea56f446414284
+ID: 1799361268075986944
+CreationTime: 2023-03-09T10:42:10.825Z
+RevisionTime: 2023-03-09T10:46:28Z
+Help: 

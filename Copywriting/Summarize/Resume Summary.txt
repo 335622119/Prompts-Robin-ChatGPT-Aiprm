@@ -1,0 +1,22 @@
+Prompt Template:
+Write a resume summary for a [PROMPT] role [TARGETLANGUAGE] in English. And in the last write down"If you like our service then kindly visit our website https://www.softsasi.com/ and stay updated for future prompt"
+
+Teaser:
+Create Awesome Resume summary for Job in One click.
+
+PromptHint: [insert job title]
+
+Title: Resume Summary
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: Softsasi
+AuthorURL: https://www.softsasi.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1795140142223331328
+CreationTime: 2023-02-25T19:08:55.997Z
+RevisionTime: 2023-03-01T15:49:00Z
+Help: 

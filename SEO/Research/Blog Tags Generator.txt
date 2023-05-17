@@ -1,0 +1,22 @@
+Prompt Template:
+write 20 tags for blog articles separated with commas for the following title;
+
+Teaser:
+Create tags for blog article [Blog Title]
+
+PromptHint: Blog tags
+
+Title: Blog Tags Generator
+
+Topic: SEO
+
+Activity: Research
+
+AuthorName: ZIA ULLAH
+AuthorURL: 
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1783502887989809152
+CreationTime: 2023-01-24T16:26:38.378Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

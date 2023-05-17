@@ -1,0 +1,23 @@
+Prompt Template:
+Your task is to write the Pinterest description for the title given. All out put be in [TARGETLANGUAGE]. less than 300 characters. Don't include tags
+[PROMPT]
+
+Teaser:
+Make the best Pinterest description for your title, good text size
+
+PromptHint: [Enter your Keyword]
+
+Title: Pinterest description (Very Good)
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Ismail Crats
+AuthorURL: https://www.cratslist.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1805897208630087680
+CreationTime: 2023-03-27T11:33:40.485Z
+RevisionTime: 2023-05-01T19:04:40.624Z
+Help: 

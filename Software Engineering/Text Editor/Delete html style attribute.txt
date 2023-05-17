@@ -1,0 +1,34 @@
+Prompt Template:
+```html
+[PROMPT]
+```
+- The above code is targeted at
+- Remove all style attributes from HTML tags
+- Remove all scope attributes from HTML tags
+- Output as HTML language code
+- Indent and format
+- Indentation rule is two spaces.
+- Delete width and height designations as well
+- Delete all attribute values for table tags and their child elements
+- Add a class to each tag with class naming in BEM
+- Non-code descriptions and comments are output in [TARGETLANGUAGE]
+
+Teaser:
+Remove style attributes from HTML tags
+
+PromptHint: [Enter the html Here]
+
+Title: Delete html style attribute
+
+Topic: Software Engineering
+
+Activity: Text Editor
+
+AuthorName: Takuma Ibe
+AuthorURL: http://www.seaside-dev.com/
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1801376891597488128
+CreationTime: 2023-03-15T00:11:32.921Z
+RevisionTime: 2023-03-15T00:52:27Z
+Help: 

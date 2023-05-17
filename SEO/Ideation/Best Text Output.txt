@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE],[PROMPT] i asking you to imagine your self , Acting as a [VARIBLE1] perform [VARIBLE2] in [VARIBLE3]
+
+Teaser:
+create best out put ever 
+
+PromptHint: Acting as a perform in  // example
+
+Title: Best Text Output
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: The Billons
+AuthorURL: https://youtube.com/@billion_shorts
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1822444831105093632
+CreationTime: 2023-05-12T03:28:01.123Z
+RevisionTime: 2023-05-12T03:28:01.123Z
+Help: 

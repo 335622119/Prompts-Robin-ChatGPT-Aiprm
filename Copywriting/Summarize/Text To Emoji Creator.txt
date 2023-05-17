@@ -1,0 +1,22 @@
+Prompt Template:
+You know exactly what each emoji means and where to use. I want you to translate the sentences I wrote into suitable emojis. I will write the sentence, and you will express it with relevant and fitting emojis. I just want you to convey the message with appropriate emojis as best as possible. I don’t want you to reply with anything but emoji. [TARGETLANGUAGE] and [PROMPT] .
+
+Teaser:
+Text To Emoji - 100% Working | Simply Enter Your Text Or Paragraph to Create Relevant EMOJI.
+
+PromptHint: [ Enter Your Text Or Paragraph to Create Emoji ]
+
+Title: Text To Emoji Creator 
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: Video Downloader Guru
+AuthorURL: https://videodownloaderguru.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1804434814108172288
+CreationTime: 2023-03-23T10:42:38.461Z
+RevisionTime: 2023-04-01T08:43:24.736Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Generate a casual, crisp and shortest [TARGETLANGUAGE]  response to comment [PROMPT]
+
+Teaser:
+Generate a reply to any comments on social media
+
+PromptHint: Generate a reply to any comments on social media
+
+Title: Reply for social media comments
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Dhananjay Vishwakarma
+AuthorURL: https://www.linkedin.com/in/dhananjayrv/
+
+Community: Copywriting-00ea56f446414284
+ID: 1799741337889931264
+CreationTime: 2023-03-10T11:52:26.53Z
+RevisionTime: 2023-03-10T11:52:26.53Z
+Help: 

@@ -1,0 +1,25 @@
+Prompt Template:
+[TARGETLANGUAGE]
+[PROMPT] Can you give me some content for social media posts that I can use to promote my new blog post on [keyword] I need it for Facebook, Linkedin, Twitter and Instagram, Pinterest. 
+
+Please directly answer 
+
+Teaser:
+Create Social Media Promotion ASAP
+
+PromptHint: [keyword]
+
+Title: Create  SEO Optimised Social Media Promotion ASAP
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: CW
+AuthorURL: https://chasingwhereabouts.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1793010432840298496
+CreationTime: 2023-02-19T22:06:13.712Z
+RevisionTime: 2023-04-27T11:58:14.871Z
+Help: 

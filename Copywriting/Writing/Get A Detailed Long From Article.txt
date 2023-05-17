@@ -1,0 +1,25 @@
+Prompt Template:
+I want you to properly understand the target keyword first, then look for other related keywords, then provide a detailed blog outline for the target keyword, and finally write the full long-form blog article and properly structure it with header tags
+ [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Create Long Form Content In 60 Secs
+
+PromptHint: [Enter your target keyword] or list of keywords 
+
+Title: Get A Detailed Long From Article
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Shafi Ullah (SEO Specialist)
+AuthorURL: https://clickdeer.com/seo-consultant/
+
+Community: Copywriting-00ea56f446414284
+ID: 1790637817286885376
+CreationTime: 2023-02-13T08:58:18.083Z
+RevisionTime: 2023-02-23T05:48:38Z
+Help: 

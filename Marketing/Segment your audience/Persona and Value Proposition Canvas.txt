@@ -1,0 +1,34 @@
+Prompt Template:
+Create a descriptive and optimistic buyer persona for a [Business or Industry] offering [Product or Service]. The target market consists of [Target Market], and the key selling points include [Key Selling Points]. The main competitors in this space are [Competitors], and the primary goals or challenges for this business are [Goals or Challenges].
+
+Please provide a brief description of the persona, including demographics and hard facts, in 100-120 words.
+
+Next, describe the persona's personality and psychological profile in 100-120 words.
+
+Finally, outline the persona's interests, hobbies, passions, sports, flaws, and other relevant information that can help marketers offer their services to this persona, in 100-120 words.
+
+After creating the buyer persona, apply the Value Proposition Canvas to analyze the alignment of the [Product or Service] with the persona's needs, desires, and preferences. Describe the Customer Jobs, Gains, and Pains for this persona, as well as the Products and Services, Gain Creators, and Pain Relievers offered by the business.
+
+All output shall be in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Create a Buyer Persona and let the Value Proposition Canvas Model run over that.
+
+PromptHint: Describe your [Business] , and your [Product]
+
+Title: Persona and Value Proposition Canvas
+
+Topic: Marketing
+
+Activity: Segment your audience
+
+AuthorName: Proof-Of-Lightwork
+AuthorURL: https://Blockchange.world
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1820091124543643648
+CreationTime: 2023-05-05T15:35:13.749Z
+RevisionTime: 2023-05-05T15:39:13.596Z
+Help: 

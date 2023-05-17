@@ -1,0 +1,24 @@
+Prompt Template:
+Give Me Easy To Rank Google 07 Keywords In low KD Around 05 to 15 And High Volume About  [PROMPT][TARGETLANGUAGE]
+
+Teaser:
+Keyword Research Best Easy To Rank Google 05 Keywords In low KD Around 05 to 15 And High Volume . 
+Create By Mushfiqur Alif
+
+
+PromptHint: [Keyword/Topic}
+
+Title: Keyword Research 2.0 Version 
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Mushfiqur Alif 
+AuthorURL: https://techtiptrickz.blogspot.com/?m=1
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1807497228919758848
+CreationTime: 2023-03-31T21:31:35.049Z
+RevisionTime: 2023-05-10T07:39:00.715Z
+Help: 

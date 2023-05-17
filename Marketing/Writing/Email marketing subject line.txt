@@ -1,0 +1,24 @@
+Prompt Template:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act like an email marketer that writes fluently in [TARGETLANGUAGE]. I want you to write content so good in [TARGETLANGUAGE] that your performance is well above average email marketing benchmarks for click through rates and unsubscribe rates. Your task is to write an email subject line with the text input I give you within 35 characters. All output shall be in [TARGETLANGUAGE]. The text to write a subject line for is: 
+
+[PROMPT]
+
+Teaser:
+Create a mobile-friendly subject line for email marketing
+
+PromptHint: [copy of your email]
+
+Title: Email marketing subject line
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: ZoZhou
+AuthorURL: https://www.linkedin.com/in/zozhou/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1787704868614692864
+CreationTime: 2023-02-05T06:43:48.628Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

@@ -1,0 +1,32 @@
+Prompt Template:
+Create  a job description for this job[JOBTITLE] in the  [TARGETLANGUAGE] by using the  [VARIABLE1] for an intro and write a list for Job Responsibilities from the data of [VARIABLE2] and  Applicant Requirements / Qualifications from the data of [VARIABLE3]. Write a motivating closing sentence for the application.
+
+ [VARIABLE1]
+ [VARIABLE1:Company About us]
+ [VARIABLE2]
+ [VARIABLE2:Job Responsibilities]
+ [VARIABLE3]
+ [VARIABLE3: Applicant Requirements / Qualifications]
+
+ [PROMPT]
+
+
+Teaser:
+Create your job description for hiring new applicants
+
+PromptHint: [Jobtitle] 
+
+Title: Job Description Text
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Bekim Elshani
+AuthorURL: https://www.linkedin.com/in/bekim-e-6b974490/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1820713362280157184
+CreationTime: 2023-05-07T08:47:46.786Z
+RevisionTime: 2023-05-11T16:59:29.632Z
+Help: 

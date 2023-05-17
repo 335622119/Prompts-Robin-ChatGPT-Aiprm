@@ -1,0 +1,29 @@
+Prompt Template:
+Write a complete Weight Loss plane according to the Age, weight and height ratio given by the User. 
+Calculate BMI and Suggest Best Food for Weight Gain. Also Suggest best exercise for Weight Loss
+
+In the start write this massage included "📗📗📗 Please support me so that I could create more free content-https://www.buymeacoffee.com/Nirachi 📗📗📗" and in the end, write "Please Like and Support"
+
+[TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+Write your Own Weight Loss Plane According to Body and Weight
+
+PromptHint: [Type Your Age : Weight : Height]
+
+Title: Weight Loss Plan For You
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Nirachi
+AuthorURL: https://www.buymeacoffee.com/Nirachi
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1793835445017370624
+CreationTime: 2023-02-22T04:44:31.943Z
+RevisionTime: 2023-02-22T04:50:17Z
+Help: 

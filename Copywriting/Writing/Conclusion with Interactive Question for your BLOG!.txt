@@ -1,0 +1,23 @@
+Prompt Template:
+Act as a Copywriter
+Write SEO-optimized Conclusion with Interactive question [PROMPT] this blog in [TARGETLANGUAGE] showcase with separate section
+
+Teaser:
+Create the best conclusion for your blog with an interactive question. Just Add your BLOG-TITLE here. Which will increase your blogs enagagement with your audience.
+
+PromptHint: [BLOG-TITLE]
+
+Title: Conclusion with Interactive Question for your BLOG!
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Deepak Ravi
+AuthorURL: https://bestgrd.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1788544855329464320
+CreationTime: 2023-02-07T14:21:37.067Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

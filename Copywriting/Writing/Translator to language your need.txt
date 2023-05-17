@@ -1,0 +1,24 @@
+Prompt Template:
+ Traduce el siguiente texto [TARGETLANGUAGE], no de instrucciones, simplemente traduce en un lenguaje perfecto.
+
+[PROMPT]
+
+Teaser:
+Insert the text you want and it will automatically translate to the language you have selected
+
+PromptHint: I'm business man
+
+Title: Translator to language your need
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Bello Push On
+AuthorURL: https://audiencegold.net
+
+Community: Copywriting-00ea56f446414284
+ID: 1817277011836788736
+CreationTime: 2023-04-27T21:12:56.996Z
+RevisionTime: 2023-04-27T21:14:54.709Z
+Help: 

@@ -1,0 +1,23 @@
+Prompt Template:
+TEXTO PROMPT [TARGETLANGUAGE] e [PROMPT] 
+
+Teaser:
+ebook in one click
+
+
+PromptHint: baby
+
+Title: kids
+
+Topic: Generative AI
+
+Activity: Dall-E
+
+AuthorName: ALIS  VIEIRA
+AuthorURL: https://alisvieraalfabetizando.com.br/
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1824213353548214272
+CreationTime: 2023-05-17T00:35:29.731Z
+RevisionTime: 2023-05-17T00:35:29.731Z
+Help: 

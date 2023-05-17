@@ -1,0 +1,24 @@
+Prompt Template:
+I'd like you to write ten Quiz question based on my topic.
+Please also include four possible answers, but only one of the answers can be corrected. Please display the correct answer below the answer. My topic is: [PROMPT]
+[TARGETLANGUAGE] 
+
+Teaser:
+Generates ten multiple choice quiz question with four answer based on your topic or question.
+
+PromptHint: [Write your topic or question here]
+
+Title: 10 Multiple Choice Quiz
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Muddassir Shah
+AuthorURL: https://www.newsinfomist.com/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1801272360725381120
+CreationTime: 2023-03-14T17:16:10.819Z
+RevisionTime: 2023-03-19T05:10:20Z
+Help: 

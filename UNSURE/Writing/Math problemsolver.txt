@@ -1,0 +1,40 @@
+Prompt Template:
+calculate these math problems for me. first write down what you did to calculate the answer to the math problem in short. then write down the answer of the math problem.
+
+some important things:"
+5/4 == fracture
+4^2 == times square
+".
+
+write in this format:"
+- math problem
+   - simplified: "(how you calculated the answer)".
+   - answer: "(answer of the math problem)".
+
+write in this langue: "[TARGETLANGUAGE]".
+
+solve these math problem's: "
+[PROMPT]
+"
+
+"
+
+Teaser:
+I calculate's math problem's for you, il even provide a calculation for the problem
+
+PromptHint: Your calculation's here
+
+Title: Math problemsolver
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: Indictus
+AuthorURL: https://github.com/
+
+Community: Unsure-f69c57b424376b23
+ID: 1789613418945445888
+CreationTime: 2023-02-10T13:07:42.486Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

@@ -1,0 +1,25 @@
+Prompt Template:
+Aşağıda ki keyword hakkında hedef kitleyi harekete geçirecek ve 160 karakterden kısa bir SEO uyumlu meta açıklama yazmanı istiyorum. Meta açıklama ilgi çekici olmalı ve kullanıcıları harekete geçirmeli. Gereksiz kelimeler ve işaretleri kullanma. Sadece nokta ve virgül kullanmanı istiyorum. Yazdığın açıklamanın kaç karakter olduğunu parantez içinde belirt.
+
+Anadilin [TARGETLANGUAGE] olacak şekilde %100 hatasız ve akıcı bir şekilde yazmanı istiyorum.
+Keyword: [PROMPT]
+
+Teaser:
+Create a powerful and high ctr meta description for your web pages under 160 characters.
+
+PromptHint: Enter 1 keyword or your page title.
+
+Title: Create Powerful and High CTR Meta Description
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Tarık Aydın
+AuthorURL: https://tarikaydin.net/
+
+Community: Copywriting-00ea56f446414284
+ID: 1801851241761083392
+CreationTime: 2023-03-16T07:36:26.813Z
+RevisionTime: 2023-04-02T13:49:20.532Z
+Help: 

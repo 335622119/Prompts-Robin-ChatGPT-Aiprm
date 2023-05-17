@@ -1,0 +1,23 @@
+Prompt Template:
+Your task is to analyze the website I give you and report in 200 words. All outputs shall be in [TARGETLANGUAGE]. The text to summarize should be read from this URL: [PROMPT]
+
+Teaser:
+Analyze the Website Article & Summarize. 
+Upvote if you like it
+
+PromptHint: Provide the website link to be analyzed Ex: https://en.wikipedia.org/wiki/Netflix
+
+Title: Analyze the Website Summarize
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Vishnu Balraj
+AuthorURL: https://www.youtube.com/channel/UCoBwPbzAtCrEYxpmeQ67UlQ
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1785892679553650688
+CreationTime: 2023-01-31T06:42:49.087Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

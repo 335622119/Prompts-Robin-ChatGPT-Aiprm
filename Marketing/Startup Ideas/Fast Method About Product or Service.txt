@@ -1,0 +1,25 @@
+Prompt Template:
+ please ignore all previous instructions. I want you to respond only in language[TARGETLANGUAGE].
+
+[PROMPT]Write a function analysis (FAST) of a [KEYWORD] in a table in which columns consist of core functions, detailed functions composing each core function, detailed functions constituting each detailed function, and applied technology.
+Answer in English.
+
+Teaser:
+Write a table of [KEYWORD] function analysis (FAST) results Answer.
+
+PromptHint: [product or service name]
+
+Title: Fast Method About Product or Service
+
+Topic: Marketing
+
+Activity: Startup Ideas
+
+AuthorName: Cavin seo
+AuthorURL: http://www.cavin.com
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1801519138506805248
+CreationTime: 2023-03-15T09:36:47.227Z
+RevisionTime: 2023-03-17T08:14:16Z
+Help: 

@@ -1,0 +1,25 @@
+Prompt Template:
+I will provide you a product name. I need most related informative video title idea that starts with 'WH" questions. Also you can add Fixing ,error,not working related keywords too. Provide more than 100. [TARGETLANGUAGE]
+
+Give me keywords 
+[PROMPT]
+
+Teaser:
+Generate more than 100 keywords just in 1 click for your blog
+
+PromptHint: [ Enter your keyword]
+
+Title: Generate more than 100 keywords just in 1 click
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: Rokibul Islam 
+AuthorURL: https://thermostatblog.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1784449575764090880
+CreationTime: 2023-01-27T07:08:26.332Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

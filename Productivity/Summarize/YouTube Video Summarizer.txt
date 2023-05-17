@@ -1,0 +1,22 @@
+Prompt Template:
+In [TARGETLANGUAGE], Summarize this video with bullet points of the key topics covered. Add a short paragraph background of the video in the beginning before the bulleted summary. Here is the video transcript:  [PROMPT]
+
+Teaser:
+Summarize a YouTube video and add bullets of key points covered.
+
+PromptHint: [Transcript of YouTube Video to summarize]
+
+Title: YouTube Video Summarizer
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Nilu :)
+AuthorURL: https://smgsvcs.com/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1802417457823211520
+CreationTime: 2023-03-17T21:06:23.242Z
+RevisionTime: 2023-03-17T21:14:32Z
+Help: 

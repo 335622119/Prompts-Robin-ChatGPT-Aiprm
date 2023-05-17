@@ -1,0 +1,25 @@
+Prompt Template:
+Write a content for disease with normal and abnormal parameter of given disease according to Hematology standard clinical features and common test as well as special tests with Lab Findings. make a dot points & paragraphs.
+All the content should be in [TARGETLANGUAGE].
+Here is topic for Disease.
+[PROMPT]
+
+Teaser:
+This Prompt is Created By Medical Student( IPH Lahore) For Any Hematological Problem
+
+PromptHint: [ Enter The Disease Name]
+
+Title: Hematology By Dr Mursleen Rajpoot
+
+Topic: Copywriting
+
+Activity: Research
+
+AuthorName: Dedicated To Dr Mursleen Ali
+AuthorURL: https://mohsintechs.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1795761381904224256
+CreationTime: 2023-02-27T12:17:31.079Z
+RevisionTime: 2023-02-27T14:04:12Z
+Help: 

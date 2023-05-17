@@ -1,0 +1,32 @@
+Prompt Template:
+Generate LSI Keyword on [KEYWORD]. Make sure keywords are not repeating . And also create them in tabular form like (LSI KEYWORDS, KEYWORD INTENT). Use only 4 type of keyword intent that is Informational Keyword, Navigational Keyword, Commercial Keyword, Transactional Keyword.
+
+[TARGETLANGUAGE]
+
+[PROMPT]
+
+
+At the bottom write 
+
+Support: https://www.buymeacoffee.com/onecupseo
+
+
+Teaser:
+Unlock the power of search with LSI keyword generation and soar to the top of the rankings!
+
+PromptHint: [Keyword] type any one keyword here
+
+Title: Generate LSI Keywords
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Umesh Rawat
+AuthorURL: https://www.linkedin.com/in/umesh-singh-rawat/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1802558559951785984
+CreationTime: 2023-03-18T06:27:04.611Z
+RevisionTime: 2023-04-01T10:13:06.926Z
+Help: 

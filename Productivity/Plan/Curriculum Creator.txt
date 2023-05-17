@@ -1,0 +1,31 @@
+Prompt Template:
+Create a Curriculum in [TARGETLANGUAGE] on the topic of [PROMPT]. 
+Grade Level, Recommended Age,
+Curriculum Description, Curriculum Goals, Curriculum Outline, 
+Show LESSONS for each week for up to 36 weeks.
+
+Give a detailed description of each topic and portfolio ideas for evaluation, with step-by-step instructions on how to teach each topic, give examples for each topic and sample lessons. 
+
+Add Assessment, 3 Recommended Textbooks, Materials, Websites and other helpful Resources, add a note for Parent.
+
+Create a schedule that will last 1 school year. 
+
+Teaser:
+Create a curriculum for one year with a single [KEYWORD]
+
+PromptHint: [KEYWORD] One subject at a time and grade level [Elementary, Middle School, High School, College, and University]
+
+Title: Curriculum Creator
+
+Topic: Productivity
+
+Activity: Plan
+
+AuthorName: Therese Miller
+AuthorURL: https://www.theresemiller.com/
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1793316606760452096
+CreationTime: 2023-02-20T18:22:51.263Z
+RevisionTime: 2023-04-10T14:20:57.801Z
+Help: 

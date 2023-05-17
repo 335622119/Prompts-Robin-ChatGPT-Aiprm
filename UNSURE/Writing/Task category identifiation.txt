@@ -1,0 +1,25 @@
+Prompt Template:
+Your Task is to choose the right suitable category for the given 20 words. Output should be in [TARGETLANGUAGE]. Your categories must be in : [Cosmetics], [dental], [PR kits], [F&B], [Electronics], [Hamper], [Health care], [Others], [Apparel], [Art&life], . the [PR kits] must not be jewelry, pen, note books, hand bags. 
+if the [PROMPT] is not in the suitable category then return category is : [NULL]
+
+[PROMPT]
+
+Teaser:
+Which Task You Want to Know the Category
+
+PromptHint: [Place the Task You Want to Know the Category]
+
+Title: Task category identifiation
+
+Topic: UNSURE
+
+Activity: writing
+
+AuthorName: RBS
+AuthorURL: https://www.rigidboxsivakasi.com/
+
+Community: Unsure-f69c57b424376b23
+ID: 1816351310866538496
+CreationTime: 2023-04-25T07:54:32.686Z
+RevisionTime: 2023-04-29T05:09:30.353Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+summarize this content in [TARGETLANGUAGE], make a brief TLDR summary and list below the important points in topics: [PROMPT]
+
+Teaser:
+summarize this content, make a brief TLDR summary and list the important points in topics below: [TRANSCRIPT]
+
+PromptHint: [Paste your youtube transcript]
+
+Title: Youtube Summary Transcript
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Marcos Teixeira
+AuthorURL: https://bmstecnologia.com.br
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1815823364435210240
+CreationTime: 2023-04-23T20:56:40.448Z
+RevisionTime: 2023-04-23T20:59:13.928Z
+Help: 

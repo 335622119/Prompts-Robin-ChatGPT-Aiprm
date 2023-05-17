@@ -1,0 +1,27 @@
+Prompt Template:
+Your task is to rewrite the entire text in better words and make it unique with natural language, Personalization, Empathy, Variety, and Contextual awareness. 
+
+And at the end of the article In the Next Line write this "Please support us Buy Me a Coffee - https://www.buymeacoffee.com/founderdeepak
+Visit Our Website: https://bestgrd.com/"
+
+All output shall be in [TARGETLANGUAGE]. The text to rewrite it is this: [PROMPT]
+
+Teaser:
+Rewrite your AI Generated Content as Human Written content. You Get 100% Unique Content [Readability Score - Easy]
+
+PromptHint: Easy Readability [Paste Your Content here - To be Rewritten]
+
+Title: Rewrite as Easy Human Readability Content
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Deepak Ravi
+AuthorURL: https://bestgrd.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1800876451923496960
+CreationTime: 2023-03-13T15:02:58.805Z
+RevisionTime: 2023-03-14T08:40:17Z
+Help: 

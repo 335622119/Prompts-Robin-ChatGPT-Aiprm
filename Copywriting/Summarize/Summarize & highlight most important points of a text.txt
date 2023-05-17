@@ -1,0 +1,25 @@
+Prompt Template:
+Act as professional copywriter, write a summarize version of the following text, in the next paragraph add in form of bullet points the highlight of it most important element with a short description in few words.
+write the text in [TARGETLANGUAGE]
+The text is : [PROMPT] 
+ 
+
+Teaser:
+Create an abstract of your text/article and highlight the most important points
+
+PromptHint: put the text that you want to summarize
+
+Title: Summarize & highlight most important points of a text
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: Mehdi TAZI
+AuthorURL: http://tazimehdi.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1786877892169555968
+CreationTime: 2023-02-02T23:57:42.079Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

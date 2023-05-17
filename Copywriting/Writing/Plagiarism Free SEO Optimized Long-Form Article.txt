@@ -1,0 +1,22 @@
+Prompt Template:
+[TARGETLANGUAGE] [PROMPT]
+
+Teaser:
+Article Written | Plagiarism Free | SEO Optimized Long-Form Article With Proper  Outline 
+
+PromptHint: Write a topic on which you need a detailed blog
+
+Title: Plagiarism Free SEO Optimized Long-Form Article
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Hamza Nauman
+AuthorURL: https://www.linkedin.com/in/hamza-nauman-677a72194/
+
+Community: Copywriting-00ea56f446414284
+ID: 1800021357132767232
+CreationTime: 2023-03-11T06:25:08.32Z
+RevisionTime: 2023-03-15T06:39:08Z
+Help: 

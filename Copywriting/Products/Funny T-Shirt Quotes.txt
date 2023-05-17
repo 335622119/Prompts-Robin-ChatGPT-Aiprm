@@ -1,0 +1,27 @@
+Prompt Template:
+I need 10 funny t-shirt quotes for people who like [PROMPT] 
+
+Follow these strategies:
+the quotes must not have more than 40 charakters
+
+All output shall be in [TARGETLANGUAGE].
+
+Teaser:
+Create funny t-shirt quotes based on your input. 
+
+PromptHint: Insert hobby / interest
+
+Title: Funny T-Shirt Quotes
+
+Topic: Copywriting
+
+Activity: Products
+
+AuthorName: minix
+AuthorURL: https://www.midjourney.com/app/users/72aaec34-f1da-4d04-9370-c4c19606ed36/
+
+Community: Copywriting-00ea56f446414284
+ID: 1800146539520454656
+CreationTime: 2023-03-11T14:42:34.127Z
+RevisionTime: 2023-03-11T14:52:40Z
+Help: 

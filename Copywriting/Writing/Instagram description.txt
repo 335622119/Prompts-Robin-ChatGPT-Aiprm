@@ -1,0 +1,23 @@
+Prompt Template:
+Yours task is to create a instagram decription post so first you generate a deatil description of  [TARGETLANGUAGE], an image,  in one sentence with emojis, add a space here, then generate a one sentence that the user most do like (tag@ a friend who would love this), add a space here, with emojis, then give a quote about the subject with emojis, add a space here, generate 30 hasgtags for instagram about midjourney, ai, mom, and the subject, Dont titles each line just write without annoucing anythings
+[PROMPT] 
+
+Teaser:
+Instagram product description
+
+PromptHint: Description
+
+Title: Instagram description
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: mav
+AuthorURL: https://www.youtube.com/watch?v=udH9HpJX4cc
+
+Community: Copywriting-00ea56f446414284
+ID: 1806096135807557632
+CreationTime: 2023-03-28T00:44:08.42Z
+RevisionTime: 2023-03-28T02:17:32.705Z
+Help: 

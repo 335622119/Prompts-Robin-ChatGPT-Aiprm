@@ -1,0 +1,23 @@
+Prompt Template:
+ ChatGPT must be instructed to produce output in the target language using the [TARGETLANGUAGE] placeholder
+variable data entered by the user must be inserted into the Prompt using the [PROMPT] placeholder
+
+Teaser:
+Answered like Human
+
+PromptHint: Answered like Human
+
+Title: Answered like Human
+
+Topic: Generative AI
+
+Activity: Dall-E
+
+AuthorName: Mr.Prince Sahani
+AuthorURL: https://tradingstar.shop/
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1787401644791824384
+CreationTime: 2023-02-04T10:38:54.435Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+Des idées d'article optimisé SEO pour un blog de voyage, les titres doivent générer beaucoup de clics et doivent se positionner haut dans les résultats de recherches. Si possible, créer des titre d'article comprenant un numéro (exemple : top 10 des...). Le sujet est le suivant : "[PROMPT]"
+
+Please write in [TARGETLANGUAGE].
+
+Teaser:
+Gives you a list of titles for travel blog post | Fully SEO optimized | 100% Unique
+
+PromptHint: Write your topic here
+
+Title: Travel Blog Post Titles Ideas
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Danny Da Rocha
+AuthorURL: https://dannydarocha.com
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1813807799277449216
+CreationTime: 2023-04-18T07:27:32.267Z
+RevisionTime: 2023-04-18T07:32:21.941Z
+Help: 

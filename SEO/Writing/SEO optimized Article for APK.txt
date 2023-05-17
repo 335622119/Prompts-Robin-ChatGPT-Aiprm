@@ -1,0 +1,23 @@
+Prompt Template:
+The task is to summarize text I give you in 1000 to 2000 words with using proper SEO optimized keywords and add proper headings. All output shall be in [TARGETLANGUAGE]. The text to summarize to this:
+[PROMPT]
+
+Teaser:
+Create the best SEO Optimized, APK Article in One click.
+
+PromptHint: [text that you want an article for]
+
+Title: SEO optimized Article for APK
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Shamsa Kanwal
+AuthorURL: https://frlegendsapk.net/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1799562000595148800
+CreationTime: 2023-03-09T23:59:49.187Z
+RevisionTime: 2023-03-10T00:15:34Z
+Help: 

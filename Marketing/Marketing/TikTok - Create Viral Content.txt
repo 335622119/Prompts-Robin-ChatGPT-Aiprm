@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to create viral TikTok content starting with a catchy phrase about [your idea] in [TARGETLANGUAGE] 
+
+[PROMPT]
+
+Teaser:
+Become a TikTok Star! Create Viral Content with This Prompt
+
+PromptHint: [your idea]
+
+Title: TikTok - Create Viral Content 
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Paula Pc
+AuthorURL: https://paulapc.com/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1795877703803736064
+CreationTime: 2023-02-27T19:59:44.381Z
+RevisionTime: 2023-02-27T20:40:28Z
+Help: 

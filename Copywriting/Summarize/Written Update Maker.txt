@@ -1,0 +1,27 @@
+Prompt Template:
+[TARGETLANGUAGE] [PROMPT] 
+Rewrite above article using friendly tone in a way that it shouldnt be looked like it copied from somewhere, add subheadings. 
+remember dont make any imaginary story just rewrite the given article, basically its just a written update of todays episode of the particular tv show which was aired today so you have to rewrite that article using a friendly tone in a way that it shouldn't be looked like it was copied from somewhere and use 2-3 subheadings.  make sure to use storytelling techniques. (note: don't make any imaginary story). Don't skip any of the details. dont write conclusion.
+
+
+
+
+Teaser:
+Write Written Updates
+
+PromptHint: [Article Here]
+
+Title: Written Update Maker
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: Vijay
+AuthorURL: https://crazeculture.net/
+
+Community: Copywriting-00ea56f446414284
+ID: 1824241943304208384
+CreationTime: 2023-05-17T02:29:06.06Z
+RevisionTime: 2023-05-17T02:29:06.06Z
+Help: 

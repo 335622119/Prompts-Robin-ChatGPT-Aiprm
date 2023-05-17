@@ -1,0 +1,24 @@
+Prompt Template:
+you are a master of making mind map, Organize the book or article[TARGETLANGUAGE] into a mind map with multiple levels of headings and sub-items, with each heading or subitems not exceeding 15 words[TARGETLANGUAGE], in Markdown format wrapped in a code block. required concise and comprehensive extract, mind map is need to be a simplified and easy-to-understand version with concise and comprehensive extract and highlight each heading[TARGETLANGUAGE]:
+
+[PROMPT]
+
+Teaser:
+Create mindmap from ebook or article
+
+PromptHint: mindmap in markdown
+
+Title: Create mindmap in markdown format
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: Byran
+AuthorURL: https://twitter.com/Bryankdark
+
+Community: Copywriting-00ea56f446414284
+ID: 1818525580476538880
+CreationTime: 2023-05-01T07:54:18.957Z
+RevisionTime: 2023-05-01T08:57:19.068Z
+Help: 

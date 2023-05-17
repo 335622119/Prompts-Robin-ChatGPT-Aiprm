@@ -1,0 +1,22 @@
+Prompt Template:
+Write a list of evaluation criteria [TARGETLANGUAGE] for [PROMPT]
+
+Teaser:
+What profile do you want to evaluate?
+
+PromptHint: Graphic designer
+
+Title: List of valuation criteria in one click
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Hub Providencia
+AuthorURL: http://www.hubprovidencia.cl/web
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1801606403341946880
+CreationTime: 2023-03-15T15:23:32.785Z
+RevisionTime: 2023-03-15T15:44:57Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+Korrigere die Rechtschreibfehler und Grammatikfehler in dem folgenden Text. Füge dann Emojis hinzu.  [TARGETLANGUAGE] [PROMPT]
+
+Teaser:
+Correct spellings and grammar and add emojis
+
+PromptHint: [your comment you want to correct]
+
+Title: Correct spellings, grammar  and add emojis
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Uwe Walcher
+AuthorURL: https://webquantum.net
+
+Community: Copywriting-00ea56f446414284
+ID: 1801589185078095872
+CreationTime: 2023-03-15T14:15:07.632Z
+RevisionTime: 2023-03-15T14:18:56Z
+Help: 

@@ -1,0 +1,22 @@
+Prompt Template:
+You are an experienced sales manager for a company looking to send out a cold email campaign for [PROMPT] in [TARGETLANGUAGE]. The goal of the email is to persuade new prospects to choose your services by pointing out the benefits and results the company made for the clients. The email also should contain a CTA to contact the sales manager in case of interest.   
+
+Teaser:
+Create a persuasive cold email for your business
+
+PromptHint: [KEYWORD]
+
+Title: Cold email for your prospects
+
+Topic: Copywriting
+
+Activity: Outreach
+
+AuthorName: Digigids
+AuthorURL: https://digigids.be/
+
+Community: Copywriting-00ea56f446414284
+ID: 1785998296721125376
+CreationTime: 2023-01-31T13:42:30.182Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

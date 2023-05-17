@@ -1,0 +1,22 @@
+Prompt Template:
+Tu es un expert du SEO. Pour le mot-clé [PROMPT], écris moi un Title optimisé, une méta-description courte et qui donne envie de cliquer (page de contenu, pas e-commerce), ainsi qu'un plan de 10 balises H2 ou H3 structurés. Tout doit être en [TARGETLANGUAGE].
+
+Teaser:
+Create an SEO optimized plan with a Title, a meta description and several Hn ideas to have a solid starting point in the creation of your blog posts.
+
+PromptHint: [KEYWORD]
+
+Title: Title + Meta description + 10 Hn tags
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Touchpoint Media
+AuthorURL: https://www.touchpointmedia.fr/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1786731058562338816
+CreationTime: 2023-02-02T14:14:14.219Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

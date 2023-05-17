@@ -1,0 +1,23 @@
+Prompt Template:
+Generate a list of 25 keywords closely related to [PROMPT] without duplicating any words. please list keywords in bullet form and then add a comma separated list underneath.
+
+Teaser:
+Create a list of keywords related to your prompt. 
+Generates a bullet list, as well as a comma separated list beneath that you can copy and paste.
+
+PromptHint: Coffee, Toys, Jewelry, Shoes, Etc
+
+Title: Keyword Generator 
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: WilliamCole
+AuthorURL: http://www.creaition.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1782544363721854976
+CreationTime: 2023-01-22T00:57:48.384Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

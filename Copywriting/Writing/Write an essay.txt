@@ -1,0 +1,22 @@
+Prompt Template:
+Write an essay on [PROMPT] in [TARGETLANGUAGE]
+
+Teaser:
+Write an essay on any topic in your favourite language. Just write the Topic and hit enter.
+
+PromptHint: Write the topic of an essay and hit enter.
+
+Title: Write an essay
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Ram
+AuthorURL: https://www.linkedin.com/in/rrchoudhary/
+
+Community: Copywriting-00ea56f446414284
+ID: 1790391053422166016
+CreationTime: 2023-02-12T16:37:44.993Z
+RevisionTime: 2023-05-06T16:06:01.392Z
+Help: 

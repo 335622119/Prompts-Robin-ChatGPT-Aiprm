@@ -1,0 +1,22 @@
+Prompt Template:
+Write a cold DM to an influencer asking to collaborate with them based on this bio [PROMPT] in [TARGETLANGUAGE].
+
+Teaser:
+Write cold DM to help you sign big influencer campaigns.
+
+PromptHint: bio influencer
+
+Title: Influencer Outreach
+
+Topic: Copywriting
+
+Activity: Outreach
+
+AuthorName: Kiat Media
+AuthorURL: https://kiatmedia.com/support-me/
+
+Community: Copywriting-00ea56f446414284
+ID: 1782920276481413120
+CreationTime: 2023-01-23T01:51:32.97Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

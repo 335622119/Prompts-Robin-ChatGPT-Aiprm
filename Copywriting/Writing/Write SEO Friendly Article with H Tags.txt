@@ -1,0 +1,23 @@
+Prompt Template:
+Please write 1500-word informational article using semantically relevant topics for [PROMPT], H2 and H3 subheadings, Bullet points, and use a catchy title.
+[TARGETLANGUAGE]
+
+Teaser:
+Full SEO Friendly Article with Headings and Bullet points - Human Written | Plagiarism Free
+
+PromptHint: [Enter your Title Here]
+
+Title: Write SEO Friendly Article with H Tags
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Amit Rana
+AuthorURL: https://www.linkedin.com/in/teamamitrana/
+
+Community: Copywriting-00ea56f446414284
+ID: 1793174232008749056
+CreationTime: 2023-02-20T08:57:06.477Z
+RevisionTime: 2023-02-21T02:31:52Z
+Help: 

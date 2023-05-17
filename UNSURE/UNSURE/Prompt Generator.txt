@@ -1,0 +1,22 @@
+Prompt Template:
+What are the absolute coolest, most mind-blowing, out of the box, ChatGPT prompts that will really show off the power of ChatGPT? Give me 10. Focus the prompts around [PROMPT]. Answer in [TARGETLANGUAGE]
+
+Teaser:
+Prompt Generator
+
+PromptHint: [Prompts about...]
+
+Title: Prompt Generator
+
+Topic: UNSURE
+
+Activity: UNSURE
+
+AuthorName: Kris
+AuthorURL: https://www.youtube.com/watch?v=6ojZKoTrB9c
+
+Community: Unsure-f69c57b424376b23
+ID: 1818277740894482432
+CreationTime: 2023-04-30T15:29:29.396Z
+RevisionTime: 2023-04-30T17:48:56.634Z
+Help: 

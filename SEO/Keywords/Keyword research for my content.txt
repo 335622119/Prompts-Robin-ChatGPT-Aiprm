@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is to Research Keywords for my website article I give you 1 to 300 keywords. All keywords shall be in  [TARGETLANGUAGE]. The keyword Research in this:
+
+[PROMPT]
+
+Teaser:
+Search the keywords for my website content
+
+PromptHint: [text that you want to research your Keywords for ]
+
+Title: Keyword research for my content
+
+Topic: SEO
+
+Activity: keywords
+
+AuthorName: Mubahir
+AuthorURL: https://thespinrod.com/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1789058985996058624
+CreationTime: 2023-02-09T00:24:35.37Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

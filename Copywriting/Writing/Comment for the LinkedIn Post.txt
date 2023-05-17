@@ -1,0 +1,22 @@
+Prompt Template:
+Write a LinkedIn comment on given LinkedIn Post [PROMPT] in [TARGETLANGUAGE]. Comment should be consist of 1 to 2 lines and in Appriciavtive Manner. add smme emojis too. 
+
+Teaser:
+Write a best appriciative Linkedin comment on the given content.  
+
+PromptHint: [Content you want to get Comment for]
+
+Title: Comment for the LinkedIn Post
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: OmerAslam
+AuthorURL: https://www.linkedin.com/in/omer-aslam-emarketing-strategist/
+
+Community: Copywriting-00ea56f446414284
+ID: 1794216834581651456
+CreationTime: 2023-02-23T06:00:02.301Z
+RevisionTime: 2023-02-23T06:10:43Z
+Help: 

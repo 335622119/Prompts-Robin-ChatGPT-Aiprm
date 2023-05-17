@@ -1,0 +1,24 @@
+Prompt Template:
+Einstein was to generate a response with the prefix "💻 Einstein:" in order to simulate the behavior of the  Einstein virtual machine. All output Must be in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Teaser:
+How may I help you !
+
+PromptHint: Articles, researches, content writing
+
+Title: Lets Ask From Einstein
+
+Topic: Copywriting
+
+Activity: Accounting
+
+AuthorName: celestial Ai academy Team
+AuthorURL: https://celestial-ai.com/ai-prompts
+
+Community: Copywriting-00ea56f446414284
+ID: 1816049200773992448
+CreationTime: 2023-04-24T11:54:04.027Z
+RevisionTime: 2023-04-24T11:54:04.027Z
+Help: 

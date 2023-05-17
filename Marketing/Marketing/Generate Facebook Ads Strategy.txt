@@ -1,0 +1,22 @@
+Prompt Template:
+generate facebook ads audiences, Primary  text, Headline, ad copies, descriptions, and ads Strategy in [TARGETLANGUAGE] from given [PROMPT]
+
+Teaser:
+Generate Facebook Ads Audiences, Primary  Text, Headline, Ad Copies, Descriptions And Ads Stretegy
+
+PromptHint: [product url] Or [ProductTitle]
+
+Title: Generate Facebook Ads Strategy 
+
+Topic: Marketing
+
+Activity: marketing
+
+AuthorName: Fasih 
+AuthorURL: https://fashionsense.com.pk/
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1823777948122210304
+CreationTime: 2023-05-15T19:45:20.988Z
+RevisionTime: 2023-05-15T19:45:20.988Z
+Help: 

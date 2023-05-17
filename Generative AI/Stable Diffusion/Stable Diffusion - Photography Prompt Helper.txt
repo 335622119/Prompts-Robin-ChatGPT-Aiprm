@@ -1,0 +1,31 @@
+Prompt Template:
+Your have two tasks in one:
+
+ Create one line of
+1) POSITIVE PROMPT:  use the words in the [PROMPT],  description that fits the prompt for a complete scene from a a book. WRite it whitout sentence, each words separate by a comma. Then add this: realistic photography , professional color graded, 8K, F2.4, 35mm.
+
+
+2) Write just this terms nothing more: NEGATIVE PROMPT: drawings, abstract art, cartoons, surrealist painting, conceptual drawing, graphics.
+
+
+All outpout shall be in [TARGETLANGUAGE]. The words you have to refer to are [PROMPT].
+
+Teaser:
+A beautiful woman taking a coffee outdoor in paris
+
+PromptHint: [Subject, action, place]
+
+Title: Stable Diffusion - Photography Prompt Helper
+
+Topic: Generative AI
+
+Activity: Stable Diffusion
+
+AuthorName: Maranpani
+AuthorURL: https://www.buymeacoffee.com/maranpani
+
+Community: Generative-AI-b983edfcaa490850
+ID: 1790775048420978688
+CreationTime: 2023-02-13T18:03:36.535Z
+RevisionTime: 2023-02-20T05:01:46Z
+Help: 

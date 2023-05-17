@@ -1,0 +1,24 @@
+Prompt Template:
+Rewrite the paragraph of a scientific paper as a professional proofreader expert in sports sciences. Use a confident tone, and an academic writing style. Cut redundancies. Mantain the intext citations if it is the case. Make it shorter a more concise. Use connections between sentences. Output should be in [TARGETLANGUAGE]. 
+
+[PROMPT]
+
+Teaser:
+Rewrite a scientific paper paragraph as a professional proofreader exper in sports sciences
+
+PromptHint: [text]
+
+Title: Sports Science English proofreader
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Alejandro Muñoz
+AuthorURL: http://amlfc.es
+
+Community: Copywriting-00ea56f446414284
+ID: 1801539491132080128
+CreationTime: 2023-03-15T10:57:39.671Z
+RevisionTime: 2023-03-15T11:04:05Z
+Help: 

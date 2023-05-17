@@ -1,0 +1,26 @@
+Prompt Template:
+URL: [PROMPT]..."
+
+Instructions: Using the provided website, write a comprehensive reply to the given query. Make sure to report the key points in bullets. First add a Title to the report, there should no limit in words to the report, ensure that all the points are concisely reported out. 
+Query: report the key points of the document content
+Reply in [TARGETLANGUAGE]
+
+Teaser:
+PDF summary
+
+PromptHint: [Website] "[Ttitle of doc]
+
+Title: PDF summary 
+
+Topic: Copywriting
+
+Activity: Summarize
+
+AuthorName: Naikys
+AuthorURL: https://twitter.com/Naik1s_
+
+Community: Copywriting-00ea56f446414284
+ID: 1795455490583683072
+CreationTime: 2023-02-26T16:02:00.905Z
+RevisionTime: 2023-02-26T16:24:01Z
+Help: 

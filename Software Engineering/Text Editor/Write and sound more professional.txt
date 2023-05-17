@@ -1,0 +1,24 @@
+Prompt Template:
+All output shall be in [TARGETLANGUAGE]. Your task is to give a more professional and formal version of this text:
+
+[PROMPT]
+
+Teaser:
+Write and sound more professional in your daily life. Convert your email, Azure/Jira comments in more professional tone.
+
+PromptHint: [E.g., I will be needing a leave for two days due to family function]
+
+Title: Write and sound more professional
+
+Topic: Software Engineering
+
+Activity: Text Editor
+
+AuthorName: Vishwas Acharya
+AuthorURL: https://vishwasracharya.github.io
+
+Community: SoftwareEngineering-f1858b980c341d28
+ID: 1818162592292794368
+CreationTime: 2023-04-30T07:51:55.83Z
+RevisionTime: 2023-04-30T07:54:55.284Z
+Help: 

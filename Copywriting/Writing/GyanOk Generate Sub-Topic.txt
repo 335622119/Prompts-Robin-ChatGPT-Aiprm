@@ -1,0 +1,26 @@
+Prompt Template:
+Generates a list of unique sub-category for each [KEYWORD] without repeating.
+
+[TARGETLANGUAGE] 
+
+[PROMPT]
+
+Teaser:
+Unleash your creativity with Generate Subtopic: the ultimate tool for expanding your ideas and exploring new topics!
+
+PromptHint: [Keyword]- Just add your Main Topic
+
+Title: GyanOk Generate Sub-Topic
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Umesh Rawat
+AuthorURL: https://www.linkedin.com/in/umesh-singh-rawat/
+
+Community: Copywriting-00ea56f446414284
+ID: 1807676910503989248
+CreationTime: 2023-04-01T09:25:34.477Z
+RevisionTime: 2023-04-01T10:18:20.311Z
+Help: 

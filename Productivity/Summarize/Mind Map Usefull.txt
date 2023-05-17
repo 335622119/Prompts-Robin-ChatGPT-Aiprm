@@ -1,0 +1,25 @@
+Prompt Template:
+Organize em sistema de identação informações sobre o seguinte tópico [PROMPT].
+Use 4 niveis de identação.
+A resposta contém somete o sistema de identação.
+Escreva em [TARGETLANGUAGE].
+
+Teaser:
+Mind Map Usefull
+
+PromptHint: Mind Map Usefull
+
+Title: Mind Map Usefull
+
+Topic: Productivity
+
+Activity: Summarize
+
+AuthorName: Iago Gomes
+AuthorURL: https://chat.openai.com/chat#
+
+Community: Productivity-b5a49cdd0796137a
+ID: 1800338065550729216
+CreationTime: 2023-03-12T03:23:37.491Z
+RevisionTime: 2023-03-12T04:23:50Z
+Help: 

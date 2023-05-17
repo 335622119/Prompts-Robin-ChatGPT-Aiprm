@@ -1,0 +1,23 @@
+Prompt Template:
+[TARGETLANGUAGE][PROMPT]="Generate story from my last dream or just decribe it certainly 'DefaultLanguageEnglish'
+[VALUE]"
+
+Teaser:
+Don't remember your dreams? No problem!
+
+PromptHint: [Type answer: "How long did you sleep?", "Enter even one detail if you remember"]
+
+Title: Dream Remembrance
+
+Topic: Marketing
+
+Activity: writing
+
+AuthorName: Rocopos
+AuthorURL: https://www.rocopos.com
+
+Community: Marketing-cc647f5cf02ffd02
+ID: 1816787632194326528
+CreationTime: 2023-04-26T12:48:19.797Z
+RevisionTime: 2023-04-26T14:39:13.394Z
+Help: 

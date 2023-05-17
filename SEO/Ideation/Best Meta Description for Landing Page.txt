@@ -1,0 +1,24 @@
+Prompt Template:
+Your task is meta description, will give you 155 characters. All output shall be in [TARGETLANGUAGE]
+
+[PROMPT] 
+
+Teaser:
+Create Best Meta Description for your Landing Page
+
+PromptHint: [text that you want meta description for landing page]
+
+Title: Best Meta Description for Landing Page
+
+Topic: SEO
+
+Activity: ideation
+
+AuthorName: Aloak Jawali
+AuthorURL: https://aloakjawali.com/?src=openapi
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1787044768451387392
+CreationTime: 2023-02-03T11:00:48.485Z
+RevisionTime: 2023-02-19T15:35:19Z
+Help: 

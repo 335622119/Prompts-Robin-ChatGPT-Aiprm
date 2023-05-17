@@ -1,0 +1,22 @@
+Prompt Template:
+Tell me an interesting fact in[TARGETLANGUAGE] about :     [PROMPT]
+
+Teaser:
+Tell me an interesting fact in my language that people need to know. Insert keyword and press ENTER.
+
+PromptHint: Tell me an interesting fact:  Insert your keyword.
+
+Title: Tell me an Interesting Fact 
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Dennis M. Francis
+AuthorURL: https://contentmarketingmagic.co
+
+Community: Copywriting-00ea56f446414284
+ID: 1794763438443196416
+CreationTime: 2023-02-24T18:12:02.818Z
+RevisionTime: 2023-02-24T18:59:30Z
+Help: 

@@ -1,0 +1,24 @@
+Prompt Template:
+Your Task Is to summarize my given text perfectly under between 150-160 characters meta description. You output will be in all [TARGETLANGUAGE] 
+
+[PROMPT]
+
+Teaser:
+Perfect Meta Description Length Counter For Your Page
+
+PromptHint: [Enter a text for a best meta description] 
+
+Title: Best Meta Description | 100% SEO Optimize 
+
+Topic: SEO
+
+Activity: writing
+
+AuthorName: Munis Khan
+AuthorURL: https://www.linkedin.com/in/munis-khan/
+
+Community: SEO-84c5d6a7b8e9f0c1
+ID: 1807366362860093440
+CreationTime: 2023-03-31T12:51:34.149Z
+RevisionTime: 2023-03-31T13:03:42.647Z
+Help: 

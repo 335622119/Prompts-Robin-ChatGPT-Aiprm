@@ -1,0 +1,46 @@
+Prompt Template:
+Create a sales email for a [PROMPT] in [TARGETLANGUAGE] using this structure...
+
+ATTENTION GRABBER:  
+
+INTENTION CALL-OUT: 
+
+DISQUALIFIER:  
+
+CREDIBILITY: 
+
+CONTEXT: 
+
+CTA #1:
+
+BENEFITS:
+
+TESTIMONIAL:
+
+CTA #2: 
+
+FINAL INTENTION CALL-OUT:
+
+FINAL CTA #3:
+
+Humorous P.s.:
+
+Teaser:
+Create a Million Dollar Sales Email in Just 1 Click
+
+PromptHint: [your product, service, or offer - you can just paste a link here or describe it]
+
+Title: Million Dollar Sales Email Script
+
+Topic: Copywriting
+
+Activity: marketing
+
+AuthorName: Drew Crawford
+AuthorURL: https://www.drewcrawford.com/
+
+Community: Copywriting-00ea56f446414284
+ID: 1798246486522466304
+CreationTime: 2023-03-06T08:52:26.191Z
+RevisionTime: 2023-03-14T07:24:29Z
+Help: 

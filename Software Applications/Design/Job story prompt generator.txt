@@ -1,0 +1,26 @@
+Prompt Template:
+The following is a job story template for a [PROMPT] app.
+your task is to give me 10 UX job stories based on the following template:
+when [situation] I want to [motivation] so I can [expected outcome]
+
+your answer will be in [TARGETLANGUAGE]
+
+Teaser:
+Create a job story for UX design research. input a mobile app or web app description and feel free to be section or feature-specific.
+
+PromptHint: Products page of an online toy store
+
+Title: Job story prompt generator
+
+Topic: Software Applications
+
+Activity: Design
+
+AuthorName: Erez
+AuthorURL: https://www.midjourney.com/app/users/827209486082637856/
+
+Community: Applications-f69b52b4213a6bd3
+ID: 1788248716625571840
+CreationTime: 2023-02-06T18:44:52.098Z
+RevisionTime: 2023-03-18T16:09:44.662Z
+Help: 

@@ -1,0 +1,23 @@
+Prompt Template:
+ [TARGETLANGUAGE] [PROMPT] 
+write literature review 5 paragraphs with updated not over 10 years and cited with in-text APA citations and references for this topic:
+
+Teaser:
+Write Literature Reviews Best 100% Quality
+
+PromptHint: [Keyword] Write Literature Reviews 3000 words with in text citations and references, human writing, academic tone.
+
+Title: Literature Reviews thesis and academic articles
+
+Topic: Copywriting
+
+Activity: writing
+
+AuthorName: Teamwork8008
+AuthorURL: http://www.thaiphd.com
+
+Community: Copywriting-00ea56f446414284
+ID: 1812079485529612288
+CreationTime: 2023-04-13T12:59:50.159Z
+RevisionTime: 2023-05-05T00:32:37.444Z
+Help: 
