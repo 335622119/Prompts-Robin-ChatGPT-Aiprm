@@ -1,4 +1,5 @@
-#Prompts Robin - 3000+ Prompts for ChatGPT#
+
+# Prompts Robin - 3000+ Prompts for ChatGPT   🤖 
 
 
 English / 🇭🇰🇹🇼🇲🇴 [繁體中文](./README_TW.md) / 🇨🇳 [简体中文](./README_CN.md)
@@ -17,7 +18,7 @@ I hope you find these prompts useful and have fun using ChatGPT, Midjourney, Dal
 
 ☕ [Buy Me a Coffee](https://bmc.link/samson.h)
 
-###Boost your productivity!###
+### Boost your productivity! ###
 
 ## How to use?
 ### For Developers: 
@@ -45,14 +46,14 @@ According to your requirements, you can find a variety of prompt `TXT` file unde
 | `RevisionTime`    | Prompt revision time on the AIPRM platform.       |
 | `Help`            | Help description providing additional guidance or information.  |
 
-####Prompt Template####
+#### Prompt Template ####
 * Almost prompts will contain `[TARGETLANGUAGE]`, this placeholder will be replaced by your target language. Provide a list of language for your reference.
 
 * Some prompts will contain `[TONE]`, this placeholder will be replaced by your target language. Provide a list of tone for your reference.
 
 * All prompts can specific target writing style, you can add `"Please write in XXX style"` at the end of prompt. Provide a list of writing style for your reference.
 
-#####Language - options#####
+##### Language - options #####
 
 | Category         | Languages                                                                                      |
 |------------------|------------------------------------------------------------------------------------------------|
@@ -66,7 +67,7 @@ According to your requirements, you can find a variety of prompt `TXT` file unde
 | Indian Subcontinent | हिन्दी, বাংলা, ગુજરાતી, ଓଡ଼ିଆ, தமிழ், తెలుగు, ಕನ್ನಡ, മലയാളം, ਪੰਜਾਬੀ, मराठी, नेपाली                       |
 | Other            | Беларуская мова, Български език, ქართული, Հայերեն, ייִדיש, עברית, ئۇيغۇرچە, اردو, پښتو, فارسی, नेपाली, मराठी, हिन्दी, বাংলা, ગુજરાતી, ଓଡ଼ିଆ, தமிழ், తెలుగు, ಕನ್ನಡ, മലയാളം, සිංහල, ไทย, ភាសាខ្មែរ, 한국어,                |
 
-#####Tone - options#####
+##### Tone - options #####
 
 | Tone          |          |         |         |
 |-------------- |-------------- |------------- |------------- |
@@ -76,7 +77,7 @@ According to your requirements, you can find a variety of prompt `TXT` file unde
 | Optimistic    | Pessimistic   | Playful      | Sarcastic    |
 | Serious       | Sympathetic   | Tentative    | Warm         |
 
-#####Writing Styles - options#####
+##### Writing Styles - options #####
 
 
 | Style           |           |           |           |
