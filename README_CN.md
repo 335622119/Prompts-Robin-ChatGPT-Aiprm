@@ -32,21 +32,21 @@
 
 #### 这些 TXT 档案中将包含以下这些部份.
 
-| 区块               | 描述                                              |
-|-------------------|---------------------------------------------------|
-| `Prompt Template` | Original prompt.                                  |
-| `Teaser`          | A short introduction for this prompt.             |
-| `PromptHint`      | Inputing hints for this prompt.                   |
-| `Title`           | Prompt title.                                     |
-| `Topic`           | Main category of this prompt.                     |
-| `Activity`        | Subcategory of this prompt.                       |
-| `AuthorName`      | Author's name of this prompt.                     |
-| `AuthorURL`       | Author's URL of this prompt.                      |
-| `Community`       | Community ID for AIPRM                            |
-| `ID`              | Prompt ID for AIPRM                               |
-| `CreationTime`    | Prompt creation time on the AIPRM platform.       |
-| `RevisionTime`    | Prompt revision time on the AIPRM platform.       |
-| `Help`            | Help description providing additional guidance or information.  |
+| 区块名字            | 描述                                   |
+|-----------------|----------------------------------------|
+| Prompt Template | 提示                               |
+| Teaser          | 提示的简短介绍                     |
+| PromptHint      | 提示的输入提示                     |
+| Title           | 提示标题                               |
+| Topic           | 提示的主要类别                     |
+| Activity        | 提示的子类别                       |
+| AuthorName      | 作者姓名                         |
+| AuthorURL       | 作者网址                         |
+| Community       | AIPRM 的社群 ID          |
+| ID              | AIPRM 的提示 ID           |
+| CreationTime    | 在 AIPRM 平台上的创建时间           |
+| RevisionTime    | 在 AIPRM 平台上的修订时间           |
+| Help            | 提供额外指引或资讯的帮助说明             |
 
 #### Prompt Template ####
 
